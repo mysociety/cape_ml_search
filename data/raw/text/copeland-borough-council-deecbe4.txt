@@ -1,0 +1,1196 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sustainability  Strategy & 
+Climate Action Plan  
+2022-23 
+ 
+Making Copeland a Sustainable Place  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Any further delay in concerted global 
+action will miss a brief and rapidly closing 
+window to secure a liveable future ” 
+ 
+- Intergovernmental Panel  
+on Climate Change, 2022  
+   
+ Document Control  
+Organisation  Copeland Borough Council  
+Title  Sustainability  Strategy & Climate Action Plan  
+Version  Draft  
+Author  Rob Ward  
+Head of Nuclear, Energy & Sustainability  
+Filename  Copeland Sustainability Strategy & Climate Action Plan FINAL  
+Owner s Cllr Andy Pratt , Portfolio Holder for Environment and Inclusive 
+Communities  
+Pat Graham, CEO  
+Subject  Climate Change  
+Protective Marking  N/A 
+Review Date  2023  
+ 
+Revision History  
+Version Renewed  Date Reviewed  Reviewed By  Description of 
+Revision  
+Sustainability Strategy 
+& Climate Action Plan 
+2022/23  March 2022  Rob Ward  Draft for agreement  
+    
+ 
+Document Approval  
+Version  Approvals  Date  
+Draft  Climate Steering Group  11/02/2022  
+Draft  Corporate Leadership Team  22/02/2022  
+Final draft  Agreed by Executive  15/0 3/2022  
+FINAL  Endorsed by Full Council  26/04/2022  
+ 
+Document Distribution  
+This Sustainability  Strategy & Climate Action Plan is to be distributed to all staff and Elected 
+Members of Copeland Borough Council and placed on the sustainability area of the Council’s 
+intranet site and website. A copy should also be provided to  third  parties undertaking work for the 
+Council.  
+Note : A summary presentation version of this Plan will be made  available on the Copeland Council 
+website.  
+Note: This document is uncontrolled if printed or reproduced.  
+   
+ Foreword  
+Climate change is happening . We are feeling the effects in  West Cumbria , but the impact here is 
+nothing like we see elsewhere in the world, where destructive fires are becoming annual 
+occurrences, where irreplaceable habitats are lost forever, and where sea level rise threa tens the 
+very existence of some island nations. The UK has a leadership role in acting on climate change now,  
+to stop contributing to the destruction of our planet , for the benefit of people here and everywhere.  
+Meaningful action will require change – by governments, all sectors of the economy,  academia, 
+businesses,  people and communities. This is a global issue that requires global, national and local 
+action. This is why it is so important that a diverse group of people are involved in developing and 
+deliv ering our plans. In our 2040 Vision for Copeland, we clearly set out our Council’s commitment to 
+making Copeland a place where our people have a greater say, involvement and role in deciding 
+what happens and how change is delivered.  We recognise that diver sity, participation and 
+collaboration strengthen our community, building trust between people and generating the new 
+ideas and innovation that we need to overcome a challenge such as climate change. This is why 
+“empowering people” is a core strand of our c limate programme.  
+So, in 2021,  we brought together our Copeland People’s Panel on Climate Change, to hear from 30 
+people who represent the makeup of our communities, to tell us what action needs to be taken  in 
+our homes, businesses  and local area to respond to climate change . They have set out a challenging 
+and ambitious set of recommendations , which have helped to shape  this Sustainability  Strategy & 
+Climate Action Plan.  
+We know that we absolutely must  respond to  the climate and bi odiversity crises while also 
+continuing to meet the needs of our local people and communities.  
+While Local Government Reorganisation in Cumbria  will mean that Copeland Council will no longer 
+exist by May 2023, this change  presents an opportunity to ensure that climate and ecological 
+considerations are built into the DNA of the two new Unitary Authorities for Cumberland and 
+Westmorland & Furness.  It also provides clarity on what we need to achieve and where to focus our 
+efforts in the coming year to maximise  our impact on climate change.  
+This is a collective effort, but my promise to you is that we will act now.  
+Cllr Andy Pratt  
+Portfolio Holder for Environment and Inclusive Communities  
+   
+ Contents  
+Executive Summary  ................................ ................................ ................................ .............................  1 
+Introduction  ................................ ................................ ................................ ................................ ........  2 
+Summary  ................................ ................................ ................................ ................................ .........  2 
+How this Plan was Developed?  ................................ ................................ ................................ .......  2 
+The Council’s Role  ................................ ................................ ................................ ...........................  3 
+Shared Responsibilities  ................................ ................................ ................................ ...................  4 
+Review of Progress in 2021  ................................ ................................ ................................ .................  5 
+Strategic Fit  ................................ ................................ ................................ ................................ .........  6 
+Climate Change in Copeland  ................................ ................................ ................................ ...............  8 
+Baseline Data  ................................ ................................ ................................ ................................ .... 11 
+Emissions in Copeland ................................ ................................ ................................ ...................  11 
+Copeland Carbon Budget  ................................ ................................ ................................ ..............  12 
+Organisational Carbon Baseline  ................................ ................................ ................................ .... 13 
+Emissions Reduction Targets – Copeland Council  ................................ ................................ ........  15 
+Strategic Sustainability Priorities  ................................ ................................ ................................ ...... 16 
+Making Copeland a Sustainable Place  ................................ ................................ ..............................  18 
+Mitigation Strategies  ................................ ................................ ................................ .....................  18 
+Adaptation Strategies  ................................ ................................ ................................ ...................  18 
+Key Adaptation and Mitigation Interventions for Copeland – next 5 years  ................................ . 20 
+Partnerships – Maximising our Impact  ................................ ................................ .........................  21 
+Sustainable Development  ................................ ................................ ................................ .............  24 
+Copeland People’s Panel on Cli mate Change  ................................ ................................ ...................  25 
+Implementing the People’s Panel Recommendations  ................................ ................................ .. 27 
+Climate Action Plan 2022/23 – Copeland Council  ................................ ................................ ............  30 
+Implementation  ................................ ................................ ................................ ................................  31 
+Governance Arrange ments  ................................ ................................ ................................ ...........  31 
+Monitoring  ................................ ................................ ................................ ................................ .... 31 
+Training  ................................ ................................ ................................ ................................ .........  31 
+Funding Approach  ................................ ................................ ................................ .........................  31 
+Communication  ................................ ................................ ................................ .............................  31 
+Equality Impact Assessment  ................................ ................................ ................................ .............  32 
+  
+1 Executive Summary  
+This new Strategy & Plan for 2022/23 is more ambitious than the 2020/21 Plan and aims to ensure 
+that sustainability  is prioritised within the Council’s plans for the year to come, and throughout the 
+process of Loc al Government Reorganisation in Cumbria.  This document also sets greater expectations 
+of a wider group of stakeholders who have a part to play in making Copeland a sustainable place.  
+To achieve this, a  fundamental and urgent systemic shift is required to d ecouple prosperity from linear 
+usage of energy and resources, and to adopt a more socially and environmental ly-purposeful  
+definition of growth with planetary sustainability at its core. This strategy  is a step in that direction.  
+This is far beyond the cont rol and influence of Copeland Council alone, and requires action by UK 
+Government, business, industry, academia, every sector of the economy and the public – but this shift 
+is starting and we have seen significant, supportive legislative and policy develop ments in the last year 
+including the Environment Act 2021, UK Net Zero Strategy and UK Hydrogen Strategy  with the 
+prospect of a UK Climate & Ecological Emergency Bill . 
+There is no pathway to tackling climate change that does not involve the recovery and pr otection of 
+nature , and this pathway must be inclusive and equitable for everyone. This is reflected in our strategic 
+sustainability priorities (see page 16). 
+For the first time, we have set a science -based carbon budget for Copeland  (page 12), using  the 
+Tyndall Centre’s recommendations. Rapid and transformational change is r equired to stay within this 
+budget. In order to meet the  target  12.4% year on year reduction in CO2 emissions and stay within 
+Copeland’s carbon budget, the CO2 reduction target for Copeland by the end of 2023 versus 2018 is 
+48.4%.  
+This is aligned to  95% re duction in carbon emissions in  Copeland  versus 2018 levels  by 2043 , with 
+an ambition to meet the more challenging Net Zero emissions target for Cumbria by 2037.  
+Of course, during 2022/23 we will continue to work towards reducing the Council’s own operation al 
+emissions, which are low in comparison to overall emissions in Copeland. We aim to reduce 
+operational emissions by 10% year on year, with a target of Net Zero operational emissions by 
+2031 /32. The specific emissions reduction actions identified in the Council’s Climate Action plan are 
+targeted towards the highest emission areas of the Council’s operations  – procurement, buildings 
+and fleet.  
+During 2021, the Copeland People’s Panel on Climate Ch ange told us and our partners across all 
+sectors in Copeland their expectations of  “what  action needs to be taken  in our homes, businesses 
+and local area to respond to climate change ?”. The implementation  of the People’s Panel’s 
+recommendations  will requir e the commitment of government, local government, business, 
+academia, community organisations  and residents.  We have built these recommendations into our 
+plan and continue to work to ensure that other partners and stakeholders play their part too  (page 
+25).   
+2 Introduction  
+Summary  
+Copeland Borough Council (“the Council”) recognises that climate change is the most significant 
+human -made threat  to people and the planet  and is already having far -reaching, irreversible effects 
+on populations, places, economies, society and the natural environment locally, nationally and 
+globally.  
+As a responsible local authority, we recognise that we must urgently  play our part in adapting to 
+climate change a nd mitigating any further harm to people and the planet . We recognise that the 
+way we as individuals, organisations and communities have lived and worked in the past is 
+unsustainable, and that we must change. T he changes required are significant, but this is the right 
+thing to do for our people and places, now and for the future.  
+This Sustainability  Strategy & Climate Action Plan : 
+• Highlights progress against the 2021 Climate Action Plan  
+• Documents the Council’s c arbon footprint  
+• For the firs t time, s ets a carbon reduction  target for our organisation and science -based 
+carbon budgets for Copeland  
+• Set the strategic sustainability priorities  for Copeland  
+• Identifies climate adaptation and mitigation strategies for Copel and 
+• Sets out how we intend to take forward the recommendations made by the Copeland People’s 
+Panel on Climate Change  
+• Identifies priority  actions for  the council in  2022/23  
+• Outlines the role of stakeholders in  helping us to  meet our Net Zero targets and build 
+resilience in Copeland . 
+This new  Strategy &  Plan for 2022/23 is more ambitious  than the 2021 Plan  and aims to ensure that 
+sustainability  is prioritised within the Council’s governance, activities  and community leadership  for 
+the year to come, and throughout the process of Local Government Reorganisation in Cumbria .  
+How this Plan was Developed?  
+This Strategy & Plan has been developed with oversight from the Council’s cross -party Climate 
+Steering G roup and with input from elected members and senior officers across the Council.  
+A significant focus is given to the 22 recommendations made by the members of the Copeland 
+People’s Panel on Climate Change1 which brought together a group of 30 people who a re 
+representative of Copeland’s communities, with input from a further 62 young people aged between 
+11 and 19 from  youth groups  across Copeland.  
+Town and Parish Councils have been consulted on the approach to this new strategy via the 
+Copeland branch of th e Cumbria Association of Local Councils (CALC).  
+ 
+1 Full report on Copeland People’s Panel on Climate Change   
+3 This Strategy & Plan has been developed with reference to available best practice guidance, 
+including that available from the Local Government Association and Climate Emergency UK, as well 
+as via the Local Au thority Climate Policy subgroup of the Zero Carbon Cumbria Partnership.  
+The Council’s Role  
+Copeland Council is a non -metropolitan district authority, with powers over:  
+• Council property, buildings and staff  
+• Planning and Building Control  
+• Spending, procuremen t and investment  
+• Waste collection services  
+• Environmental Health  
+In Cumbria, there are two tiers of local government. Cumbria County Council has powers over 
+functions including Schools and Libraries, Highways, Transport Planning and Waste Disposal.  
+The Coun cil is also a community leader and is able to influence the behaviour of stakeholders 
+including businesses, residents and visitors to Copeland.  
+Copeland Council cannot do this alone. It is estimated that local government has direct control and 
+influence ov er 2% of UK emissions, but wider potential to influence  up to 82% of emissions2. 
+ 
+The carbon baseline for the Council has been determined using an operational control boundary – 
+this means that the Council has direct and indirect control over these emiss ions. Actions to reduce 
+these emission are included in the Climate Action Plan (page 30). 
+ 
+2 Local Government Association: Local Path to Net Zero  
+ 
+4 Beyond the Council’s direct control, there are a range of ways that the Council can exert varying 
+levels of influence over social, environmental and economic outcomes in the Borough, and these are 
+the focus of the Sustainability Strategy.  
+There is a key ro le for the council and all stakeholders in Copeland, particularly those with influence 
+over environmental impact, in implementing this sustainability strategy.  
+Shared Responsibilities  
+The actions set out in this plan require action by a wide group of stake holders and partners, 
+including the Council and everyone who lives and works here or visits Copeland, including the 
+following stakeholders:  
+• HM Government  
+• Local Authorities  
+• Large public sector a nchor institutions  – Nuclear Decommissioning Authority, Sellafi eld Ltd, 
+National Nuclear Laboratory, NHS North Cumbria Integrated Care Trust  
+• Partnerships  
+• Business  
+• Industry  
+• Voluntary and community sector  
+• Universities  
+• Landlords and housing associations  
+• Energy and utilities network operators  
+• Stakeholders from all sectors  
+• Residents  
+• Visitors  
+Therefore, a communications and engagement strategy will be developed alongside this 
+Sustainability Strategy & Climate Action Plan to ensure that partners and stakeholders understand 
+our expectations of their roles and responsibility in  its implementation.  
+   
+5 Review of Progress  in 2021  
+A priority action plan for 2021/2022 was agreed by Copeland’s Executive Committee , aimed at 
+changing the way that the Council considers climate change in everything that we do . 
+A number of  priority interventions have been delivered, as follows:  
+✓ Climate Governance : a cross party Climate Steering Group was established in February 2021 
+as a member working group, and meets monthly to oversee the council’s climate progress.  
+✓ Reporting Frameworks : Consideration of climate and environmental impact  has been 
+embedded  into the Council’s reporting frameworks . 
+✓ Incorporate sustainability into service planning : The Council’s service plan template has 
+been updated to include a sustainability sect ion. Teams are required to consider 
+climate/sustainability related Key Performance Indicators and risks for each service.  
+✓ Social Value in Procurement : the Council’s procurement procedures have been updates to 
+give Social Value 10% weighting in all tender e valuations. Guidance on social value for 
+contract managers has  also been produced.  
+✓ Climate Literacy Training : training has been made available to all staff and elected 
+members, with the first phase due to be complete by April 2022. Further, in -depth traini ng 
+will be made available.  
+✓ Citizen Engagement : the Copeland People’s Panel on Climate Change was held during 
+summer 2021, and made recommendations to the Council and other partners on “what 
+action needs to be taken in our homes, businesses and local area t o respond to climate 
+change”.  
+A number of other actions were completed in 2021, including:  
+✓ Copeland Council is a partner in the successful bid to  secur e funding for the Cumbria Coastal 
+Community Forest  
+✓ The Council is part of a successful Cumbrian Consortiu m securing  Green Homes Grant L ocal 
+Authority Delivery Phase  2 and Sustainable Warmth programme, which combined will bring 
+c.£4m funding into Copeland to help decarbonise private housing stock  
+✓ Increased planting of  native species  in parks and open spaces  and reduced use of fertilisers, 
+pesticides and herbicides  
+✓ A number of new policies have been included in the Copeland Local Plan 2021 -38, to support 
+sustainable development, renewable energy generation and  biodiversity net gain  (see page 
+21) 
+✓ Sustainability has been incorporated into the Council’s recruitment and HR processes  
+✓ A significant reduction in emissions from corporate travel and commuting  was achieved  due 
+to increased levels of remote/home working  
+✓ A significant reduction in waste generation was achieved by progressive  reduction of 
+printing and materials  usage  by office staff due to the implementation of digital and 
+paperless systems  and online  e-services.  
+   
+6 Strategic Fit  
+In 2016, Member Countries of the United Nations (UN) adopted the Paris Agreement to “strengthen 
+the global response to the threat of climate change”. This will be achieved through efforts to restrict 
+global temperature rise to below 2 °C this century, but preferably 1.5 °C. The U K ratified this treaty and 
+is thus bound by the targets.   
+All ten of the warmest years in the UK have occurred since 1990 with the nine warmest occurring since 
+2002.  In 2008 , the UK Government passed the Climate Change Act  which set legally binding targets 
+for the UK to reduce carbon emissions to 80% of the 1990 levels across all sectors. This Act of 
+Parliament was amended in May 2019 following recommendations by the Committee  on Climate 
+Change (CCC) that the UK government brings forward legislation to reach net -zero3 greenhouse gas 
+emissions by the year 2050.  
+In 202 0, HM  Government  published the 10 Point Plan for a Green Industrial Revolution , setting out 
+the UK’s commitments  to “building back better [from the Coronavirus pandemic], supporting green 
+jobs and accelerating our path to Net Zero”. This was followed in 2021 by the UK Net Zero Strategy  
+for 2050, covering a number of areas including : decarbonisation of the economy; g reen Jobs and 
+skills; local climate action; and, empowering the public and business to make green choices.  The 
+Strategy also commits to setting clearer expectations on how central and local government interact 
+in the delivery of Net Zero.   
+Earth Overshoot Day marks the date when humanity’s demand for ecological resources and services 
+in a given year exceeds what Earth can regenerate in that year. In 2021, it fell on July 294. UK 
+Overshoot Day occurred on 19 May 2021.  
+The Environment Act 2021 places obligations on central government to set targets relating to air 
+quality, biodiversity, water and resource efficiency and waste reduction – local government has an 
+important role to play in supporting these targets. The Act also sets ambitious aims to tackle waste, 
+increase recycling, halt the decline of species, and improve our natural environment , and is 
+accompanied by a policy statement that sets five legally binding principles  to that will place the 
+environment at the cen tre of policy -making : 
+1. Integration : policy -makers  should look for opportunities to embed environmental protection 
+in other fields of policy that have impacts on the environment ; 
+2. Prevention : government policy should aim to prevent, reduce or mitigate harm ; 
+3. Rectification at source : if damage to the environ ment cannot be prevented it should be 
+tackled at its origin ; 
+4. Polluter pays : those who cause pollution or damage to the environment should be 
+responsible for mitigation or compensation ; 
+5. Precautionary : where there are threats of serious or irreversible envir onmental damage, a 
+lack of scientific certainty shall not be used as a reason for postponing cost -effective 
+measures to prevent environmental degradation.  
+ 
+3 Net Zero means that any emissions  generated are offset by the same amount elsewhere. The “net total” of 
+emissions is zero.  
+4 Earth Overshoot Day: Earth Overshoot Day 2021 Home - #MoveTheDate   
+7 The policy statement recognises that  there is no pathway to tackling climate change that does not 
+involve the recovery and protection of nature . Copeland Council is part of the same accountability 
+system as central government departments, and therefore should seek to uphold and embed these 
+principles.  
+In April 2019, all Cumbrian local authorities and the L ake District National Park Authority  formally 
+adopted the Cumbria Joint Public Health Strategy  incorporating a pledge for Cumbria, “to become a 
+‘carbon neutral’ County and to mitigate the li kely impact of existing climate change”.  Since, the Zero 
+Carbon Cumbria Partnership  (ZCCP)  has made a recommendation, based on  a robust scientific 
+approach5, that the Net Zero emissions target  date for Cumbria should be 2037.  While this target has 
+not bee n adopted consistently by the seven  local authorities in Cumbria, Copeland  Council is actively 
+involved in the ZCCP’s sector -led programme aimed at meeting this target.  
+The Council’s commitment to climate action is embedded into the Corporate Strategy 2020 -20246 
+under the Environment theme and t his Sustainability  Strategy &  Climate  Action Plan  supports the 
+ambition  set out in the Copeland Vision 20407 for Copeland to be “a sustainable place with a resilient 
+economy and thriving communities ”. To achieve this,  a fundamental and urgent shift is required to 
+decouple prosperity from linear usage of energy and resources , and to adopt a more socially and 
+environmental ly focused  definition of growth , with planetary sustainability at its core.  
+  
+ 
+5 See Cumbria Carbon Baseline report  by Small World Consulting  
+6 See Corporate Strategy 20 20-24 
+7 See Copeland Vision 2040   
+8 Climate Change in Copeland  
+What is the expected local impact of climate change?  
+Under the 1.5°C and 2°C warming scenarios, t he UK is likely to have hotter, drier summers and 
+warmer, wetter winters, with increased frequency of extreme weather events  (such a s heatwaves 
+and heavy downpours ) and sea level rise.  
+In Copeland, the expected changes are:  
+• Generally warmer temperatures throughout the year, with higher peak temperatures  
+• Less frequent summer rain with high peak rainfall  
+• Rainier winters with greater peak  rainfall  
+• Sea level rise  in some areas  
+What are the Risks?  
+Public safety  and economic prosperity are  intrinsically linked with our ability to adapt to climate 
+change, mitigate future impacts and develop greater resilience.  Climate hazards include:  
+• Increased frequency of severe weather events and local flooding/flash floods  
+• Increased frequency of heatwaves and drought/water scarcity  
+• Biodiversity loss and damage to the ecological services provided by local habitats  
+• Sea level rise leading to flood risk, coastal erosion and damage to coastal ecosystems  
+• Impact of heat and soil erosion and degradation on agriculture and food production  
+• Impact of hotter, wetter weather on ecosystems  
+• Mass  migration of people  
+• Potential for greater ex posure to disease caused by forced migration of insects and other 
+species  
+The UK Climate Change Risk Assessment8 (based on the Third CCC Climate Change Risk Assessment9) 
+identifies eight priority risks for the UK : 
+• Risks to the viability and diversity of terrestrial and freshwater habitats and species from 
+multiple hazards  
+• Risks to soil health from increased flooding and drought.  
+• Risks to natural carbon stores and sequestration from multiple hazards leading to increased 
+emissions.  
+• Risks to crops, livestock  and commercial trees from multiple hazards  
+• Risks to supply of food, goods and vital services due to climate -related collapse of supply 
+chains and distribution networks  
+• Risks to people and the economy from climate -related failure of the power system  
+• Risks to human health, wellbeing and productivity from increased exposure to heat in homes 
+and other buildings  
+ 
+8 Full report here: UK Climate Change Risk Assessment  
+9 Climate Change Committee UK Climate Change Risk Assessment – England National Summary   
+9 • Multiple risks to the UK from climate change impacts overseas  
+There are a number of climate vulnerabilities for Copeland that create exposure to climat e-sensitive 
+health, social and economic risks as follows:  
+• Increased cost of living  (for example, as a result of the 2022 Net Zero energy crisis)  
+• Loss of income  
+• Damage to property and infrastructure  
+• Food, fuel and water shortages  
+• Heat - and drought -related illness  
+• Physical and psychological health impacts  
+• Potential for injury or mortality  
+The impact s of these risks will not be felt equitably  and is influenced by geographical and socio -
+economic  factors.  Some demographics including elderly and physically and financially vulnerable 
+people and certain sectors (e.g. agriculture) are mo re exposed. Therefore, Climate Action goes hand -
+in-hand with the inclusive growth and community wealth building approaches at the heart of the 
+Copeland Vision 2040.  
+What are the Specific  Considerations  for Copeland ? 
+Emissions per capita in Copeland are approximately equal to the national average for England, and  
+low versus other local authority areas in Cumbria.  Two thirds of the borough lie within the Lake 
+District National Park  (LDNP) , which is covered under the LDNP  Authority’s ambitious carbon 
+reduction plans and policies  around sustainable development and land management . The economy 
+is shaped by the nuclear  industry and supporting sectors, tourism and agriculture, and the area’s 
+industrial  past was built on  the extraction of coal and minerals.  
+The Sellafield nuclear site is now the dominant source of emissions in the borough – procurement of 
+goods and servic es and gas and electricity usage are the main contributors  to the organisation’s 
+footprint . The site is operated by Sellafield Ltd, a Nuclear Decommissioning Authority Company  
+under the oversight of the Department for Business, Energy and Industrial Strate gy. As a significant 
+procurer and employer of some 11,000 people with a further 10,000 in the supply chain, Sellafield 
+Ltd is a key gatekeeper of emissions in Copeland. The NDA is developing a decarbonisation plan 
+under its Carbon Net Zero project.  
+While a verage incomes in Copeland are some of the highest in the UK due to highly skilled 
+employment associated with  Sellafield, some areas of Copeland are in the top deciles of deprivation 
+on a range of factors including fuel poverty, child poverty, household in comes, educational 
+attainment and life expectancy.  
+A number of the observations made in the 2021 Chief Medical Officer’s annual report on health in 
+coastal communities10 are also relevant to Copeland. The report highlights that the villages, towns 
+and cit ies of England’s coast, include many of the most beautiful, vibrant and historically important 
+places in the country, yet they also have some of the worst health outcomes in England, with low life 
+expectancy and high rates of many major diseases. Due to th eir natural beauty, they tend to be 
+ 
+10 Chief Medical Officer Annual Report 2021: Health in Coastal Communities   
+10 areas that attract older and retired people – and this is particularly the case in Copeland, with the 
+combination of coastline and Lake District National Park. This aging population inevitably has more 
+health problems. M any coastal communities were created around a single industry – coal, steel and 
+nuclear in Copeland – meaning that  the decline of these industries has and will impact on socio -
+economic wellbeing of vulnerable communities. The increasingly severe and freque nt effects of 
+climate change will disproportionately impact people in Copeland based on geography and 
+demography.  Our most vulnerable residents cannot be expected to unfairly bear the burden of 
+climate action  or inaction.  
+The process of Local Government Re organisation in Cumbria will see the existing 7 local authorities 
+abolished and the formation of two new Unitary Authorities for West Cumbria (“Cumberland”) and 
+East Cumbria (Westmorland and Furness). Therefore, at the time that this Sustainability  Strategy &  
+Climate  Action Plan is agreed, Copeland Council will exist for a further 12 months or so.  
+   
+11 Baseline  Data  
+Throughout this document, greenhouse gas emissions are quoted as either Carbon Dioxide (CO2) or 
+“carbon dioxide equivalent” (CO2e). For an y quantity and type of greenhouse gas , CO2e signifies the 
+amount of CO 2 which would have the equivalent global warming effect . 
+Emissions in Copeland  
+The Connected Places Catapult Net Zero Navigator Tool  estimates total emissions in Copeland in 
+2018 of 656K t CO2e  using the SCATTER Cities methodology11. 
+Emissions from each sector are as follows:  
+ 
+Stationary Energy : emissions generated by  the combustion of fuel in buildings, manufacturing 
+industries, construction processes and power plants.  
+Energy Generation : a median national average is used as these emissions can be skewed towards 
+authorities with very high emissions  from energy generati on (e.g. those with offshore oil and gas) . 
+Transportation : emissions  produced  by the combustion of fuel or use of electricity during journeys 
+travelled by road, rail, air or water for inter -city and international travel.  
+Agriculture, Forestry and Other Land Use : emissions through methane created by livestock, nutrient 
+management for a gricultural purposes, and land use change altering soil compositions.  
+Industrial Processes : Industrial processes used to physically or chemically transform materials 
+produce greenhouse gas emissions. Also, industries use products that release greenhouse ga s 
+emissions throughout its use.  
+Waste : Disposal and treatment of solid waste and wastewater produces greenhouse gas emissions 
+through incineration, aerobic and anaerobic decomposition  
+ 
+11 SCATTER Cities emissions calculation methodology  in line with the Global Covenant of Mayors’ Common 
+Reporting Framework and Green House Gas (GHG) protocol.  
+ 
+12 Copeland Carbon Budget  
+The Tyndall Centre  has produced reports setting o ut science -based carbon budgets for each local 
+authority area based on translating the “well below 2°C and pursuing 1.5°C” global temperature 
+target12 and equity principles in the United Nations Paris Agreement into a national UK carbon 
+budget.  This nation al budget is then broken down between sub -national areas using different 
+allocation regimes  as follows:  
+• The report provides Copeland with budgets for carbon dioxide (CO 2) only  emissions and 
+from the energy system for 2020 to 2100 , based on Copeland’s propo rtional contribution to 
+UK-wide emissions during the period 2011 -2016;  
+• Aviation and shipping emissions remain within the national UK carbon budget and are not 
+scaled down to sub -national budgets ; 
+• Land Use, Land Use Change and Forestry (LULUCF) and non -CO 2 emissions are considered 
+separately . 
+The Tyndall Centre report13 makes three key recommendations for Copeland:  
+1. Stay within a maximum cumulative carbon dioxide emissions budget of 3.1 million tonnes 
+(MtCO 2) for the period of 20 18 to 2100 . At 2017 CO 2 emission levels, Copeland would use 
+this entire budget within 7 years from 2020.  
+2. Initiate an immediate programme of CO 2 mitigation to deliver cuts in emissions averaging 
+a minimum of -12.4% per year to deliver a Paris aligned carbon budget. These annual 
+reductions in emissions require national and local action, and could be part of a wider 
+collaboration with other local authorities.  
+3. Reach zero or near zero carbon no later than 2043 . This report provides an indicative CO 2 
+reduction pathway that stays within the recommended maximum carbon budget of 
+3.1MtCO 2. In 2043 , 5% of the budget remains. Earlier years for reaching zero CO 2 emissions 
+are also within the recommended budget, provided that interim budgets with lower 
+cumulative CO 2 emissions are also adopted.  
+This translates into the following 5 -yearly carbon budgets:  
+Year  Recommended Carbon Budget  Reduction in Emissions versus 2015*  
+2018 -2022  1.5 Megatonnes  (MT) CO2 27.8%  
+2023 -2027  0.8 Mt CO2  62.6%  
+2028 -2032  0.4 Mt CO2  80.7%  
+2033 -2037  0.2 Mt CO2  90.0%  
+2038 -2042  0.1 Mt CO2  94.8%  
+2043 -2047  0.1 Mt CO2  97.3%  
+2048 -2100  0.1 Mt CO2  98.6%  
+*2015 is the Paris Agreement Reference Year.  
+ 
+12 IPCC Special Report on 1.5 ⁰C (IPCC S R1.5 ) 
+13 Tyndall Centre Report E07000029   
+13  
+Figure 1 - Cumulative CO2 emissions for budget period (based on Table 1) from 2018 to 2100 for Copeland  
+As can be seen, rapid and transformational change is required to stay within the recommended 
+carbon budgets for Copeland. To meet the budget for 2018 -22, annual emissions in Copeland in 
+2022 would need to be less than 0.23MtCO2.  In order to meet t he 12.4% year on year reduction in 
+CO2 emissions and stay within Copeland’s carbon budget, the CO2 reduction target for Copeland by 
+the end of 2023 versus 2018 is 48.4%.  
+In summary, the acceptable net zero carbon pathways  for Copeland are:  
+UK Net Zero target :   Net Zero emissions by 2050  
+Tyndall Centre pathway :  95% reduction CO2 only by 2043  
+Zero Carbon Cumbria target :  Net Zero emission by 2037  
+We adopt the Tyndall Centre target, but with an ambition to support the Zero Carbon Cumbria 
+recommended targ et of net zero emissions by 2037.  
+The Council will work to ensure that our ambition to make Copeland carbon negative in future is 
+built into the climate strategies of the future Cumberland Unitary Authority.  
+Organisational Carbon Baseline  
+A carbon baseline  for the pre -COVID year 2019/20 has been calculated  using the Carbon Accounting 
+Tool produced by Local Partnerships /Local Government Association  to help local authorities 
+establish their baseline greenhouse gas emissions . The tool follows the Greenhouse Gas Protocol 
+methodology, accounting for the seven greenhouse gases covered by the Kyoto Protocol , expressed 
+as carbon -dioxide equivalent (CO2e).  
+ 
+14 The baseline considers 3 categories of emissions::  
+• Scope 1 : direct emissions, e.g. from burning fuels for heating, fleet fuel;  
+• Scope 2 : energy indirect emissions – emissions from energy purchased from a supplier (i.e. 
+not generated on -site);  
+• Scope 3 : other  indirect - Emissions from processes or transport not owned by the  
+organisation (such as business travel by public transport, emissions  linked to waste disposal) . 
+There is also a consideration of which “control boundary” to use when reporting emissions:  
+• Financial Control Boundary : The authority reports on all sources of carbon emissions over 
+which it has financial control. The authority has financial control over a service if it has the 
+ability to direct the financial and operating policies of the service w ith a view to financially 
+managing its activities , which might include outsourced contracts for e.g. leisure facilities.  
+• Operational Control Boundary : The authority reports on all sources of carbon emissions 
+over which it has direct operational control. Th e authority has operational control over a 
+service if it has full authority to introduce and implement its operating policies.  
+The baseline has been calculated using the Financial Control Boundary.  
+The Council’s total carbon emissions for the year 2019/20 were:  
+• Financial Control : 1,339tonnes CO2e including outsourced Scope 3 emissions  
+• Operational Control : 716tonnes CO2e excluding outsourced Scope 3 emissions  
+This means that, in 2019/20, 45% of the Council’s carbon emissions were associated with outsourced 
+services (i.e. procurement).  
+The table below shows a summary of overall emissions:  
+Scope  Emissions Type  Emissions 
+(tCO2e)  Percentage 
+of Total 
+Emissions  Percentage 
+Per Scope  
+Scope 1  Heating  219.82  15.8%  
+34.4%  Fugitive Emissions  0.00  0.0%  
+Authority's Fleet  258.36  18.6%  
+Scope 2  Electricity  205.25  14.8%  14.8%  
+Scope 3  Staff Business Travel  40.28  2.9%  
+5.9%  Outsourced Fleet  0.00  0.0%  
+Transmission & Distribution Losses  17.45  1.3%  
+Water  10.40  0.7%  
+Material Use  12.43  0.9%  
+Waste generated from own 
+operations  0.70  0.1%  
+Outsourced Scope 3  623.90  44.9%  44.9%  
+Total emissions  1,339  100%  100%  
+NOTE : These figures have not been verified by an independent third party.   
+15 We expect that a more in -depth supply chain analysis would reveal that the council’s scope 3 
+emissions to be significantly greater than this basic estimate.  
+In 2019/20, the council’s paper usage resulted in the equivalent of 222 trees  being cut down.  
+Emiss ions Reduction Targets – Copeland Council  
+The Council’s emissions represent a very low proportion of all emissions in Copeland. Nevertheless, 
+we must reduce our own footprint while encouraging others who live, work and visit in Copeland to 
+do the same.  
+We will aim to reduce our operational emissions by 10% year on year, which will enable us to reach 
+Net Zero operational emissions by 203 1/32 . 
+The priority areas for emissions reduction action are:  
+1. Procurement  (44.9%)  
+2. Electricity and gas  usage across our estat e (30.6%)  
+3. The Council’s fleet fuel usage (18.6%)  
+Due to the impact of the COVID 19 pandemic, the council’s focus during FY 2020/21 and 2021/22 
+was on emergency response, recovery and sustaining service delivery. This has undoubtedly had an 
+impact on our ability to act on climate change  during this period . Emissions data during these years 
+would also be unrepresentative of “typical” annual emissions, therefore 2019/20 was selected as the 
+baseline pre -COVID year.  
+Emissions data will be collected for FY2022/ 23 using the LGA Carbon Accounting Tool  and used to 
+monitor emission reduction progress against the 2019/20 baseline and to update the organisational 
+emissions reduction target  for the following year.  
+   
+16 Strategic Sustainability Priorities  
+This Sustainability Strategy & Climate Action Plan is aligned to the doughnut economics14 and 
+community wealth building15 principles of the Copeland Vision 2040.  In relation to the Nature and 
+Climate Crises, the Bruntland definition16 of sustainability is not e nough , because we have to 
+regenerate in order to avoid imposing unfair risks and costs on future generations.  
+Our strategic sustainability priorities  are: 
+1. Decarbonisation : We must u rgently move to a post -carbon economy  
+2. Circular Economy : We must u rgently re duce dependence on linear usage of energy and 
+resources  
+3. Nature : We will e stablish regenerative systems that restore life  
+4. Sustainable Development : We will e nsur e that physical development is aligned to this 
+sustainability strategy  
+5. Community : We will e mpower communities and influence action by partners  
+6. Co-benefits : We will f ocus on inclusive climate co -benefits for our people and communities 
+(see below)  
+We will hold ourselves and others to account against these priorities . 
+Focus on Climate Co -Benefits : This Sustainability Strategy identifies areas of co -benefit that can 
+be achieved by taking action to adapt to and mitigate the future effects of climate change. The focus 
+here is to consider a more socially and environmentally purposeful approach to econom ic growth, in 
+a way that generates positive, inclusive outcomes for people and place  now and for the future . 
+ 
+ 
+14 More information here: About Doughnut Economics | DEAL  
+15 More informat ion here: What is Community Wealth Building? | CLES  
+16 Bruntland Commission Report 1987: Brundtland Report - an overview | ScienceDirect Topics  
+ 
+17 These benefits might be in areas such as:  
+• Health and wellbeing  
+• Affordable living and reduced financial inequalities  
+• Access to green spaces  
+• Improved connectivity between people and communities with access to low carbon and 
+active travel  
+• Increased opportunity for local, ethical businesses and supply chains  
+• Building capability, capacity and resilience within the voluntary, community and social 
+enterprise sector  
+• Green jobs and skills and inclusive education and employment opportunities in the low 
+carbon economy  
+These sustainability priorities are aligned with the socio -economic strategies of our anchor 
+institutions, including the  Nuclear Decommiss ioning Authority’s Local Social and Economic Impact 
+Strategy17 and Sellafield Ltd’s Social Impact strategy18, as well as the National TOMs (Themes, 
+Outcomes, Measures) social value framework19. 
+  
+ 
+17 Nuclear Decommissioning Authority Local Social and Economic Impact Strategy  
+18 Sellafield Ltd Social Impact Strategy  
+19 Social Value Portal: What is TOMs?   
+18 Making Copeland a Sustainable Place  
+The following sections set out the strategies to be implemented  in Copeland to mitigate and adapt 
+to climate change.  
+Mitigation Strategies  
+Mitigation : Climate mitigation strategies are those that avoid and reduc e emissions that contribute 
+to climate change , such as:  
+• Restoring natural environment and increasing biodiversity  
+• Reducing consumption and waste  
+• Sustainable planning and land use  
+• Decarbonising transport  
+• Decarbonising buildings, housing and infrastructure incl. construction  
+• Decarbonising business and industry  
+• Decarbonising energy generation  
+• Decarbonising heating  
+• Decarbonising fuels  
+• Decarbonising food and agriculture  
+These actions should be applied using a mitigation hierarchy, as follows:  
+ 
+As can be seen, the priority is to achieve net gain, with offsetting as a last resort.  
+Adaptation Strategies  
+Adaptation : Climate adaptation strategies aim to adjust to current or expected climate change and 
+its effects , in areas such as:  
+• Help ing residents  and businesses  to prepare for extreme weather  
+• Sustainable planning and land use  
+• Transport  and infrastructure resilience  
+• Buildings  and housing  
+ 
+19 • Business and industry  
+• Energy generation  
+• Natural environment and biodiversity  
+• Agriculture and food production  
+The table below identifies the key Mitigation and Adaptation in terventions in Copeland over the 
+next five years. This list is a snapshot at the time of writing and will grow and change over time.  
+  
+20 Key Adaptation and Mitigation  Interventions for Copeland – next 5 years  
+Project/Intervention  Lead   Strategic Priorities  Co-benefits  
+Copeland 
+Council Lead  Description  
+Decarbonisation  
+Nature  
+Circular Economy  
+Sust. Development  
+Community  
+Health & Wellbeing  
+Green Space  
+Local Bus. & SMEs  
+Connectivity  
+Community 
+Resilience  
+Green Jobs/Skills  
+Cumbria Clean Energy Plan  Cumbria LEP Clean 
+Energy Sector Panel  Nuclear, Energy & 
+Sustainability  The county -wide plan for development of clean energy 
+infrastructure including nuclear + renewables.             
+Cumbria Hydrogen Vision  Cumbria LEP Clean 
+Energy Sector Panel  Nuclear, Energy & 
+Sustainability  A county -wide vision  and pathway to generation of low carbon 
+hydrogen at scale in Cumbria.             
+Cumbria Nuclear Prospectus  Cumbria LEP Clean 
+Energy Sector Panel  Nuclear, Energy & 
+Sustainability  A county -wide vision for “Energising the Energy Coast”, centred 
+around the development of a multi -technology Clean Energy Hub.             
+Cumbria Coastal Community 
+Forest  Cumbria County 
+Council  Nuclear, Energy & 
+Sustainability  Development of a Community Forest Partnership and Plan,  planting 
+150 hectares of woodland in West Cumbria over 5 years.             
+Cumbria Transport 
+Infrastructure Plan  Cumbria County 
+Council/Cumbria LEP  Planning  Policy framework for transport and  connectivity in supporting 
+sustainable  and inclusive growth in Cumbria  for 2022 –2037  
+Cumbria Coastal Strategy  Cumbria County 
+Council  Environmental 
+Health  A joint plan to mitigate impact to properties and infrastructure at 
+risk of rising sea levels, coastal erosion and/or flooding             
+Copeland Local Plan  Copeland Council  Strategic  
+Plannin g Copeland’s Development Strategies and Planning Policies which 
+guide planning decisions on sustainable development.            
+Copeland Tree s and Woodland  
+Strategy  Copeland Council  Parks and Open 
+Spaces  This strategy includes the “3/30/300” rule and replacement of every 
+tree removed with 3 new trees planted             
+Copeland reuse -recycle -repair 
+project  Copeland Council  Social Inclusion/ 
+WELL Whitehaven  Development of a project(s) to avoid waste to landfill, upskill 
+members of the community and address financial vulnerability.           
+Carbon Net Zero project  Nuclear Decom. 
+Authority  Nuclear, Energy & 
+Sustainability  A series of projects to reduce emissions associated with the 
+Sellafield and LLWR sites.           
+Green Homes Grant Phase s and 
+Homes Upgrade Grants  District Councils  Strategic Housing  Circa £4m g rant funding available to homeowners to install  energy 
+efficiency upgrades  and energy saving measures .            
+Cumbria Local Cycling and 
+Walking Infrastructure Plan s Cumbria County 
+Council  Strategic Planning  To enhance cycling infrastructure as part of a wider  integrated , 
+accessible,  active , low carbon travel network .            
+Renewable Energy and 
+community ownership schemes  TBC Nuclear, Energy & 
+Sustainability  Support for renewable energy generation projects and community 
+ownership of energy generation assets in Copeland/West Cumbria.             
+Supporting Heat Network 
+development  TBC Nuclear, Energy & 
+Sustainability  Support for the development of heat network projects in 
+Copeland/West Cumbria.             
+Green Jobs and Skills  TBC Nuclear, Energy & 
+Sustainability  Development of a coordinated approach to the development of 
+green jobs and skills in West Cumbria.             
+Adapt ation  action plan  Copeland Council  Nuclear, Energy & 
+Sustainability  Develop  and publish  a detailed Copeland Climate Adaptation Plan 
+using the LGA Adaptation Toolkit.  TBC TBC TBC TBC TBC TBC TBC TBC TBC TBC TBC 
+ 
+Indicative Contribution :  Negative   Neutral   Positive   Medium Positive   Strong Positive   
+21 Partnerships – Maximising our Impact  
+Our ability to influence change is maximised via our involvement in a number of partnerships, 
+including:  
+Cumbria Green Investment Plan  and Green Finance Hub  
+The Cumbria  Green Investment Plan20 follows on from the Potential for Green Jobs report21 by 
+Cumbri a action for Sustainability  (March 2021) and focuses on green investments.  The Green 
+Finance Hub is offering support to local stakeholders including local authorities to identify relevant 
+decarbonising projects and nature -based solutions for Cumbria , and t o develop investable projects 
+that can attract green finance to Cumbria.  
+This initiative aims to:  
+• Build capacity : conducting research and acting as a knowledge hub on sustainable  finance 
+and community investing and will help direct  local businesses to avai lable funding ; 
+• Accelerate projects : The GFH will support green projects by helping their business models to 
+become investable through a green finance accelerator process.  
+• Act as a conduit : Create opportunities to connect new investable/bankable projects with 
+suitable providers of debt and equity finance and ultimately bring more funding into the 
+region  
+• As well as engaging with stakeholders  and building partnerships and collaboration.  
+Cumbria Coastal Community Fores t Partnership  
+Woodland cover in Cumbria is below the national average, and there are multiple benefits for 
+people and nature associated with increasing tree cover. The Community Forest Partnership will 
+work to establish a Community Forest Plan with the aim o f “making the coastal communities of 
+Cumbria a better place to live and work”. This will involve planting up to 150 hectares of trees in 
+Allerdale, Barrow and Copeland over the next five years  and managing the network of woodlands in 
+the longer term.  
+By joining the  England’s Community Forests22 networks , Cumbria is part of  the largest environmental 
+regeneration initiative in England  
+The partnership’s work is supported by the Community Forest Trust  which is delivering the Trees for 
+Climate programme, part of  Defra's Nature for Climate Fund.  
+Cumbria LEP Clean Energy Sector Panel  
+The council is a member of this subgroup of the Cumbria Local Enterprise Partnership, which 
+oversees a strategy and plan for clean energy development in Cumbria with the dual aims of ( 1) 
+facilitating the transition to a Net Zero economy and (2) creating green jobs and economic growth in 
+Cumbria.  
+ 
+20 Cumbria Green Investment Plan: Investing in Net Zero  
+21 Report: The Potential for Green Jobs in Cumbria  
+22 Community Forest Tr ust: England’s Community Forests   
+22 Lake District National Park Partnership  
+Made up of 25 members from public, private, community and voluntary sectors, the LDNPP23 has set 
+a visi on for the Lake District to be “a n inspirational example of sustainable development in action ”, 
+representing a collective commitment to work together in the best interest of the National Park, its 
+environment, communities, economy and visitors . 
+The council is a member of the Climate Change subgroup, which has two aims, to:  
+1. Support the Partnership in l eading climate change and carbon reduction management in the 
+Lake District  
+2. Advise the Partnership on activity and progress using the carbon budget and the annual 
+climate change action plan.  
+Local Nature Recovery Networks  
+In August 2020 the government annou nced that Cumbria will be one of five pilot areas trialling the 
+development of a Local Nature Recovery Strategy (LNRS).  
+The purpose of the LNRS is to restore and link up habitats so that species can thrive, and agree the 
+best places to help nature recover,  plant trees and woodland, restore peatland, mitigate flood and 
+fire risk, and create green spaces for local people to enjoy.  
+Following a series of stakeholder engagement events, the draft LNRS was submitted to Defra in May 
+2021 when the Pilot schemes came  to an end.  Learning from all 5 Pilots will be used to inform the 
+final legislation and guidance that will be issued when production of a LNRS becomes a statutory 
+requirement for all local authorities in England.  
+The Local Nature Recovery Strategy for Cumb ria and supporting documentation is available on the 
+Cumbria County Council website24. 
+One Public Estate programme  
+One Public Estate is a Cabinet Office initiative in partnership with the Local Government Association, 
+which brings together public sector organisations to make the best use of public land and property. 
+The council is an active member of the One Public Est ate Cumbria Partnership, and is involved in a 
+number of the workstreams including economic growth, housing, and health & communities.  
+The council is contributing to the development of a county -wide approach to delivery of electric 
+vehicle charging infrastr ucture by the Cumbria Partnership.  
+  
+ 
+23 More information here: Lake District National Park Partnership  
+24 Cumbria County Council: Cumbria Local Nature Recovery – Pilot Scheme   
+23 Town and Parish Councils  
+Cumbria Association of Local Councils (CALC)25 is a not for profit membership organisation, 
+representing, training and advising the parish (including town) councils of Cumbria, who form the 
+grass roots tier of local government in England.  
+Copeland Council works closely with Copeland CALC members, and the support of town and parish 
+councils is critical to the success of this strategy & plan.  
+Zero Carbon Cumbria Partnership  (ZCCP)  
+The ZCCP26 brings together 80 organisations spanning the public, private and third sectors, with the 
+aim of cutting greenhouse gas emissions  via a cross -cutting, sector -led approach. The council is 
+involved in the main partnership and in a number of subgroups includi ng housing and energy.  
+The ZCCP oversees a fi ve-year programme of community activity to help people  across Cumbria to  
+reduce their carbon footprint, particularly from food, waste and the goods we buy.  This programme 
+is made possible by  a £2.5 million grant  from the National Lottery Climate Action Fund , which the 
+council helped to secure.  
+  
+ 
+25 More information here: Cumb ria Association of Local Councils  
+26 Cumbria Action for Sustainability: Zero Carbon Cumbria Partnership   
+24 Sustainable Development  
+One of the most powerful ways that the council can ensure sustainable development in Copeland is 
+through our Local Plan and Planning Policies.  The National Planning Policy Framework  states that the 
+planning system should be plan -led, and that  plans should provide a positive vision for the future of 
+each area and a framework for addressing housing needs and other economic, social and 
+environmental pr ioritie s. 
+Climate and ecological considerations are built into the Council’s  new  Local Plan for 2021 -203827, 
+which will include a number of development policies that ensure that sustainable development in the 
+borough will address climate change mitigation,  adaptation and biodiversity net gain:  
+• Strategic Policy DS1PU: Presumption in favour of Sustainable Development  
+• Strategic Policy DS2PU: Reducing the impacts of development on Climate Change  
+• Policy DS11PU: Protecting Air Quality  
+• Policy CC1PU: Large Scale En ergy Developments (excluding nuclear and wind energy 
+developments)  
+• Policy CC2PU: Wind Energy Developments  
+• Strategic Policy NU1PU: Supporting Development of the Nuclear Sector  
+• Strategic Policy NU2PU: Maximising opportunities from Nuclear Decommissioning  
+• Strategic Policy NU3PU: General Nuclear Energy and associated Development  Infrastructure  
+• Policy NU4PU: Nuclear Development at Sellafield  
+• Policy NU5PU: Nuclear Demolition  
+• Strategic Policy N1PU: Conserving and Enhancing Biodiversity and Geodiversity  
+• Strate gic Policy N2PU: Local Nature Recovery Networks  
+• Strategic Policy N3PU: Biodiversity Net Gain  
+• Strategic Policy N4PU: Marine Planning  
+• Policy N5PU: Protection of Water Resources  
+• Strategic Policy N6PU: Landscape Protection  
+• Strategic Policy N7PU: St Bees an d Whitehaven Heritage Coast  
+• Strategic Policy N8PU: The Undeveloped Coast  
+• Strategic Policy N9PU: Green Infrastructure  
+• Strategic Policy N10PU: Green Wedges  
+• Strategic Policy N11PU: Protected Green Spaces  
+• Strategic Policy N12PU: Local Green Spaces  
+• Policy N13PU: Woodlands, Trees and Hedgerows  
+• Policy N14PU: Community Growing Spaces  
+• Strategic Policy CO4PU: Sustainable Travel  
+• Policy CO5PU: Transport Hierarchy  
+• Policy CO7PU: Parking Standards and Electric Vehicle Charging Infrastructure  
+  
+ 
+27 To be published  2022   
+25 Copeland People’s Panel on Climate Change  
+The Copeland People’s Panel on Climate Change took place between July and September 2021, 
+commissioned by Copeland Borough Council with the support of  Cumbria Action for Sustainability,  
+the Zero Carbon Cumbria Programme28 and Shared Future  CIC29. This was a citizens’ jury t o guide the 
+council and partner organisations on : 
+“What action should we take  in our homes, businesses and local area to 
+respond to climate change?”  
+ 
+A citizens’ jury consists of members of the public that come together to deliberate and make 
+recommendations on a particular issue, in this case  climate change.  
+30 Copeland residents  were selected to join  the people’s panel, ensuring that they  reflected the 
+diversity of the local population, both in  terms of demographic make -up, geography  and opinions on 
+climate change.  Information about the selection and recruitment process is available  online30. 
+The panel met 10 times, and d uring the process , members heard presentations from a range of  
+expert  comme ntators on climate change  and associated issues . Panel members were  able to ask 
+questions of those commentators and share their own views and opinions with each other, before 
+making recommendations for actions that can address the climate emergency.  
+The pr oject was overseen by  a panel of a group of local stakeholders from a range of sectors who 
+recognise their responsibility in addressing climate change:  
+ 
+28 More information here: Zero Carbon Cumbria Programme  
+29 More information here: Shared Future CIC | Empowering, Sustaining, Innovating  
+30 More information here: People’s Panel Recruitment process  
+ 
+26 ➢ ACT Cumbria Action in Communities  
+➢ Britain’s Energy Coast Business Cluster  
+➢ Copeland Borough Council  
+➢ Copeland ReBoot  
+➢ Copeland CALC representing town and parish councils  
+➢ Copeland Tourism Development Programme  
+➢ Cumbria Action for Sustainability  
+➢ Cumbria County Council local committee  
+➢ Home Group  
+➢ NHS North Cumbria  
+➢ Nuclear Decommissioning Authority  
+➢ Stage coach  
+➢ University of Cumbria Institute for Sustainable Leadership  
+➢ West Cumbria and North Lakes Friends of the Earth  
+➢ Whitehaven Academy  
+➢ Woodland Trust  
+The Copeland People’s Panel on Climate Change reported its findings in October  2021  and made 
+22 recommendat ions . 
+The recommendations are summarised below. The full recommendations report is available on the 
+Shared Future CIC website31. 
+ 
+These recommendations are insightful, inspiring  and challenging, and will require action by a broad 
+group of stakeholders.  
+ 
+31 Full recommendations report available here: Copeland People’s Panel Recommendations Report  
+ 
+27 Implementing the People’s Panel Recommendations  
+Copeland Council has a leading role in delivering  five of the  People’s Panel’s  Recommendations – we 
+set out below how we intend to r espond to each:  
+Recommendation 1  – Green Jobs : Copeland should become a centre for excellence for green jobs, 
+skills, and training for both our young people and adults  … We would suggest a sustainable energy 
+training hub (building on and linking with exist ing local academic and technical institutions) and a 
+commitment to promoting the concept of green jobs both to local businesses, investors, and our 
+population (including through green jobs work experience programmes in secondary schools).  
+Response:  Cumbri a Action for Sustainability has published a paper that identifies significant 
+potential for green job creation in West Cumbria32, and the Local Government Association  
+has also produced a report and interactive tool that enables the number and sectoral 
+brea kdown of jobs per local authority area to be viewed33. The Council is working with 
+partners across Cumbria , including the Zero Carbon Cumbria Partnership Education and 
+Training Sector  and Housing Sector  subgroup s, to implement this recommendation. The 
+creation of green jobs and development of green skills for our sustainable economy is a key 
+priority for the Council  and is at the heart of the Copeland Vision 2040 and the council’s 
+Corporate Strategy 2020 -24. 
+The mission of the Nuclear Decommissioning Authority is the safe, secure and sustainable 
+environmental remediation of the UK’s earliest nuclear sites, with care for people and the 
+environment. As the main employer locally, the NDA will continue to employ a signif icant 
+number of people in green jobs for many generations.  
+Recommendation 2  - Scrutiny : Copeland needs a robust plan that responds directly to our 
+recommendations. This plan must include measurable targets and be well publicised. Progress on the 
+implementa tion of the plan should be independently verifiable through regular scheduled meetings 
+of the People’s Panel plus members of the young people’s consultation conducted during this process. 
+There should also be opportunities for the wider public to attend pu blic meetings both in the North 
+and the South of Copeland to scrutinise and call to account those taking the recommendations 
+forward. Both our recommendations and the scrutiny meetings should be published in local media 
+and available prominently on the cou ncil’s website. This accountability must be embedded in local 
+government regardless of what happens with the forthcoming local government reorganisation.  
+Response : the members of the Copeland Climate Monitoring Group  (a new community 
+climate action group f ormed by 15 members of the People’s Panel)  are invited to perform a 
+public scrutiny role – holding the council to account for delivery of this Climate Action Plan, 
+and reporting on progress into the council’s Executive Committee via the cross -party Climate  
+Steering Group and Scrutiny Committee. The transparency and accountability actions 
+identified on page  30 will help to address some of the more detailed points on  enabling 
+wider public visibility of progress.  
+ 
+32 Cumbria Action for Sustainability: The Potential for Green Jobs in Cumbria  
+33 Local Government Association: Local Green Jobs - Copeland   
+28 We continue to work with the Oversight Panel members to prompt those organisations to 
+take responsibility for development of a robust implementation plan that addresses the 
+People’s Panel’s recommendations in fu ll. 
+We are committed to communicating the importance of the Copeland People’s Panel 
+recommendations to the new Cumberland Unitary Authority, and while Copeland Council 
+will not exist beyond May 2023, the Zero Carbon Cumbria Partnership will continue to adv ise 
+the new council and  ensure that the People’s Panel’s voice continues to be heard.  
+Recommendation 13  - Recycling :  Recycling needs to become mandatory in residential, 
+commercial, and public spaces/premises. To do this, the local councils must work with the public and 
+private sector businesses, (e.g., hospitality) and institutions e.g., schools, to provide affordable, or 
+free recycling solutions - at kerbside or through collection to be sorted centrally. This would again 
+create opportunities for jobs . We want opportunities for on street recycling to create greener/cleaner 
+spaces. Businesses need to be encouraged to give away food and anything else that can go to waste - 
+use apps like Karma.  
+Response : moving to a more circular economy is one of our stra tegic priorities and  the 
+council is exploring options to widen access to public realm and trade waste recycling 
+services . Even if recycling services are made available “for free” to the users, there is a cost 
+associated with  delivery of these services , so these proposals are subject to value for money.  
+Recommendation 14  – Circular Economy : Reduce - Reuse - Recycle should be the vision for 
+Copeland - we need to encourage a circular economy by:  
+a) Setting up repair/recycling hubs. This will both encourage less c onsumerism and create jobs (and 
+training opportunities) e.g., bike repairs, IT repairs, clothing repairs.  
+b) Promoting and supporting swap shops for those things that are no longer wanted, so encouraging 
+re-purposing and reusing.  
+c) Sharing messages about reducing consumption so educating the public to repair and buy less.  
+d) Establish ‘take it or leave it’ places at waste management sites (tips) building on successful 
+examples in other countries (e.g., Massachusetts).  
+Response : this recommendation will be addressed by a number of other actions identified in 
+this plan, including the proposal to develop a Copeland reuse -recycle -repair project  (page 
+20) and the climate c ommunications and engagement strategy that will accompany this 
+plan.  
+The Environment Act 202134 brought in a number of  measures that will help to address 
+Recommendations 13 and 14, including:  
+• Extended producer responsibility for packagin g, encouraging producers to create 
+more sustainable packaging and packaged goods  
+ 
+34 More information available here: UK Environment Act 2021   
+29 • Making it easier for households to recycle and consulting on  a deposit returns 
+scheme  for drinks containers  
+• Stopping the export of polluting plastics to foreign countries  
+Recommendation 19  – Nuclear Consultation : We recommend that there is a public consult ation 
+process (youth groups, schools, and representative communities, businesses etc. , including a number 
+of dedicated sessions for members of the Peoples’ Panel) delivered by impartial parties to give 
+information about the energy and carbon potentials of nuclear power; safety considerations; how it 
+compares to other renewable sources of energy. This would inform whether there was public support 
+(e.g. for a new small modular reactor).  
+Response : this is something that the council will consider through it’s S trategic Nuclear & 
+Energy Board, which advises the Executive Committee on nuclear matters.  
+Consultation is of course part of the process for any nationally significant infrastructure 
+project and the council would support prospective developers of new nucle ar projects to 
+effectively engage and consult with communities in relation to specific projects as and when 
+they come forward . 
+The other recommendations where the Council has a clear supporting role are:  
+• Recommendation 3: Integrated transport policy for Cumbria  
+• Recommendation 4: Carbon neutral properties by 2037  
+• Recommendation 5: Renewable energy plan  
+• Recommendation 7: Community ownership schemes  
+• Recommendation 8: Public transport system  
+• Recommendation 10: Climate education in schools  
+• Reco mmendation 18: E nabling cycling  
+• Recommendation 22: Cumbria hydrogen strategy  
+A number of the  other  Recommendations relate to communications, engagement and influencing, 
+so we will work with partners including the Zero Carbon Cumbria Partnership /Programme  and the 
+Copeland Climate Monitoring Group  to develop a coordinated communications and engagement 
+approach  for the People’s Panel recommendations . 
+Many of the recommendations are  not the sole responsibility of Copeland Council or are  beyond  the 
+power, authority or influence  of the c ouncil. We will prompt the responsible organisations to 
+respond to these recommendations and play our role in  supporting any associated actions as 
+appropriate . A number of the recommendations will be supported via the adaptation and mitigation 
+interventions identified on page 20, especially those relating to renewable energy generation and an 
+integrated low carbon transport system for Cumbria.  
+  
+30 Climate Action Plan 2022/23  – Copeland Council  
+The table below presents  the actions that Copeland Council will take in 2022/23  to reduce organisational emissions and continue to embed sustainability into our governance , leadership  and the way we work : 
+ 
+ Action  Scope 1/2/3  In-year Emissions Reduction Target  
+(Versus 2019/20 baseline ) Other Measures  Timeframe  Cost  
+£-£££££  
+Procurement  
+Lead: Director of Corporate 
+Services and Commercial 
+Strategy  1. Implement Social Value guidance for staff in commercial roles  
+2. Evaluate climate/environmental impact of goods and services within 
+10% weighting allocated to Social Value in tender eval uations  
+3. Undertake in-depth supply chain emissions analysis  Scope 3  10% reduction from Outsourced Scope 3  
+(62.4tCO2e or 4.5% of total emissions)  Wider social value measures  detailed in 
+guidance document  April 2023  £ 
+Estate  
+Lead: Property & Estates 
+Manager  4. Switch to a green energy tariff  
+5. Continue to reduce electricity usage through efficiency measures 
+and behaviour change  
+6. Phased implementation of energy efficiency upgrades as part of 
+ongoing maintenance programme  Scope 1  
+Scope 2  10% reduction in electricity usage  
+(20.5tCO2e or  1.5% of total emissions)  ➢ % of lighting converted to LED  
+➢ Building efficiency improvements  April 2023  £££ 
+Fleet  
+Lead: Community Services 
+Manager  7. Trial biodiesel replacement for diesel fuel  
+8. Switch 5 diesel vehicles to electric  
+9. Install electric vehicle charging infrastructure at waste depot  Scope 1 10% reduction in fleet emissions  
+(25.8tCO2e or 1.9% of total emissions)  None  April 2023  £££ 
+Operations  
+Lead: Corporate Leadership 
+Team, Heads of Service, 
+Managers, Team Leaders  10. Continue to implement flexible, remote and agile working 
+arrangements to minimise staff travel where possible  
+11. 50% reduction in paper usage  
+12. Implement continuous improvements to minimise resource usage 
+and waste generated from operations  Scope 1  
+Scope 2  40% reduction in staff travel  
+(16tCO2e or 1. 2% of total emissions)  
+<1% reduction associated with lower water 
+and materials usage and waste generation  ➢ Volume of water usage  
+➢ Volume of paper usage /equivalent 
+number of trees  
+➢ Volume of waste generation  April 2023  ££ 
+Training & Development  
+Lead: HR Manager  13. Continue to offer climate literacy training to staff and members  
+14. Offer optional advanced/in -depth climate training  
+15. Cover sustainability in corporate induction for new staff 
+16. Continue to address climate/sustainability in recruitment processes 
+and Aim High performance framework  N/A None  Number /% of staff and councillors 
+completed climate literacy and further 
+training  Ongoing  ££ 
+Decision -making  
+Lead: Head of Corporate 
+Governance & Legal  17. Continue to provide support to ensure effective climate and 
+environmental impact reporting and climate -informed decision -
+making  in line with this strategy  N/A None  Number /% of Full Council/Executive 
+decisions that take climate/ecological 
+impact into account  Ongoing  £ 
+Transparency  
+Lead: Head of Sustainability/ 
+Communications Manager  18. Publish 2022/23 sustainability report covering climate, 
+environmental and social value performance  
+19. Develop and maintain Sustainability area of Council website 
+including a public feedback mechanism  
+20. Develop and implement sustainability  communications plan  N/A None  None  April 2023  £ 
+Accountability  
+Lead: Portfolio Holder for 
+Environment , Place  & Inclusive 
+Communities  21. Establish scrutiny role for Copeland Climate Monitoring Grou p (see 
+page 27 N/A None  None  End Q1 2022/23  £ 
+Policy  
+Lead: Portfolio Holder for 
+Environment , Place  & Inclusive 
+Communities  22. Make a Nature and Climate Declaration  
+23. Recognise “future generations” as a protected characteristi c 
+24. Lobby the Local Government Pension Scheme to reduce exposure 
+to climate  risk and carbon asset risk  N/A None  Financial and % of LGPS invested 
+directly and indirectly in fossil fuels  April 2023  £ 
+   Total target : 125tCO2e or 9%    
+  
+31 Implementation  
+Governance Arrangements  
+The council is already committed to considering the climate and environmental impact  in all  
+decision -making. This Sustainability Strategy provides a more comprehensive framework by which to 
+do so.  
+The council’s cross -party Climate Steering Group will continue to oversee the implementation of th e 
+council’s Climate Action  Plan, reporting into the council’s Executive Committee via Overview and 
+Scrutiny Committee and to Full Council via Executive Portfolio Holder reports . 
+Monitoring  
+The actions and targets in th e Climate Action Plan  will be monitored and reported  to the Climate 
+Steering Group by the Head of Sustainability . 
+Training  
+Following the high levels of uptake of basic climate literacy training by staff and members of the 
+council during 2021/22, more in -depth training will be offered during 2022/23 . 
+Funding Approach  
+A number of the actions iden tified in this plan are built into the core budget projections for council 
+services for 2022/23, and others will require external or grant funding , some of which has already 
+been secured (e.g. Green Homes Grant).  
+There are no plans to implement transformat ional changes to financial systems to facilitate climate -
+focussed budgeting  (e.g. participatory budgeting). Due to the timescales required to implement such 
+changes, t hese are now considerations  for the Cumbria Local Government Reorganisation 
+programme and  future  unitary councils for Cumbria . 
+Communication  
+This Strategy & Plan will be supported by a clear communications strategy, which makes information 
+about the plan accessible to businesses and the public.  
+A concise, visual summary version of this document will also be made available on the Council’s 
+website.    
+32 Equality Impact Assessment  
+We recognise that the impacts of climate change are not felt equitably by all people, either globally 
+or locally.  
+The 2021 Health in Coastal Communities report found  that many coastal communities such as 
+Copeland are remarkable and beautiful places but have some of the worst health and wellbeing 
+outcomes in England. This is due to a number of factors, many of which are apparent in Copeland. 
+Several risk factors which are important drivers of health outcomes have a strong correlation with 
+deprivation.  
+In Copeland, while we have access to some of the most beautiful natural environments in the world 
+with good air quality and access to green space, 14% of households exper ience fuel poverty, 14% of 
+children live in low -income families, and many wards are in the lower deciles of indices of multiple 
+deprivation nationally. Where people live, the extent to which they are affected by environmental 
+factors and their health outco mes are inextricably linked. Socio -economic circumstances and health 
+inequalities can also limit agency to make the behavioural changes required to respond to climate 
+change.  
+This presents a challenge – continuing to protect public health and meet the urge nt needs of our 
+most vulnerable residents, while responding to climate change with limited resources. Yet, we know 
+that climate action can deliver co -benefits for Health and Wellbeing, Inclusion, Job Creation and the 
+environment, so our focus must be on “w in-win” interventions. An equitable transition to a low 
+carbon economy is a priority for Copeland.  
+All policies and projects resulting from the actions identified in this Plan are subject to the Council’s 
+Equality Impact Assessment, which takes into accoun t the following  in line with the Equality Act 
+2010:  
+• Intergenerational/age inequalities  
+• Socio -economic inequalities  
+• Gender and sexuality  
+• Disability  
+• Marginalised communities/protected characteristics  
+• Race inequalities  
+• Religious inequalities  
+The Council’s Social Inclusion Board will offer oversight of any projects under this Strategy to ensure 
+that, where possible, the impact on our vulnerable residents is minimised and appropriate support is 
+in place. It will also ensure that opportunities around  the co -benefits for health, wellbeing and 
+inclusion are maximised and delivered through established and emerging partnerships. Projects that 
+have an impact on social inclusion will be included in the Social Inclusion Action Plan, which is 
+monitored quarte rly. 
+This Climate Action Plan can contribute to an equitable future for all people in Copeland, making 
+Copeland a Sustainable Place with Thriving Communities . 

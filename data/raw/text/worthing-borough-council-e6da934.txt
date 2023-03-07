@@ -1,0 +1,2644 @@
+ 
+ 
+  
+  
+ 
+ 
+    
+Carbon Neutral Plan 
+Working towards the 2030 target 
+ 
+      
+December 2019 
+ 
+ 
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  
+  Quality information 
+Prepared by  Checked by   Approved by 
+Sam Shuttleworth 
+Principal Consultant 
+Harper Robertson Consultant  Matthew Turner 
+Regional Director   Matthew Turner 
+Regional Director 
+ 
+ 
+Revision History 
+Revision Revision date  Details Name Position 
+1 20/11/2019 First draft Matthew Turner Regional Director 
+2 29/11/2019 First draft – business travel added Matthew Turner Regional Director 
+3 06/12/2019 Second draft Matthew Turner Regional Director 
+4 09/12/2019 Final  Matthew Turner Regional Director 
+ 
+ 
+Distribution List 
+# Hard Copies  PDF Required Association / Company Name 
+n/a Y Adur & Worthing Councils 
+   
+   
+   
+ 
+   Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  
+  Contents 
+Executive Summary  ............................................................................................................. ................... 1  
+1. Introduction a nd context ...................................................................................................... ......... 8  
+1.1 Adur & Worthing’s Climate Emergency Declaration ........................................................... 8  
+1.2 Purpose of th is study ......................................................................................................... . 8 
+1.3 Drivers for achieving Ne t Zero Emissions .......................................................................... 8  
+2. Where we are: The carbon  emissions baseline .......................................................................... 13  
+2.1 Scope of the analysis  ....................................................................................................... 1 3 
+2.2 Carbon emissions in 2018/19 ........................................................................................... 13  
+2.3 Implications for the Ca rbon Neutra l Plan .......................................................................... 15  
+3. Routes to Net Zero: Pr ojections to 2030..................................................................................... 16  
+3.1 Modelling appr oach .......................................................................................................... 1 6 
+3.2 Carbon emissions projections .......................................................................................... 17  
+3.3 Key findings of the analys is .............................................................................................. 22  
+4. Achieving Net Zero: A plan for Adur & Wo rthing ......................................................................... 25  
+4.1 Action Plan ........................................................................................................................ 25  
+4.2 Measuring pr ogress .......................................................................................................... 4 4 
+5. Conclusion .................................................................................................................... .............. 45  
+5.1 Recommendat ions ............................................................................................................ 45  
+5.2 Next steps .................................................................................................................... ..... 45  
+5.3 A final note .................................................................................................................. ...... 45  
+ – Modelling me thodology ................................................................................................... 46  Appendix A
+A.1 Data sources ..................................................................................................................... 46  
+A.2 Baseline carbon emissions ............................................................................................... 46  
+A.3 Carbon emission pr ojections ............................................................................................ 47  
+A.4 References .................................................................................................................... ... 49 
+ – Historic Scope 1 & 2 emissions for Adur & Worthi ng Councils ...................................... 50  Appendix B
+ – Recommendations from the energy  audits carried out to date ...................................... 51  Appendix C
+C.1 Worthing Town  Hall ........................................................................................................... 53 
+C.2 Portland House ................................................................................................................ . 53 
+C.3 Sheltered housing .............................................................................................................  53 
+C.4 Multi storey car parks (MSCPs) ........................................................................................ 54  
+C.5 Crematorium ................................................................................................................... .. 54 
+C.6 Shoreham C entre ............................................................................................................. 5 4 
+C.7 Commerce Way ................................................................................................................ 5 5 
+C.8 Assembly Hall ................................................................................................................. .. 55 
+C.9 Worthing Museum ............................................................................................................. 56  
+C.10 Worthing Leisure  Centre ................................................................................................... 56  
+ 
+ 
+ 
+ 
+ 
+ 
+  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  
+   
+Prepared for: 
+Adur & Worthing Councils 
+ 
+Prepared by: 
+AECOM Limited Aldgate Tower 2 Leman Street London E1 8FA United Kingdom aecom.com  
+  
+  
+  
+ 
+© 2019 AECOM Limited. All Rights Reserved.   
+This document has been prepared by AECOM Limit ed (“AECOM”) for sole use of our client (the 
+“Client”) in accordance with generally accepted co nsultancy principles, the budget for fees and the 
+terms of reference agreed between AECOM and the Client. Any information provided by third parties 
+and referred to herein has not been checked or ve rified by AECOM, unless otherwise expressly stated 
+in the document. No third party may rely upon this  document without the prior and express written 
+agreement of AECOM. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 1 
+  Executive Summary 
+Background and Context 
+On July 9th 2019, the Joint Strategic Committee of Adur  & Worthing Councils declared a Climate 
+Emergency, and committed to working towards becoming carbon neutral by 2030.   
+As part of this commitment, the Councils resolved to develop a science- and evidence-based Carbon 
+Neutral Plan that would identify the key action s and intervention measures required to set the 
+Councils on the path to net zero carbon emissions. This work is intended to provide the Councils with an understanding of their own carbon emissions base line and identify the steps that need to be taken 
+to achieve the decarbonisation target by 2030.  
+Recommendations have been informed by carbon proj ections modelling, detailed energy audits, and 
+stakeholder engagement workshops, to ensure that the Plan reflects  the unique circumstances and 
+priorities of Adur & Worthing Councils as they look towards the future. 
+This Plan is aligned to the Councils’ strategic vision Platforms for our Places  under Platform 3: 
+Tackling Climate Change and Supporting our Natural Environment ; and SustainableAW , the Councils’ 
+shared framework for sustainability. It also contribu tes to delivery against the Councils’ UK100 Cities 
+pledge to achieve 100% clean energy by 2050 across Adur & Worthing. 
+Establishing a baseline 
+In line with the Department of Business, Energy and Industrial Strategy (BEIS) ‘ Emissions Reduction 
+Pledge 2020’  guidance,1 for the purpose of greenhouse gas re porting, emissions are divided into 
+three categories, referred to as Scope 1, 2 and 3. T he table below provides a definition of these terms 
+and summarises the data used in establishing Adur & Worthing Councils’ baseline CO 2e emissions. 
+Category Description Data used in this analysis 
+Scope 1 Direct emissions from 
+sources owned or controlled by the reporting organisation  Metered gas data (for buildings where the Councils pay 
+the gas bills) 
+Mileage for Council-owned vehicle fleet and pool cars, 
+along with vehicle make/model and age 
+Scope 2 Indirect emissions from the 
+generation of energy purchased by the reporting organisation Metered electricity data (for buildings where the Councils 
+pay the electricity bills) 
+Note that, where data was unavailable, industry standard 
+benchmarks were used to estimate fuel consumption 
+Scope 3 Indirect emissions that result 
+from other activities that occur in the value chain of the reporting organisation, either upstream or downstream. Metered water use data 
+Records of business travel by the Councils’ employees 
+(cost data provided; mileage estimated from £/mi) 
+ 
+Based on this information – gas, electricity, and v ehicle use in the year from April 2018-March 2019 – 
+we estimate that the current annual Scope 1 and 2 emissions are approximately 2,908 tCO 2e per 
+annum (p.a.). Scope 3 emissions from water consum ption and business travel in non-Council owned 
+vehicles (i.e. car mileage logged via essential or  casual car user payments) each amount to 
+approximately 33 tCO 2e p.a., or 66 tCO 2e p.a. in total. Scope 3 emissions from the Worthing Leisure 
+Centre and Splashpoint (based on 2014/15 fuel consumption) accounts for a further 1,015 tCO 2e p.a. 
+                                                                                                           
+1 BEIS, ‘Emissions Reduction Pledge 2020: Guidance for emissions r eporting in the public and higher education sectors in 
+England 2018-2020’  (April 2018). Available at: https://assets.publishing.service.gov .uk/government/uploads/system/uploads/
+attachment_data/ file/745003/Guidance_note_for_voluntary_reporting-final.pdf  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 2 
+  Note that there are additional Scope 3 emissions, such  as those arising from business travel by public 
+transport, car mileage not logged via essential or cas ual car user payments,  emissions from waste or 
+emissions from procurement that have not been quantified in this report due to insufficient data. In the 
+future, Adur & Worthing Councils could consider a variety of additional data collection methods that 
+could provide further visibility of these emissions. 
+Figures 1 and 2 below illustrate the relative contribu tion from different fuels, building use categories, 
+external use categories (i.e. external lighting and CCTV) and vehicle types. (Not e: emissions from the 
+Leisure Centre and Splashpoint were estimated us ing 2014-15 data, which was the most complete 
+information available.) 
+  - 200 400 600 800 1,000 1,200
+Non-
+ResidentialResidential External Crematorium Transport Water Business
+travelLeisure
+Centre
+SplashpointtCO2e p.a.Figure 1. Emissions by s ource and fuel type (2018)
+Electricity Gas Petrol or Hybrid Vehicles Diesel (Vans) Diesel (HGVs) Not specifiedScope 1 and 2 
+(direct control)  Scope 3 
+(direct control)  Scope 3 
+(limited 
+control)  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 3 
+   
+Results show that gas and electricity use in bu ildings accounts for the majority of Scope 1 and 2 
+emissions (42% and 28%, respectively). The next bigge st contributor is fuel use for HGVs (26%), 
+while other vehicles such as cars and diesel vans make up around 5%. The crematorium also represents a significant source of 
+CO 2e emissions, primarily due to the gas used for heat.  
+Based on available data going back to 2011/12, the Councils’ Scope 1 and 2 emissions have 
+decreased by approximately 20% overall and 23% si nce 2013/14. It is important to note that the 
+annual emissions vary significantly over time, due to a variety of factors not assessed in detail in this 
+report. These include factors such as weather and us er behaviour, but a key sensitivity is linked to 
+changes in the Councils’ ownership or operation of buildings or provision of services. This report only 
+considers properties both owned and operated by the Councils where they pay for the electricity and 
+gas. As an example of the potential scale of impa ct this would have, if the Councils owned and 
+operated the Worthing Leisure Centre and Splashpoin t, their Scope 1 and 2 emissions would increase 
+by around 32%. 
+Routes to 2030 
+Carbon projection modelling has been carried out to a ssess the potential impact of a range of future 
+trends that are expected to affect the Councils’ emi ssions. This includes interventions that would be 
+led by the Councils (e.g. switching to 100% electric  vehicles), but also accounts for broader changes 
+expected to take place on a primarily national leve l (e.g. decarbonisation of the national electricity 
+grid). Other factors considered in clude energy demand reduction in existing buildings, switching from 
+the use of gas-fired heating to electric systems, such as heat pumps, and reducing journey mileage, 
+for instance, by planning vehicle routes differently , or taking measures to promote a shift towards 
+walking, cycling, ridesharing and public transport. 
+It is important to note that these scenarios are not intended to predict actual fuel consumption or CO 2e 
+emissions. Instead, they used to highlight key issues and suppo rt the identification of carbon 
+reduction interventions to inform the actions and re commendations laid out in subsequent chapters of 
+this Carbon Neutral Plan. 
+The cumulative impacts of these intervention measures are summarised in Figure 3 below.  Electricity, 28%
+Gas, 42%Diesel (HGVs), 26%Diesel (Vans), 4%Petrol or Hybrid 
+Vehicles, 1%Figure 2. Scope 1 & 2 emissi ons by fuel type (2018-19)Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 4 
+   
+Note that ‘Offsetting’ could comprise a variety of measures, including investment in renewables (on or 
+offsite) or carbon sequestration through land man agement (e.g. tree planting and woodland creation). 
+This analysis indicates that the mo st significant carbon reductions will result from switching towards 
+the use of electric heating sy stems and electric vehicles – provided that the national electricity grid 
+undergoes significant decarbonisation .  
+Demand reduction measures (energy efficiency and behavioural change in buildings, and reduced 
+use of transportation) have less impact when cons idered on their own but are crucial prerequisites for 
+successfully switching switch to wards the use of electric heating and vehicles. For instance, energy 
+efficiency improvements in buildings enable systems such as heat pumps to work at a higher level of 
+efficiency. Similarly, a large-scale shift to the us e of electric vehicles must be accompanied by a 
+significant modal shift towards walking, cycling,  ridesharing, and an increase in the use of public 
+transport.  
+As buildings and vehicles switch away from the use of fossil fuels and towards electricity, it becomes 
+increasingly important to ensure that electricity is supplied from renewable sources. This is important 
+for several reasons, including reducing pressure on grid infrastructure, ensuring security of supply, and protecting consumers from rising electricity prices.  
+On the other hand, shifting towards the use of elec tricity means that the route towards becoming zero 
+carbon increasingly depends on national grid decar bonisation. This leads to significant uncertainty 
+when projecting carbon emissions and serves to reinforce the message that demand reduction and 
+renewable energy generation should be high priorities for Adur & Worthing Councils. 
+The scenario testing demonstrated that, even with the most optimistic assessment of grid and 
+transport decarbonisation and rapid uptake for energy  efficiency measures, there will be significant 
+residual 
+CO 2e emissions that would require offsetting. Further work and consultation would be 
+required to identify the most approp riate and cost-effective opportunit ies, but these could include: 
+ Investing in off-site renewable electricity generation. Note that, at present, the Councils 
+purchase electricity that is 100% matched by wi nd and hydroelectric installations. Additional 
+commitments would be required to offset  emissions from all other fuel types. 
+ 
+ Carbon sequestration through land management, woodland creation, and tree planting. For 
+context, as a rough estimate, offsetting the Council’s current CO 2e emissions would require 0500,0001,000,0001,500,0002,000,0002,500,0003,000,0003,500,0004,000,0004,500,000
+2011
+2012
+2013
+20142015
+2016
+20172018
+2019
+2020
+2021
+20222023
+2024
+20252026
+2027
+2028
+2029
+2030kgCO2e p.a.Figure 3. Annual Scope 1 and 2 emissions: 
+Routes to 2030
+Historic Data
+Business as Usual
++ Grid Decarbonisation
++ Demand Reduction
++ Fuel Switching
++ Reduce mileage
++ Switch to ULEVs
++ Offsetting / LZCsAdur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 5 
+  conversion of around 800 hectares (almost 8 square kilometres) of low-grade agricultural land 
+to sustainably managed woodland.2 Offsetting the residual emissions after all measures are 
+adopted (as shown in Figure 3 and assuming su bstantial grid decarbonisation) would still 
+require around 460 hectares (4.6 square kilometr es) of new woodland. As this is clearly not 
+feasible, it shows the importance of mitigating emissions as far as possible, with this option 
+used to address only the last remaining residual emissions.   
+Specific intervention opportunities 
+In order to identify specific opportunities for demand reduction measures in the Councils’ own 
+buildings, AECOM carried out building energy audits on a range of properties owned and operated by Adur & Worthing Councils.  
+The table below summarises the results of these audits, listing the potential intervention areas that 
+could be considered, along with an estimate of the carbon savings that could be achieved. These 
+estimates account for the energy efficiency improvement  measures in addition to national electricity 
+grid decarbonisation. 
+ 
+                                                                                                           
+2 Estimate based on an average of 3.56 tCO 2e / hectare of new woodland per year, based on nation-wide reporting by the UK 
+Woodland Carbon Registry. See https://www.woodlandcarboncode.org.uk /uk-woodland-carbon-registry  for more information. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 6 
+  Table 1. Results of building energy audits 
+Cells highlighted in green indicate that a measure is  considered suitable for the specific building listed. 
+ 
+In total, the above measures could potentially save up to 749 tCO 2e per annum (Scope 1 and 2 only), which is equivalent to roughly one quarter of the 2018/19 
+baseline. (However, note that not all of the buildings listed above are included within the Councils’ Scope 1 and 2 baseline.) Broadly speaking, roof-mounted PV could 
+also be installed on unshaded roofs of su itable orientation. Further reductions c ould potentially be achieved by introducing a district heat network within the Councils’ 
+Civic Quarter. This report provides an overview of the practi calities that would be involved in such a project, along with a di scussion of the potentially significant benefits. 
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 7 
+  Priority areas and action plan 
+This work highlights that there is considerable uncerta inty in the trajectory to 2030, and that that there 
+will be significant challenges in reducing e nergy demands and offs etting any remaining CO 2e 
+emissions. Adur & Worthing Councils will need to actively work towards enabling the following: 
+ In buildings , it will be necessary to reduce heat and power demands through fabric 
+efficiency improvements and behavioural chang e. In addition to investing in the 
+existing building stock, this means ensuring that any future development achieves a 
+high standard of energy efficiency in order to minimise any increase in fuel consumption. Long term, all buildings will need to switch from gas / fossil fuels to low and zero carbon heat sources. 
+ Uptake of low and zero carbon (LZC) technologies and battery storage within the 
+Councils’ own stock will reduce  reliance on fossil fuels, re duce pressure on existing 
+utility infrastructure, improve se curity of supply, and mitigate against price fluctuations.  
+ A transformation in the  transport sector must take place, which would replace all 
+existing vehicles with low and zero emission vehicles. In addition, it will be necessary to reduce vehicle use / mileage thro ugh behavioural change and modal shift.  
+ A key challenge for Adur & Worthing Coun cils is the fact that much of the emissions 
+from vehicles are due to HGVs , and due to technological factors, it is less certain 
+that zero emission models will become commer cially available by 2030. This suggests 
+that careful route planning and other marg inal efficiency improvements should be 
+introduced to reduce HGV mileage as much as possible.  
+ In order to offset any remaining CO
+2e emissions , the Councils will need to explore 
+additional measures, such as promoting carbon sequestration through sustainable woodland management or investing in large- scale renewable energy generation. It is 
+important to note, however, that carbon of fsetting is not enough to achieve the net 
+zero target on its own – success relies on maximising demand reduction and renewable electricity generation as a high priority. 
+ 
+The detailed recommendations from the study are set out in an action plan which aims to support the 
+Councils in delivering the intervention measures re quired to realise their carbon neutral ambition. The 
+recommendations cover the following areas: General actions; Supporting grid decarbonisation; Demand reduction; Low carbon heat ing systems; Building integrat ed renewable energy generation 
+and storage; Low carbon transport; Offsetting; and Sc ope 3 emissions. Consideration is given to 
+measures that would directly impact 
+CO 2e emissions from the Councils’ own operations, as well as 
+those that the Councils could indi rectly influence, such as energy  efficiency in leased or rented 
+properties. 
+Conclusion  
+The results of this analysis show that the route towards becoming carbon neutral will require a strong level of ambition and commitment, backed up by signif icant interventions and in vestment across Adur 
+& Worthing Councils’ operations. Al though the study shows that meet ing the carbon neutral ambition 
+will rely upon various factors outside of the Councils’ control, such as the deca rbonisation of the grid 
+and availability of key technologies, the fundamental st eps required to deliver the net-zero target are 
+clear and, with strong leadership from the Co uncils, these can be set into action now. 
+  
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 8 
+  1. Introduction and context 
+1.1 Adur & Worthing’s C limate Emergency Declaration 
+On July 9th 2019, the Joint Strategic Committee of A dur & Worthing Councils (AWC) declared a 
+Climate Emergency, and committed to working towards becoming carbon neutral by 2030.   
+As part of this commitment, the Councils resolved to develop a science- and evidence-based Carbon 
+Neutral Plan that would identify the key action s and intervention measures required to set the 
+Councils on the path to net zero carbon emissions within the next decade.  
+1.2 Purpose of this study 
+AECOM has been commissioned to support Adur & Worthing Councils in producing this Carbon Neutral Plan. This work is intended to provide the Councils with an understanding of their carbon 
+emissions baseline and identify the steps that need to be taken to achieve the decarbonisation target.  
+The recommendations in this Carbon Neutral Plan have been informed by carbon emissions 
+modelling that accounts for key technological trend s and policy changes that are expected to take 
+place at national, regional and local levels over t he coming decades. It also draws on detailed energy 
+audits of the Councils’ own building stock.  Proposed actions have been developed through 
+engagement with local stakeholders, to ensure that the Plan reflects the unique circumstances and 
+priorities of Adur & Worthing Councils as they look towards the future. 
+1.3 Drivers for achieving Net Zero Emissions 
+A selection of targets, policies and initiatives aimed at reducing CO 2e emissions are described below. 
+particularly those related to decarbonising heat, energy and transportation in Adur & Worthing.  
+Although it is not possible to fully  capture the wide range of environmental, social, and economic 
+drivers for taking action to address the threat of climate change, these are some of the key drivers 
+that have been used to inform the analysis that underpin this Carbon Neutral Plan.  
+National 
+UK Climate Change Act 2008 
+The UK Climate Change Act 2008 (2050 Target Amendment) Order 2019  legally commits the UK 
+Government to reducing emissions by 100% by  the year 2050, compared with a 1990 baseline.3 As 
+described by the UK Committ ee on Climate Change (CCC), ‘The Act provides the UK with a legal 
+framework including a 2050 target for emissions r eductions, five-yearly ‘carbon budgets’ (limits on 
+emissions over a set time period which act as stepping stones towards the 2050 target), and the 
+development of a climate change adaptation plan.’4 The CCC is an independent statutory body which 
+sets the magnitude of carbon budgets; the Governme nt must prepare policies accordingly.    
+The Paris Climate Agreement 
+The UK ratified the Paris Climate Agreement in  November 2016. The Agreement’s central aim ‘is to 
+strengthen the global response to the threat of c limate change by keeping a global temperature rise 
+this century well below 2º Celsius above pre-indu strial levels and to pursue efforts to limit the 
+temperature increase even further to 1.5º Celsius.’5  
+                                                                                                           
+3 The original (2008) target of 80% was amended through subsequent legislation in 2019. See  ‘The Climate Change Act 2008 
+(2050 Target Amendment) Order 2019’ : http://www.legislation.gov.uk/uksi/2019/1056/contents/made  
+4 https://www.theccc.org.uk/tackling- climate-change/the-legal-landscape/  
+5 https://unfccc.int/process-and-meetings /the-paris-agreement/the-paris-agreement  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 9 
+  Building Regulations (Part L) 
+Part L of Building Regulations is the key mechanism that prescribes standards for the conservation of 
+fuel and power in buildings in the UK, based on me trics such as the estimated level of energy demand 
+and CO 2e emissions. At the time of writing, the Ministry of Housing, Communities and Local 
+Government (MHCLG) has recently released a consultation on proposed Future Homes Standards, 
+that would significantly reduce emissions from new domestic buildings in the UK.6  
+ 
+Note that future versions of Part L are expected to  adopt carbon emission factors for grid electricity 
+that are significantly lower7 than those used in Part L 2013. This change would make it easier to 
+achieve the required level of CO 2 savings using electric heating systems, and especially heat pumps, 
+while making it harder to achieve using gas boilers.    
+The Clean Growth Strategy (2017) 
+The UK Clean Growth Strategy8 was published in October 2017 and sets out the Government’s vision 
+for decoupling economic growth from carbon emissions. It includes objectives for increasing generation of energy from renewable sources, increa sing the delivery of clean, smart and flexible 
+power and accelerating the shift to low carbon transport, smart grids and energy storage.  
+The Road to Zero (2018) 
+The Road to Zero report,
+9 published in July 2018, sets out the Government’s core mission to ‘ put the 
+UK at the forefront of the design and manufacturing of zero emissions vehicles and for all new cars 
+and vans to effectively be zero emission by 2040.’  The strategy furthers the ambitions of the NO 2 
+plan10 and Clean Growth Strategy in defining key policies with primary focus upon introduction of low 
+and zero emission vehicles, with the aim that ‘at least 50%, and as many as 70%, of new car sales 
+and up to 40% new van sales being ultra low emission by 2030. By 2050 we want almost every car 
+and van to be zero emission.’  
+The Government has stated that local action will be supported through new policies, including 
+provision of funding to extend ultr a low emission bus schemes and taxi charging infrastructure. Goals 
+aimed at encouraging uptake of new ultra lo w emission vehicles (ULEVs) will be backed by 
+developing electric vehicle (EV) infrastructure, and offering funds and grants for provision of EV 
+charging points. The Government also intends to su pport further research into zero emission vehicle 
+                                                                                                           
+6 BEIS, ‘The Future Homes Standard Consultation’  (2019). Available at: 
+https://assets.publishing.service.gov.uk/ government/uploads/system/uploads/attachm ent_data/file/843757/Future_Homes_Stan
+dard_Consultation_Oct_2019.pdf  
+7 Building Research Establishment, ‘SAP 10 The Government ’s Standard Assessment Procedure for Energy Rating of 
+Dwellings Version 10’ (July 2018). Avail able at: https://www.bregroup.com/sap/sap10/  
+8HM Government ‘Clean Growth Strategy’  (2017). Available at: https://www.gov.uk/governmen t/publications/clean-growth-
+strategy   
+9 HM Government, ‘The Road to Zero: Next steps towards cleaner road transport and delivering our Industrial Strategy’  (2018) 
+Available at: https://assets.publishing.service.gov.uk/government/ uploads/system/uploads/attachment_data/file/739460/road-to-
+zero.pdf  
+10Air quality plan for nitrogen dioxide (NO2) in UK (2017) https://www.gov.uk/government/pub lications/air-quality-plan-for-
+nitrogen-dioxide-no2-in-uk-2017   The Future Homes Standard 
+Under the Future Homes Standard, new buildings would be required to meet  significantly higher 
+targets for energy efficiency and carbon sa vings. The Government states that, 
+ ‘As part of the journey to 2050 we have committed to introducing the Future Homes Standard in 
+2025. This consultation sets out what we think a home built to the Future Homes Standard will be 
+like. We expect that an average home built to it will have 75- 80% less carbon emissions than one 
+built to current energy efficiency requirements (A pproved Document L 2013). We expect this will 
+be achieved through very high fabric standards and a low carbon heating system. This means a new home built to the Future Homes Standard might have a heat pump, triple glazing and standards for walls, floors and roofs t hat significantly limit any heat loss.’ 
+- BEIS, ‘The Future Homes Standard Consultation’  (2019) 
+ Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 10 
+  design and manufacturing techniques and next generation battery technologies which would help to 
+improve performance and promote uptake. 
+Regional 
+South2East Local Energy Strategy (2018) 
+The South2East Energy Strategy11 was developed by three Local Enterprise Partnerships (LEPs), 
+which are joint private / public organisations intended to drive economic growth in a broad geographic area encompassing Adur & Worthing. The Strategy  outlines a vision for achieving clean growth 
+through the year 2050, with a focus on the power, heat and transportation sectors.   
+It highlights several key opportunities for the region, including: 
+ Significant renewable energy potential, especially  solar, wind, energy from waste and landfill gas; 
+ Rich natural assets (including a high proportion of woodland); and 
+ Large amounts of planned new development within the region, offering opportunities for 
+deployment of smart, integrated, su stainable energy system models.  
+West Sussex County Council 
+The West Sussex County Council has produced an Energy Strategy and Action Plan (covering the 
+period 2016-2020) to address key issues relating to  energy in West Sussex, chief among which are 
+security, affordability and sustainability. The document s provide a framework for the County Council to 
+reduce energy demands and increase uptake of renewable technologies. 
+West Sussex County Council is also in the proce ss of developing an Electric Vehicle Strategy (draft 
+2019). This states the ambition to ensure that at l east 50% of all registered vehicles within the County 
+are ultra low emission or electric (ULEV) by 2030, wi th an aspirational target of reaching 70% by that 
+time. The Strategy further states that the West Sussex County Council will seek to ensure that 
+sufficient charging infrastructure is installed to  enable this shift, and that all charging points are 
+supplied with 100% renewable energy. 
+SMARTHUBS – Smart Local Energy Systems (SLES) 
+West Sussex County Council is one of the main part ners in Project SMARTHUBS.  This initiative will 
+see Adur & Worthing Councils working in collaboration with private sector partners to deliver new smart, local energy systems in West Sussex, with a particular focus on the Adur and Worthing area.  
+Some of the key aims of the project are to in crease the amount of renew able electricity generated 
+using solar photovoltaic (PV) systems and use this in combination with battery storage to power both 
+domestic and commercial heat pumps. Notably, this will include the development of a district heat 
+network (DHN) in the Shoreham Port area, which w ould provide customers with low carbon source of 
+energy for heating.  
+Other SMARTHUBS projects will focu s on delivering sustainable transpor t in the area, by linking solar 
+photovoltaic (PV) arrays and battery storage to new EV charging infrastructure and investigating 
+opportunities to power vehicles using hydrogen gas. 
+ 
+Local 
+Platforms for Our Places 2017-19 
+This programme12 identifies opportunities to improve quality 
+of life in Adur & Worthing by considering five key platforms 
+‘upon which happy, healthy, prosperous, innovative, dynamic 
+and sustainable communities can thrive.’  
+                                                                                                           
+11 Energy South2East, ‘South2East Local Energy Strategy’ (2018). Available at: 
+https://www.southeastlep.com/app/uploads/2019/ 03/Local-Energy-Strategy-FINAL.pdf  
+12 https://www.adur-worthing.gov.uk/media/media,151817,en.pdf  
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 11 
+  As part of this initiative, the Councils have made several commitments aimed at reducing emissions 
+and shifting to clean energy across their estates. These include, but are not limited to: 
+ Developing a detailed understanding of the Counc ils’ emissions, along with a strategy to save 
+energy and reduce emissions;  
+ Retrofitting built infrastructure to improve env ironmental efficiency across corporate buildings 
+and social housing stock; and 
+ Delivering further clean, renewable energy on Council buildings and sites, including a 
+programme of solar photovoltaic (PV) installations. 
+Platforms for Our Places – Going Further 2020-2022 
+The new Platforms includes greater ambition on climate change following the Climate Emergency 
+Declaration. Platform 3 has been renamed Tackling Climate Change and Supporting the Natural 
+Environment in light of the heightened focus on climate change and carbon emissions reductions, and 
+one of the new commitments below this includes greater focus on climate resilience.   
+SustainableAW 2018-2019 
+Building on the commitments made by Adur & Worthing Councils as part of Platforms for our Places, 
+Sustainable AW is an initiative designed to addres s a wide range of environmental issues. These 
+include biodiversity, carbon reduction, ener gy, transport, waste reduction and water.  
+SustainableAW 2020-2023 
+The refreshed SustainableAW introduces greater ambition, 
+four additional areas of action, and proposes deeper engagement and collaboration with the local community and stakeholders. Thus, it provides a framework to address the crisis in natural ecosystems and the 
+Climate Emergency declared by members at the Joint Strategic Committee on 9
+th July 2019. 
+SustainableAW 2020-2023  reflects and highlights Platform 3 commitments but includes a new layer of 
+action that will be sought from community and businesses.  
+As part of these programmes, and reflecting a broade r commitment to sustainability, Adur & Worthing 
+Councils have already taken steps to reduce thei r environmental impact, including but not limited to: 
+ Sourcing renewable energy thr ough their electricity contract; 
+ PV installations on Portland House and Shoreham Centre; 
+ Ground-source heating at  the crematorium; and 
+ Ongoing LED lighting replacement across the estate. 
+ 
+ 
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 12 
+   Units for greenhouse gas emissions reporting: CO2e 
+A carbon footprint is measured in tonnes of carbon dioxide equivalent (tCO 2e). The carbon 
+dioxide equivalent (CO 2e) allows the different greenhouse gases to be compared on a like-for-like 
+basis relative to one unit of CO 2. CO 2e is calculated by multiplying the emissions of each of the 
+six greenhouse gases by its 100 year global warming potential (GWP). 
+A carbon footprint considers all six of the Kyoto Protocol greenhouse gases:  
+Carbon dioxide (CO 2), Methane (CH 4), Nitrous oxide (N 2O), Hydrofluorocarbons (HFCs), 
+Perfluorocarbons (PFCs) a nd Sulphur hexafluoride (SF 6). 
+- Carbon Trust, 'CTV043 Carbon Footprinting’  (July 2019) Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 13 
+  2. Where we are: The carbon emissions baseline 
+2.1 Scope of the analysis 
+For the purpose of greenhouse gas reporting, emissions are divided into three categories: 
+ Scope 1  – Direct emissions from sources owned or controlled by AWC. This primarily 
+includes fuel used in boilers to provide heati ng and hot water and fuel used in vehicles. This is 
+limited to buildings and vehicles where the Counc ils are responsible for paying the fuel bills.  
+ Scope 2  – Indirect emissions associated with the use of electricity purchased by AWC. 
+ Scope 3  – Indirect emissions that result from other activities that occur in the value chain of 
+AWC, either upstream or downstream. This incl udes emissions associated with buildings and 
+services linked to the Councils but where they ar e not responsible for paying the fuel bills, for 
+example leased properties, the leisure cent res and the waste management system. It also 
+includes business travel using non-Council owned vehicles. 
+The baseline for the Council’s emissions include Sc ope 1, 2 and some Scope 3 emissions. In the 
+future, additional data collection could be undertaken to better understand the Councils’ Scope 3 emissions. These would include,  for instance, emissions from waste disposal, and procurement.  
+2.2 Carbon emissions in 2018/19 
+Based on metered gas and electricity consumption and recorded vehicle use, we estimate that the 
+annual Scope 1 and 2 emissions were approximately 2,908 tCO 2e in the year from April 2018-March 
+2019. Scope 3 emissions from water consumption and business travel each amount to approximately 
+33 tCO 2e p.a. and emissions from the Worthing Leisure Centre and Splashpoint13 account for a 
+further 1,015 tCO 2e p.a. Table 1 presents a breakdown of the Councils’ emissions by category and 
+fuel type, and the results are illustrated in Figures 1 and 2. (‘External’ refers to both external lighting 
+and CCTV.) 
+ Buildings Transport Water TOTAL 
+ Electricity Gas Diesel 
+(HGVs) Diesel 
+(Vans) Petrol or 
+Hybrid Vehicles Fuel not 
+specified Total % of 
+total 
+Non-residential 484 422 - - - - 905 31% 
+Residential 75 346 - - - - 420 14% 
+External 205 - - - - - 205 7% 
+Crematorium 57 448 - - - - 505 17% 
+Transport  - 746 107 19 - 873 30% 
+Total Scope 1 & 2 820 1,215 746 107 19 - 2,908  
+% of total* 28% 42% 26% 4% 1% -   
+ 
+Water consumption - - - - - 33 33 N/a 
+Business travel - - - - - 33 33 N/a 
+Leisure Centre & 
+Splashpoint 899 116 - - - - 1,015 N/a 
+Scope 3 (assessed) 899 116 - - - 66 1,081 N/a 
+Table 1: Adur & Worthing Council Scope 1, 2 and 3 CO 2e emissions 
+* Values may not sum due to rounding. 
+ 
+                                                                                                           
+13 Note that emissions from the Leisure Centre  and Splashpoint have been estimated using 2014-15 data. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 14 
+   
+Figure 1.Emissions by source and fuel type (2018/19) 
+ 
+Figure 2: Scope 1 and 2 CO 2e emissions by fuel type (2018/19) 
+Results show that gas and electricity use in bu ildings accounts for the majority of Scope 1 and 2 
+emissions (42% and 28%, respectively). The next bigge st contributor is fuel use for HGVs (26%). 
+Other vehicles such as cars and diesel vans make up for around 5%. The crematorium also represents a major source of 
+CO 2e emissions, primarily due to the gas used for heat.  
+Based on available data going back to 2011/12, the Councils’ Scope 1 and 2 emissions have 
+decreased by approximately 20% overall and 23% si nce 2013/14. It is important to note that the  - 200 400 600 800 1,000 1,200
+Non-
+ResidentialResidential External Crematorium Transport Water Business
+travelLeisure
+Centre
+SplashpointtCO2e p.a.Emissions by source and fuel type (2018)
+Electricity Gas Petrol or Hybrid Vehicles Diesel (Vans) Diesel (HGVs) Not specified
+Electricity, 28%
+Gas, 42%Diesel (HGVs), 26%Diesel (Vans), 4%Petrol or Hybrid 
+Vehicles, 1%Scope 1 & 2 emissions by fuel type (2018-19)Scope 1 and 2 
+(direct control)  Scope 3 
+(direct control)  Scope 3 
+(limited 
+control)  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 15 
+  annual Scope 1 and 2 emissions vary significantly over  time, partly as a result of the decarbonisation 
+of electricity supplied by the national grid but also due to a variety of factors not assessed in detail in 
+this report. These include factors such as weather a nd user behaviour, but a key sensitivity is linked to 
+changes in the Councils’ ownership or operation of buildings or provision of services. As an example 
+of the potential scale of impact th is would have, if the Councils owned and operated the Worthing 
+Leisure Centre and Splashpoint, their Scope 1 and 2 emissions would increase by around 36%.  
+2.3 Implications for the Carbon Neutral Plan 
+Considering the breakdown of Adur & Worthing Councils’ current CO 2e emissions, the Carbon Neutral 
+Plan will need to include targeted intervention measur es that contribute towards the following goals:  
+ 
+Reduce electricity demands 
+and use renewable electricity  
+Reduce heating demands 
+and phase out natural gas 
+  
+ 
+Switch to ULEV cars / vans 
+and reduce demand for transport  
+  
+Investigate options for 
+reducing HGV emissions 
+ 
+ 
+ 
+ 
+Seek to understand and reduce 
+Scope 3 emissions  
+ 
+The 2018/19 baseline essentially provides a ‘snapshot’ vi ew of priorities for Adur & Worthing Councils.  
+Therefore, in order to gain a better understanding  of the potential changes over time, high-level 
+modelling has been carried out to project carbon emissions to 2030. The aim is to show the relative scale and direction of changes t hat could affect the Councils’ 
+CO 2e emissions in the years ahead and 
+show a range of potential routes toward s achieving the decarbonisation target. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 16 
+  3. Routes to Net Zero: Projections to 2030 
+3.1 Modelling approach 
+The analysis presented in this report considers inte rventions that would be led by the Councils (e.g. 
+switching to 100% electric vehicles), but also ac counts for wider trends (e.g. decarbonisation of the 
+national electricity grid). Key assumptions are outlin ed below. The methodology is described in detail 
+in Appendix A.  
+ National electricity grid decarbonisation  – The emission factor for grid electricity is expected to 
+continue to decrease over time, as it will be generated using less fossil fuel and more renewable 
+energy. This analysis considers the impact of a gr id decarbonisation trajectory published by BEIS 
+for use in organisational CO 2e emissions reporting and projections,  which is illustrated in Figure 
+3.14 Although not a prediction, the trajectory reflects the ambitions set by the Government and 
+seen as necessary to meet the UK’s carbon emission reduction commitments. 
+ 
+Figure 3: Historic and Long-run marginal grid decarbonisation 
+ Energy demand reduction  through energy efficiency measures and behaviour change – Based 
+on statistics provided in the UK Nati onal Energy Efficiency Database (NEED)15 we have assumed 
+that fabric upgrades could reduce demand for heating by around 10%, and that electricity use 
+could decrease by around 5% through a combinat ion of behavioural change measures and smart 
+energy management. 
+ Switching from the use of gas-fi red heating to electric systems  – Based on metered gas 
+data, and accounting for differences in the typica l performance of gas boilers, direct electric 
+heating, and heat pumps, we have estimated the change in fuel use if the total 2018/19 heating 
+requirements were met by these alternative heating technologies. 
+ Reducing demand for transport –  Based on case studies of mileage reduction in similar 
+organisations, we have assumed that a 10% reduct ion in mileage could be achieved, for instance, 
+by using smart route planning, or taking measures  to promote a shift towards walking, cycling, 
+                                                                                                           
+14 BEIS, ‘Green Book Supplementary Guidance: Toolkit for va luing changes in greenhouse gas emissions, Table 1’  (2019). 
+Available at: https://www.gov.uk/government/public ations/valuation-of-energy-use-and-gre enhouse-gas-emissions-for-appraisal  
+15 NEED, ‘Summary of Analysis, Great Britain’  (2019). Available at: 
+https://assets.publishing.servi ce.gov.uk/government/uploads/s ystem/uploads/attachment_data/file/812561/National_Energy_Eff
+iciency_Data_Framework__NEED__report_summary_of_analysis_2019.pdf  
+Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 17 
+  ridesharing and public transport.16 Due to technological obstacles, we have assumed that HGV 
+emissions reductions will be capped at 15%. 
+ Uptake of Ultra Low Emission Vehicles (ULEVs)  in the Councils’ vehicle fleet and pool cars – 
+In line with assumptions made by the Department for Transport’s ‘Road to Zero’  (2018) report, we 
+have assumed that ULEV upt ake will increase rapidly in the coming decade and therefore aside 
+from HGVs, all vehicles operated by AWC coul d be ultra-low emission (powered either by 
+hydrogen or electricity) by 2030. 
+The model assumes that, in a hypothetical ‘No Action’  or ‘Business as Usual’ scenario, no actions are 
+taken to reduce emissions, there is no change to the Councils’ building portfolio or vehicle fleet, fuel consumption remains steady, and total CO
+2e emissions do not change over time.17 This is used as a 
+baseline for assessing the cumulative impacts of the intervention measures. 
+It is important to note that these scenarios are not intended to predict actual fuel consumption 
+or CO 2e emissions. Instead, the analysis highlights priority measures for reducing emissions, which 
+in turn informs the actions and recommendations laid out in Section 4.  
+3.2 Carbon emissions projections 
+The graphs below show historic emissions for the Councils, along with a hypothetical ‘Business as 
+Usual’ trajectory. The other routes to net zero show the cumulative impact of sequentially adopting 
+measures to: 
+1. Reduce energy demands in buildings; 
+2. Switch from gas boilers to efficient electric heating systems; 3. Reduce vehicle mileage; 4. Switch from petrol and diesel vehicles to UL EV (electric or hydrogen) vehicles; and finally  
+5. Offset residual CO
+2e emissions to reach the net zero tar get. Note that this trajectory is 
+purely illustrative and is intended to provide an estimate of the amount of low and zero carbon (LZC) electricity generation or carbon offsetting that would be required. 
+  
+                                                                                                           
+16 Department for Transport and Energy Savings Trust ‘Mileage Management – A Guide For Fleet Managers’  (2015). Available 
+at: https://www.energysavingtrust.org.uk/sites/ default/files/reports/4548_EST_A4_mileage_mmt_4.pdf   
+17 In reality CO 2e emissions depend on many variables, including economic  trends, energy prices, and weather, to name only a 
+few. For example, see National Grid ‘Future Energy Scenarios’  (2019). Available at: http://fes.nationalgrid.com/fes-document/  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 18 
+   
+Figure 4: Scope 1 and 2 emissions – No change to electricity grid emissions 
+ 
+ 
+Figure 5. Scope 1 and 2 emissions – Accounting for grid decarbonisation 
+  0500,0001,000,0001,500,0002,000,0002,500,0003,000,0003,500,0004,000,0004,500,000kgCO2e p.a.Historic Data
+Business as Usual
++ Demand Reduction
++ Fuel Switching
++ Reduce mileage
++ Switch to ULEVs
++ Offsetting / LZCs
+0500,0001,000,0001,500,0002,000,0002,500,0003,000,0003,500,0004,000,0004,500,000kgCO2e p.a.Historic Data
+Business as Usual
++ Grid Decarbonisation
++ Demand Reduction
++ Fuel Switching
++ Reduce mileage
++ Switch to ULEVs
++ Offsetting / LZCsAdur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 19 
+  Figure 4 shows the potential CO 2e reductions that could be achieved assuming that there is no change 
+in the national electricity grid. In this scenario, if all measures (e xcluding renewables and offsetting) 
+are adopted, this would reduce Scope 1 and 2 emis sions by 30% by 2030. The residual emissions 
+(2,032 tCO 2e p.a.) would need to be made up for through r enewable electricity generation and carbon 
+offsetting. For context, th is would require around: 
+ 17 MW of ground-mounted PV (i.e. solar farm s totalling around 85-90 acres of land); or 
+ 6 MW of large-scale onshore wind (3-6 large turbines); or 
+ Approximately 575 hectares (5.8 square kilometres) of new woodland. 
+By contrast, Figure 5 shows what would happe n using the same assumptions, assuming the 
+electricity grid decarbonises at the rate  suggested by the BEIS Green Book Guidance. 
+In this scenario, if all measures (excluding rene wables and offsetting) are adopted, this would reduce 
+Scope 1 and 2 emissions by 44% by 2 030. The residual emissions (1,634 tCO 2e p.a.) would need to 
+be made up for through renewable electricity generation and carbon offsetting.  
+However, because the CO 2e savings from renewable technologies are measured by the amount of 
+grid electricity that they displace , as the grid decarbonises, more LZC energy generation is needed to 
+offset the same amount of CO 2e emissions.  (This issue does not apply to woodland creation, which 
+will sequester the same amount of CO 2 independent of the electricity grid). Therefore, based on BEIS 
+carbon emission factors (CEFs) for grid electricit y in 2030 (see Figure 3), offsetting this amount of 
+CO 2e would require:  
+ 24 MW of ground-mounted PV (up to 120 acres of solar farm); or 
+ 9 MW of large-scale onshore wind (4-9 large turbines); or 
+ Approximately 460 hectares of new woodland (4.6 square kilometers) – note that 
+sequestration rates do not depend on grid em ission factors as the mechanism for CO 2e 
+reduction is different. 
+In reality, there is significant uncertainty regarding the level of CO 2e saving measures that can be 
+implemented in the given timeframe, in which case  offsetting the Councils’ emissions would require 
+even more investment in LZCs and woodland creation than cited above.  
+This emphasises the fact that grid decarboni sation and offsetting will not be enough for Adur & 
+Worthing to achieve their 2030 target – it must be supported by strong actions to reduce demand for 
+fuel in buildings and transportation and eliminate the use of fossil fuels. 
+Impact of grid decarbonisation 
+A comparison of these results shows that grid deca rbonisation is one of the most important variables 
+that will determine whether the Councils are able to meet the net  zero target. This has both positive 
+and negative implications. On one hand, if the BE IS decarbonisation scenario were to occur, the 
+Councils’ Scope 1 and 2 emissions could decrease by up to 14% even if no other actions were taken.  
+On the other hand, this presents a key risk, becaus e it means that much of the reliance on achieving 
+the net zero target will rely on factor s outside of the Councils’ control.  
+To address and mitigat e this risk, consideration must be given to how the Co uncils can be st facilitate 
+the government’s objectives in decarbonising the grid as well as what measures they can take to best 
+insulate itself from the eventuality that grid de carbonisation does not happen as quickly and / or as 
+deeply as the Government intends. 18 
+                                                                                                           
+18 Although there has been significant progress in this area in re cent years, future decarbonisa tion is anticipated to be much 
+more difficult to achieve. To date, t he decarbonisation of the national grid has been primarily achieved through the significan t 
+reduction in the use of coal fired power stations and the incr ease in the use of renewable te chnologies, particularly large-sca le 
+wind and biomass (where it is used for co-firing in power stati ons). However, the use of gas remains a significant component of  
+the generation mix and the timely replacement of the existing nuclear fleet  is already proving to be challenging. Furthermore, 
+significant additional pressures from the use of electricity to provide heating and po wer vehicles may inc entivise firm power 
+generation from fossil fuel sources to deal with greater peaks in demand. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 20 
+  Reducing demands for electricity and heating 
+The demand reduction measures modelled in this report have relatively little impact when considered 
+on their own, reducing the Councils’ Scope 1 and 2 emissions by around 6% overall. The analysis 
+uses a conservative estimate of the potential re duction in demand that could be achieved; this 
+suggests the need for a more ambitious progra mme of energy efficiency improvements.  
+Furthermore, demand reduction is a crucial prerequisi te for successfully switching towards the use of 
+electric heating and vehicles. For instance, e nergy efficiency improvements in buildings enable 
+systems such as heat pumps to work at a higher leve l of efficiency. Similarly, a large-scale shift to the 
+use of electric vehicles must be accompanied by a significant modal shift towards walking, cycling, 
+ridesharing, and an increase in the use of public transport.  
+One of the key obstacles to achieving this would likely be the absence of a po licy driver that requires 
+energy efficiency upgrades to existing buildings. The Minimum Energy Efficiency Standards (MEES) regulations are intended to drive progressive impr ovements in the existing st ock but the impact this 
+will have is not yet clear. Therefore, it will be import ant to identify any potentia l sources of funding to 
+implement this measure. AWC could also consider  lobbying the Government to promote additional 
+regulations in this area. 
+ 
+It is important to note that there are important re asons other than reducing carbon emissions which 
+support refurbishing the existing stock. Fabric and building services efficiency improvements can help 
+to protect consumers against changes in fuel prices, mitigate fuel poverty and improve health, 
+wellbeing and comfort. Similarly, reducing vehicle mileage, if accompanied by increased walking and 
+cycling, can also improve health. Alongside this, ULEVs will have significant benefits in relation to 
+improvements in air quality. 
+Phasing out natural gas 
+Unlike electricity, which can be generated from a range of renewable technologies, natural gas is a 
+fossil fuel which unavoidably emits CO 2 during combustion. In order to m eet the net zero target, it will 
+therefore be crucial to phase out the use of gas, because the scale of inve stment that would be 
+required to offset these emissions would be significant. 
+The two main options for achieving this, based on cu rrently available technologies, are to (1) reduce 
+the total demand for heat and (2) switch to using elec tric heating systems such as direct electric 
+heating (DEH) or heat pumps.19 This would have the effect of reduc ing the Council’s emissions by up 
+to 20%, depending on the technology used. As the elec tricity grid decarbonises, the savings would 
+increase, so fuel switching (with necessary enabling works) could potentially result in a 35% decrease 
+in emissions by 2030.  
+                                                                                                           
+19 It may be possible to decarbonise the gas grid by injecti ng it with biomethane or hydrogen, but this would require a 
+technological step-change and has therefore not been considered given the timeframe for the Councils to reach net zero. Minimum Energy Efficiency Standards  
+Under the MEES regulations, as of 1st April 2018, any properties newly rented out in the private 
+sector must have a minimum Ener gy Performance Certificate (EPC) rating of E (some exceptions 
+apply). Fines will be applied for non-compliance.  
+Owners of buildings with a lower EPC rating will be required to implement energy efficiency 
+measures, though consideration will be given to fi nancial viability, the anticipated payback time 
+and impacts on property value.  
+Over time, the Government intends to progressively increase the minimum EPC rating, meaning 
+that buildings must become more efficient in order to be sold or rented. A recently-published 
+consultation proposed that the minimum rating should be raised to B by 2030, subject to actions meeting a seven-year payback test. 
+- BEIS, ‘The Non-Domestic Private Sector Minimum Energy Efficiency Standards: The Future Trajectory to 2030’  (2019) 
+ Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 21 
+  Heat networks have also been identified by the Gove rnment as a key component of the move to 
+decarbonise the supply of heat. A heat network invo lves the centralised generation of heat to serve 
+multiple buildings.  Future heat networks will need to deliver low or zero carbon heat and therefore are 
+likely to utilise heat pump technology or waste heat  sources. The advantage of  a heat network is that 
+a single project can enable multiple buildings to switch to a low carbon heat source in one go, speeding up the process of fuel switching. Heat networks can also enable the use of lower carbon 
+heat, larger and more efficient equipment, thereby del ivering higher carbon savings with lower capital 
+and operational costs than solutions for each individual building.  
+Switching to ultra-low emission cars and vans 
+Switching to ULEVs where possible would reduce emi ssions by around 1% if they were charged using 
+national grid electricity. The savings would increase as the electricity grid decarbonises, or if the 
+vehicles were charged using renewable energy – for instance, generated by PV on the roof of a 
+Council-owned car park.  This would deliver savings of up to 4%. 
+The electric vehicle market has seen considerable gr owth in recent years, and it is estimated that the 
+price of electric, hybrid and traditional fuel  cars could converge within the next decade.20 The Councils 
+should take this into account in their fleet replacement strategy.  
+Although switching to ULEVs will be an important part of reaching the decarbonisation target, even if 
+this goal is achieved, it creates additional challe nges. For instance, the Councils will be more reliant 
+on electricity emission factors for ac hieving their net zero target. It will also create pressure on grid 
+infrastructure, which may not have the capacity to  accommodate such a shift and require the use of 
+more renewable electricity generation to meet demand. 
+The National Grid report ‘Future Energy Scenarios 2019’  suggests that there could be between 2.7 
+and 10.6 million EVs on the roads by 2030, which would present a broad-ranging challenge across all 
+areas of electricity infrastructure.21 The use of smart EV charging and, potentially, vehicle-to-grid 
+systems could mitigate some of the effects on peak demand and help to alleviate some of this 
+pressure. 
+Reducing emissions from HGVs 
+At the time of writing, ultra low emission HGVs  are not widely commercially available and are not 
+expected to become so in the next decade. Barring a technological step-change, this would present a 
+challenge in reaching net zero emissions, which will require all the existing HGV fleet to be switched 
+from diesel to ULEV alternatives. Adur & Wo rthing Councils will need to be mindful of the 
+development of this technology and undertake a revi ew when the existing fleet is due for renewal. 
+In the short-term the Government has suggested a target of reducing emissions from HGVs by 15% 
+through other measures such as driver training . Adur & Worthing Councils will therefore need to 
+assess whether such measures can be implemented within their own fleet. Reducing HGV emissions 
+by 15% would reduce the Councils’ Scope 1 and 2 emissions by roughly 4% overall. 
+Increasing renewable electricity generation 
+As buildings and vehicles switch away from the use of fossil fuels and towards electricity, it becomes 
+increasingly important to ensure that electricity is supplied from renewable sources. Reasons include: 
+ Mitigating pressure on the national grid, whic h reduces the amount of resources needed for 
+improving power infrastructure; 
+ Providing security of electricity supply, particul arly when this is being used to supply heating; 
+ Helping to protect against electricity price increases; and 
+ Achieving higher CO 2e reductions in the event that the national grid does not decarbonise as 
+quickly and / or as deeply as the Government intends. 
+                                                                                                           
+20 Cambridge Econometrics and Element Energy, ‘Fuelling Europe’s Future: How the transition from oil strengthens the 
+economy’  (2018). Available at: https://europeanclimate.org/wp-conten t/uploads/2018/02/FEF_transition.pdf  
+21 National Grid, ‘Future Energy Scenarios’  (2019). Available at: http://fes.nationalgrid.com/media/1409/fes-2019.pdf  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 22 
+  Offsetting residual emissions 
+The scenario testing demonstrated that, even with the most optimistic assessment of grid and 
+transport decarbonisation and highest levels of uptak e for energy efficiency measures, there will be 
+significant residual CO 2e emissions that would require offsetting.  
+Further work and consultation would be required to identify the most appropriate and cost-effective 
+opportunities, but these might include tree planti ng or new woodland creation. The UK Woodland 
+Carbon Code, for instance, provides a means of gaining certification for this type of project.22 
+Reducing Scope 3 emissions  
+Scope 3 emissions from water consumption can be reduced through installation of water-efficient 
+fittings and behavioural change programmes. Case st udy evidence suggests that these types of 
+interventions could potentially redu ce water use by more than 20%.23 
+The Councils should also investigate opportuniti es for reducing energy demands and switching to 
+decarbonised heat sources in the pr operties that they lease, or t hose that they own but lease to 
+others. For instance, AECOM’s audit of the Worthi ng Leisure Centre has identified significant CO 2e 
+savings.  
+3.3 Key findings of the analysis 
+The table below summarises the potential impacts of  the measures described above.  It reports the 
+maximum potential percentage (%) reduction in CO 2e that could be achieved through adoption of 
+each measure, compared with a ‘Business as Usual’ baseline.  
+Potential change in carbon emissions from these measures… Without grid 
+decarbonisation With grid 
+decarbonisation 
+Changes to electricity grid   
+Grid decarbonisation, no other changes N/a -14% 
+   
+Demand reduction in buildings    
+Reduce demand for electricity and heat -6% -20% Reduce demand and switch to electric heating systems -20% -35% 
+   
+Low carbon transport   
+Mileage reduction, no other changes -3% -3% Switch to ULEVs (exc ludes HGVs) -1% -4% 
+Reduce emissions from HGVs -4% -4% 
+   
+Total reductions    
+All measures implemented (excluding offsetting / renewables) -30% -44% 
+Residual emissions to be offset (tCO 2e p.a.) 2,032 1,634 
+   
+Table 2. Key findings of the analysis 
+Other opportunities to reduce emissions 
+These technologies have not been included in the quantitative analysis  above, but should be 
+considered by Adur & Worthing Councils to help enable their decarbonisation target: 
+ District heat networks. Heat networks offer an opportunity to switch multiple buildings on to 
+lower carbon heating systems and use larger and more complex technologies to deliver higher carbon savings with lower overall capital and operational costs than addressing each building 
+separately. By virtue of being larger projects, t hey can be more complex to deliver, although the 
+                                                                                                           
+22 https://www.woodlandcarboncode.org.uk/  
+23 The Ripple Effect, ‘Cost-effective water sa ving devices and practices’  (2005). Available at: 
+http://www.wrap.org.uk/sites/files/wrap/GG522_commercial%20Cost-
+effective%20water%20saving% 20devices%20and%20practices%20f or%20commercial%20sites.pdf  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 23 
+  Government is providing technical support and fu nding through the Heat Network Delivery Unit 
+and Heat Network Investment Program me to assist local authorities in delivering these projects. 
+ Smart energy management: One of the key benefits of smar t meters that they improve 
+transparency and user access to energy data, ma king it easier to identify areas of waste. 
+Although it is not clear to what extent this affe cts user behaviour in the long term, the improved 
+data collection could also facilitate the intr oduction of demand side response, and on a broader 
+scale, help to balance energy demand and supply,  which is particularly important at peak times.24 
+In principle, therefore, these have the potential to reduce fuel consumption and carbon emissions.  
+ Battery storage: There have been significant improvements in  battery storage in  recent years, 
+with implications for fuel consumption across a ll sectors. Although batteries are likely to become 
+crucial to future energy infrastructure, they do not offer CO 2e savings per se. Instead, they help to 
+facilitate uptake of LZC technologies by moderat ing the intermittency of wind and solar energy 
+generation. Combined with EV uptake and the introduc tion of vehicle-to-grid systems, this could 
+have a transformative effect on the design of energy infrastructure and the built environment.  
+ Carbon capture and storage:  At present, carbon capture and storage technologies have been 
+deployed as pilot projects in the UK. Although these form part of the Government’s ‘ Clean Growth 
+Strategy’  (2017), at present there is insufficient evidence to provide a realistic estimate of their 
+potential contribution towards the decarbonisation target.25  
+Potential increases in CO 2e emissions 
+Adding to the Councils’ building portfolio 
+In the event that Adur & Worthing Councils build or purchase additional buildings, this would likely 
+increase the Councils’ Scope 1 and 2 emissions. An y increase will make the decarbonisation target 
+more difficult to achieve and increase the cost of mitigation measures and offs etting. Therefore, it will 
+be vital to ensure that any new buildings are constr ucted or retrofitted to be capable of becoming net 
+zero in operation26 and incorporate LZC technologies as standard.  
+Although not captured in existing datasets, it is  also worth noting that there are Scope 3 CO 2e 
+emissions associated with the construction and demo lition process itself, as well as the materials 
+used in construction. In order to minimise t hese emissions, the Councils should also consider: 
+ Carrying out a comprehensive options assessment  to consider whether it is necessary to 
+build new, and how to maximise the use of existing buildings, materials, and infrastructure; 
+ Use of renewable energy on-sit e (i.e. avoid diesel generators); 
+ Routinely carrying out embodied carbon lif ecycle assessments of all proposals;  
+ Maximising the end-of-life value of any buildings, materials and infrastructure that cannot be 
+reused by assessing opportunities for reclamat ion, remanufacturing, recycling, etc.; and 
+ Designing new buildings to fac ilitate maintenance (e.g. through use of robust materials) and 
+future changes in use (e.g. generous floor to ceiling heights) so that, in the future, demolition 
+and new construction can be avoided. 
+A note on overheating, cooling and climate change 
+Although one of the biggest challenges in decarbonising buildings in the UK relates to heat demand, it 
+is generally agreed that demand for cooling is likely to increase in the future as a result of climate 
+change.27 Therefore, when considering interventions in t heir own building stock, it will be important for 
+Adur & Worthing Councils to: 
+ Prioritise passive cooling measures, in or der to reduce the need for air conditioning;  
+ Deliver cooling efficiently usi ng highly efficient systems; and  
+                                                                                                           
+24 BEIS, ‘Smart Meters and Demand Side Response’  https://www.gov.uk/government/public ations/smart-meters-and-demand-
+side-response   
+25 For more information, see https://www.gov.uk/guidance/uk -carbon-capture-and-storage-government-funding-and-support  
+26 For more information, see https://www.gov.uk/government/c onsultations/the-future-homes -standard-changes-to-part-l-and-
+part-f-of-the-building-regulations-for-new-dwellings  
+27 JRC Science for Policy report by the European Commission, ‘Assessment of the impact of climate change on residential 
+energy demand for heating and cooling’  (2018)  Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 24 
+   Incorporate building-mounted PV where possible, as solar panels will tend to generate more 
+power on hotter days with higher cooling demands. Adur & Worthing Councils – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils 25 
+  4. Achieving Net Zero: A plan for Adur & Worthing 
+4.1 Action Plan 
+Key areas of influence 
+As discussed previously, although the Councils have  control over their own Scope 1 and 2 emissions 
+to some extent, achieving the decarbonisation ta rget will also depend on wider changes, including 
+some that occur on a primarily national or regional  level. However, the Councils do have opportunities 
+to exert pressure across multiple spheres of influence, even if this is indirect, as illustrated in Figure 6. 
+ 
+Figure 6: Adur & Worthing Councils - Spheres of influence 
+On this basis, potential responses from Adur & Worthing Councils could include: 
+ Direct control: Taking a leadership role by adopting best practices wherever possible by 
+reducing energy demand in their own buildings, adopting behavioural change programmes, 
+switching to renewable energy sources and adopting a zero-emission vehicle fleet. 
+ Buildings /services owned but not operated by the Councils:  Engaging with tenants and 
+service users to promote demand reduction measures, encourage uptake of renewables, etc. 
+ Procurement:  Ensuring that there is a rigorous approach to embedding sustainability into 
+procurement, e.g. with reference to Governme nt Buying Standards, the Flexible Framework, 
+and British Standard 8903:2010. 
+In addition to mitigating their own emissions, the C ouncils should also take a leadership role and 
+consider ways they can exert influence within the local area and their supply chain; for instance: 
+ Influence through funding: For instance, by offering subsidies to SMEs wishing to undertake 
+building energy audits. 
+ Influence through policy: Supporting the delivery of heat  networks and renewable energy 
+projects within the area by taking a positi ve approach to renewable energy generation in 
+planning policies and decision-making. 
+ Minimising emissions from transport in the local area through design of infrastructure and 
+traffic management, adopting an approach to s patial planning that reduces reliance on private 
+vehicles, and supporting initiatives to encourage the use of public transport, ridesharing, 
+walking and cycling. 
+ Supporting higher standards of sustainable design and construction.  This could be done 
+through awareness and training; for instance, by es tablishing best practice networks or offering 
+training to facilities managers. 
+ Exerting indirect national influence: Lobbying the Government to bring forward more 
+ambitious policies (e.g. transport strategies, research and development, updates to Building 
+Regulations). Indirect national influence  Indirect local influence  Influence through policy  Influence through funding  Direct control / influence  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  26 
+  Action Plan  
+The following pages describe a set of proposed actions for Adur & Worthing Councils that reflect the findings of the analysis p resented in Sections 2 and 3. These 
+actions must be reviewed and agreed by the Council prior to being adopted and taken forward. The proposed actions have been pre sented with the following 
+information: 
+─ Reference code 
+─ Action – Summary of the proposed action 
+─ Description  – Any other relevant details relating to the proposed action 
+─ Timeframe  – Describes the timeframe (short, medium or long-term) during which the proposed action needs to be initiated, either short te rm (0-6 months), 
+medium term (6-12 months) or long term (1-5 years) 
+─ Effectiveness – Framed in terms of the level of potential CO 2e reductions that could be achieved, informed by the analysis presented in Sections 2 and 3 
+─ Deliverability/Roles – Key considerations and relative effort required, considering fa ctors such as Adur & Worthing Councils’ level of influence or role in 
+delivery and required involvement of other parties 
+─ Investment Resource implications  – Describes the relative level of resource (e.g. officer ti me) that Adur & Worthing Councils would need to commit in order 
+to deliver the proposed action. Where possible / applicable, we ha ve provided an estimate of the scale of investment required, based on published industry 
+figures and AECOM’s own experience in  delivering similar projects.  
+Note that these are preliminary figures intended only to provid e a sense of potential scale of investment required, subject to further detailed analysis. These are 
+labelled as ‘investments’ rather than costs because many of them have potential financial returns and some or all of the requir ed financing could come from other 
+parties. 
+─ Priority  – Sets out the relative priority of the proposed action, based on the considerations listed above. Note that some projects wit h a higher priority ranking 
+may not result directly in carbon  savings but enable other high-priority actions to take  place. This is illustrated in the diagram below. 
+  
+Potential 
+CO 2e 
+reduction Medium - High 
+Quick wins 
+or enabling work High 
+Major projects 
+or enabling work 
+Medium - Low 
+Incremental gains Low 
+May rely on policy 
+change / funding 
+  
+Level of investment / difficulty 
+Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  27 
+  The actions are grouped into the following broad categories: General  actions (G); Supporting grid decarbonisation (D); Demand r eduction (R); Low carbon heating 
+systems (H); Building integrated renewable energy generation and st orage (E); Low carbon transport (T); Offsetting (O); and Sco pe 3 emissions (S).  
+LEGEND 
+  Measures affecting Scope 1 and 2 em issions (and Scope 3 emissions within the Councils’ direct control) 
+  Measures that would impact Scope 3 em issions (indirect or partial control) 
+ 
+Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+ General actions       
+G1 Disseminate the 
+results, conclusions 
+and recommendations 
+of this study within 
+AWC Send out copies of 
+the report and 
+promote the Carbon 
+Neutral Plan to build capacity and 
+support for taking 
+recommendations 
+and actions 
+forward. Short term N/a – enabling action Internal action (AWC) Limited officer resource 
+required N/a – enabling 
+action 
+G2 Formally adopt the 
+Carbon Neutral Plan Formally adopt the 
+actions and 
+recommendations 
+of the Carbon 
+Neutral Plan to 
+secure political 
+commitment. Short term N/a – enabling action  Internal action (AWC) Limited officer resource 
+required N/a – enabling 
+action 
+G3 Identify senior officers 
+and members to 
+champion the 
+programme and key 
+projects Senior officer and 
+members will be 
+vital in taking 
+forward the 
+recommendations 
+and actions 
+proposed. Short term N/a – enabling action Internal action (AWC) Limited officer resource 
+required N/a – enabling 
+action Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  28 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+G4 Establish a means of 
+monitoring and 
+reporting progress 
+against the 
+recommendations and 
+action plan Establish reporting 
+timetable.  
+Set up a monitoring 
+and reporting 
+mechanism to 
+assess progress 
+over time and re-
+assess actions and 
+priorities where 
+relevant. Short to medium 
+term N/a – enabling action Relatively 
+straightforward but will 
+require AWC officer(s) 
+to become familiar with 
+existing data, tools and 
+resources. Additional 
+complexity will be 
+added depending on 
+the scope of 
+monitoring. For 
+guidance, see BEIS, ‘Emissions reduction 
+pledge 2020: 
+Emissions reporting in 
+public and higher 
+education sectors’  
+(2018).28 Officer resource required N/a – enabling 
+action 
+G5 Establish roles for 
+delivering the 
+recommendations and 
+actions The agreed set of 
+actions following on 
+from this study 
+should be allocated 
+to specific officers 
+within AWC to 
+ensure 
+responsibility for 
+delivery. Short term N/a – enabling action Internal action (AWC) Officer resource required N/a – enabling 
+action 
+G6 Work with Government 
+and other Local 
+Authorities to identify 
+existing and 
+forthcoming funding 
+sources to support 
+further studies and 
+specific projects Many of the 
+measures identified 
+in this report will 
+have significant 
+capital cost 
+implications and 
+therefore funding 
+may be required to 
+support their 
+implementation. 
+Any further work to Short term but 
+must be ongoing 
+to reflect future 
+opportunities N/a – enabling action AWC to work with 
+government and other 
+local authorities Officer resource required N/a – enabling 
+action 
+                                                                                                           
+28 Available at: https://www.gov.uk/government/publications /emissions-reduction-pledge- 2020-emissions-reporting-in-pu blic-and-higher-education-s ectors  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  29 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+define specific 
+project 
+opportunities should 
+include an analysis 
+of funding options. 
+G7 Begin reaching out to 
+stakeholders to identify 
+opportunities for 
+collaboration and 
+engagement This includes local 
+authorities, LEPs, 
+utility companies 
+(e.g. UKPN, 
+Southern Gas), 
+government 
+departments / 
+agencies (e.g. 
+Department for 
+Transport, 
+Department of 
+Environment, Food 
+and Rural Affairs, 
+and the Forestry 
+Commission), and 
+others (e.g. WRAP) where linked to 
+other actions in this 
+Plan. Short term N/a – enabling action 
+AWC to meet with 
+stakeholders Limited officer resource 
+required N/a – enabling 
+action 
+G8 Implement 
+recommendations from 
+energy audits Review the 
+recommendations 
+from energy audits 
+carried out to date 
+and ensure that 
+these are reflected 
+in any repair / 
+maintenance plans 
+for buildings. Short to medium 
+term High AWC to review 
+recommendations. 
+Actual delivery may be 
+challenging, costly 
+and/or disruptive. High level of investment 
+required – refer to separate 
+energy audit reports High 
+ Grid decarbonisation       
+D1 Speak to UKPN about 
+future energy 
+infrastructure plans Arrange a meeting 
+with UKPN to 
+discuss plans for 
+future energy Short term N/a – enabling action AWC to meet with 
+UKPN and other 
+stakeholders. 
+ Limited officer resource 
+required N/a – enabling 
+action Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  30 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+infrastructure in the 
+area and how AWC 
+can support and 
+facilitate this 
+through planning 
+policy and other 
+mechanisms.  This should be done in 
+parallel with Actions 
+T1-T4 which relate to 
+low carbon transport 
+infrastructure. 
+D2 Monitor progress on 
+national 
+decarbonisation Monitor progress 
+towards national 
+grid 
+decarbonisation to 
+understand the 
+implications for 
+meeting the 
+decarbonisation 
+target. This can be 
+done by accessing 
+national (BEIS) 
+datasets on an 
+annual basis. Medium to long 
+term N/a – enabling action Relatively 
+straightforward but will 
+require AWC officer(s) 
+to become familiar with 
+existing data, tools and 
+resources.  
+ 
+See BEIS, ‘Emissions 
+of carbon dioxide for 
+Local Authority Areas’  
+(online).29  Limited officer resource 
+required N/a – enabling 
+action 
+D3 Proactively support 
+decarbonisation of the 
+national grid through 
+planning policy  Provide support 
+through planning 
+policy for strategic 
+energy 
+infrastructure and 
+LZC energy 
+developments that 
+support the national 
+decarbonisation 
+target.  Medium to long 
+term N/a – enabling action As for planning policy 
+in general, this relies 
+on engagement with 
+internal and external 
+stakeholders including 
+local community 
+members. May require 
+additional resource to 
+raise awareness of the 
+strategic importance of 
+such schemes.  Officer resource required N/a – enabling 
+action 
+ Demand reduction       
+R1 Produce an estate-wide 
+carbon management 
+plan  Develop an estate-
+wide carbon 
+management plan 
+that provides more Short term Critical for delivering the 
+Carbon Neutral Plan 
+ 
+An initial set of audits AWC to produce 
+carbon management 
+plan    A further budget would be 
+required to carry out additional 
+audits, the cost of which will 
+depend upon the nature and High 
+                                                                                                           
+29 Available at: https://data.gov.uk/dataset/723c243d-2f1a-4d27-8b61-cdb93e5b10ff/e missions-of-carbon-dioxide- for-local-authority-areas  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  31 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+granular detail and 
+measures specific 
+to each building that 
+the Councils own or 
+operate. This 
+should be linked 
+with any other 
+maintenance / 
+repair / replacement 
+plans or any plans 
+to purchase / lease 
+additional buildings 
+and must be kept 
+up to date going 
+forward.  have been carried out 
+on selected buildings as 
+part of this study to 
+provide an insight into 
+the potential 
+intervention options. 
+There is scope for more 
+detailed investigations 
+to be carried out on 
+these buildings and for 
+audits to be expanded 
+to other buildings. number of audits undertaken. 
+R2 Undertake energy 
+efficiency retrofits of all 
+Council properties Deliver the 
+recommendations 
+from the initial 
+audits along with 
+those from further 
+audits and the estate-wide carbon 
+management plan 
+proposed in Action 
+R1. To speed up 
+delivery, this work 
+should be co-
+ordinated with 
+Actions H1, 2 & 3 
+for switching to heat 
+pumps. Short term (to 
+review 
+recommendations 
+and begin 
+planning)  
+ 
+Medium to long 
+term (further 
+audits and 
+retrofitting) Critical for delivering the 
+Carbon Neutral Plan AWC to develop a 
+programme for carrying out energy efficiency works identified in the carbon management plan and identify a suitable funding and delivery approach  The full costs of this cannot be 
+estimated at this stage, due to the range of building types and uncertainty of the package of measures that would be required for each building.   The full costs would be quantified as part of the estate-wide carbon management plan in Action R1.   High 
+R3 Instigate a behavioural 
+change programme 
+across all Council 
+properties to reduce 
+fuel consumption  A behaviour change 
+programme should 
+be initiated across 
+the Councils’ 
+buildings and 
+vehicle fleet to 
+encourage staff to 
+reduce fuel Short term Critical for delivering the 
+Carbon Neutral Plan AWC to instigate and 
+support an ongoing behavioural change programme. Nominated staff will be required to drive the programme in each This will require officer time to 
+instigate and maintain, including a member of staff with overall responsibility and time for staff within each building. High Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  32 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+consumption. This 
+could include e.g. 
+switching off lights 
+and heating 
+systems when not 
+in use, encouraging 
+staff to carpool to 
+work, etc.  office. Senior level 
+involvement and support will be crucial. 
+R4 Review BMS operation 
+strategy Currently the BMS 
+at AWC occupied 
+sites are accessed 
+and programmed by 
+third-party 
+organisations. The 
+set programs 
+should be reviewed 
+against current 
+building operation 
+patterns and 
+updated 
+accordingly. Where appropriate, control 
+could be given to 
+the building 
+occupiers.  Short term Highly effective where 
+local control has been implemented (e.g. Worthing Leisure Centre). Where sites have dedicated facilities management personnel, local control will be highly effective at inexpensively and immediately reducing fuel consumption. Examples include the Town Hall (AWC operated) and Assembly Hall (tenant operated). AWC to commission / 
+undertake study Budget required to commission 
+a study (estimate £1-5K depending on scope) and provide officer resource.  High 
+R5 Link carbon reduction 
+plans with existing 
+maintenance and 
+retainment strategies 
+for Council-owned 
+properties Carry out a review 
+to understand the 
+retainment strategy, 
+typology and age of 
+buildings to inform 
+more targeted 
+interventions for 
+projects, guidance 
+and funding Short to medium 
+term N/a – enabling action AWC to commission / 
+undertake study Officer resources required Medium-High 
+R6 Monitor results of 
+energy efficiency 
+programmes  Monitor the 
+performance of 
+energy efficiency Medium to long 
+term N/a – enabling action to 
+identify future interventions AWC to monitor results Officer resources required Medium-Low Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  33 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+programmes within 
+AWC operations 
+that are 
+implemented as a 
+result of any other 
+actions in this Plan. 
+R7 Business engagement 
+and support, 
+particularly for Small 
+and Medium 
+Enterprises (SMEs), 
+related to energy 
+efficiency for leased 
+and tenanted 
+properties AWC could provide 
+guidance to SMEs, 
+in the form of 
+forums, 
+presentations, 
+events, training or 
+funding, to deliver 
+energy efficiency 
+improvements. Medium term Important for showing 
+leadership within the community and potential to reduce Scope 3 emissions AWC to develop and 
+deliver training. Implementation relies on actions from businesses and other external stakeholders. Budget required to provide this 
+service as well as officer resource to establish and manage.  Cost to AWC depends on the precise service offered but developing basic guidance materials and delivering training workshops could be £5-15K. However, if fuel consumption decreases there could be cost benefits either to AWC or their tenants / services.  Medium-Low 
+R8 Consider subsidised 
+energy audits for 
+leased and tenanted 
+properties AWC could 
+consider providing 
+subsidised energy 
+audits to support 
+SMEs in identifying 
+energy 
+improvement 
+opportunities. 
+ 
+ Medium term Important for showing 
+leadership within the community and potential to reduce Scope 3 emissions Delivery will rely on 
+actions of other parties (SMEs)  Budget required to provide this 
+service as well as officer resource to establish and manage it.  Cost to AWC depends on the precise service offered. Energy audits for a single building might range from £2-5K+, though this is heavily depending on size and complexity of the building and scope of the analysis. Medium-Low 
+ Low carbon heat       Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  34 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+H1 Heating system 
+replacement for 
+Council owned 
+buildings Review heating 
+system asset plan for Council owned buildings and identify opportunities for switching to heat pumps. Develop a programme for replacing existing gas boilers with efficient heat pumps. This should be combined with demand reduction measures outlined in Action R2. 
+ 
+ Short to medium 
+term (initiation) 
+Medium to long 
+term (delivery) Modelling indicates that 
+switching to heat pumps could potentially reduce the CO
+2e emissions of 
+each site by 20-80% by 2050, subject to electricity grid decarbonisation.  AWC to develop 
+replacement programme Officer resources required to 
+develop heating replacement programme.  Indicative costs of installing a heat pump are as follows:  £500-1000/kW for non-
+domestic buildings 
+ £4-10k for domestic 
+buildings 
+Costs will depend on the type of system and level of additional infrastructure required, including electrical capacity reinforcements.   For comparison, if replacing with a gas boiler:  £60-100/kW for non-
+domestic buildings 
+ £1-2k for domestic buildings 
+ Medium-High 
+H2 Investigate the 
+potential for a low 
+carbon heat network in 
+and around the 
+Worthing Civic Quarter 
+/ Worthing Town Centre  AWC to undertake a 
+feasibility study to assess the technical feasibility and financial viability of delivering a heat-pump led heat network in and around the two identified sites. 
+ Short term CO
+2e reduction 
+depends on which buildings are connected.  
+A heat network could 
+offer higher reductions than individual systems with lower capital and operational costs.  
+ AWC to commission / 
+undertake study  
+Feasibility study would identify practical 
+barriers and other 
+considerations to 
+address going forward. Budget required to commission 
+an initial feasibility study and provide officer resource. HNDU subsidy is available for projects of this nature (funded by BEIS).  
+This study will define the total capital costs, whole lifecycle 
+financial and carbon benefits of 
+delivering a heat network in this 
+location. Medium-High Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  35 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+H3 Investigate the 
+potential for a low 
+carbon heat network in 
+and around the 
+Shoreham Centre  AWC to undertake a 
+feasibility study to assess the technical feasibility and financial viability of delivering a heat-pump led heat network in and around the identified site. Short term 
+As for Action H2 
+ As for Action H2 
+ As for Action H2 
+ Medium-High 
+H4 Explore opportunities 
+for other heat networks AWC to review 
+other opportunities 
+for heat networks  Medium to long 
+term A heat network could 
+offer higher reductions than individual systems with lower capital and operational costs. AWC to commission / 
+undertake study Good opportunity areas are 
+those near a considerable heat source (i.e. Shoreham Power Station), public operated estate(s) and/or new development sites.  Cost of undertaking a study into an identified opportunity area is as per Action H2. Medium-High 
+ Building integrated renewable energy generation and 
+storage     
+E1 Identify further 
+opportunities to install 
+PV on Council 
+buildings AWC should build 
+on previous 
+experience and 
+expand the 
+installation of PV on 
+the roofs of Council 
+owned properties to 
+support the roll out 
+of heat pumps and 
+EVs. Medium to long 
+term Good carbon savings in 
+the short term but will decrease as the grid decarbonises.  Significant benefits in supporting operational costs and security of supply for Council buildings where heat pumps and EV charging AWC has successful 
+experience of PV installations.  The financial viability of PV has been reduced by the removal of incentives from the Feed-in Tariff (FIT) scheme but increasingly PV installations are Roof-mounted PV is likely to 
+cost in the region of £750-1500/kW fully installed depending on scale and complexity of installation.  Provides protection against electricity price rises.  Opportunity for £0 CAPEX if delivered via Community High Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  36 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+points are installed. becoming viable 
+without incentives, particularly in combination with battery storage, EV charging and heat pumps.  Energy or energy as service 
+model. 
+E2 Identify opportunities to 
+install PV on the roofs 
+of Council-owned car 
+parks Investigate and (if 
+feasible) install 
+solar carport PV 
+arrays on Council 
+owned car parks. Medium term 
+(and ongoing 
+whenever there is 
+a change in 
+building 
+ownership, 
+refurbishment, 
+etc.) Good carbon savings in 
+the short term but will decrease as the grid decarbonises.  Significant benefits in supporting wider EV rollout. AWC are looking at 
+this with the SLES project.  Solar car parks are a technically proven solution with successful examples in Exeter, Cambridge and Nottingham.  Industry estimates suggest that 
+roughly 2kW PV can be installed per car parking space and fully installed costs could be expected to be in the range of £900-1400/kW (per BRE Solar Car Park Guide) High 
+E3 Investigate 
+opportunities to install 
+batteries in Council 
+buildings Monitor the viability 
+of battery systems 
+and assess the 
+viability of including 
+these in projects 
+involving heat pump 
+replacements, PV 
+installations and/or 
+EV charging points.   Medium to long 
+term Battery storage does 
+not reduce carbon emissions per se but can improve the efficiency of other systems and reduce the reliance on the grid, saving both money and improving security of supply, both of which will be important as 
+AWC moves to the use 
+of heat pumps and EVs. At current prices the 
+installation of batteries is likely to make more commercial sense for larger projects. If a heat pump led heat 
+network is 
+delivered  
+for the Civic Quarter or 
+Shoreham Centre (Action H2), potentially along with PV and EV charging), this may be of sufficient scale to make a battery system viable.  Battery systems can be 
+profitable where they combine the income from peak shaving, avoidance of use of service charges, arbitraging grid prices with time of use tariffs, frequency response contracts and additional value of PV and/or EVs.  Medium-Low Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  37 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+ Low carbon transport       
+T1 Review AWC fleet and 
+replacement plans Conduct an audit of 
+vehicle fleet to 
+assess 
+opportunities for 
+renewal with zero 
+emission 
+alternatives Short term  N/a – enabling action 
+  Internal action (AWC) 
+ Officer resources required  
+  Medium-High 
+T2 Replace AWC car and 
+van fleet with zero 
+emission alternatives Based on the audit 
+carried out as part 
+of Action T1, 
+replace AWC 
+vehicles with zero 
+emission 
+alternatives as 
+these come up for 
+replacement. Medium term Cars and vans 
+represent around 5% of 
+AWC’s Scope 1 and 2 
+emissions, but the importance of this measure is also linked with the Councils taking a leadership role to encourage the wider uptake of EVs.  Internal action (AWC) Depends on the technology in 
+question and prices are likely to change significantly in the coming years.   Currently EVs tend to be more expensive in whole lifecycle costs than conventional vehicles. This is primarily due to high capital costs and depreciation rates, although the running costs are lower.   Note that the cost to drivers of using EV, hybrid and traditional fuel vehicles may converge in the coming decade.  High 
+T3 AWC to plan for future 
+replacement of HGVs 
+with zero emission 
+alternatives Replacement of the 
+Council owned 
+HGV fleet with low 
+carbon alternatives 
+will be needed to 
+achieve the 2030 
+decarbonisation 
+target and therefore 
+should be 
+accounted for in 
+relevant plans and Long term  Emissions from Council 
+owned HGVs represent a large proportion (around 26%) of the Council’s Scope 1 and 2 emissions.    This action relies upon 
+the technology to become available and cost effective by the time the replacement is due – deliverability uncertain. Costs will depend on 
+technology readiness, the state of the LEV market and Government incentives at the time of investment. High Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  38 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+budgets. 
+T4 AWC to install public 
+charging infrastructure 
+in its own estate Help to support EV 
+uptake through 
+further provision of 
+infrastructure within 
+AWC’s own estate. 
+This would involve 
+carrying out a 
+review of existing 
+car parks and 
+parking spots, 
+assessing the 
+current and future 
+level of demand for 
+EV charging, and 
+identifying locations 
+that would be 
+suitable based on 
+the findings.  
+ 
+ Short to medium 
+term Shows leadership in 
+promoting sustainable transport and helps to overcome the ‘chicken and egg’ problem of EV uptake relying on available charging infrastructure.  
+At present, the number 
+of public EV charging 
+points in the Local 
+Authority area30 is  
+ Worthing: 10 public 
+charging points (3 
+rapid) 
+ Adur: 2 public 
+charging points (0 
+rapid)  
+ This should be 
+coordinated with Action D1 (discussions with UKPN) to understand infrastructure capacity / constraints.  Budget required to commission 
+a study of suitable locations and types (estimate £15-30K depending on scope).  Indicative costs for different EV charging points
+31 are as follows 
+–  Slow (3.50-7kW): £500-
+1000 
+ Fast (7-22kW): £2,000-
+3,000 (AC) or £19,000 (DC) 
+ Rapid (up to 50kW): £20K-
+40K  
+Costs will depend on the level of additional infrastructure required, including electrical capacity reinforcements.   There is a difference in cost when considering upfront installation compared with retrofitting. Per DfT estimates –   Typical domestic: £976 for 
+upfront versus £2,040 for retrofitting 
+ Typical non-domestic:  
+£3,822 for upfront versus Medium-High 
+                                                                                                           
+30 See http://maps.dft.gov.uk/ev-charging-map/  
+31 Energy Saving Trust, ‘Guide to chargepoint infrastructure for business users’  (2017). Available at: 
+https://www.energysavingtrust.org.uk/sites/default/file s/reports/6390%20EST%20A4%20Chargepoints%20guide_v10b.pdf  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  39 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+£4,925 for retrofitting 32 
+T5 Reduce mileage of 
+rental and owned fleet 
+cars and other vehicles This action should 
+seek to address 
+both vehicle 
+movements (that is, 
+finding ways to 
+reduce the number 
+of journeys required 
+by the Councils) as 
+well as user 
+behaviours and 
+choices. Review 
+usage patterns, 
+ensure efficiency of 
+systems and 
+bookings, routing 
+and rounds. 
+Encourage 
+employees to use 
+other modes for 
+business meetings 
+and  facilitate 
+ridesharing. Short to medium 
+term Relatively low but 
+necessary to mitigate the cost of shifting to ULEVs and mitigate pressure on grid infrastructure and fuel costs WDC to explore 
+options for reducing mileage. Requires effective internal communication. Moderate officer resources 
+required to plan and deliver this measure. Potential cost savings due to lower demand for fuel, maintenance, etc. Medium-High 
+T6 Reduce emissions from 
+owned and rented 
+vehicles by introducing 
+minimum performance 
+requirements 
+(CO 2/mile) Undertake review of 
+good practice and 
+case studies in 
+other organisations. 
+Explore 
+incentivising 
+through different 
+mileage payment 
+rates.  Short to medium 
+term CO 2 saving not 
+assessed but this would help to enable a reduction in transport emissions Requires effective 
+internal communication and engagement with finance/payroll/HR. Limited officer resources 
+required.   The higher capital cost of ULEVs may increase costs for the Councils, but this could be offset in part through higher payments for more polluting vehicles and lower running costs for ULEVs. Medium-Low 
+                                                                                                           
+32 Department for Transport, ‘Industrial Strategy: Electric Vehicle Char ging in Residential and Non-Residential Buildings’  (July 2019). Available at: 
+https://assets.publishing.service.gov.uk/gov ernment/uploads/system/uploads/attachment_dat a/file/818810/electric-vehicle-chargin g-in-residential-and-non-residential-buildings.pdf  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  40 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+T7 Reduce emissions from 
+HGVs where possible Aim to achieve a 
+15% reduction in 
+CO 2 emissions from 
+HGVs through 
+measures such as 
+smart route 
+planning and driver 
+training.  Short to medium 
+term A 15% reduction would 
+lower the Councils’ total Scope 1 and 2 emissions by around 4%. (The target is based on industry-wide aspirational targets for lowering HGV emissions, under the assumption that ULEV HGVs will not be widely available.) AWC to undertake 
+review of best practice measures implemented in other organisations and develop implementation strategy Level of investment depends on 
+the measures selected for implementation. Medium-Low 
+ Offsetting       
+O1 Undertake an 
+assessment of 
+opportunities for 
+offsetting residual CO 2e 
+emissions  AWC to commission 
+a study to review 
+specific project 
+opportunities for 
+delivering carbon 
+savings through 
+investment in 
+renewables or other 
+projects, both within and outside of the 
+Local Authority 
+area, including a 
+review of costs and 
+benefits. 
+Opportunities could 
+include e.g. 
+investing in large-
+scale PV or wind 
+generation, 
+woodland creation, Medium term Potentially high impact, 
+but note that energy 
+demand reduction 
+measures, and reducing 
+the use of fossil fuels 
+are a higher priority than 
+carbon offsetting. 
+ AWC to commission / 
+undertake study Budget required to commission 
+a study (estimate £10-30K depending on scope) plus officer resources.   Estimates of potential delivery costs are provided below, 
+based on published figures.
+ 33  
+ Solar farms – Cost in the UK 
+can be around £1,000,000 per MW. A 5 MW solar farm may occupy around 25 acres of land.
+34   
+ Large-scale wind – Cost of 
+onshore wind can be around £1,000,000 per MW. A large turbine of 1.5 Medium-Low 
+                                                                                                           
+33 International Renewable Energy Agency, ‘Renewable Power Generation Costs in 2018’ (2018). Available at: https://www.irena.org/-/media/Files/IRENA/A gency/Publication/2019/May/IRENA_Renewable-
+Power-Generations-Costs-in-2018.pdf  
+34 According to the UK Solar Trade Association: https://www.solar-trade.org.uk/solar-farms/  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  41 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+etc.  
+ 
+ MW might be 70-120m in 
+height. 
+ Note that costs have decreased significantly in recent years and, in future, may vary widely 
+depending on UK Government policy initiatives, funding, etc. 
+AWCAWC 
+O2 AWC to consult on the 
+options for delivering 
+offsite CO 2e emissions 
+savings Based on the 
+results of this 
+studies and the 
+other studies 
+recommended 
+above, AWC should 
+discuss the ‘offset’ 
+options internally to 
+agree on an 
+approach that 
+would be most 
+acceptable, taking 
+account of the 
+measure and 
+location. 
+ Medium term N/a – enabling action Internal action (AWC) Officer resources required. Medium-Low 
+ Scope 3 Emissions       
+S1 Work with suppliers to 
+provide better 
+emissions data In order for the 
+Council to better understand its Scope 3 emissions further information will be required from its suppliers in relation to the CO
+2e 
+emissions Short term N/a – enabling action Internal action (AWC) 
+but requiring the 
+support of suppliers No additional costs are 
+envisaged for this, but officer 
+resources will be required to 
+engage with suppliers. High Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  42 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+associated with the 
+services being procured by AWC. This requirement needs to be discussed with existing suppliers and built into all new contracts. 
+S2 Reduce waste 
+production in Council 
+offices AWC to review 
+existing waste 
+streams, identify 
+relevant 
+opportunities and 
+guidance related to 
+waste reduction and 
+implement 
+appropriate 
+measures. Short term Although the CO 2e 
+emissions associated with waste generated by the council have not yet been quantified, any measures to reduce waste generation and waste sent to landfill will have a positive environmental impact Internal action (AWC)  Office r time to review existing 
+waste streams and identify suitable measures to promote waste reduction and recycling.   Medium-Low 
+S3 Reduce water 
+consumption in AWC 
+offices AWC to reduce 
+water consumption 
+in buildings through 
+the use of low water 
+use toilets, flow 
+restrictors on taps 
+and showers and 
+leak detection 
+systems. Grey/rain 
+water systems 
+could also be 
+investigated.  Medium term Potentially low-medium 
+in terms of CO 2e 
+emissions reduction but offers other environmental and cost benefits due to conservation of water resources AWC to develop rollout 
+programme for easy win measures and specify low water-use fittings as part of any refurbishment programmes Minimal costs for flow restrictors 
+and if sanitaryware is part of planned replacement works. Grey/rainwater systems would have higher costs. Medium-High 
+S4 Low carbon heating 
+systems in Council 
+leased properties and / 
+or properties owned by Undertake a review 
+of the buildings 
+Council leased 
+properties and / or Short term See previous notes on 
+the benefits of low carbon heating systems.  AWC to undertake 
+assessment.   Officer resources required to 
+develop heating replacement programme. Medium-Low Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  43 
+  Ref Action Description Timeframe E ffectiveness Deliverability / roles Investment / resource 
+implications Priority 
+the Council but leased 
+by other organisations properties owned 
+by the Council but 
+leased by other 
+organisations to 
+identify whether 
+there are 
+opportunities for 
+installing low 
+carbon heating 
+systems.  
+Decarbonising heat will be crucial to achieving the decarbonisation target.   Deliverability depends 
+on the specific contracting / tenancy arrangements for the building(s) in question.  
+As per costs above. 
+S5 Support waste 
+reduction and water 
+conservation measures 
+in leased and tenanted 
+properties AWC to identify and 
+keep informed of 
+waste reduction and 
+water conservation 
+initiatives and 
+actively seek out 
+opportunities to 
+engage / promote 
+these schemes on 
+an ongoing basis Short term  As above, measures 
+that the Council can take to promote waste minimisation, good reuse, recycling and composting practices, water efficiency, and potentially rainwater harvesting, or greywater recycling. AWC and waste 
+contractors  Officer time to promote waste 
+reduction and recycling  Medium-Low 
+        Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  44 
+  4.2 Measuring progress 
+Monitoring and review 
+We recommend that the Councils set up a monitoring and review process to assess progress against 
+the CO 2e emission projections and other targets. This could be done on an annual basis or, to align 
+with the Committee on Climate Change’s national carbon budgets, be split into 5-year periods.  
+Quarterly:   Monitor progress against the Carbon Neutral Plan  
+ Report to members and partners 
+Annually: 
+ Report progress to internal and external audiences 
+ Monitor renewable energy generat ion and installed capacity 
+ Monitoring of the cost benefits achieved (for instance, by estimating the energy savings that are 
+achieved and the costs avoided as a result)  
+In addition to reporting on the steps taken to achieve specific actions, the priorities of this Carbon 
+Neutral Plan should be reviewed on an annual basis. This review should account for broader factors 
+such as policy or technological changes; where appropriate, the Carbon Neutral Plan should be updated to reflect such changes. 
+Assessment metrics 
+In addition to annual CO 2e emissions, other metrics can be used to monitor positive enabling steps 
+taken by Adur & Worthing Councils. Some examples are provided in the table below, which could be 
+used to set additional quantitative targets.  
+ Topic Method 
+1 Deployment of low carbon heat ing systems (heat pumps and 
+heat networks) in Council-owned properties Councils to maintain internal 
+records 
+2 ULEV vehicles in the Council-owned fleet / pool cars (number 
+of vehicles and % of total journeys or distance travelled) Councils to maintain internal 
+records 
+3 Improvement in energy efficien cy of Council-owned buildings 
+as a result of improvement works EPC and DEC records or 
+other surveys 
+4 Capacity of LZC energy technologies installed by the Council 
+(MW) Councils to maintain internal 
+records 
+5 Amount of renewable heat or electricity generated by LZC 
+energy technologies, used onsite and / or exported (MWh p.a.) Councils to maintain internal 
+records 
+6 EV charging points owned / operated by the Council (number, 
+type, location) Councils to maintain internal 
+records 
+7 Deployment of smart meters within Council-owned properties 
+(number and % of total properties) Councils to maintain internal 
+records 
+8 Assessment of the progress of national electricity grid 
+decarbonisation Carbon factors are published 
+annually by BEIS 
+9 Any other CO 2e offsetting e.g. areas of woodland created, 
+trees planted, PPAs or carbon redu ction certification achieved  Councils to maintain internal 
+records 
+ Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  45 
+  5. Conclusion 
+5.1 Recommendations 
+The measures and actions described in this Carbon Neutral Plan reflect the following overarching 
+recommendations: 
+ Adur & Worthing Councils should take a leadership role in reducing CO 2e emissions by examining 
+their own operations, buildings, vehicle flee t, services and investments and identifying best 
+practice measures that can be implemented. 
+ The Councils should recognise that demand redu ction, fuel switching and LZC energy generation 
+are top priorities. However, given that some ca rbon offsetting will inevitably be required to meet 
+the decarbonisation target, the Councils should im mediately start carrying out further research to 
+understand the offsetting opportunities that might be available. 
+Some of the actions laid out in this Plan will re ly on broader trend s that are outside of the Councils’ 
+control. Therefore: 
+ The Councils should proactively support other Local Authorities and organisations in delivering 
+the actions required to reach net zero carbon. The SLES SMARTHUBS project is an example of 
+an opportunity for the Councils to exert indirect influence in this regard. 
+ The Councils should take steps to lobby t he Government to achieve more rapid and deeper 
+carbon reductions across key priority areas, in cluding higher energy efficiency standards for new 
+and existing buildings, policies that support uptake of renewable and low carbon technologies, and the development of low carbon transport and infrastructure.  
+ The Councils should proactively support such measures through their own planning policy and 
+decisions. In particular, the Councils should take a proactive and positive attitude towards 
+increasing the amount of local LZC energy generat ion as an important means of ‘doing their part’ 
+on national electricity grid decarbonisation. Simila rly, they should seek to facilitate ULEV uptake 
+wherever possible. 
+5.2 Next steps 
+Based on the findings of this report, we propose the following immediate next steps: 
+ Disseminate findings of this report and carry out further consultation to review and approve the 
+Carbon Neutral Plan. 
+ Begin the process of reaching out to stakehol ders, including local authorities, LEPs, utility 
+companies (e.g. UKPN, Southern Gas), government departments / agencies (e.g. Department for 
+Transport, Department of Environment, Food and Rural Affairs, and the Forestry Commission), and others (e.g. WRAP) to identify opport unities for collaboration and engagement. 
+ Review any ongoing or near future projects that are relevant to the measures listed in the Carbon 
+Neutral Plan to ensure that activities are well-co ordinated and integrated. This would include, for 
+instance, plans for redeveloping the Civic Quar ter, plans to reduce vehicle mileage in waste 
+collection routes, and plans to refurbish or replac e existing buildings, in addition to the Council’s 
+general strategies for building management or fleet replacement.   
+5.3 A final note 
+The results of this analysis show that the route towards becoming carbon neutral will require a strong level of ambition and commitment, backed up by signif icant interventions and in vestment across Adur 
+& Worthing Councils’ operations. Although the study shows that m eeting the carbon neutral ambition 
+will rely upon some factors outside of the Councils ’ control, such as the decarbonisation of the grid 
+and availability of key technology, the fundamental steps required to deliver the net-zero target are 
+clear and with strong leadership from the Councils these can be set into action now. Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  46 
+   – Modelling methodology Appendix A
+A.1 Data sources  
+The table below summarises the data used in es tablishing Adur & Worthing Councils’ baseline CO 2e 
+emissions.  
+Category Description Data used in this analysis 
+Scope 1 Direct emissions from 
+sources owned or controlled by the reporting organisation  Metered gas data (for buildings where the Councils pay 
+the gas bills) (kWh and £) 
+Mileage for Council-owned vehicle fleet and pool cars, 
+along with vehicle make/model and age 
+Scope 2 Indirect emissions from the 
+generation of energy purchased by the reporting organisation Metered electricity data (for buildings where the Councils 
+pay the electricity bills) (kWh and £) 
+Note that, where data was unavailable, CIBSE Guide F 
+2012 ‘typical practice’ benchmarks for ‘local government office’ have been used to estimate fuel consumption. 
+Scope 3 Indirect emissions that result 
+from other activities that occur in the value chain of the reporting organisation, either upstream or downstream. Metered water use data (m
+3) 
+Records of business travel by the Councils’ employees 
+(cost data provided; mileage estimated from £/mi) 
+ 
+Although a sense-checking exercise was carried out to ensure the completeness and accuracy of the 
+data provided by Adur & Worthi ng Councils, AECOM acce pts no responsi bility for any errors or 
+omissions therein. 
+A.2 Baseline carbon emissions 
+General approach 
+The carbon emissions baseline was estimated in co mpliance with the methodology and conversion 
+factors for greenhouse gas emissions reporting published by BEIS in 2019. 
+CO 2e figures for different fuel types and activities were taken from the BEIS ‘Green Book 
+Supplementary Guidance: Toolkit for valuing changes in greenhouse gas emissions, Table 1’  (2019). 
+These include figures for CO 2e emissions from: 
+ Use of natural gas (kgCO 2e / kWh) 
+ Use of UK grid electricity (kgCO 2e / kWh) 
+ Distance travelled (figures are provided  for various different vehicle types) (kgCO 2e / km) 
+ Water consumption (kg CO 2e / m3) 
+Figures for electricity and gas consumption (kWh),  vehicle mileage (km) and water consumption (m3) 
+were multiplied by these CO 2e figures to obtain an estimate of the total emissions from each category.  
+Estimating vehicle mileage 
+Adur & Worthing councils provided AECOM with a dataset of vehicles which included the total 
+mileage, the fuel type, the year of manufacture and the registration number of each vehicle.  
+In order to estimate emissions from the Councils ’ vehicle fleet, average yearly mileage figures were 
+calculated based on the total mileage and the years in service for each vehicle. Then, the annual 
+carbon emission figures for vehicles up to 3.5 t were estimated based on the fuel type, revenue Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  47 
+  weight (obtained from gov.uk MOT database35 using registration numbers) and the corresponding 
+CO 2e figures provided by the BEIS under Scope 1. The same procedure was followed for the heavier 
+vehicles using the average laden values provided by BEIS. 
+In order to estimate emissions from pool car usage, a similar approach was taken. The council 
+provided a dataset which included fuel types, trip  distances and registration numbers of all the 
+vehicles hired. The emissions were estimated based  on the fuel type, trip distances, the engine size 
+(also obtained from the gov.uk MOT database) and the corresponding CO 2e figures provided by the 
+BEIS under Scope 3 (‘business travel’); however, these are included in Scope 1 in this report because 
+Adur & Worthing Councils control the operation these vehicles. 
+A.3 Carbon emission projections 
+The carbon emissions projections are carried out  based on the following key assumptions. 
+Grid decarbonisation pathway 
+Carbon emission factors (CEFs) for electric ity were taken from HM Treasury/BEIS ‘Green Book 
+Supplementary Guidance: Toolkit for valuing changes in greenhouse gas emissions, Table 1’  (2019) 
+which is intended for use by organisations reporting on  their greenhouse gas emi ssions. Note that this 
+trajectory reflects the level of decarbonisation that  would be necessary for the UK to meet its current 
+decarbonisation targets. It is not a projection of  the likely emissions from grid electricity.  
+Electricity demand reduction 
+Evidence suggests that reductio ns of around 5% can be achieved through measures such as 
+behavioural changes, smart metering, and zone lighting.  Case studies suggest that greater reductions 
+are possible for some organisations. However, in re cognition of the fact that electricity use has 
+increased in the past decade due to factors such as  increasing use of electronic appliances, 5% has 
+been used as a conservative estimate.  
+The model assumes that total electricity consumpt ion will decrease linearly through the year 2030, at 
+which point this reduction will be achieved.  
+Heating demand reduction from energy efficiency measures 
+Evidence from the National Energy Efficiency Database (NEED) indicates that installing multiple 
+energy saving measures (such as cavity wall or loft insulation) can reduce heating bills by around 10%. From a technical standpoint, higher savings (over 75% in some properties) could be achieved with more ambitious retrofitting strategies,
+36 so this assumption has been used as a conservative 
+estimate.  
+This would not necessarily require all buildings to undergo a retrofit – it represents an average across 
+the entire stock. In other words, some buildings could be retrofitted to a higher standard, while others 
+(such as Listed buildings) receive no upgrades.  
+The model assumes that total gas consumption will decrease linearly through the year 2030, at which 
+point this reduction will be achieved.  
+Impact of fuel switching 
+This calculation assumes that the metered gas c onsumption is delivered by individual gas boilers 
+(80% efficiency). The total metered gas consumption data is used to provide a rough estimate of the 
+amount of electricity that would be required if this level of demand was instead met using direct electric heating (100% efficiency) or heat pumps (C OP of 2.5, which is intended as a conservative 
+estimate that reflects the performance of air source heat pumps in situ).  
+It is assumed that the Crematorium will also switch  to an electric system offering similar performance 
+levels (see energy audit report for further details). 
+                                                                                                           
+35 https://vehicleenquiry.servi ce.gov.uk/ViewVehicle   
+36 https://passipedia.org/certification/enerphit  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  48 
+  The model assumes that 90% of Council-owned build ings will switch to an electric heating system by 
+2030. This would require an ambitious programme of heating system replacement with significant cost 
+implications. Therefore, the calc ulation also assumes that 50% of  the new heating systems will be 
+DEH and 50% will be ASHP as an illustrative scenario,  in recognition of the fact that DEH may be 
+cheaper and more practical to install. Additional carbon reductions could pot entially be achieved if 
+more systems were replaced with ASHPs.  
+The model assumes that gas heating systems will be replaced with electric heating systems at a 
+consistent rate (i.e. linearly) to 2030.  
+Vehicle mileage reduction 
+According to the ‘Road to Zero’  report: ‘Evidence from 60,000 fleet driver s receiving training through 
+the Energy Saving Trust (EST), a key partner supporting the efficient motoring agenda, gave an 
+average 15% saving of fuel and CO 2 […] Organisations that have incorporated a wider package of 
+behavioural and procedural measures in managing their fleets […] have delivered typical emission 
+savings of between 10-30%.’  
+In this report we have assumed a 10% reduction in mileage is possible across the organisation, based 
+on case study evidence,37 and that emissions from HGVs could decrease by up to15%. 
+The model assumes that a 10% reduction in either jour neys, vehicles, or miles travelled will result in a 
+10% reduction in CO 2e emissions from those vehicles. In realit y, a travel strategy aimed at reducing 
+emissions would likely seek to target certain types of  trips, vehicles, or users, so this approach should 
+be understood as a rough estimate. However, for t he purpose of this analysis, it is considered 
+sufficient to show a simple proportional reduction to highlight the relative scale of impact such a measure could have, relative to other interventions. 
+Impact of switching to ULEVs 
+Based on the estimated mileage for each vehicle type, we have re-calculated CO 2e emissions using 
+BEIS Green Guide figures for electric vehicles.  
+Carbon savings from LZC energy generation 
+Carbon savings from LZC energy gen eration are based on the amount of national grid electricity that 
+would be offset by renewable electricity.  
+The user inputs a total figure for the amount of LZ C capacity that will be installed by 2030, and the 
+model assumes that the total savings increase linearly up to that point. 
+An estimate is then made of the potential amount of  renewable electricity that could be generated by 
+those technologies (large-scale PV or wind). The el ectricity generation figure is multiplied by the CEF 
+for a given year to provide an estimate of the total CO 2e savings in a given year. 
+ Large-scale PV:  Assumed output of 800 kWh/kWp based on typical performance in the UK 
+ Large-scale onshore wind:  Capacity factor based on renewable energy capacity and 
+generation figures for Adur and Worthing, per BEIS, ‘Renewable energy by Local Authority’  
+(2019) 
+Note that, as the electricity grid decarbonises, more LZC energy generation is required to offset any 
+residual emissions. Therefore, although the amount of  LZC capacity is assumed to increase linearly, 
+the savings per MW decrease as time goes on. 
+Carbon reductions from woodla nd creation and tree planting 
+Based on nation-wide statistics from the Woodland Carbon Code, new woodlands created from low-
+grade agricultural land have the potential to sequester around 356 tCO 2e per hectare over 100 years, 
+or 3.56 tCO 2e per hectare per year on average.  
+                                                                                                           
+37 Department for Transport and Energy Savings Trust, ‘Mileage Management – A Guide for Fleet Managers’  (2015).  Available 
+at: https://www.energysavingtrust.org.uk/sites/ default/files/reports/4548_EST_A4_mileage_mmt_4.pdf   Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  49 
+  It is assumed that the amount of new woodland in creases linearly to 2030. Based on user inputs for 
+the number of hectares planted, the model calculates  the total potential carbon reduction potential. 
+This is subtracted from the total estimated carbon  emissions following adoption of all intervention 
+measures, after accounting for renewable energy generation. 
+A.4 References 
+BEIS, ‘Emissions reduction pledge 2020: Emissions reporti ng in public and higher education sectors’  
+(2018). Available at: https://www.gov.uk/government/publicatio ns/emissions-reducti on-pledge-2020-
+emissions-reporting-in-public-and-higher-education-sectors  
+BEIS, ‘Green Book Supplementary Guidance: Toolkit for valuing changes in greenhouse gas 
+emissions, Table 1’  (2019). Available at: https://www.gov.uk/governmen t/publications/valuation-of-
+energy-use-and-greenhouse-ga s-emissions-for-appraisal   
+BEIS, ‘Greenhouse gas reporting: Conversion factors 2019’  (2019). Available at: 
+https://www.gov.uk/government/publ ications/greenhouse- gas-reporti ng-conversion- factors-2019   
+BEIS, ‘ Renewable energy by Local Authority’  (2019). Available at: 
+https://www.gov.uk/gover nment/statistics/regional-renewable-statistics   
+Forestry Commission, ‘Woodland Carbon Code Projects in the UK at 31 March 2019’  (published June 
+2019). Available at: https://data.gov.uk/data set/058df59a-bb57-4959-8 a39-2dc35b0d894f/forestry-
+statistics-woodland-carbon-code-statistics   
+NEED, ‘Summary of Analysis, Great Britain’  (2019). Available at: 
+https://assets.publishing.service.gov .uk/government/uploads/system/ uploads/attachment_data/file/812
+561/National_Energy_Efficiency_Data_Framework __NEED__report_summary_of_analysis_2019.pdf   
+  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  50 
+   – Historic Scope 1 & 2 emissions for Adur & Appendix B
+Worthing Councils 
+Scope 1 & 2 emissions for the financial years 2011/12 through 2018/19 are presented below, based 
+on the data and methodology as described in Appendix A.  
+ 
+Details are provided in the table below. 
+ Emissions (tCO 2e) 
+Category Fuel 2011/12 
+ 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 
+Non-Residential  Elec 894 982 1,005 922 820 598 491 484 
+Gas 388 388 440 405 387 415 465 422 
+Residential 
+ Elec 133 147 230 199 161 114 90 75 
+Gas 415 415 409 359 354 350 369 346 
+External  Elec 576 633 277 619 511 400 284 205 
+Crematorium 
+ Elec 88 97 110 94 83 67 58 57 
+Gas 254 254 422 368 276 546 377 448 
+ 
+All categories Elec 1,057 1,057 1,271 1,132 1,017 1,310 1,212 1,215 
+All categories Gas 1,692 1,859 1,622 1,834 1,575 1,178 923 820 
+Transport All 873 873 873 873 873 873 873 873 
+TOTAL Scope 1 & 2 All 3,621 3,788 3,766 3,838 3,464 3,361 3,007 2,908 
+ 
+Scope 3 emissions – Business travel (essential and casual user mileage) and water consumption only 
+Business travel All Estimated average 33 t CO 2e per year 
+Water All - - - - - - 28 33 
+ 
+  
+   - 500 1,000 1,500 2,000 2,500 3,000 3,500 4,000 4,500
+2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19Scope 1 & 2 emissions (tCO2e p.a.)
+Gas Electricity TransportAdur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  51 
+   – Recommendations from the energy audits Appendix C
+carried out to date 
+In order to identify specific opportunities for demand reduction measures in the Councils’ own 
+buildings, AECOM carried out building energy audits on a range of properties owned and operated by Adur & Worthing Councils. The following tables summarise energy conservation measures (ECMs) identified for each of these pr operties and suggest potential timelines for implementation. 
+Acronyms Name  
+AMR Automatic Meter Reading 
+BMS Building Management System 
+CCL Climate Change Levy 
+CCHP Combined Cooling, Heat & Power 
+CHP Combined Heat & Power 
+DHW Domestic Hot Water 
+DX Direct Expansion 
+ECM Energy Conservation Measure 
+HVAC Heating, Ventilation & Air Conditioning 
+kWh Kilo-Watt Hour 
+LED Light Emitting Diode 
+LPHW Low Pressure Hot Water 
+LZC Low Zero Carbon 
+MWh Mega-Watt Hour 
+M3 Cubic Meters 
+SC Space Cooling 
+SH Space Heating 
+VRV Variable Refrigerant Volume 
+VSD Variable Speed Drive 
+FY Financial Year 
+ Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  52 
+  Limitations 
+AECOM Limited (“AECOM”) has prepared this Report for the sole use of Adur & Worthing Councils in 
+accordance with the Agreement under which our services  were performed. No other warranty, expressed or 
+implied, is made as to the professional advice included  in this Report or any other services provided by AECOM. 
+This Report is confidential and may not be disclosed by the Client nor relied upon by any other party without the 
+prior and express written agreement of AECOM.  
+The conclusions and recommendations contained in this  Report are based upon information provided by others 
+and upon the assumption that all relevant information has been provided by those partie s from whom it has been 
+requested and that such information is accurate.  In formation obtained by AECOM has not been independently 
+verified by AECOM, unless otherwise stated in the Report.  
+The methodology adopted and the sources of information used by AECOM in providing its services are outlined 
+in this Report. The work described in this Report was undertaken in [September 2019]  and is based on the 
+conditions encountered and the information available during t he said period of time. The scope of this Report and 
+the services are accordingly factua lly limited by these circumstances.  
+Where assessments of works or costs identified in th is Report are made, such assessments are based upon the 
+information available at the time and where appropriate are subject to further investigations or information which 
+may become available.   
+AECOM disclaim any undertaking or obligation to advise any person of any change in any matter affecting the 
+Report, which may come or be brought to AEC OM’s attention after the date of the Report. 
+Certain statements made in the Report th at are not historical facts may consti tute estimates, projections or other 
+forward-looking statements and even though they are based on reasonable assumptions as of the date of the 
+Report, such forward-looking statements by their nature involve risks and uncertainties  that could cause actual 
+results to differ materially from the results predicted.  AECOM specifically does not  guarantee or warrant any 
+estimate or projections contained in this Report. 
+Unless otherwise stated in this Report, the assessments m ade assume that the sites and facilities will continue to 
+be used for their current purpose without significant changes.  
+Where field investigations are carried out, these have be en restricted to a level of de tail required to meet the 
+stated objectives of the services. The results of any measurements taken may vary spatially or with time and 
+further confirmatory measurements should be made a fter any significant delay in issuing this Report. 
+Costs may vary outside the ranges quoted.  Whilst cost es timates are provided for individual issues in this Report 
+these are based upon information at the time which can be incomplete. Co st estimates for such issues may 
+therefore vary from thos e provided. Where costs are supplied, t hese estimates should be considered in 
+aggregate only. No reliance should be made in relation to any division of aggregate costs, including in relation to 
+any issue, site or other subdivision. 
+No allowance has been made for changes in prices or ex change rates or changes in any other conditions which 
+may result in price fluctuations in the future. Wher e assessments of works or costs necessary to achieve 
+compliance have been made, these are based upon measures which, in AECOM’s experience, could normally be negotiated with the relevant authorities under presen t legislation and enforcement practice, assuming a pro-
+active and reasonable approach by site management. 
+Forecast cost estimates do not incl ude such costs associated with any negotiations, appeals or other non-
+technical actions associated with the agreement on measur es to meet the requirements of the authorities, nor are 
+potential business loss and interruption costs considered that  may be incurred as part of any technical measures. 
+  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  53 
+  C.1 Worthing Town Hall 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1i Boiler plant replacement 
+with ASHP Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £34 per tonne CO 2 
+1ii Boiler plant replacement  Medium term, medium impact 
+works Payback 17 years 
+2 Secondary glazing Short term, low impact works Payback 12 years 
+3 Linking of room booking 
+systems to BMS Short term, low impact works Not quantified 
+4 Review of BMS temperature 
+set points Immediate, medium impact works Instant 
+3 Rainwater harvesting Short term, low impact works Not quantified 
+ 
+C.2 Portland House 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1i Boiler plant replacement 
+with ASHP Medium / long term, high impact 
+works 
+ Additional 20-year WLC 
+cost of £207 per tonne CO 2 
+1ii Boiler plant replacement Medium term, medium impact 
+works 
+ Payback 32 years 
+3 Resealing of the double-
+glazed windows Short term, low impact works 
+ Unknown 
+4 Investigate the variable 
+electrical baseload n/a n/a 
+ 
+C.3 Sheltered housing 
+Note that surveys were conducted at three of the Councils’ sheltered housing schemes. Results for all 
+properties are summarised below. 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1.i Replace boilers with ASHPs Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £32 per tonne CO 2 
+1.ii Replace boilers with 
+GSHPs Medium / long term, high impact 
+works Payback 10 years  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  54 
+  2 Improve control systems Short term , low impact works Payback 2 years 
+3 Replacement boilers  Medium term, medium impact 
+works Payback 8.2 years 
+4 Plantroom insulation 
+(Ashcroft) Short term, low impact works Payback in 2 years 
+ 
+C.4 Multi storey car parks (MSCPs) 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1 Roof mounted PV panels Medium term, medium impact 
+works 9.8-16.4 years 
+ 
+C.5 Crematorium 
+ECM# ECM Potential implementation 
+timeline Estimated economic 
+impact 
+1 Conversion of gas-fired 
+cremators to induction Long term, high impact Not quantified 
+2 PV installation in car park Medium term, medium impact Payback in 7.01 years 
+3 Capture of waste heat for 
+external use Long term, high impact Not quantified 
+4 Overdoor heating curtains Short term, small impact Payback in max. 12.7 years 
+ 
+ 
+C.6 Shoreham Centre 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1i Boiler plant replacement 
+with ASHP Medium / long term, high impact 
+works Extra £200/tonne C0 2 saved 
+1ii Boiler plant replacement 
+with GSHP Medium / long term, high impact 
+works Extra £76/tonne C0 2 saved. 
+2 VSDs on old space heating 
+circuit Short term, small impact works 10-year payback 
+3 Timer control on bar bottle 
+fridges Short term, small impact works Maximum 2.5-year payback 
+4 Reduction in level of cooling 
+in server room Instant change Instant payback Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  55 
+  5 Automation of temperature 
+control (old part of building) n/a n/a 
+6 HVAC zonal control linked to 
+room booking system n/a n/a 
+7 Rainwater harvesting n/a n/a 
+ 
+C.7 Commerce Way 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1i Office Boiler plant 
+replacement with ASHP Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £344 per tonne CO 2. 
+1ii Office Boiler plant 
+replacement with GSHP Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £309 per tonne CO 2. 
+2 Workshop gas heaters 
+replaced with infrared spot heaters Short term, high impact works Payback in 10 years 
+3 Workshop internal lighting 
+system replaced with LED Short term, medium impact works Payback in 1.5 years 
+4 PV over vehicle parking 
+areas Long term, medium impact works Payback in 10.1 to 17.6 
+years 
+5 Office area loft insulation Short term, medium impact works Payback in 5 years 
+6 Office Window replacement Short term, medium impact works Not quantified 
+7 Level of heating in unused 
+portion of building Instant Instant 
+8 Server room cooling level Instant Instant 
+ 
+C.8 Assembly Hall 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1 BMS strategy review Short term, high impact works Immediate payback 
+2 Boiler plant replacement Medium / long term, high impact 
+works Refer to Town Hall survey 
+report 
+3 Stage lighting replacement Medium term, small impact works Payback 0.5 years 
+4 Secondary glazing Short term, low impact works Payback 3.8 – 7 years 
+5 Rainwater harvesting Short term, low impact works Not quantified 
+ Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  56 
+  C.9 Worthing Museum 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1 HVAC and BMS review During upcoming redevelopment Not quantified 
+2 Secondary glazing During upcoming redevelopment Payback in 8.8-15 years 
+3 Rainwater harvesting During upcoming redevelopment Not quantified 
+ 
+C.10 Worthing Leisure Centre 
+# Measure Potential implementation 
+timeline Estimated economic 
+impact 
+1i Boiler plant replacement 
+with ASHPs Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £234 per tonne CO 2. 
+1ii Boiler plant replacement 
+with GSHPs Medium / long term, high impact 
+works Additional 20-year WLC cost 
+of £52 per tonne CO 2. 
+3 Photo voltaic panels Medium term, high impa ct works Payback in 8.9 to 12.3 years 
+2 Grey water heat recovery Short term, small impact works Not quantified 
+4 Rainwater harvesting Medium term, small impact works Not quantified 
+5 Ventilation heat recovery Medium term, small impact works Not quantified 
+ 
+  
+  Adur & Worthing Council – Carbon Neutral Plan    AECOM 
+ 
+ 
+  
+Prepared for:  Adur & Worthing Councils  57 
+   

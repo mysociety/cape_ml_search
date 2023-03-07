@@ -1,0 +1,660 @@
+ 
+1 
+  
+Monmouthshire County Council  
+Climate Emergency Strategy  
+Octo ber 2019  
+ 
+ 
+2 
+ Title Climate Emergency  Strategy  
+Purpose  This strategy outlines the council ’s response  to the climate 
+emergency declared in May 2019  
+Owner  Monmouthshire County Council  
+Approved by  County Council, 24th October 2019  
+Date  Octobe r 2019  
+Version Number  1.0 
+Status  Final  
+Review Frequency  Annual  
+Next review date  September 2020  
+Consultation  Strong Communities Select Committee (open to all members) on 
+26th September  2019 . 
+ 
+ 
+   
+3 
+ Foreword  
+The purpose of Monmouthshire County Council is building sustainable and resilient communities.   
+This feels more relevant than ever.  In 2019 n o one can be blind  to the threat that climate change 
+poses to our eco -system s, our local environment and our way of life .  Carbon emissions from fossil 
+fuels are one of the main causes  of climate change  and as a council we are striving to become 
+carbon neutral by 2030.   
+If we are to stand a chance of slowing the rise in the Earth’s temperature we need to act now.  
+Earlier this year councillors in Monmouthshire we re unanimous in declaring a climate emergency .  
+We intend to play our part in tack ling this issue and we will wor k with communities and local 
+businesses to help them reduce their e missions.  This will require  engagement, community 
+involvement  and commitments from third parties.  
+We have made a start:  
+ We have called for our pension fund to divest its fossil fuel investments  and have seen the 
+proportion of the fund invested in such firms decline from  9.10% to 6.95% since 2018 ; 
+ We have built a solar farm which  contributes  towards the £650 ,000 worth of renewable 
+energy  we put into  to the national grid each year;   
+ More than 99% of the energy we buy comes from renewable sources . 
+And we will continue to do more:  
+ Develop ing an investment programme to help our services transition to a low carbon future  
+ Piloting the use of locally designed and built hydrogen powered cars ; 
+ Trialling digital solutions which make it easier  for people to travel through better use of 
+existing transport capacity ; 
+ Installing  a network of charging points for electric vehicles . 
+We will do this while continui ng to provide the services  which  form part of the social foundation s on 
+which our communities are built .  We know that this will not be easy.   It needs bold thinking and we 
+don’t yet have all of the answers.   Monmouthshire is blessed with a rich tapestry of caring and 
+committed people, b usinesses and community groups that make this place what it is.  Now, perhaps 
+more than at any time in the past, we need everyone to get behind this commitment and play their 
+part in securing a better tomorrow.  
+ 
+ 
+Cllr Jane Pratt,  
+Cabinet Member for Infrastructure and Neighbourhood Services    
+ 
+4 
+ Monmouthshire 2030: A Carbon Neutral Council  
+Why this matters?  
+Tackling climate change  and moving to a low carbon economy  is one of the biggest challenges facing 
+our society.   Rising temperatures bring increased risks to  our communities and  are causing long -term 
+and potentially irreversible damage  to our planet ’s eco -system s, with significant  local  impacts such as 
+flooding and loss of species.1 By 2030 this council aspires to reduce its  net carbon emissions to zero 
+while continuing to deliver important local services to our  communities . 
+Carbon  emissions from fossil fuels are  one of the main causes of climate change. The scientific 
+consensus is that human activity  since industrialisation  has been the  major  factor in the recent 
+warming of the Earth’s surface.  It will take action and ingenuity from humans to halt it.  
+Climate change, deforestation and agriculture 
+mean the ability of the planet to lock up carbon 
+is reducing.  Soil is being e roded at a quicker 
+rate than new soil can be formed while melting 
+ice is contributing to rising sea levels and 
+releasing carbon previously trapped beneath 
+frozen land.  These changes result in feedback 
+loops where rising temperatures accelerate the 
+degrada tion of land and soil through drought, 
+desertification and r ising sea levels.  This in turn  
+increases the volume of greenhouse gases 
+being release d by land , further accelerating  
+global warming.  
+Time to Act  
+If we are to sta nd a chance of addressing climate change and slowing the rise in the Earth’s 
+temperature there is a nar row window of opportunity to take action .  The International Panel on 
+Climate Change has indicated that rises above 1.5 °C will affect the ability of the p lanet to sustain 
+human life as we know it and that crucially , without significant change , that figure will be passed by 
+2030.  In short , we don’t have long to act.  
+In May 2019 Monmouthshire County Council  unanimously passed a motion declaring a climate 
+eme rgency2.  This sets out a clear policy commitment for the council to:  
+ strive to reduce its own carbon emissions to net zero in line with the Welsh Government target 
+of 2030 ; 
+ encourage and support resident s and businesses to take their own actions to reduce  their 
+carbon emissions ; 
+ Work with partners across the county and other councils and organisations to help develop 
+and implement best practice methods in limiting global warming to less than 1.5 °C . 
+This must be done while continuing to provide the services which create  the social foundations our 
+communities are built upon and which no -one should be without.  These include the commitments 
+within the council’s Social Justice Strategy.  Our challenge is  to find a way to exist in the safe space 
+between the ecological limits of the planet while continuing to provide these social foundations3.  The 
+Cabinet Member  for Infrastruc ture and Neighbourhood Services will chair a group to oversee progress 
+and ensure  that the council’s plans are continually challenged to reduce carbon and incorporate 
+ 
+5 
+ emerging technology and concepts.  This will require bold thinking, we do not yet have all of the 
+answers and will continue to seek out the people, ideas and evidence abo ut what works  and apply this 
+in Monmouthshire.   
+ 
+The Benefits  of Action  
+As well as the global and moral imperative to act on climate change we can also expect to see  
+multiple  local benefits from moving to a lower carbon society:  
+ Lower energy bil ls for res idents and businesses  
+ Better air quality and  the resulting health benefits  
+ Shorter commuting  times between home, work and  school  
+ Increased  use of active travel like walking and cycling which can help improve peoples’ 
+health  
+ Less damage to the local environment from drought, floods and fire  
+ Increased demand for green technologies and the resulting potential f or job growth in these 
+sectors  
+ Better habitat management, increased biodiversity and creation of green space  
+ Increased connectivity between people and the environment and more globally  responsible 
+citizens  
+ 
+Local Carbon Emissions  
+Climate is a global issue  but we  all have a part to play.  If we are to reduce our net emissions we 
+need to understand what they  are now – both in our county and our  organisation.  Emissions per 
+head of population  across  Monmouthshire are above UK levels.  Since 2005 net carbon emissions in 
+the county have reduced by 28%  from 903  kilotonnes  to 648 kilotonnes  per year  while ou r 
+population has increased by 7%4.   Althou gh the emissions have reduced, this is still a weight the 
+equivalent of 54,000 London double decker buses.  
+ 
+(Source: UK local authority dioxide emissions, National Statistics)  
+The downward trajectory  mirrors  a similar trend  as across the UK as a result  of things like an 
+increase in the use of cleaner energy.   Over this time we have  also seen an increase in carbon 
+captured  in the county  from 17 to 43 kilotonnes but the amount captured is less than 7% of the total 
+ 
+6 
+ CO 2 produced5.  If decarbonisation were t o continue at this rate we would not be carbo n neutral 
+until after 2050 , too late to prevent catastrophic climate change.   We need to do more.  
+Carbon emissions in the county come from a range of sources including industry, agriculture, road 
+transport and d omestic homes .  The biggest single contributor is transport and in particular road 
+transport.  This is shown in the chart below6: 
+      
+(Source: UK local authority dioxide emissions, National Statistics)  
+ 
+Monmouthshire County Council will strive to reduc e its own emissi ons while working with partners, 
+including members of the Public Service Board, local businesses and community groups to reduce 
+emissions and improve carbon capture across the county as a whole from things like trees, 
+vegetation and green infrastructure which help to sequester and store carbon.  
+Data from our own organisation shows that we generate approximately:  
+ 8,700 tonnes from static assets such as buildings and street lighting  (the weight of 725 
+double decker buses)  
+ 3,000 tonnes from council vehicles  like buses and refuse trucks, plus cars  driven by officers 
+and councillors in the course of their work  (250 double decker buses)  
+ 15,000 tonnes of emissions from the manufacture of the good and supplies we buy  (1,250 
+double decker buses).  
+This is still an incomplete picture and we will increase our understanding as our work develops.  
+ 
+We’ve made a start… but have a lot more to do  
+The Council are already taking steps to reduce our carbon emissions.  This  infographic shows some 
+of the  work that is already underway in Monmouthshire7. 
+ 
+  
+ 
+7 
+  
+ 
+  
+ 
+8 
+ Our Objectives  at a Glance  
+Our action plan cover s ten broad objectives that will deliver a net reduction in carbon emissions by 
+2030.  Each of these objectives contain s actions for the local authority  which will reduce the 
+council’s own emissions, as well as actions that will reduce county wide carbon emissions which will 
+need to be taken forward in partnership with the community , plus steps that everyone can do.       
+The action plan  contained  as an appendix to the strategy is not the finished article.  It  will be 
+updated  and reported on annually, but the actions will be continuous,  as we look  globally for 
+examples of leading edge practice that can help us accelerate our progress .   It contains  an initial and 
+high level of assessment of impact, cost and feasibility. Low cost actions are those below £5,000, 
+medium are those between £5,000 and £50,000 and high cost are those above £50,000.  Our priority 
+will be to  put our energy and investment int o those that offer the most advantageous balance of 
+carbon reduction and feasibility.  We also need to ensure some  early actions to  get the maximum 
+cumulative benefit over the next twelve years.   
+Energy and Buildings   Renewable Energy  
+Reduce  the amount of energy that is used for 
+buildings and street lighting   Speed up the move  from  fossil fuels to 
+renewable energy  
+   
+Green Spaces   What  we Buy  
+Create and m anage green spaces to absorb 
+carbon &  provide resilience to climate change   Reduce carbon by thinking carefully about 
+when and what we buy  and the whole life costs  
+   
+Waste   Active Travel  
+Reduce waste by encouraging people to 
+reduce, re -use and recycle more   Encourage and make it easier for people  to 
+walk and cycle rather than drive  
+   
+Greener Transport   Public Transport  
+Reduce the impac t of vehicles and encourage 
+the use of electric and hydrogen vehicles   Encourage  people to use public transport 
+rather than cars  
+   
+Education and involvement   Climate Adaptation  
+Help people understand climate change and 
+what they can do to make a difference   Preparing  and adapt ing for the impact of 
+climate change.  
+ 
+Playing your part  
+The Climate Emergency Action Plan cannot be delivered by the Council alone .  We need other 
+partners to join us in helping to reduce carbon emissions across the county.  To that end, we will be 
+working with Public Service Board partners over coming months.   
+We hugely value the enthusiasm, energy and expertise of the residents of  Monmouthshire who have 
+such a lot to contribute , and we plan to collaborate with our communities and other partners to 
+work together on our action plan.  This process began at the end of July  2019  with a Community 
+Climate Champions workshop to begin to id entify where they can help us deliver.  
+There are things that every resident, visitor or worker in Monmouthshire can do to play their part in 
+reducing carbon emissions and helping to slow down climate change.  We are all part of the 
+problem, but can all be part of the solution too.     
+9 
+ Climate Adaptation  
+Even if we were to stop all carbon emissions 
+today, we will still have to face the i mpacts of 
+climate change that are  already happening .  
+Over the next  few decades we are facing 
+some level of climate change regardless of any 
+action to reduce our emissions now. The 2012 
+Climate Change Risk Assessment for Wales 
+forecasts hotter, drier summers, warmer, 
+wetter winters and more extreme weather 
+events.   
+There are lots of things that the council is 
+doing to make su re that we are prepared for the impacts of climate change.  In recent years, council 
+services have thought about what the potential risks to their services are, in order to start thinking 
+about how to adapt to these risks.   The Local Development Plan has a  key role to play in making sure 
+that our communities are sustainable and resilient to the impacts of climate change.  
+With an increase in winter rainfall and rising sea levels, flooding is likely to increase, and this will be a 
+particular concern in parts of Monmouthshire.  Much of  the work to co -ordinate emergency 
+responses is organised through the Gwent Local Resilience  Forum (LRF).  We will continue to work 
+with partners on the LRF to make sure that we are prepared for severe weather events.  
+If you live somewhere prone to flooding, make sure you know what to do. Find out more at 
+https://www.monmouthshire.gov.uk/services/planning -for-emergencies/flooding/  
+Keeping tabs on how we are doing  
+It is important that we know w hether the actions we will be taking to reduce climate change are 
+making a difference to our emissions.  We can measure how much carbon some of the actions will 
+save.  However, we will not be able to measure carbon savings from some of the actions, but we can 
+at least make sure that we are doing what we have said we will do.  
+We will be starting a member led working group, to be chaired by the cabinet member (with 
+community and officers) which will  meet quarterly.   Updates on progress against the actions will be 
+collated every three  months and reported to the working g roup  to make sure that we are making 
+good progress.  
+  
+ 
+10 
+ Our Commitment to Action  
+Addressing climate change will require collaboration and the commitment o f many people.  We are 
+determined to play our part and the a ctions that Monmouthshire County Council is committed to 
+include:  
+ We have built a solar farm which  contributes towards the £650 ,000 worth  of renewable 
+energy to the national grid each year, and will invest in more renewable schemes when the 
+national grid has enough capacity  
+ We have called for our pension fund to divest its fossil fuel investments and have seen the 
+proportion of the fund invested in such firms decline from  9.10% to 6.95% since 2018;  
+ Develop an investment programme to help our services transition to a low carbo n future  
+ Transition the council’s transport fleet to hybrid, electric and hydrogen vehicles as these 
+become available  
+ Pilot the use of locally designed and built hydrogen powered cars ; 
+ Trial  digital solutions for next generation transport schemes that  mak e it easier for people to 
+travel by making better use of existing transport capacity;  
+ Install  a network of charging points for electric vehicles.  
+ Recruit a member of staff to develop, promote and secure funding for active travel schemes 
+to reduce car journ eys while increasing walking and cycling  
+ Install photovoltaic canopies at council owned car parks to power electric vehicle charge 
+points with renewable energy  
+ Plant 10,000 new trees by 2022  
+ Make all of our buildings water refill stations and eliminate sin gle use plastics from all 
+council -run premises  
+ Promote Monmouthshire as a test -bed for companies looking to trial low carbon 
+technologies in a  rural setting  
+ 
+ 
+   
+11 
+  
+ 
+ 
+ 
+Appendix A  
+Climate Emergency Action Plan  
+   
+12 
+  
+Reducing energy use  
+Reducing the amount of energy that is used for buildings and street 
+lighting  
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+Taxpayer  Feasibility  
+New council buildings will operate with net zero carbon 
+emissions by 2025 or use carbon offsetting where this cannot 
+be achieved  Low High  Medium  
+Implement energy efficiency improvements across the existing 
+council estate by 2022  Medium  High  Medium  
+Reduce CO2 emissions from our energy supply  Low High  Easier  
+All remaining street lighting  will be converted  to LED  bulbs  Low Medium  Easier  
+All bulbs within council owned buildings will be LED  Low Medium  Easier  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+Taxpayer  Feasibility  
+Use planning policy to insist on  higher energy standards for 
+new buildings  Medium  Low Harder  
+Reduce carbon emissions across a ll public service buildings in 
+in the county  in partnership with the Public Service Board  Medium  Low Easier  
+Promote minimum energy standards in private owned 
+accommodation  Low Low Medium  
+  
+What can I do to play my part?  
+ 
+Make sure you have got dra ught proofing and loft and cavity wall insulation in your home – save 
+money and energy. https://www.energysavingtrust.org.uk/home -insulation   
+Simple things like switching off the lights, not leaving things on standby and only boiling the water you 
+really need in the kettle can really make a difference. https://www.energysavingtrust.org.uk/home -
+energy -efficiency   
+Understand how your heating controls work and using thermostats properly can save energy.  
+If you use a dishwasher, make  sure you only use it when full.  
+Make sure your washing machine in full and dry clothes on a line rather than tumble dry if you can.  
+Reducing 
+energy use  
+  
+13 
+  
+Using renewable energy  
+Speed up the move  from fossil fuels to renewable energy  
+ 
+  
+Action to  reduce MCC emissions  CO2 
+reduction  Cost  to 
+Taxpayer  Feasibility  
+Build and operate two new  solar farms  – subject to national grid 
+capacity  High  High  Medium  
+Develop  proposals for  a district heating scheme  High  High  Medium  
+Develop a Whole System Smart Energy Plan as part of  Cardiff 
+Capital Region Approach  High  High  Harder  
+Install photovoltaic canopies at council owned car parks to power 
+electric vehicle charge points with renewable energy  Medium  High  Medium  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+Taxpayer  Feasibility  
+Require renewable energy on private sector developments  Medium  Low Harder  
+Identify areas for renewable generation in the new Local 
+Development Plan  Medium  Low Medium  
+  
+What can I do to play my part?  
+ 
+Switch your energy supplier to a renewable energy contract. 
+https://www.moneysupermarket.com/gas -and-electricity/green -energy -tariffs/   
+Find out whether you could i nstall solar panels or another renewable energy in your home. 
+https://www.energysavingtrust.org.uk/renewable -energy   
+Consider what you want your savings or pensions to be invested in. 
+https://www.finder.com/ca/ethical -savings -accounts   
+ 
+ 
+ 
+ 
+Using 
+renewable 
+energy  
+  
+14 
+  
+Managing green spaces  
+To reduce energy use, to absorb carbon and be resilient  
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Eliminate the use of peat based compost by our grounds 
+maintenance teams  Low Low Easier  
+Expand pollinator friendly management work and reduce grass 
+cutting frequency/extent where appropriate and safe  Low Low Easier  
+Generate renewable energy from grass cuttings through anaerobic 
+digestion  Low Low Medium  
+Plant 10,000 new trees by 2022   Low Medium  Medium  
+Use our county farms as exemplars for sustainable agriculture.  Low Medium  Medium  
+Use low carbon building technologies like green walls or roofs  Low Medium  Medium  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Promote sustainable land management and agricultural practices, 
+including nutrient/soil management and natural flood management  High  High  Harder  
+Maintain & enhance biodiversity & make ecosystems more resilient  Medium  Medium  Medium  
+Plant more trees and increase area of woodland, improve and 
+increase woodland management and retain existing woodland  Medium  Medium  Medium  
+Secure more green infrastructure through development  Low Low Easier  
+Promote and support local food growing  Low Medium  Medium  
+Reduce food miles by w ork with local fa rmers to market local food  Low Low Easier  
+Ensure per meable materials  and water storage is incorporated into 
+new car parks  Low High  Medium  
+What can I do to play my part?  
+Leave part of your garden wild,  make habitats for wildlife and plant trees to absorb carbon dioxide. 
+https://www.wildlifetrusts.org/actions   
+Join a “Friends of” group to get involved in sustainable green space management, or find out about 
+local groups who are doing community gardening and growing. https://www.farmgarden.org.uk/   
+Try and reduce yo ur food miles by buying food which is locally grown where possible and in season.  
+Think about where meat you buy comes from and have a varied diet with plenty of fruit and vegetables  
+Get involved in community allotments or establish a new allotment  and have a go and growing your 
+own fruit and veg .https://www.theallotmentgarden.co.uk/ Easier -grow/  
+  
+Managing 
+green 
+spaces  
+  
+15 
+  
+ 
+ 
+What we buy  
+Reducing carbon by thinking carefully about when and what we buy  
+and whole life costs  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Eliminate  single use plastics within the council  Low Low Easier  
+Phase out fossil fuel investments  from our pension fund  High  High  Harder  
+All tender document will contain criteria to  address climate 
+emergency commitments  Low Low Medium  
+Incorporate climate and decarbonisation into  strategic 
+procurement collaborations  Low Low Medium  
+  
+What can I do to play my part?  
+ 
+Think about how much you buy and whether you really need it.  
+When you are buying food think local, in season, reduced and recyclable packaging.  
+Support your local charity shop and buy second hand, or use schemes such as Freecycle 
+https://www.freecycle.org/  
+Consider buying “experiences” for people as gifts, or charity gifts that support sustainable projects, 
+rather than buy gifts that aren’t wanted or needed. https://www.oxfam.org.uk/shop/oxfam -
+unwrapped  
+ 
+ 
+What we 
+buy 
+  
+16 
+  
+Reducing waste  
+By encouraging people to reduce, re -use and recycle more  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Reduce waste and  increase recycling in all public spaces including 
+retail centres   Low Medium  Medium  
+Reduce food waste in schools  Low Medium  Harder  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Make all of our buildings water refill stations   Low Low Easier  
+Support , promote and expand the Repair Cafes and Upcycle 
+movement  Low Low Easier  
+Roll out re -use shops at Household Waste sites, and use revenue to 
+fund tree planting  Low Medium  Medium  
+Increase ‘reduce , re-use and recycling’ across the county  Medium  Medium  Medium  
+Build a new high quality recycling facility in central Monmouthshire  Medium  High  Medium  
+Require all households to recycle  Low Medium  Harder  
+  
+What can I do to play my part?  
+ 
+Find out about and use all the different types of recycling that Monmouthshire does. 
+https://www.monmouthshire.gov.uk/recycling -and-waste/   
+Get recipes and tips for using food and redu cing food waste. https://lovefoodhatewaste.com/   
+Use refillable water bottles, and reusable containers for your lunch. https://refill.org.uk/   
+Try and  cut down on single use plastics. https://www.sas.org.uk/plastic -free-communities/   
+Look after your clothes and don’t buy disposable fashion. https://www.loveyourclothes.org.uk/   
+Donate unwanted clothes, bric -a-brac, books, furniture etc . to your local charity shop to reduce landfill 
+and help raise money.  
+ 
+ 
+ 
+Reducing 
+waste  
+  
+17 
+  
+ 
+Walking and cycling  
+Encouraging and making it easier for people to walk and cycle rather 
+than drive  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Improve and expand  our cycle and footpath network . Medium  High  Medium  
+Develop a bike share scheme   Low Medium  Medium  
+Fit bike carriers to buses to encourage cycling   Low Medium  Medium  
+Introduce cycling mileage rates  for staff to incentivise active travel 
+over car journeys  Low Low Easier  
+Reduce business miles travelled by  staff  25% by 2023 through use 
+of technology  Medium  Medium  Medium  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Develop  e-bike and cycle hire schemes beginning in town centres  Low Medium  Medium  
+Develop schemes that will i ncrease walking and cycling to school  Medium  Medium  Medium  
+Introduce no idling near schools, and other appropriate locations  Low Low Easier  
+Maximise opportunities for active travel, ensuring routes are safe 
+and convenient  Medium  Low Medium  
+  
+What can I  do to play my part?  
+ 
+Try and walk for short journeys, and reduce carbon while getting fit at the same time!  
+Find out about local cycle routes and cycling groups and get on your bike. 
+https://www.sustrans.org.uk/national -cycle -network/  
+Team up with parents and your local school to develop a walking bus to walk your little ones to school.  
+Get involved with local public rights of way volunteering opportunities. 
+https://volunteer.monmouthshire.gov.uk/   
+Ask your employer if they can provide showers and lockers so that you can cycle to work.  
+ 
+ 
+ 
+Walking 
+and cycling  
+  
+18 
+  
+ 
+Greener vehicles  
+Reducing the impact of vehicle use and encouraging use of electric and 
+hydrogen vehicles  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Introduce a green travel plan for staff and councillor travel  Low Low Easier  
+Increase the mileage rates payabl e for staff  who use electric 
+vehicles  relative to petrol and diesel cars  Low Low Easier  
+Install EV charging points at all larger  council buildings  Low High  Medium  
+Transition the council’s transport fleet to hybrid, electric and 
+hydrogen veh icles as these become available  Medium  Medium  Medium  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Provide  free car parking in MCC owned car parks for electric and 
+hydrogen vehicles until 2025  Low High  Medium  
+Encourage the use of  electric or hybrid  taxis  Low Low Harder  
+Use parking and speed enforcement  to prevent traffic congestion 
+and minimise  air pollution  Low Low Harder  
+Launch the Riversimple hydrogen car pilot in Abergavenny  Low High  Medium  
+Develop proposals  for EV charging  in street lights and new housing 
+developments  Medium  High  Medium  
+  
+What can I do to play my part?  
+ 
+Try and car share when you can, to save fuel and money.  There are schemes to help. 
+https://liftshare.com/uk  
+If you are thinking of replacing your vehicle, think about whether an electric car would work for you.  
+There are grants which can help. https://www .energysavingtrust.org.uk/transport/electric -cars-and-
+vehicles/electric -vehicles  
+ 
+ 
+Greener 
+vehicles  
+  
+19 
+  
+Public transport  
+Encouraging people to use public transport rather than cars  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Develop a business case to move to an electric bus fleet  Low High  Medium  
+Trial digital solutions for nex t generation transport schemes that 
+make  better use  of existing transport capacity  Medium  High  Harder  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Encourage modal shift through the South Wales Metro  High  High  Harder  
+Continue to make the case to national governments for improved 
+train frequencies and  station provision  Low Medium  Medium  
+Develop a ‘R ural Uber ’ scheme linked to train stations  Medium  High  Medium  
+  
+What can I do to play my part?  
+ 
+Find out about public transport options that could work for you.  https://www.traveline.cymru/  
+If you are 16 to 21  you can get bus travel discounts. https://mytravelpass.gov.wales/en/  
+If you are 16 to 25 you can apply for a young persons railcard. https://www.16 -25railcard.co.uk/  
+Concessionary bus passes are available from Transport for Wales. https://tfw.gov.wales/  
+ 
+  
+Public 
+transport  
+  
+20 
+  
+ 
+Education and involvement  
+Helping people understand climate change and what they can do to 
+make a difference  
+ 
+  
+Action to reduce MCC emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Make energy data available to schools  and encourage pupils to get 
+involved in managing energy  consumption  Low Low Easier  
+Introduce carbon literacy training for all council staff  Low Low Medium  
+Change the council’s default  internet  search engine to Ecosia  which 
+plants a tree for every search made  Low Low Easier  
+  
+Action to reduce County  emissions  CO2 
+reduction  Cost  to 
+taxpayer  Feasibility  
+Work with community groups to develop  an Internet of Things 
+sensor network to inform decisions and educate local communities   Medium  Medium  Harder  
+Start local growing and cooking schemes in schools  Low Medium  Easier  
+Use the One Planet Centre as a focus for climate change education  Low Low Easier  
+  
+What can I do to play my part?  
+ 
+Get involved with your school’s Eco Committee, or if your school isn’t an Eco School, find out more and 
+ask them if they would consider it. https://www.keepwalestidy.cymru/pages/category/eco -schools  
+Does your workplace have recycling or other environmental issues in place?  Why not try and start 
+something.  
+Get involved with one of the many voluntary groups in Monmouthshire doing great work on climate 
+change. https://www.transitionchepstow.org.uk/   https://t ransitionmonmouth.org/   
+http://abergavennytransition.org/  https://www.facebook.com/AbergavennyExtinctionRebellion/  
+ 
+Education 
+and 
+involvement  
+  
+21 
+ References  
+ 
+1 https://www.ipcc.ch/2018/10/08/summary -for-policymakers -of-ipcc-special -report -on-global -warming -of-1-
+5c-approved -by-governments/   
+2 https://democracy.monmouthshir e.gov.uk/ieListDocuments.aspx?CId=143&MId=3758   
+3 Doughnut Economics (2017); Raworth, Kate  
+4 UK local authority and regional carbon dioxide emissions national statistics: 2005 -2016 , full dataset and 
+methodology available at https://www.gov.uk/government/collections/uk -local -authority -and-regional -
+carbon -dioxide -emissions -national -statistics   
+5 LULUCF Net Emissions  (land use,  land use change and forestry) total. Ibid  
+6 2016 data for Monmouthshire. Ibid  
+7 Council Data for 2018/19                                                             

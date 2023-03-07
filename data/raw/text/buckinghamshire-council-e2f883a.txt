@@ -1,0 +1,1223 @@
+ 
+ 
+   
+ 
+1 
+ 
+Buckinghamshire Council 
+Climate Change and Air 
+Quality Strategy 
+Last updated:  30 September 2021  
+Version:  1 
+ 2 Contents  
+Foreword ...............................................................................................1  
+Executive Summary  ..............................................................................2  
+Our Approach ........................................................................................3  
+Previous and Current P rogress  .................................................................................. 4  
+Developing this Strategy  ............................................................................................ 6  
+Adaptation  .................................................................................................................. 7  
+Policy and Regulatory Context  ............................................................9  
+Clim ate Change  ................................................................................... 11 
+The Global Challenge  ............................................................................................... 12 
+Air Quality  ........................................................................................... 14 
+Buckinghamshire Air Quality Management Areas (AQMAs)  .................................... 15 
+Regulated Facilities  .................................................................................................. 15 
+Evidence Base  .................................................................................... 17 
+Global to Local Carbon Emissions 2018  .................................................................. 17 
+Buckinghamshire Carbon Emissions  ........................................................................ 18 
+Buckinghamshire Council’s Carbon Emissions  ........................................................ 20 
+Air Quality Monitoring  ............................................................................................... 22 
+Targets  ................................................................................................. 23 
+First Carbon Budget  ................................................................................................. 23 
+Air Quality  ................................................................................................................. 24 
+Governance and Management  ................................................................................. 25 
+The Council’s Emissions  ................................................................... 28 
+Behaviour  ................................................................................................................. 29 
+The Council’s Operational Estate  ............................................................................. 29 
+Transport  .................................................................................................................. 31 3 Suppliers and Partners  ....................................................................... 33 
+Partners  .................................................................................................................... 33 
+Suppliers  .................................................................................................................. 35 
+County -wide  ........................................................................................ 37 
+Transportation  .......................................................................................................... 37 
+Buildings and Developments  .................................................................................... 39 
+Waste  ....................................................................................................................... 41 
+Economy  .................................................................................................................. 41 
+Environment, Land and Water  .................................................................................. 42 
+Health and Communications  .................................................................................... 43 
+Glossary  .............................................................................................. 46 
+  
+ 
+1 Foreword  
+As a new unitary authority Buckinghamshire Council (established on 1 April 2020) has  
+an opportunity to shape itself, the area it serves, and its rela tionships to improve the 
+future for the environment and mankind. We are on a journey to transform local 
+authority service provision to deliver against the key priorities set out in our Corporate 
+Plan.  
+Climate change and poor air quality are significant challenges to making 
+Buckinghamshire the best place to live, raise a family, work and do business. They negatively  affect  human and ecological health, the economy and  the built environment . 
+Every area of our lives, including the services provided by the council, are affected  by 
+these issues. But all of us have the capacity to address them and make changes to 
+reduce our emiss ions to air . 
+We recognise the role we  play in helping Buckinghamshire mitigate and adapt  to a 
+changing climate and air pollution. Actions taken so far include : installing solar 
+photovoltaic systems, energy efficiency measures and electric vehicle charging points, 
+flood risk management projects, and new walking and cycling routes . In addition, our 
+Air Quality Action Plans detail measures to improve local air quality in areas where concentrations of air pollutants exceed legally binding limits.   
+On 15 July 2020  we committed to working “alongside national Government with the 
+objective to achieve net carbon zero for Buckinghamshire as a whole by 2050. The council should also evaluate reaching ‘net zero’ for its own emissions no later than 
+2050 and possibly before this, potentially by 2030, subject to resources” . This 
+document sets out the strategy for helping achieve national air quality objectives and zero carbon ambitions. It details over 60 actions  to address climate change and poor 
+air quality regarding c ouncil operations , our work and contracts with partners and 
+suppliers, and  how we influence activity county -wide.  
+We look forward to working with you so th at all of us can tackle these environme ntal 
+threats and ensure a sustainable future for Buckinghamshire.   
+ 
+ 
+Peter Strachan  
+2 Executive Summary 
+Increasing concentrations of specific pollutants in the air due to human activity have 
+given rise to climate change and poor air quality. Local authorities have a responsibility 
+to ensure that concentrations of certain reactive gases and particulate matter are at 
+safe levels, as set out in the National Air Quality Objectives . Air Quality Action Plans 
+have been developed to tackle exceedances of nitrogen dioxide (NO 2) in 9 areas in 
+Buckinghamshire.  
+Major sources of pollutants affecting local air quality (e.g. transport) are also main 
+sources of greenhouse gases (GHGs) in Buckinghamshire. GHGs trap radiation from 
+the Sun causing our planet to warm. As levels of GHGs (or carbon emissions) 
+increase, the Earth gets hotter – our climate changes. The effects of climate change 
+on weather, biodiversity, food and water supplies, economy and health are being felt now.  
+Against the motion
+ passed in 2020 to address climate change, this strategy sets out 
+how we  will achieve net zero carbon emissions by 2050 and i mprove air quality across 
+Buckinghamshire. We have direct control over emissions from our own operations but have lower levels of control over emissions elsewhere in the County - being limited in 
+terms of our ability to regulate, purchase, enable or influence change.  Correspondingly, actions to address climate change and air quality are presented in 
+sections titled ‘The Council’s Emissions to Air’, ‘Suppliers and Partners’, and ‘County -
+wide’.  
+The actions in this strategy have been  developed following workshops involving 
+representatives from every council directorate, carbon emissions research, and public 
+engagement surveys. They address: emission reductions from sources such as 
+buildings and waste; air pollutant sequestration, absorption, or screening; and 
+managing flood risk. The ‘Governance’ section sets out how we manage the strategy 
+to ensure continual improvement – taking advantage of future developments as they 
+arise to improve delivery.  
+Tackling climate change and poor air quality presents significant opportunities for all 
+of us. Helping everyone to recognise this and take action is critical to the success of 
+this strategy. As such there is a specific focus on actions relating to communication and behaviour.     
+ 3 Our Approach  
+Reducing emissions to air and adapting to climate change is a complex task. Nearly 
+every aspect of modern life has a link to climate change and air quality, so our 
+response must look at a wide range of approaches to reduce emissions.    
+We have  an important role to play in getting Buckinghamshire as a whole to reach net -
+zero by 2050 and ensuring that concentrations of air pollutants are at safe levels. W e 
+are also directly responsible for ensuring our own emissions are reduced to net-zero 
+no later than 2050. 
+Whilst we have control of the activities which lead to our direct emissions, we do not 
+have this same ability with all carbon emissions from across Buckinghamshire. In 
+some circumstances we may have greater influence due to a financial relationship or 
+regulatory function. In other areas we may be able to enable or influence change in 
+other ways. As is shown later in the Evidence Base , the emissions we have direct 
+control over are a very small proportion of the total emissions in Buckinghamshire, 
+whereas those we may influence and enable change in are much larger.   
+Our approach to reducing emissions is reflective of the degree of control or influence 
+we can have over the emission sources. We have looked at how this applies in 
+different situation and have identified four level within which we can take action as 
+explained below.  
+1. Direct Control : this is  where we are in direct control of the source of emissions, 
+such as the buildings we operate. This is where we have the greatest level  of 
+control, but this also represents a small proportion of emissions in 
+Buckinghamshire. In these areas, we can directly take steps to reduce 
+emissions.  
+ 
+2. Financial or Regulatory Role : this is where we have either a financial 
+relationship with a source of  emissions, such as with our suppliers, or a 
+regulatory role, such as our role in the planning system. Here we do not directly 
+control the sources of emissions, but we can use these relationships to support 
+emission reductions from those who do have contro l. This is lower degree of 
+influence, but over more emission sources  than we di rectly control .  
+ 
+3. Enabling Change : this is where we can take steps that enable others to reduce 
+their emissions, but outside of a formal financial or regulatory role with the 4 emissions source. This can include providing electric vehicle charging points or 
+providing cycle and walking routes, which help residents to reduce their 
+emissions by enabling them to take a lower emission form of transportation.  
+ 
+4. Inform and Influence : we recognise that there are many sources of emissions 
+in Buckinghamshire where we have fewer options to control or influence them . 
+This can include measures individual households can take to reduce their 
+emissions, for example by improving the energy efficiency of their home. In 
+these circumstances, we can still support  residents to access reliable 
+information on what steps are available to them to reduce emissions and highlight benefits of doing so.  
+ 
+Our approach to achieving net -zero emissions and improving air quality  therefore 
+reflects the degree to which the c ouncil can control or influence a s ource of emissions.  
+Recognising these spheres of influence and how we can respond, 
+we can summarise our approach as follows: 
+• Where we have direct control, we will take action to reduce 
+emissions.   
+• Where we have financial or regulatory influence, we will look to 
+use these abilities to reduce emissions. 
+• Where we can enable others to reduce emissions, we will 
+support that change.  
+• In other circumstances, we shall seek to inform and influence 
+those who do have control over emissions, with the aim of 
+reducing them.  
+ 
+Prev ious and Current Progress  
+Though the council has existed in its current form since April 2020 , we benefit from 
+the work undertaken at the 5 predecessor councils. Over the last 10 years, work 
+undertaken by those organisations reduced carbon emissions from 1 5,117 tonnes per 
+year in 2009 to 8,983 in 2018 – a 41% decrease.  5 There is no single action which is accountable for this reduction, but important steps 
+we have taken include : 
+• Upgraded over 22,000 street lights to highly efficient LEDs 
+• Installed solar panels at 15 of our sites to produce zero carbon 
+electricity 
+• Improved the energy efficiency of our buildings, such as 
+through LED lighting upgrades, insulation and improvements 
+to our heating system , to reduce emissions by over 4,000 
+tonnes / year and energy savings close to £1 million a year. 
+This strategy therefore looks to build on this good practice and experience and 
+continue to reduce our emissions in the future.  
+We also continue to support emissions reductions from across Buckinghamshire in 
+the way we d eliver services, for example by:  
+• Increasing the availability of public electric vehicle charging 
+points in Buckinghamshire.  
+• Investing in sustainable transport infrastructure, such as the 
+Waddesdon Greenway.  
+• Working with schools to develop School Travel Plans and 
+provide cycle training for pupils.  
+• Working with Bucks Business First to support local 
+businesses, for example through the Low Carbon 
+Workspaces programme.  
+ 
+Funding 
+We have allocated £5 million to a specific C limate Change Fund which will help us to 
+deliver further reductions in emissions , for example by improving the energy efficiency 
+of our estate, installing more renewable generation and embarking on a programme 
+of large scale tree planting.    6 A £5 million Climate Change Fund has been established to support 
+continued emissions reductions, including funding tree planting, 
+energy efficiency and renewable generation projects.  
+We also continue to identify external sources of funding and develop bids for these, 
+for example from  Defra’s Air Quality Grant  to help improve air quality , support for 
+electric vehicle charging infrastructure from OLEV , and funding from BEIS  to support 
+decarbonisation in the public sector.  
+Developing this Strategy  
+We recognise the complex and interconnected nature of activities that impact climate change and air quality  and have reflected this in our development approach by 
+engaging widely. This document has been developed by staff from across the council and with input from a wide range of specialisms. We have engaged with community 
+groups, councillors, community boards and the Transport, Environment and Climate 
+Change Select Committee  who have provided scrutiny of an early draft and helped to 
+shape our overall approach.  
+We cannot act alone and have already seen a groundswell of interest and action in tackling these issues – we received 1,400  of responses to our resident and 
+organisation engagement surveys  with over 90% of respondents saying that climate 
+change and air quality are important to them .  
+Responding to COVID -19 
+The effectiveness of working together could no t be better exemplified than by the 
+collective response to the Covid- 19 pandemic in 2020 – there were significant 
+decreases in greenhouse gas ( GHG ) emissions over the lockdown period with the 
+BBC reporting a 17% drop in daily GHG emissions . This is largely due to a reduction 
+in transport movements  and there have also been reports of lower emission s of oxides 
+of nitrogen and sulphur dioxide . Howe ver, as the lockdown eases, transport 
+movements have risen, and it  is possible that the energy used by people working at 
+home is greater than the energy required when they  are working in commercial spaces 
+(offices etc). Therefore,  any transport emissions s avings could be cancelled out 
+(negated) by increased domestic property emissions.  7 Buildings now have a lower person capacity due to social distancing measures. This 
+has meant that opportunities to reduce the amount of space or buildings an 
+organisation occupies may no longer exist. We will be in a position to determine the 
+extent to we  can rationalise our operational estate once working practices post -
+pandemic have normalised. It will also give us the opportunity to consider our approach to accounting for emissions related to home working.  
+Adaptation  
+Adapting to climate change and poor air quality means putting in place measures to minimise or overcome the impacts now and in the future. Specific examples of climate 
+change adaptation measures can include: installing better flood defences or storing 
+rainwater to overcome periods of little or no rainfall in the summer.  
+Many adaptation measures also help mitigate climate change and poor air quality – 
+trees absorb/screen air pollutants and sequester carbon, but also absorb water, slow 
+the flow and reduce the amount of water going to the ground (as their leaves intercept 
+raindrops and water evaporates from the leaves); and their roots bind the soil 
+preventing it from being washed away and allow for better penetration of the water 
+through the soil – thereby preventing flooding. Trees, and green roofs and walls , also 
+cool the air  – this helps reduce the amount of energy required for cooling buildings  
+thereby saving the emissions associated with producing the energy. Green roofs and 
+walls also act as an additional layer of insulation on a building and this helps reduce 
+the amount of energy required to heat or cool it. There are ancillary benefits from plant -
+based (green) measures as well, such as: improving biodiversity, food production (e.g. fruit trees, and roof allotments), improving stormwater quality, and being a barrier to 
+noise and electro- magnetic radiation.  
+Another example of a mitigation and adaptation measure would be implementing systems that store rainwater, such as household water butts. The stored water can be 
+used for watering gardens etc in periods of drought. This means that you don’t have 
+to use drinking water for the same purpose and as producing drinking water uses 
+energy etc you’ve reduced the emissions associated with watering gardens.  
+Given the link between mitigation and adaptation measures, this strategy doesn’t list actions as being specifically one or the other type of measure. We have referenced 
+blue and green infrastructure measures in the actions which refer to any initiatives 
+involving water (blue) or plants (green) and these can generally be considered as both 
+mitigation and adaptation measures.  8  9 Policy and Regulatory Context  
+The Climate Change Act 2008  is the principle UK legislation which sets the UK’s 
+national climate change target. The Act was amended in 2019 to move from an 80% 
+reduction to a 100% target, creating a ‘net zero’ target  for GHG emissions . The 
+national target is mirrored in our Buckinghamshire net zero carbon emissions ambitions. While climate change affects local government services, there is no 
+legislative requirement on local authorities to report on or reduce their carbon emissions. However , we recognise that climate change is a national and local priority 
+and an issue in which the council has a crucial role to play.  
+National and European objectives and targets  have been set to establish 
+concentrations of air pollutants at levels deemed to be safe. Part IV of the Environment 
+Act 1995 requires local authorities to review local air quality and assess whether air 
+quality objectives will be achieved. Local Authorities monitor local air quality using methods outlined in the Local Air Quality Management (LAQM) technical guidance  
+and then reporting these results to DEFRA on an annual basis.   If it is predicted that 
+these will not be achieved an 
+Air Quality Management Area (AQMA)  must be 
+designated and an Air Quality Action Plan put in place to improve air quality to acceptable levels.  
+Nation al emission reduction commitments for overall UK emissions of five damaging 
+air pollutants are detailed in the Clean Air Strategy . The Clean Strategy also sets out 
+the Government’s plans for dealing with all sources of air pollution, making our air healthier to breathe, protecting nature and boosting the economy.  
+To help regulate the emissions released by some industries the Environmental Permitting Regulations (EPR) 2016  requires operators of “regulated facilities” to either 
+obtain a permit or to register some activities as “exempt facilities”. These fall into three different categories:   
+• Part A (1) - The Environment Agency regulates what is considered to be the 
+most pollu ting of the 3 industrial categories, A (1) activities. These are regulated for 
+emissions to land, air, water and other environmental considerations. Examples of A 
+(1) activities are landfill sites and hazardous waste incinerators.  
+• Part A (2) and Part B - Local Authorities regulate A ( 2) activities, as well as the 
+lesser polluting Part B activities which are regulated for emissions to air only. 10 Examples of Part B activities include petrol stations, dry cleaners and vehicle re-
+sprayers. 
+Clean growth  is refe renced in the Clean Air Strategy . It can be defined as  increasing 
+national income and productivity while conserving the natural environment and 
+resources, including improvin g air quality and tackling climate change. This policy is 
+supported by DEFRA’s Clean Growth Strategy , and its sister document the 25 -year 
+Environment Plan .  The first is a plan for continuing to decarbonise the UK economy 
+throughout the 2020s, whilst the second is a long term plan for nature’s recovery and health.  These are complimented by the 
+Road to Zero  which sets out the Government’s 
+commitment to re duce emissions from road transport, and the ambition of the National 
+Planning Policy Framework (NPPF)  to achieve sustainable development, including the  
+protect ion and enhancement of our natural, built and historic environment.  The 
+forthcoming Environment Bill  will introduce legally binding nature, water, air and waste 
+targets from 2022. 
+The aim of the current Government is to reduce the impact of pollutants on the 
+environment in a manner that would enable this generation to leave the planet in a 
+better state than we found it.  11 Climate Change 
+Carbon dioxide and other greenhouse gases (GHGs) create a ‘ greenhouse effect ’. 
+This is where infrared radiation, in the form of heat, (and short wave radiation) from 
+the Sun is trapped causing the Earth to warm. As concentrations of GHGs in the 
+atmosphere increase, our planet gets hotter.  
+GHG s come , or are emitted, from various sources  or activities. The majority of these 
+involve processing naturally occurring materials containing carbon and/or nitrogen (using combustion, chemicals, and/ or bacteria). Mankind has increasingly used these 
+activities over time to produce products (e.g. food, cement and metals) and energy  
+(e.g. electricity) resulting in larger quantities of GHGs being released. Atmospheric 
+carbon dioxide levels are approximately 45% higher now than they were before the 
+industrial revolution and this is largely due to burning fossil fuels for energy.  
+Human activity has also reduced the amount of carbon dioxide that can be absorbed 
+and stored in natural carbon sinks. Plants and oceans absorb around 57% of the 
+carbon dioxide that’s produced.  Removing trees (deforestation) and affecting plants’ 
+ability to photosynthesize reduces the rate that carbon can be sequestered. 
+Furthermore, as oceans get warmer from the greenhouse effect, they are less able to dissolve carbon dioxide.   
+The Earth’s surface is now, on average, 1°C warmer than it was since the pre-industrial period. T he UK’s average temperature has increased by 0.8°C (comparing 
+2008- 2017 with 1961- 1990) - the nine warmest years in the UK have occurred since 
+2002. The warming of our planet is : increasing the rate at which polar and glacier ice 
+is melting,  causing more extreme weather events and a rise in sea levels, and 
+negatively affecting biodiversity .  
+95% of respondents to the engagement survey reported that they were concerned about climate change and 79% stated that they are more concerned about it than they 
+were 2 years ago. Climate change is affecting 3 in 4 Britons  and this seems consistent 
+with th e 70% in Buckinghamshire identifying that climate change had affected either 
+themselves or their family.  
+More information about climate change and its effects on the environment, food, water, and health and is available on the GOV.UK website
+. 
+ 12 The Global Challenge  
+Climate change is a global challenge. It is critical that action to reduce carbon 
+emissions to net zero is taken by all countries, in particular those which account for 
+the most emissions  and can achieve the biggest reductions . Together China, the USA 
+and India account for about 50% of global emissions as shown in table 1 below.   
+Table 1 Annual global carbon emissions and those  of China, USA, India and 
+United Kingdom  
+Count ry Total greenhouse gas emissions 
+(kilotonnes CO 2) % of Global 
+Emissions  
+Global  37 million  100%  
+China  10.06 million  28% 
+USA  5.42 million  15% 
+India  2.65 million  7% 
+United Kingdom  366 thousand  1% 
+ 
+Emissions Data  
+There are two approaches which can be taken to measuring carbon emissions in an area; these are known as the generation and consumption based approaches. The 
+generation based approach looks at emissions which are physically created within a 
+country or region, for example the exhaust emissions from cars in the UK.  
+The consumption based approach looks at emissions associated with the goods and services consumed in a country. This means , for example, that emissions from 
+manufacturing a mobile phone in China but which is purchased by someone in the UK, would be attributed to the UK  as the product  is consumed here.  13 These two approaches lead to different emissions with the consumption based figure 
+being higher in the UK than the generation based figure. This is because the UK tends 
+to import more  products  than it exports.  
+The United Kingdom’s national reporting approach uses the generation based 
+approach. These are  the emissions which the UK has greater control over and 
+represents the physical emissions which arise here. As such, throughout this 
+document the figures quoted reflect the generation based method.  
+Most of the  emissions data referred to in this document are specifically referring to  
+carbon emissions  (carbon dioxide, CO 2). However,  some  refer to a broader set of six 
+greenhouse gases  (GHGs)  each with a different capacity to influence the climate.  The 
+overall impact of these emissions is accounted for by reporting this broader set of 
+gases  units of  carbon dioxide equivalents  (CO 2e). Where CO 2e is referred to, the 
+impact of this broader set of GHGs has been included in the figures . 
+ 14 Air Quality 
+Air quality is assessed against levels of specific air pollutants that affect human and 
+environmental health. While some of them do have a global warming potential  (GWP) 
+the focus is on how they negatively impact living organisms’ physiology and the built 
+environment. Some air pollutants are acidic (e.g. oxides of nitrogen and sulphur 
+dioxide) or are powerful oxidizing agents (e.g. tropospheric ozone) and will corrode 
+the lining of the lungs , other  living  tissue, and inorganic material . Others can get 
+through the respiratory system and affect the normal function of organs (e.g. PM 2.5), 
+or are carcinogenic ( e.g. PAHs , benzene, 1,3 butadiene).  
+The health impacts of poor air quality  have been widely reported in recent years . 
+People are not affected equally - those with weaker or developing respiratory and 
+circulatory systems are typically worst -affected , and higher -deprivation areas in urban 
+centres are often located close to key sources of air pollution.   
+National air quality  objectives , standards  and targets  have been set  for the following 
+air pollutants:  
+• Particulate matter (PM 10 and PM 2.5) 
+• Nitrogen Dioxide (NO 2) 
+• Nitrogen Oxides (NO x) 
+• Tropospheric Ozone (O 3) 
+• Sulphur Dioxide (SO 2) 
+• Polycyclic Aromatic Hydrocarbons (PAHs)  
+• Benzene  
+• 1,3 butadiene (C4H6) 
+• Carbon Monoxide (CO)  
+• Lead  
+The UK has also made commitments to reduce emissions of PM 2.5, NO x, SO 2, Non-
+methane volatile organic compounds (NMVOCs)  and Ammonia (NH 3) by 2030. 
+GOV.UK has more information on these emissions reductions targets  and more 
+information on air pollutants can be found on the National Atmospheric Emissi ons 
+Inventory website . 
+Many of the major sources of air pollutants that affect air quality are also the major 
+sources of GHGs, and by reducing levels of airborne pollutants that damage plants we 15 help maximise the opportunity for them to sequester carbon. T he intrinsic links 
+between climate change and air quality are such that it makes sense to tackle them 
+together.  
+91.2% of respondents to the engagement survey reported that they were concerned about air quality and 69% stated that they are more concerned about it than they were 
+2 years ago. The level of people very concerned about air quality (57%) is slightly 
+lower than those very concerned about climate change (79%) and this could be 
+because climate change is more prominent in the media and better underst ood. 
+Buckinghamshire Air Quality Management Areas 
+(AQMAs)  
+There are 9 AQMAs in Buckinghamshire that have been declared due to exceedances 
+of the annual mean national air quality objective for NO 2: 
+- Chiltern  – Berkhampstead Road and Broad Street  in Chesham  AQMA  
+(declared 03/11/2007)  
+- Aylesbury  – Tring Road  (declared 04/07/2005); Friarage Road  (declared 
+01/07/2008) ; and, Stoke Road (declared 01/07/2008)  AQMAs  
+- South Buckinghamshire  – M4, M25, M40 and adjacent land (declared 
+01/10/2004) ; and Iver Parish Boundary (declared 01/08/2018) AQMAs  
+- Wycombe  – M40 and adjacent land (declared 01/08/2001); High Wycombe 
+(declared 22/12/2017); and Marlow (declared 22/12/2017) AQMAs  
+The main source of NO 2 is road transport. Air Quality Action Plans developed to 
+address  the sources and impacts of NO 2 in these AQMAs can be found on the 
+Buckinghamshire Council website . Concern about air quality was highest from 
+engagement survey respondents located in densely populated areas (including 
+Aylesbury and High Wycombe) where AQMAs exist. A map of all AQMAs in the UK 
+can be found on the DEFRA website .  
+Regulated Facilities  
+Currently Buckinghamshire Council has 153 regulated facilities registered with the 
+authority and the Environment Agency has 23 regulated facilities registered with them  
+under the EPR 2016. These include, amongst others, landfill sites, energy from waste 
+site, petrol stations, dry cleaners, foundries and concrete crushers. There are public 16 registers of all regulated facilities in Buckinghamshire on the Environment Agency 
+website .   
+ 17 Evidence Base  
+Global to Local  Carbon  Emissions  2018 
+Global carbon emissions are continuing to rise and their distribution is uneven globally 
+as shown previously in Table 1. Table 2 below shows the annual carbon emissions to 
+a more local scale, showing the total of Buckinghamshire in comparison to other 
+councils. Buckinghamshire has per person emissions in line with the national average. 
+The total emissions by county can vary by a large degree to other counties, however 
+the per person emissions tend to be closer. There are a range of factors which may 
+influence the total carbon and per person emissions, such as the population of the 
+area and how rural or urban it is in character.   
+Table 2 2018 carbon emissions from global to local scales  
+Emissions Source  Total Carbon 
+emissions 
+(kilotonnes CO 2) Percentage of 
+Carbon emissions  Per Person 
+(tonnes  CO 2 / 
+person)  
+Global  36.5 million  100%  4.8 
+UK 366 thousand  ~1% of global 
+emissions  5.2 
+Bedfordshire  2,420  0.7% of the UK  5.3 
+Hertfordshire  5,877  1.6% of the YUK  5.0 
+Hillingdon (London 
+Borough)  1,383  0.4% of the UK  4.5 
+Buckinghamshire  2,832  0.8% of the UK  5.2 
+Cambridgeshire  4,523  1.2% of the UK  6.9 18 Oxfordshire  4,079  1.1% of the UK  5.9 
+Buckinghamshire Carbon Emissions  
+Carbon emission data at an area wide scale requires multiple different sources of data 
+to be brought together. The Government compile this data and a summary of the key 
+emission sources in Buckinghamshire is shown in table 3 below.  
+Table 3 Buckinghamshire 2018 carbon emissions by source  
+Source  Annual Carbon 
+Emissions (k ilotonnes 
+CO 2)  % of Carbon  Emissions  
+Business and Agriculture  578 20% 
+Domestic; Gas  575 20% 
+Domestic: Electricity  231 8% 
+Domestic: Other fuels  95 3% 
+Transport: Motorway  657 23% 
+Transport: All other roads  746 26% 
+Transport: Rail and others  48.5 2% 
+Land use, land -use 
+change and forestry  -99 -3% 
+ 19 Together transportation related emissions account for 51% of emissions in 
+Buckinghamshire. Although motorways account for only 1.8 % of the total length of 
+roads in Buckinghamshire, they account for 45% of transport emissions and 23% of 
+total emissions.  
+Land use, land use change and forestry remove more carbon than emitted and act as 
+a net ‘sink’ for ~3% of carbon emissions in Buckinghamshire.  
+Buckinghamshire Pathway  to 2050  
+Reaching net -zero for Buckinghamshire is  a hugely complex and difficult task. Some  
+of the mechanisms for reducing or removing emissions  are not elements which we can 
+influence via financial or regulatory means, for example:  
+• Based on the number of domestic gas meters , removing emissions from 
+domestic gas supplies  (20% of total)  might require removing or replacing over 
+180,000 gas boilers in Buckinghamshire.   
+• Road based emissions require a revolution in the transportation sector, away 
+from conventional internal combustion engine (ICE) vehicles to ultra-low or zero 
+emission  equivalents . We have a role in providing electric vehicle charging 
+infrastructure to help service th is transition , with subsidies and the regulation of 
+the manufacturing sector  sitting with the national government .  
+• Electric vehicles need powering from renewable energy sources , with the 
+regulation of the power sector a function of national government.  
+• Market forces influence the development and deployment of low emission  
+technologies.  
+• The scale of motorway -based emissions indicates that a substantial portion of 
+emissions on our roads are from those traveling through Buckinghamshire, for which regional and national transport  issue need considering.  
+The above points help to show the scale and complexity of the task and the need to address  these issues both locally  and nationally . Our actions  focus on what we can 
+do locally in Buckinghamshire. However, as our motion indicates,  we will work with the 
+Government to support achieving net zero in Buckinghamshire and nationally.  
+Economic, Population and Housing Growth 
+Buckinghamshire is a prosperous area of the count ry and i s also an area experiencing 
+notable housing growth and an increasing population. Carbon emissions in 20 Buckinghamshire may  therefore be expected to increase over time in the absence of 
+action to reduce emissions from the existing population. The overall picture is complex 
+however, with electricity becoming more renewable (low carbon) and improvements in 
+energy efficiency the trend nationally has been for emissions to decline whilst 
+population has grown.  
+We have not attempted to model the impact of a growing population or economy on 
+emissions in Buckinghamshire, but we recognise that these are relevant factors which 
+will impact overall emissions.  
+Buckinghamshire Council ’s Carbon Emissions  
+We commissioned a carbon audit  to better understand the make- up of our own carbon 
+emissions  for the 2018/19 financial year (the base year) . 
+Table 4 Bucki nghamshire Council's carbon emissions  
+Activity  2018/19 Annual Carbon  
+Emissions (T CO 2e) % of Annual Emissions  
+Buildings – Gas 
+Consumption  1,887  21% 
+Buildings – Electricity 
+Consumption  2,516 28% 
+Street Lighting – 
+Electricity Consumption  2,336  26% 
+Council Fleet  1,258 14% 
+Business Travel  988 11% 
+Total  8,985  100%  
+ 21 The emissions shown in Table 4 above are those from the council’s operations, such 
+as the buildings and vehicles we operate. Business travel emissions relate to 
+emissions from staff and Councillors in their own vehicles where a mileage expense 
+claim was made . Emissions from the use of public transport, such as train journeys,  
+for work travel weren’t captured as the data is not available.  
+This data does not cover our services where our staff do not directly provide it, for example waste collection vehicles operated around 
+Wycombe, Chiltern and South 
+Buckinghamshire areas . However,  these activities are still included within the scope 
+of this strategy  which covers the council’s emissions, as well as those of suppliers, 
+partners and Buckingham shire wide emissions .  
+It is currently difficult to benchmark the council’s emissions to other authorities 
+because of the wide range of differences which make comparisons difficult. For 
+example, different services are provided by a district, county or unit ary council. 
+Comparison between councils of the same type is also difficult as reporting methods differ and the way services are delivered also varies, for example whether a service is 
+provided by the council directly or by suppliers.  
+Council Pathway to 2 050 
+We have set ourselves the goal of reaching net -zero carbon emissions no later than 
+2050. In addition,  we are establishing milestone targets for 2030 and 2040. We have 
+aligned these with the UK’s national baseline of 1990 in order to aid comparison of carbon reduction levels between Buckinghamshire and the UK.  
+Compared to our estimated 1990 carbon emissions, we will: 
+• reduce our carbon emissions by at least 75% by 2030  
+• reduce our carbon emissions by at least 90% by 2040 
+• reach net zero carbon emissions no later than 2050 
+To enable this comparison, it is necessary to estimate our emissions for 1990 as we 
+do not hold accurate data on our emissions from this year.  Data gathered during the 
+carbon audit covered emissions as far back as  2009 ; we have assumed that energy 
+usage (i.e. in kilowatt hours) was the same in 1990 as 2009, updating electricity emission with the correct emissions factor from 1990.   22 The UK’s national target is to reach net zero carbon emission by 2050 with an interim 
+target of achieving a 68% reduction by 2030, based on 1990 emission levels.  
+Compared to our 2018/19 baseline, our emissions reductions targets are to reduce our carbon emissions by 50% by 2030 and achieve an 80% reduction by 2040.  
+The UK’s national targets are established in 5 year ‘Carbon Budgets’ which set the target emissions for the UK over that period. We will be reflecting this approach in 
+monitoring our own progress towards the a bove targets – further details on our First 
+Carbon Budget  are set out later in this document.  
+Air Quality Monitoring  
+A national network of automatic air quality monitoring stations is managed by Defra . 
+These sites provide high resolution hourly information which is communicated rapidly to the public, using a wide range of electronic, media and web platforms. Details of 
+both automatic and non- automatic monitoring networks [systems that measure less 
+frequently compared to automatic networks - either daily, w eekly or monthly - and 
+samples are collected by some physical means (such as diffusion tube or filter)] can 
+be found on the UK Air website
+. 
+Buckinghamshire Council mainly monitors nitrogen dioxide using passive diffusion 
+tube technology. Some can be found in the AQMAs, others are found on village high 
+streets and on busy roads.  The results for each calendar year can be found in the 
+Annual S tatus  Reports for the South Buckinghamshire, Wycombe , Chiltern , and 
+Aylesbury  areas of the County.  We also manage and maintain two continuous 
+monitoring stations in Buckinghamshire - in Stokenchurch and High Wycombe. The 
+locations and readings from these continuous monitoring stations can be found on the 
+UK Air Quality website .    
+Buckinghamshire Council, in conjunction with Spelthorne and Heathrow Airport Limited, received grant funding to trial low -cost sensors in the South Bucks area.  
+Further information on the sensors and monitoring data can be seen on the 
+Air Quality 
+England website .  
+ 23 Targets 
+The following aims and objectives of this strategy  address climate change  and poor 
+air quality respectively. They  are in line with the council motion that was passed on 15 
+July 2020  and pursuant to achieving national air quality objectives and standards 
+across Buckinghamshire.  
+Climate Change  
+ 
+Aim 1: Work alongside national Government with the objective to 
+achieve net zero  carbon emissions for Buckinghamshire as a whole 
+by 2050.  
+ 
+Objective A: Achieve net zero carbon emissions across council 
+operations no later than 2050 and possibly before this, potentially 
+by 2030, subject to resources.  
+ 
+Objective B: Support communities to achieve net zero carbon 
+emissions. 
+First Carbon Budget  
+The UK monitor s its progress toward its carbon reduction targets through 5 year 
+carbon budget periods. We are adopting this approach and will monitor our carbon 
+emission reductions against 5 year carbon budgets.  
+The current UK carbon budget r uns from 2018 to 2022; the next from 2023 to 2027. 
+We have chosen to use an initial 7 year carbon budget period to align ourselves with 
+the next national carbon budget period. Subsequent carbon budgets  will be 5 year s. 
+Our initial carbon budget will therefore cover the financial years 2020/21  (the first 
+year of Buckinghamshire Council existing) to 2026/27 .  
+Though the Carbon Budgets span multiple year, to support annual  monitoring 
+indicative annual allowances have been determined. These will allow us to see if 
+emissions are declining at a suitable rate. The use of a multi -year budget approach 
+allows for annual variations in the emissions reduction achieved. For example, a 24 particularly cold winter would lead to more emission from gas heating systems are 
+used than expected, but within a longer -term trend of emission reductions.   
+Table 5 below sets out these indicative allocations for the first carbon budget period.  
+Table 5 - First Carbon Budget Annual Emission Allocations  
+Year  Indicative Carbon Budget 
+Allocation  (T CO 2) 
+2020 -21  7,895  
+2021 -22  7,407  
+2022 -23  6,953  
+2023 -24  6,527  
+2024 -25  6,129  
+2025 -26  5,755  
+2026 -27  5,403  
+Total  51,139  
+ 
+Air Quality  
+Becoming a unitary authority provides us with an opportunity to harmonise our 
+approach to delivering actions in the action plans for each AQMA. The aims and objectives below reflect our ambition to establish concentrations of NO
+2 and other air 
+pollutants a t safe levels.  25 Air Quality 
+ 
+Aim 2: Improve air quality across Buckinghamshire pursuant to 
+achieving national air quality objectives 
+ 
+Objective C: Reduce emissions to air from all council operations. 
+ 
+Objective D: Reduce human exposure to harmful levels of air 
+pollution. 
+Governance and Management  
+This section sets out our overall approach to managing the strategy, refining our 
+processes, and building funds so that we can continuously improve delivery against 
+our targets and objectives.  
+Actions 
+ 
+1. Continued engagement with central government on air quality 
+and greenhouse gas emissions issues. 
+2. Explore carbon offsetting fund and low carbon energy 
+generation investment options. 
+3. Establish and maintain interdepartmental working groups 
+accountable for the delivery of actions. 
+Review and Update  
+We recognise that this strategy will guide activity for nearly 30  years. Within that period 
+there may be considerable technology, product or service advancements , and 
+political, legislative and other changes  providing challenges against or opportunities 
+to enhance emissions reductions. We will report annually on emissions  and against 
+each carbon budget , and the actions below take into account future scenarios.  
+Actions 26  
+4. Review and update the strategy so that it is fit for purpose for 
+each carbon budget, or more frequently if necessary. 
+5. Determine the most practicable means of assessing the 
+Council's Scope 3 emissions. 
+Monitoring and Reporting 
+Council Emissions  
+The Council has established its new baseline GHG emissions via a carbon audit. We 
+are setting a series of Carbon Budgets, aligned with the UK’s national approach to 
+reducing emissions to net zero in stages.  
+Actions 
+ 
+6. Monitor and report quarterly on emissions savings across 
+Council operations. 
+7. Improve data management and quality to better inform  
+options for reducing emissions  and performance monitoring. 
+ 
+County -wide Emissions  
+Emissions data from activity acros s Buckinghamshire is complex and varied in its 
+collection and reporting methodology. 73.6% of respondents to the engagement 
+survey consider the monitoring of air pollution to be very important in tackling climate 
+change and poor air quality. We will improv e our air pollution monitoring and report 
+against the progress we make annually on reducing emissions to air.  
+Actions 
+ 
+8. Maintain and enhance effectiveness of outdoor air pollution 
+monitoring. 27 9. Report annually on progress made against actions and 
+reducing emissions.  28 The Council’s Emissions  
+New low and zero carbon technologies are being rapidly developed and have a 
+potentially important role to play in helping reduce our emissions. We recognise the 
+need to use innovati ve solutions , and dedicate funding and technical support , to 
+effectively deliver against the objectives in this strategy.  We will maximise 
+opportunities to secure funding from schemes, such as those offered by SALIX  and 
+the Office for Low Emission Vehicles (for electric vehicle charging infrastructure  and 
+plug- in vehicles  etc.), to  support the delivery of actions in this strategy.  
+Actions 
+ 
+10. Monitor the development of innovative solutions which could 
+help reduce our emissions.  
+11. Review  carbon offsetting options and develop a policy on 
+their use. 
+A range of initiatives to reduce our  emissions have been implemented already ranging 
+from energy efficiency and renewable energy projects  to using electric vehicles in our 
+fleet. We will investigate and implement appropriate measures to address mitigate and 
+adapt to climate change and poor air quality.  
+Actions 
+ 
+12. Explore the potential for renewable energy generation 
+projects on the council’s land (e.g. a solar farm).  
+13. Implement a large scale tree planting programme across the 
+estate. 
+14. Explore the potential for blue and green infrastructure 
+improvement projects (e.g. green roofs) across our estate. 29 Behaviour 
+The actions below reflect the importance we place on creating a corporate culture that 
+makes c limate change and air quality a priority.  
+Actions 
+ 
+15. Embed climate change and air quality considerations in 
+policy and decision making. 
+16. Engage and inform staff and councillors how they can reduce 
+emissions through simple changes to behaviour.  
+The Council’s Operational Estate  
+The council’s Operational Estate is comprised of buildings and land we operate our  
+services from. We will evaluate sites regarding the appropriateness of implementing 
+blue, green, and sustainable/alternative energy projects  taking into account the cost -
+benefit of initiatives, asset maintenance and replacement aspects, and our 
+accommodation strategy.  
+Operational Buildings  
+We will assess the cost -benefit of sustainable energy options , taking into account  the 
+age and condition of our assets , and  employ appropriate technologies to reduce the 
+emissions footprint of our buildings.  
+Action 
+ 
+17. Identify and implement renewable energy and energy 
+efficiency measures across the operational estate, in line with 
+the acc ommodation strategy and repair and renewal cycles. 30 New Builds  and Expansions  
+The council’s capital build programme, including new schools and school expansions, 
+can incorporate environmental sustainability considerations at the scope/specification 
+and desi gn stages.  
+Action 
+ 
+18. Ensure council new builds are as low carbon as practicable 
+taking into account available budgets. 
+Street Lighting 
+Over 2 2,000 street lights  have had light emitting diode (LED) fixtures fitted to replace 
+old lamps  and 52% of respondents to the engagement survey were aware of this 
+project. LEDs require less power and last longer than the old lamps and are predicted 
+to save £13 million in electr icity, maintenance and operational lifetime cost savings 
+and 3,100 tonnes of CO 2e per year.  
+Action 
+ 
+19. Retrofit LEDs to remaining street lights by 2025 (subject to 
+funding). 
+ 
+Land  
+Consultants have identified that there is potential for solar panels to be ins talled on 
+metal canopies above parking spaces in some car parks and we are responsible for 
+large areas of land that currently act as carbon sinks (including country parks ). We 
+recognise the opportunity to maintain and improve the capability of these spaces to 
+store carbon and absorb/filter air pollutants , while also protecting and enhancing 
+biodiversity.  
+Actions 31  
+20. Conduct feasibility studies for the installation of solar car 
+ports at appropriate parking sites. 
+21. Enhance and support sustainable tree management 
+practices. 
+Transport  
+A low number of respondents to the engagement survey (15%) were aware that we 
+already have some hybrid electric and plug- in electric vehicles in our fleet. Many of 
+our work -related journeys don’t involve the use of our fleet vehicles – staff and 
+councillors use their own vehicles or public transport to get to their destinations. We 
+operate two schemes that allow staff the opportunity to overcome the upfront capital cost of purchasing a bike or car by paying it back incrementally through their monthly 
+salary. Under a cycle to work scheme , as deductions for a bike are taken before 
+income tax or national insurance contributions (NICs), an employee pays less tax and 
+national insurance contributions and an employer can save on employer ’s (NIC). As a 
+newly formed council we need to understand more about the travel behaviour of our 
+staff and councillors and monitor the effectiveness of actions to reduce our transport 
+emissions.    
+Actions 
+ 
+22. Promote schemes which enable staff to purchase bikes  and 
+ULEVs. 
+23. Introduce annual staff and councillor travel surveys.  
+Travel for Work Purposes  
+Departments in the council are responsible for their own fleet vehicles. Many of them 
+are using systems and approaches to ensure that vehicles minimise fuel consumption and costs, and emissions to air ( e.g. route optimisation and driving behaviour 
+monitoring using telematics,  and encouraging eco- driving behaviour).  For example, an 
+additive is used in some of our waste collection vehicles to reduce NO
+x emissions and 
+we currently use two electric vans and some electric pool cars (on lease 
+arrangements). Our actions are therefore  centred around enabling staff and 32 councillors to lower their work travel emissions and implementing a plan across 
+departments to improve emissions from fleet vehicles.  This plan will identify  when 
+increasing percentages of the council's fleet will be replaced with ULEVs  
+Actions 
+ 
+24. Review the council's fleet and develop proposals to reduce 
+emissions from its operation. 
+25. Explore the introduction or enhancement of logistics/fleet 
+management equipment, additives and lubricants, eco-
+driving techniques, and alternative fuels to reduce fleet 
+emissions and implement where practicable. 
+Commuting  and Working from Home  
+The change seen in s taff and councillor s travelling to and from their normal places of 
+work or meetings is perhaps one of the clearest areas which the COVID -19 pandemic  
+has affected. The majority of staff have worked from home during the pandemic and 
+both informal and formal council meetings now take place online. This has 
+undoubtedly reduced overall emissions from staff commuting during this time. What is 
+unclear is how these emissions savings compare to increases in home based 
+emissions, now that many of our homes are occupied during the day. This may be 
+particularly evident in winter when we look to heat our homes when they wouldn’t 
+previously have been unoccupied.  
+Action 
+ 
+26. Support staff and councillors to work from home (flexible 
+working) where practical.  33 Suppliers and Partners  
+Partners  
+Buckin ghamshire Local Enterprise Partnership (BLEP)  developed Buckinghamshire’s 
+Local Industrial Strategy . This sets out how the area will deliver the national Industrial 
+Strategy’s aim to raise productivity levels and to create high- quality, well paid jobs. 
+The Greater South East Energy Hub  works on behalf of LEPs with councils in the 
+greater south east area to support the development and financing of local energy 
+projects and BLEP has produced a Local Energy Strategy  for Buckinghamshire.  
+Local business support and advice is offered by Buckingha mshire Business First 
+(BBF). The BBF group includes Ngage Solutions Ltd which runs the Low Carbon 
+Workspaces  grant programme for SMEs.  
+We will work with these and other partners, including the 16 Community Boards  in 
+Buckinghamshire, to support our private, residential, public, and third sector 
+communities in addressing climate change and air quality as set out in the actions 
+below. This includes providing guidance and information about funding (from the Tree 
+Council , Woodland Trust, and other) to support community tree planting.  
+Action 
+ 
+27. Help communities identify, develop, and secure funding for 
+projects addressing climate change and/or air quality. 
+Schools and Academies  
+Schools and academies have a close relationship with the communities they serve and many also work closely with the council via a range of support services, range from property maintenance to HR and IT support. Fifteen percentage of respon dents 
+to the engagement survey were aware that some schools in Buckinghamshire have solar photovoltaic panels installed.  
+Many schools and academies are already working to reduce their emissions and discuss topics related to the environment and climate change. We would like to 34 encourage this and will work with schools to understand what type of support would 
+be most helpful to them.  
+Action 
+ 
+28. Support measures that reduce emissions to air in the  Getting 
+to School Strategy and forthcoming Home to School Strate gy 
+In addition to the above actions that focus on school transport emissions, we will build on our success of putting solar PV on school roofs to help generate a more accessible 
+and compelling emissions reductions service for school buildings.  
+Action 
+ 
+29. Develop a service that  supports schools to address climate 
+change and air quality issues . 
+The Council’s Investment Estate  
+We lease/rent  properties to individuals and organisations either directly from the 
+Council or via our private investment partnerships  (e.g. Aylesbury Vale Estates  and 
+Consilio Property Ltd ). The majority of our leases are full repairing and insuring (FRI) 
+where tenants ar e typically wholly responsible for the fabric of the building, their use 
+of resources (including energy) and the associated emissions. We are only able  to 
+make changes to the building envelope (external walls, roof, and floor) etc. at suitable 
+intervals (e.g. when the properties are vacant ) or with the agreement of the tenants as 
+part of  wider  building improvements  to improve the environmental performance of a 
+property . These are typically driven by commercial and investment return strategies. 
+There is also  potential to improve performance through ‘green leases ’. 
+Actions 
+30. Endeavour to improve the energy performance of investment 
+properties. 35 Suppliers  
+In order to reduce emissions to air related to supplier activity, we must continue to 
+assess and introduce appropriate requirements though our procurement and contract 
+management work. There are a number of green public procurement guides  available 
+and w e will priori tise engage ment  with high value and high emission  suppliers first to 
+determine what can be done together.   
+Actions 
+ 
+31. Produce and provide training on green procurement tools for 
+purchasing decision-makers.  
+32. Work with key suppliers to identify opportunities to reduce 
+emissions from their products/services.  
+Gas and Electricity Supplies  
+Many electricity, and some gas, suppliers now offer renewable supply contracts  which 
+are marketed as providing renewable gener ation. However, the carbon emissions 
+associated with such renewable energy supplies can be more difficult to robustly 
+determine and may not be zero carbon. This is due to the complexity in the market 
+and different way which such claims may be justified.  
+We need to re -procure our electricity and gas supply contracts in the coming years 
+and this provide an opportunity to review a renewable supply option against a 
+conventional offer, both in terms of carbon impact and affordability.   
+Action 
+ 
+33. Determine the additional carbon benefits which may be 
+achieved by purchasing renewable energy . 
+Transport for Buckinghamshire  
+Transport for Buckinghamshire (TfB) is engaged in a £45mill. a year contract to 
+maintain and improve and roads and footways in the County and has a n objective to 36 optimise the use of energy and natural resources to protect our special environment 
+and contribute to a carbon neutral county . The capacity of roadside verges to 
+sequester carbon and filter/absorb air pollutants has been enhanced by the 
+establishment of Roadside Nature Reserves . Changing the management of our 
+roadside verges will reduce emissions and provide better quality habitats for wildlife.  
+South Buckinghamshire Waste Collection and Street Cleaning 
+Contract  
+We own and operate our own waste collection service in the Aylesbury Vale area  but 
+contract a supplier  to provide this service elsewhere in the County.   
+Actions 
+ 
+34. Use dust suppressant systems on vacuum sweepers to 
+reduce airborne emissions of particulate matter from street 
+cleaning . 
+35. Install electric vehicle chargi ng infrastructure at waste 
+collection depots by 2021 and commence use of hybrid plug-
+in electric vans and electric street sweepers by 2022.  
+36. Implement telematics system to optimise driving behaviour to 
+improve fuel efficiency and reduce emissions to air by 2022 . 
+37. Trial an electric waste electric collection vehicle by 2023. 
+ 37 County -wide 
+This document needs to shape future strategies  and grant s so that the activities they 
+influence result in positive impacts on climate change and air quality. New local  
+emission reduction targets also need to be set to help achieve national emissions 
+reduction targets for harmful airborne pollutants that are the most prevalent in the 
+County.  
+Actions 
+ 
+38. Consider emissions in future strategy development and grant 
+funding decisions. 
+39. Develop targets for the reduction of reactive airborne forms 
+of nitrogen and particulate matter. 
+Transportation  
+Transport  is the single largest source of emissions to air in Buckinghamshire. In 2018 
+transport accounted for 1,452.1 kT CO 2 and road vehicle emissions have resulted in 
+exceedances of nitrogen dioxide limits/targets in several areas in the County. Elevated 
+levels of air pollution exist around the motorways (M25, M4, and M40), trunk roads 
+(A40, A404), and other roads  that are heavily trafficked.  
+Road and rail networks are subject to increased risks because of  climate change 
+regarding  flooding, heat damage, rail buckling, bridge failures, and repair and 
+maintenance costs.  
+In addition to managing the road network with Highways En gland, we licence taxis and 
+private hire vehicles, manage footpaths and other rights of way, and have a role in 
+supporting sustainable transport. Considerable work has been done to support 
+walking and cycling , and develop an electric vehicle charging network. 10% of 
+respondents to the engagement survey currently drive an electric vehicle and 60% would consider driving an electric vehicle in the future. 68% of respondents walk 
+instead of driving and over 40% recognised that the council had installed new cycle 
+routes (42%) and electric vehicle charging points (45%). However, over 30% are least 
+likely to cycle instead of drive (30%), use public transport (33%), or car share (44%) 38 largely due to the inconvenience, cost, or not having enough informa tion. Some 
+respondents have cited other practical (e.g. ‘lack of public transport’), physical 
+limitation (e.g. age, medical reasons, cycling dangers), information- related (e.g. 
+scepticism regarding electric vehicles being ‘greener’), or Covid- 19 reasons as  
+barriers to shifting to more sustainable transport modes.  Over 61% of respondents 
+consider public transport improvements and more walking and cycling initiatives to be 
+very important in tackling climate change and poor air quality. Overcoming barriers to  
+reducing emissions from transport  (including a modal shift  to low/no emission forms of 
+transport ) as far as practicable is critical to achieving our climate change and air quality 
+ambitions.  We will also support modal shifts for journeys from Buckinghamshire to 
+other parts of England’s Economic Heartland. 
+Building on the success of electrifying trains running on the Paddington to Maidenhead route in the south of the County, we look forward to closely working with organisations 
+that are licensed by the coun cil to operate bus routes in the County  and other s, such 
+as Train Operating Companies  and hauliers , to improve transport impacts on the 
+environment.   
+Actions 
+ 
+40. Reduce emissions from taxis and private hire vehicles. 
+41. Implement initiatives to reduce emissions from freight 
+pursuant to achieving the objectives of the Freight Strategy. 
+42. Improve infrastructure for active travel  (such as walking and 
+cycling ) and electric vehicles.  
+43. Assess the carbon emissions from proposed road schemes. 
+44. Trial low emission forms of transport, such as electric buses, 
+bikes and scooters. 
+45. Investigate the feasibility of introducing Low Emission Zone s. 
+46. Reduce unnecessary travel by encouraging regular home 
+working patterns and supporting initiatives that facilitate 
+remote working.  
+47. Improve traffic management technology on the highway 
+network where practicable to reduce congestion and support 
+more efficient driving. 39 Buildings  and Developments  
+Activities  occurring both in and outside of Buckinghamshire impact air quality and 
+greenhouse gas emissions in the County. Major transport hubs (such as airports and 
+railway stations) and major developments significantly influence traffic volumes, and 
+therefore levels of air pollution, on networks linked to them. We need to work with other local authorities and developers to maximise positive and minimise negative 
+environmental impacts .  
+We will continue to manage development through planning and building control to ensure new development in Buckinghamshir e is achieving these aims. Over 80% of 
+respondents to the engagement survey stated that innovative technologies and approaches, and more wind power and solar photovoltaic projects were important to 
+tackle climate change and poor air quality. L ocal plans an d policies relating to climate 
+change (e.g. the Canopy Cover SPD
+; and the forthcoming Buckinghamshire 
+Biodiversity Accounting SPD ) steer growth towards establishing sustainable places – 
+align ing it  with climate change and air quality  goals.  Government planning reform s, 
+such as the Plann ing White Paper , influence  what we do  at a local level . The 
+government is reviewing their roadmap to the Future Homes Standards and is looking at new homes being “zero carbon ready”.  
+Actions 
+ 
+48. Work with neighbouring local authorities and England's 
+Economic Heartland to reduce air pollution impacts from 
+cross -border and major transport hub developments.  
+49. Produce a Technical Advice Note (TAN) on addressing 
+climate change in new developments. 
+50. Use opportunities coming out of changes to national planning 
+policy to enhance environmentally sustainable aspects of 
+developments.  
+Historic Environment  
+Heritage assets play an important role in addressing climate change  and poor air 
+quality  and are educational – historic buildings are reused thereby negating the need 
+for new development, and the materials and techniques used for construction are more 40 environmentally friendly (e.g. less processed, comprised of more natural materials and 
+were sourced more locally than modern equivalents). While the historic environment 
+is particularly vulnerable to environmental change and can facilitate green, blue and 
+sustainable/alternative energy measures, this needs to be weighed up against protecting the significance of heritage sites.  
+Action 
+ 
+51. Explore means to protect heritage assets  from, and use them 
+to address, climate change and poor air quality.  
+Housing 
+Domestic properties  are the second largest source of GHG emissions in the County  
+and a recent survey by Save the Children suggests that many families are cutting back 
+on heating and electricity  due to financial concerns. A  household is said to be in fuel 
+poverty  if their energy costs are above average and their expenditure on energy leaves 
+them with a residual income below the official poverty line.  
+70% of respondents to the engagement survey are making their homes more efficient, 50% use a ‘green energy’ supplier, and 47% will consider installing a renewable 
+electricity generation system (N.B. 12% have already installed one). Some 
+respondents have stated that there are practical (e.g. home ownership, planning), or 
+information- related reasons (e.g. technology reservations) for them not pursuing 
+certain actions.  
+We want to provid e the information that will help people take advantage of the 
+opportunity to improve their environmental impacts  and mitigate fuel poverty. We will 
+capitalise on opportunities to reduce emissions from this sector such as promoting the 
+Green Homes Grant  scheme.  
+Actions 
+ 
+52. Support registered social housing providers’ implementation 
+of sustainable energy and climate change adaptation 
+initiatives in their stock. 41 53. Promote opportunities for residents to improve their homes 
+to help them mitigate and/or adapt to climate change and poor 
+air quality.  
+Waste  
+The Joint Waste Strategy for Buckinghamshire has guided the delivery of waste 
+collection, treatment, disposal, and minimisation initiatives for the County  and a new 
+waste strategy is expected in 2022.  It is apparent that many people are already 
+minimising their impacts on the environment by: limiting their use of resources (92%), 
+changing behaviour to produce less waste (87%), or reusing or repairing instead of 
+buying new products (80%) (according to the results of the engagement survey).  
+Existing  waste management practices support the achievement of the net zero carbon 
+emission by 2050 target, including the following:  
+• Requirements for waste contractors  to improve the environment impact  of the 
+services they provide (e.g.  our contract regarding the transfer, management 
+and treatment of green, food, bulky and wood waste, and management of High Heavens Waste Complex)  
+• Monitoring carbon emissions associated with the treatment of hazardous 
+medical waste  
+• Targets to:  
+o Reduce municipal waste being sent to landfill (target of less than 5% , 
+achieved 0.2% in 2018 -19) 
+o Reduce residual waste produced per household on a yearly basis ( less 
+than 450 kg per household in 19/20)  
+o Increase the percentage of  household waste sent for recycling, re -use 
+or composting on a yearly basis (more than 60% in 19/20)  
+Economy  
+The Carbon Disclosure Project has worked with the University College London (UCL) 
+Energy Institute to determine the potential costs to  global Gross Domestic Product 
+(GDP) of failing to respond to climate change - $5.4 trillion USD a year by 2070 and 
+$31 trillion USD a year by 2200. This will lead to a 10% reduction in GDP growth rate 
+by 2050 and a 25%  reduction  by 2100.  42 Regulating and reducing emissions from industry and supporting businesses and 
+charities that provide goods and/or services to the green economy are classed as 
+being very important in helping tackle climate change and air quality by 80 % and ~50% 
+of respondents to the engagement survey  respectively. Buckinghamshire’s SMEs 
+have had the opportunity to access grant funding from the Low Carbon Workspaces  
+programme to reduce their carbon emissions . The Connected Counties  project is 
+making virtual working (working from home) and teleconferencing more practicable by 
+extending superfast broadband infrastructure in the County  – which helps eliminate 
+the need for travel and therefore reduces transport emissions. There is sincere interest in ensuring that schemes like these are available in the future, beyond Britain’s exit 
+from the EU, and support is available to drive the development and provision of 
+products .  
+Actions 
+ 
+54. Encourage the use of recycled, biodegradable, and/or 
+recyclable materials in products. 
+55. Work with Buckinghamshire LEP to support the development 
+of the green economy in Buckinghamshire. 
+56. Promote initiatives to reduce emissions from the private and 
+third sector in Buckinghamshire. 
+Environment, Land and Water  
+Climate change i ncrease s the severity and number  of extreme  weather events (e.g. 
+larger amounts of and more intense rainfall in the winter, and hotter and drier periods 
+in the summer)  and therefore presents risks to water quality, water infrastructure, 
+biodiversity and land uses . Respondents to the engagement survey identified that they 
+are already being negatively affected by hotter drier summers (59%), and wetter 
+winters (49%), and there are negative impacts on plants (57%) and animals (51%) 
+from climate change.  
+There are opportunities to manage plants ( flora), animals ( fauna), land and water 
+sustaina bly in Buckinghamshire to maintain and improve natural carbon sinks, 
+overcome water scarcity issues, mitigate flooding, and protect and enhance 
+biodiversity . 88% of people responding to the engagement survey stated that tackling 
+climate change by maintaining and protecting natural carbon sinks is  very important. 43 75% consider planting and maintaining trees to be very important  and 49% of 
+respondents currently undertake these activities . Buckinghamshire is to benefit from 
+being included in a pilot study funded by  Defra  and the Council will establish  a new 
+Local Nature Recovery Strategy  (LNRS ) by May 2021.  The LNRS  will account for 
+climate change and air quality impacts.  
+Areas of Buckinghamshire have experienced flood events  and a Local Flood Risk  
+Management Strategy  addresses flood risk and the management of flooding 
+occurrences . The council is the Lead Local Flood Authority  and works in partnership 
+with the other the Environment Agency, Water Companies (Thames, Anglian and 
+Affinity), Internal Drainage Board (IDB), Town and Parish Councils and local Flood 
+Action Groups to develop flood management projects and ensure communities are 
+resilient to flooding. Initiatives include a Natural Flood Management pilot study funded 
+by DEFRA and a programme of flood management projects supported and partially funded from DEFRA and the Environment Agency. ~80% of respondents to the 
+engagement survey identified that more flood prevention projects are important in 
+tackling  climate change.  
+Response to the Sustainable Drainage aspects of planning applications continues to be an effective way of managing flood risk from new.  
+Water companies involved in flood risk management in Buckinghamshire offer free or 
+low cost interventions for people to use at their properties to save water  (including 
+Affinity Water , Anglian Water  and Thames Water ).  
+Actions 
+ 
+57. Work with the Environment Agency and other partners to 
+minimise the risk of flooding and improve community flood 
+resilience.  
+58. Support the provision of advice and resources to encourage 
+water saving. 
+Health and Communications  
+There is clear concern in Buckinghamshire about the future impacts of climate change 
+with 71% if residents worried about water shortages, 69% concerned about food 44 shortages, and 57% concerned about an increase in disease or ill health (according 
+to the results of the engagement survey). 34% are least likely to off -set their carbon 
+emissions (likely to be down to inconvenience, cost, or not having enough information), but some are undertaking other measures to reduce emissions such as growing food, 
+making ethical choices and ‘supporting organisations’.  
+There is a need to understand more about the health issues that poor air quality and climate change  present . Equally important is the essential role that we can play to 
+make information available and accessible so that individuals are better informed about options to improve their impacts on the environment  and what we are doing to  
+tackle climate ch ange and air  quality . Over 70% of respondents to the engagement 
+survey consider clear and easy to find Information about being environmentally -
+sustainable and the promotion of environmentally -sustainable living to be very 
+important in tackling climate change and poor air quality. We have used the results of 
+public engagement questionnaires  to shape the actions in this strategy and will use 
+further consultation exercises to inform our approach to communications in the long-term.  
+90% of our time is spent indoors  and some  activities and materials in this environment 
+are sources of airborne pollutants that are damaging to health (including some building 
+materials, cleaning products, and the combustion of natural gas or wood for heating or cooking) . The IPCC’s  Third Assessme nt Report  states that  climate change can 
+affect human health directly  from severe weather events (e.g. heat stroke from hotter 
+summer weather; or injuries from storms or flooding) or  indirectly through changes in 
+the ranges of disease vectors (e.g. mosquit oes),  air quality, and water and food 
+availability and quality. We want to enable everyone in Buckinghamshire to know how 
+they can make a difference and the difference they are making.   
+Actions 
+ 
+59. Raise public awareness of climate change, and indoor and 
+outdoor air quality. 
+60. Encourage environmentally sustainable living via 
+communications campaigns. 
+ 
+ 45  
+ 
+ 46 Glossary  
+Base year  - A historic datum (a specific year or an average over multiple years) 
+against which an organisation’s emissions are tracked over time  
+Base year emissions  - GHG emissions in the base year.  
+Base year emissions recalculation  - recalculation of GHG emissions in the base 
+year to reflect a change in the structure of the company, or to reflect a change in the 
+accounting methodology used. This ensures data consistency over time, i.e., comparisons of like with like over time.  
+Biodegradable  – capable of being broken down into naturally occurring substances 
+by bacteria and other naturally occurring agents.  
+Biofuels  - Fuel made from plant material, e.g. wood, straw and ethanol from plant 
+matter  
+Boundaries  - GHG accounting and reporting boundaries can have several 
+dimensions, i.e. organizational, operational, geographic, business unit, and target 
+boundaries. The inventory boundary determines which emissions are accounted and reported by the company.  
+Business as Usual (BAU)  - The emissions pathway or scenario if no f urther mitigation 
+action is taken to reduce emissions.  
+Carbon sequestration - the uptake of CO
+2 and storage of carbon in biological sinks.  
+Carbon neutral  - The emissions pathway that will ensure achievement of net zero 
+carbon emissions pathway by 2050 (or other specific date).  
+Co-generation unit/Combined heat and power (CHP)  - a facility producing both 
+electricity and steam/heat using the same fuel supply.  
+CO2 equivalent (CO2 -e) - the universal unit of measurement to indicate the global 
+warming potential (GWP) of each of the six greenhouse gases, expressed in terms of the GWP of one unit of carbon dioxide.  
+Combustion - or burning, is a high- temperature exothermic redox chemical reaction 
+between a fuel (the reductant) and an oxidant, usually atmospheric oxygen, that 
+produces oxidized, often gaseous products.  47 Direct emissions  – emissions from sources that are owned or controlled by the 
+reporting organisation.  
+Emissions  - the production and discharge of something. In this document it refers to 
+the release of pollutants into the atmosphere (GHGs and air pollutants relevant to 
+national air quality objectives)  
+Emission factor  - A factor allowing GHG emissions to be estimated from a unit  of 
+available activity data (e.g. tonnes of fuel consumed, tonnes of product produced) and 
+absolute GHG emissions.  
+Energy efficiency projects – interventions resulting in less energy being used to 
+produce the same result/work (e.g. insulating walls and roof voids, LED lighting 
+retrofits).  
+Fossil fuels  – non-renewable/finite (not being replenished or being replenished very 
+slowly) resources formed as a result of geologic processes acting on the remains of 
+organic matter. Fossil fuels contain carbon and include coal, petroleum, natural gas, 
+oil shales, bitumen, tar sands, and heavy oils.  
+Fossil fuel derivatives – products made from the processing of fossil fuels. Plastic is 
+made from fossil fuel derivatives.  
+Fuel poverty  - A household is considered to be fuel  poor if they have required fuel 
+costs that are above average, or if they were to spend that amount they would be left 
+with a residual income below the official poverty line.  
+Fugitive emissions  - emissions that are not physically controlled but result from  the 
+intentional or unintentional releases of GHGs. They commonly arise from the 
+production, processing transmission storage and use of fuels and other chemicals, 
+often through joints, seals, packing, gaskets, etc.  
+Geothermal energy - heat that comes from  the sub- surface of the earth. It is 
+contained in the rocks and fluids beneath the earth's crust.  
+Green power  - a generic term for renewable energy sources and specific clean energy 
+technologies that emit fewer GHG emissions relative to other sources of energy that supply the electric grid. Includes solar photovoltaic panels, solar thermal energy, 
+geothermal energy, landfill gas, low -impact hydropower, and wind turbines.  48 Greenhouse gases (GHG s) - GHGs are the six gases listed in the Kyoto Protocol: 
+carbon dioxide (CO 2); methane (CH 4); nitrous oxide (N 2O); hydrofluorocarbons 
+(HFCs); perfluorocarbons (PFCs); and sulphur hexafluoride (SF 6). 
+GHG capture  - collection of GHG emissions from a GHG source for storage in a sink.  
+GHG credit  - GHG offsets can be converted into GHG credits when used to meet an 
+externally imposed target.  A GHG credit is a convertible and transferable instrument 
+usually bestowed by  a GHG program.  
+GHG/carbon offset  - offsets are discrete GHG reductions used to compensate for 
+(i.e., offset) GHG emissions elsewhere, for example to meet a voluntary or mandatory 
+GHG target or cap.  
+GHG removal  - absorption or sequestration of GHGs from t he atmosphere.  
+GHG/carbon sink  - any physical unit or process that stores GHGs; usually refers to 
+forests and underground/deep sea reservoirs of CO 2. 
+GHG source  - any physical unit or process which releases GHG into the atmosphere.  
+Global Warming Potential  (GWP)  - a factor describing the radiative forcing impact 
+(degree of harm to the atmosphere) of one unit of a given GHG relative to one unit of 
+CO 2. 
+Indirect GHG emissions  - emissions that are a consequence of the operations of the 
+reporting company, but occur at sources owned or controlled by another company.  
+Inorganic  - not consisting of or deriving from living matter.  
+Intergovernmental Panel on Climate Change (IPCC)  - international body of climate 
+change scientists. The role of the IPCC is to assess the scientific, technical and socio-
+economic information relevant to the understanding of the risk of human- induced 
+climate change (www.ipcc.ch).  
+Kyoto Protocol  - a protocol to the United Nations Framework Convention on Climate 
+Change (UNFCCC). It requires countries listed in its Annex B to meet reduction targets of GHG emissions relative to their 1990 levels during the period of 2008 –12. 
+Local Enterprise Partnerships (LEP)  - business led partnerships between local 
+authorities and local private sector business es. 
+Naturally occurring  – exist in nature without artificial aid.  49 Net zero carbon  - the amount of total emissions released on an annual basis 
+averages to be zero or negative i.e. the amount of emitted emissions balanced with 
+those removed or offset.  
+Renewable energy – energy derived from renewable (naturally replenishing) sources 
+(e.g. sun, wind, wave, geothermal).  
+Recycling  - the process of converting discarded materials into new materials and 
+objects.  
+Recyclable  – capable of being recycled.  
+Scope 1 emissions  - emissions resulting from the combustion of fuel (e.g. petrol, 
+diesel or gas) within an area/by an organisation.  
+Scope 2 emissions - emissions coming from the electricity that is used within the 
+area/by an organisation.  
+Scope 3 emissions - emiss ions associated with the goods and services that are 
+produced elsewhere but imported and consumed within the area/by an organisation.  
+Small and medium sized enterprises (SMEs)  - Non-subsidiary, independent firms 
+which employ fewer than 250 employees typically.  
+Sustainable energy projects – a general term referring to both renewable energy 
+and energy efficiency projects.  
+Telematics – technology in vehicles which allows information on the movement of a 
+vehicles to be recorded and transferred to other systems,  so that it may be analysed  
+ULEV  – Ultra low emission vehicles. A low emission car or van that emits 75g/km CO 2 
+or less. ULEVs include pure electric vehicles, electric range- extender vehicles, and 
+plug- in hybrids (PHEVs).  
+UK Climate Change Committee  - Independent, statutory body established under the 
+2008 Climate Change Act, to advise the UK Government on progress and action to 
+reduce GHG emissions.  
+ 

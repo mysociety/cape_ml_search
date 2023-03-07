@@ -1,0 +1,2049 @@
+EAST RIDING  
+CLIMATE CHANGE 
+STRATEGY
+2022 - 2030
+www.eastriding.gov.ukContents
+Foreword  .......................................................................................................................................................................................................... 5
+Executive Summary  ..................................................................................................................................................................................... 6
+Introduction  ..................................................................................................................................................................................................... 8
+Global and National Context  .............................................................................................................................................................. 10
+Regional Context  ........................................................................................................................................................................................ 10
+Climate Change Impacts in the East Riding .................................................................................................................................. 11
+Cross Cutting Themes ............................................................................................................................................................................. 12
+East Riding Rurality  ........................................................................................................................................................................... 12
+East Riding Coast ............................................................................................................................................................................... 14
+Health Implications of Climate Change .................................................................................................................................. 15
+Inequalities and Climate Change ............................................................................................................................................... 17
+Links to Other Strategies and Policies ............................................................................................................................................. 18
+Where Are We Now? ............................................................................................................................................................................. 19
+Area Wide Carbon Footprint ............................................................................................................................................................. 19
+The Council’s Carbon Footprint ........................................................................................................................................................ 20
+Future Pathways  ......................................................................................................................................................................................... 22
+What is Important to our Residents? ............................................................................................................................................. 25
+Our Approach  .............................................................................................................................................................................................. 26
+Scope  ................................................................................................................................................................................................................ 27
+Priority Areas  ............................................................................................................................................................................................... 28
+Transport  ............................................................................................................................................................................................... 29
+Energy  ...................................................................................................................................................................................................... 33
+Waste  ..................................................................................................................................................................................................... 36
+Environment  ........................................................................................................................................................................................ 40
+Buildings  ................................................................................................................................................................................................. 44
+Economy  ................................................................................................................................................................................................ 48
+Net Zero Council .............................................................................................................................................................................. 52
+Climate Resilience .............................................................................................................................................................................. 55
+How to Reduce your Carbon Footprint? ....................................................................................................................................... 58
+Governance  .................................................................................................................................................................................................. 60
+Targets  ............................................................................................................................................................................................................. 60
+Road Map to Net Zero ........................................................................................................................................................................... 61
+Appendix 1 - Understanding Climate Change Language ...................................................................................................... 62
+Appendix 2 - Areas for Action .......................................................................................................................................................... 64
+2 3Foreword
+We are facing a climate and ecological emergency, the impacts of which are being felt globally and at 
+a local level. Our climate is changing faster now than ever before. East Riding of Yorkshire has already 
+witnessed the impacts of climate change on communities, with flooding events in 2007 and 2013, the 
+damaging effects of coastal erosion and the increasing frequency of heatwave events. Just this year, 
+the UK recorded its highest ever daytime temperature of 40.3°C. We are set to face continued rising 
+temperatures, more extreme weather, warming oceans and rising sea levels. All these changes pose 
+major risks to our health, economy, infrastructure, wildlife, energy security and food production.
+There is no doubt that climate change poses a significant challenge which will require everyone to  
+play their part to rapidly reduce greenhouse gas emissions and build resilience to the effects of climate 
+change. As an organisation we have set a net zero target of 2050 and we will look to build on our 
+successes in environmental management and carbon reduction. This strategy details how we will do 
+this, setting out the Council’s approach to tackling climate change across the East Riding. It reaffirms our 
+commitment of having climate change as a key council priority, as reflected in our Business Plan 2020-
+2025, and builds on our vision of Your East Riding... where everyone matters . 
+Beyond the Council’s own carbon footprint, our ambition is to inspire residents and businesses to 
+consider the environment and make efforts to reduce their own impact on the climate. We recognise 
+that achieving our vision will not be easy, however, through collaborative action and partnership work  
+we will be able to deliver positive climate action. Whether actions are big or small, every action counts 
+as we continue to face the challenges of climate change together.
+Councillor Jonathan Owen  
+Leader, East Riding of Yorkshire Council
+ 
+ 
+Councillor Chris Matthews  
+Portfolio Holder for Environment and Climate Change  
+and Vice-Chair of the Yorkshire and Humber  
+Climate Change Commission
+4 5Executive Summary 
+“East Riding of Yorkshire will be net zero carbon and climate resilient. It will be a 
+healthier and cleaner area supported by renewable energy, sustainable transport and 
+underpinned by a strong local green economy. We will create an environment for people 
+and nature to thrive, helping lead the way to a fairer and more equitable society”.
+The Climate Change Strategy 2022 - 2030 establishes the vision for how East Riding of Yorkshire 
+Council will reduce carbon emissions and build resilience to climate change. It details the overarching 
+climate change response for the Council, building on the suite of plans already in place for mitigation 
+and adaptation across the authority and the wider region. The strategy sets out key priorities and 
+opportunities for climate action across the East Riding, which have been shaped by analysis of local  
+data, expertise across the authority, feedback from our key partners and an initial public consultation.
+The strategy takes an integrated approach to climate change, considering how we become more resilient to 
+the changing climate (climate adaptation) and how we can reduce our impact on the climate (climate mitigation). 
+We recognise that although as a Council we are only directly responsible for an estimated one per cent of 
+carbon emissions in the area, we can use our influence to reduce emissions across the wider East Riding.
+The Climate Change Strategy has been designed to set the East Riding on a path to net zero by 
+establishing a flexible road map which can be developed over time as new policies and strategies are 
+introduced that impact our ambitions. It has been developed to cover the period 2022 - 2030 with the 
+aim to kick start rapid action, to reduce emissions and build resilience. During this time, we will focus our 
+efforts on quick win actions (those with the greatest impact or that are the most feasible). This flexible 
+approach will enable us to reassess our position in 2030, and ensure the strategy remains aligned with 
+evolving policy, legislation, and technological changes.
+We have set a net zero target of 2050 for our own operations and services and plan for this strategy 
+to be a launch pad for exploring a shared area-wide net zero target. An area-wide target should be 
+developed collaboratively with residents, businesses and organisations from across the area to create  
+a shared target and ownership. We will also seek to review our target to align with an area-wide 
+science-based target where possible. 
+A more detailed action plan, outlining immediate plans and projects aligned to the strategy, will be 
+developed covering the period 2022 - 2025. Following this, the action plan will be reviewed and updated 
+every five years. Climate action will be monitored annually and will be scrutinised at regular meetings 
+of Environment and Regeneration Overview and Scrutiny Sub-Committee. Updates will be provided 
+through the Council’s Environmental Statement. Our Vision East Riding of Yorkshire will be net zero carbon and climate resilient. It will 
+be a healthier and cleaner area supported by renewable energy, sustainable transport and 
+underpinned by a strong local green economy. We will create an environment for people and 
+nature to thrive, helping lead the way to a fairer and more equitable society.Climate 
+Change Strategy 
+2022 - 2030
+PRIORITY AREAS FOR CLIMATE CHANGE ACTION
+PRIORITY  
+AREA ONE:
+TRANSPORTPRIORITY  
+AREA TWO:
+ENERGYPRIORITY  
+AREA THREE:
+WASTEPRIORITY  
+AREA FOUR:
+ENVIRONMENT
+PRIORITY  
+AREA FIVE:
+BUILDINGSPRIORITY  
+AREA SIX:
+ECONOMYPRIORITY  
+AREA SEVEN:
+NET ZERO 
+COUNCILPRIORITY  
+AREA EIGHT:
+CLIMATE 
+RESILIENCE
+Monitoring Progress: A detailed action plan is currently in development for the period  
+2022 - 2025, to align with the strategy. Climate action will be monitored and scrutinised through 
+regular meetings of Environment and Regeneration Overview and Scrutiny Sub-Committee. 
+Updates will be provided through the Council’s Environmental Statement.CROSS CUTTING THEMES
+ 
+HEALTH 
+RURALITY 
+COASTAL 
+INEQUALITIES
+6 7
+Introduction 
+In 2019 East Riding of Yorkshire Council established a review panel to understand the risks and 
+opportunities presented by climate change. The recommendations of the panel were published in 
+February 2021 and, in line with national government, the Council declared a climate emergency.
+The panel concluded that the Council should develop a Climate Change Strategy to co-ordinate our 
+response to climate change and define our ambitions and vision for the future. This strategy aims to fulfil 
+the review panel recommendations and help to understand our impacts on the climate. The strategy will 
+outline how the authority will play its part in tackling the climate crisis as well as supporting our partners, 
+businesses and residents to do the same. 
+Climate change will impact everyone; however, our young people will have to live with the consequences 
+for much longer. Young people across the East Riding have expressed their fears around climate change 
+and are urging us to do more to protect their future.
+“Our generation is the first to feel the impacts of climate 
+change and the last generation that can do something 
+about it.” 
+Barack Obama (Former President of the United States of America).
+Our climate continues to change rapidly, and we must all play our part to prevent further damaging 
+warming. Globally, emissions of carbon dioxide must be halved by 2030 if we are to keep warming to  
+1.5°C. By working together across all sectors of society this challenging target can be met. The chair of the 
+Intergovernmental Panel on Climate Change (a body that brings together climate scientists from across 
+the globe) said that:
+“We are at a crossroads. The decisions we make now can 
+secure a liveable future. We have the tools and know-how 
+required to limit warming.”
+Hoesung Lee (Chair, Intergovernmental Panel on Climate Change).
+Climate change will lead to warmer temperatures, changes in rainfall patterns, sea level rises and  
+more frequent and intense heatwaves and flooding events. Even when we dramatically reduce our 
+greenhouse gas emissions, we will still be left with a warmed climate that we’ll need to learn to live with. 
+This strategy will consider how we can reduce our impact on the climate and adapt to the inevitable 
+changes we will see in the future. 
+8 9Global and National Context 
+International and national bodies, such as the Intergovernmental Panel on Climate Change (IPCC) and 
+the UK Committee on Climate Change (CCC) have given clear messages that Governments are not 
+yet doing enough to tackle climate change, but that there is a viable way to achieve net zero and avoid 
+the worst impacts of climate change. We are currently on course for 3 - 4°C of warming but with a 
+concerted international effort and investment, limiting warming to 1.5 - 2°C is possible, as per the  
+United Nations Paris Agreement. 
+Climate change cannot be tackled in isolation. The 17 United Nations Sustainable Development Goals,  
+of which climate change is one, show that there are many factors that influence the health and 
+prosperity of people and the planet. 
+The UK has a world leading Climate Change Act which sets out our national ambition to be net zero  
+by 2050 and contains budgets for the amount of carbon we are able to release into the atmosphere.  
+We have already seen significant progress to reduce our emissions. From the year 1990 we have reduced 
+emissions by nearly 50 per cent and by 2030 we are on track to achieve a 68 per cent reduction. 
+In 2021, the UK’s Net Zero Strategy was published setting out policies and proposals for decarbonising 
+all sectors of the UK economy to meet the national net zero target of 2050.
+Regional Context 
+In November 2021 the Yorkshire and Humber Climate Commission published the first ever climate 
+action plan for the region. The action plan has been developed to encourage shared responsibility 
+for climate action, and makes the case for significant, tangible actions to tackle the climate 
+emergency. The plan highlights the need to move beyond targets and planning, to action  
+and delivery, calling for climate and ecology to be placed at the heart of decision making. 
+A fundamental aspect of the plan is the importance placed on building resilience to 
+the changing climate (sometimes called being climate ready, or climate adaptation). 
+Over recent years a considerable amount of emphasis has been placed on 
+reducing our carbon emissions, and other greenhouse gases, to limit warming. 
+The Yorkshire and Humber Climate Action Plan recognises that even when 
+emissions are cut the climate will still change and we need to be prepared 
+and take action to protect our way of life. 
+The action plan details a framework for change and 50 actions 
+that will focus climate action across the Yorkshire and Humber 
+region. The plan focuses on building a fair and just transition 
+and to build the region’s resilience against climate 
+disasters. It also sets a target to achieve net zero by 
+2038 and specifies the need for “significant progress” 
+by 2030.
+Climate Change Impacts in the East Riding 
+It is expected that, as time goes on, the East Riding will experience wetter winters, drier summers, higher 
+sea levels and more extreme heatwaves. These climatic changes are likely to have significant impacts on 
+society, the economy and environment within the East Riding by exacerbating existing risks and introducing 
+new risks. This section provides an overview of the most significant climate-related risks to the East Riding. 
+FLOODING  - The East Riding is already highly vulnerable to flooding. It is ranked within the top ten areas 
+in the country with the highest number of homes at risk of river and tidal flooding, while surface water 
+flooding is a widespread and growing risk, especially in urban areas of the county. Furthermore, almost 60 
+per cent of the population within the Hull and East Riding catchment of the Humber River Basin District 
+(HRBD) are currently at risk from flooding. With more extreme storms and a 20 - 30 per cent increase in 
+winter rainfall as a result of climate change by 2100, the frequency and severity of surface water and fluvial 
+flooding in the East Riding is likely to increase. Similarly, sea levels are expected to rise by up to one meter 
+by 2100, leaving low-lying areas of the East Riding at significantly increased risk from tidal flooding. 
+COASTAL CHANGE  - The majority (48km) of the East Riding coast is made up of soft glacial boulder 
+clay. As a result, the East Riding has one of the fastest eroding coastlines in Europe, with average erosion 
+rates of up to four metres a year and individual losses of over 20m recorded. Based on these rates 
+continuing, approximately 209 residential properties would be lost to the sea within the next 100 years 
+along with businesses, caravans, transport links and utilities infrastructure. However, rising sea levels 
+and increased storminess linked to climate change are expected to result in higher rates of erosion and 
+therefore greater impacts on communities and businesses. 
+HEATWAVES  - By 2100 it is expected that mean summer temperatures in the East Riding will be 3 - 4 
+degrees Celsius hotter than today. They are also expected to be drier, with more frequent and more 
+extreme heatwaves. Such temperature rises not only have an impact on how we live our lives but can 
+also have a significant effect on public health through heat cramps, heat exhaustion, heatstroke and 
+hyperthermia. This impact is often felt worst by vulnerable residents, including those over 65, who make 
+up a higher-than-average proportion (26 per cent) of the East Riding’s population.
+While those impacts explored above are of particular importance for the East Riding, and therefore 
+prominent in this strategy, it is important that plans are made to mitigate and adapt to all impacts of 
+climate change. Some additional potential impacts, as outlined in the most recent UK Climate Change 
+Risk Assessment include risks to:
+ The viability and diversity of habitats and species.
+ Soil health from increased flooding and drought.
+ Natural carbon stores and sequestration from  
+ multiple hazards, leading to increased emissions.
+ Supply of food, goods and services duel to  
+ climate-related collapse of supply chains and  
+ distribution networks. Crops, livestock and commercial trees. 
+ The UK from climate change impacts overseas. 
+ People and the economy from climate-related  
+ failure of the power system.
+10 11
+Cross Cutting Themes
+This section outlines the cross-cutting themes which underpin the Climate Change Strategy.  
+Solutions to meet the challenges of climate change should, where possible, also tackle the challenges of 
+the broader societal issues faced in the East Riding of Yorkshire, including the rural nature of the area, 
+health and wellbeing and inequalities. 
+                 East Riding Rurality 
+The East Riding is predominantly a rural area, with 44 per cent of residents living in dispersed rural 
+communities. Rural areas face a different set of challenges to that of urban areas especially when tackling 
+climate change. Some of those challenges faced by our residents include limited availability of public 
+transport, or access to suitable employment. The rural nature of the area also poses challenges to the 
+Council, for example, we need more vehicles and crew to complete waste collection rounds. 
+Like many areas across the UK the East Riding has a broad range of household income levels, however 
+there are pockets of deprivation in places. Increasingly, the population in the East Riding is becoming 
+older, due to a high percentage of people retiring to the area. Deprived populations and elderly people 
+are more likely to suffer from the impacts of climate change as they have less resilience to severe 
+weather events. 
+Whilst the landscape and demographic of our area is a strength and presents many opportunities, 
+current economic uncertainties, major policy changes and continuing downward pressure on public 
+sector finances are presenting rural communities with numerous challenges and climate change is only 
+adding to these pressures. We have identified where challenges, opportunities and actions relate to  
+the rural nature of the East Riding of Yorkshire (in appendix 2) using the symbol above.341,173  PEOPLE LIVE IN THE EAST RIDING OF YORKSHIRE  
+(EAST RIDING OF YORKSHIRE COUNCIL [ERYC ], 2022)
+93% RURAL BY AREA 44%  RURAL  
+BY POPULATION (ERYC, 2022)
+157,760  HOUSEHOLDS IN AN AREA COVERING 
+APPROXIMATELY 930 SQ/M (ERYC, 2022)
+“Rural policies have an essential role to play in reaching 
+net zero greenhouse gas emission targets while also 
+generating benefits for rural communities.”
+OECD, Rural Agenda for Climate Action
+12 13                East Riding Coast
+The East Riding of Yorkshire is not only rural, but is also defined by its coast, stretching from 
+Flamborough Head in the north to Spurn Point in the South, a total of 53 miles. The 120-metre-high 
+chalk cliffs, stacks, caves, and coves at Bempton and Flamborough Head support large numbers of 
+seabirds such as puffins, gannets and kittiwakes which together form the UK’s largest mainland breeding 
+seabird colony. Several major settlements are located along our coastline (including Bridlington, Hornsea 
+and Withernsea) and have a significant part to play in the prosperity of the area, with fishing, offshore 
+developments and tourism forming a key part of the region’s economy. Tourists visit the area specifically 
+for our coastal towns, long sandy beaches and wildlife experiences. The areas connectivity with the 
+Humber Estuary and wider marine environment also means that it is perfectly placed to support a  
+broad range of coastal industries. 
+The coast and its wildlife are, however, already experiencing the impacts of climate change, and it will 
+be necessary to redress our relationship with the natural environment whilst also securing economic 
+growth. There are many opportunities and challenges linked to our coastline, and a number of climate 
+actions will link to the coastal nature of the East Riding of Yorkshire. These will be identified within the 
+strategy (in Appendix 2) using this symbol above.                Health Implications of Climate Change 
+It is widely acknowledged that the risks from climate change will affect everyone. Some will be affected 
+more than others. The people whose health is being harmed first, and to a greater degree than the 
+wider population, are often the people who contribute the least to climate change. People in low-income 
+households and disadvantaged communities are often hit first and the hardest. The diagram below, 
+created by World Health Organisation (WHO), provides an overview of climate-sensitive health risks, 
+their exposure pathways and vulnerability factors.
+CLIMATE CHANGE
+VULNERABILITY
+VULNERABILITY FACTORS
+ Demographic factors
+ Geographic factors
+ Biological factors and health status
+ Socio-political conditions
+ Socio-economic factors.EXPOSURE PATHWAYS
+ Extreme weather events
+ Heat stress
+ Air quality
+ Water quality and quantity
+ Food security
+ Vector distribution and ecology.
+CLIMATE-SENSITIVE HEALTH RISKS
+HEALTH OUTCOMES
+Injury and 
+mortality 
+from 
+extreme 
+weather 
+events.Heat related 
+illness.Respiratory 
+illness.Vector-
+borne 
+diseases.Malnutrition 
+and food- 
+borne 
+diseases
+.Water-borne 
+diseases and 
+other water 
+related 
+health 
+impacts.Mental and 
+psychosocial 
+health.
+14 15These climate-sensitive health risks are disproportionately felt by the most vulnerable and disadvantaged, 
+including women, children, ethnic minorities, low-income households, migrants or displaced persons, 
+older populations, and those with underlying health conditions. Health impacts of climate change will be 
+determined by how vulnerable and resilient people are and how quickly society can adapt to the changes 
+we see. Climate change is also expected to increase the pressures on our healthcare systems.
+Most action we take on climate change will impact health, therefore, as part of the development of this 
+strategy a Health Impact Assessment (HIA) has been carried out. The assessment picks out some of the 
+positive and negative impacts of climate change and highlights steps that can be taken to minimise  
+or maximise the effects respectively. 
+The strategy will seek to act on the recommendations contained within the HIA either within our action 
+plan following implementation of this strategy, or via relevant Council strategies and policies. The health 
+symbol above will note those areas where health is a consideration within the challenges / opportunities 
+or actions.
+             Inequalities and Climate Change 
+Certain social groups are particularly vulnerable to the impacts of climate change, for example,  
+single parent households and carers (who are disproportionately female), disabled people and the 
+elderly. The root causes of their vulnerability lie in the intersectionality of their geographical locations, 
+their financial and socio-economic circumstance, and their cultural and gender identity, in addition to 
+their access to services and decision making. 
+The most vulnerable can also be disproportionately impacted by climate change mitigation measures, 
+which can place a higher financial burden on low-income households. For example, decisions that  
+expand public transport or carbon pricing may lead to higher public transport fares which can have  
+a greater impact on low-income groups.
+East Riding of Yorkshire residents have been included in the decision-making process for the Climate 
+Change Strategy. The strategy has been developed and implemented with transparency and provides 
+easy access to information. 
+The Council is keen to regularly consult with vulnerable residents on the issue of 
+climate change to ensure that the strategy is inclusive and mitigates / maximises 
+any negative / positive impacts respectively, and that any measures are taken to 
+ease the burden on protected groups as far as possible. The symbol above will 
+indicate (in Appendix 2) those areas where equality is a consideration within the 
+challenges / opportunities or actions.
+“Climate change is the biggest 
+health threat facing humanity.”
+(World Health Organisation (WHO)).
+16 17Links to Other Strategies and Policies 
+The Climate Change Strategy will set the overarching direction of travel and identify key opportunities 
+for action to tackle climate change across the East Riding. It will form part of a suite of plans, policies  
+and strategies that contribute to climate action. 
+The diagram below highlights the interdependencies between the Climate Change Strategy, other Council 
+plans and strategies and those of key partners, with all of these contributing to climate action across the 
+East Riding. Examples of other regional plans and strategies supporting and delivering climate action are 
+provided in the diagram below.
+Climate 
+Change 
+StrategyPartnership Strategies  
+(Examples)
+Yorkshire and 
+Humber Climate 
+Action PlanHumber 2100+
+Humber Energy 
+StrategyEast Riding of 
+Yorkshire Rural 
+Strategy  Local Nature 
+Recovery 
+Strategy
+East Riding Of Yorkshire Council 
+Strategies (Examples)  Business PlanLocal Plan
+Local Transport PlanJoint Sustainable 
+Waste Management 
+PlanHousing Strategy
+Economic StrategyLocal Flood Risk 
+Management Strategy
+Environmental 
+PolicyCarbon and Energy 
+Management 
+StrategyCLIMATE ACTION  CLIMATE ACTION  CLIMATE ACTION 
+ CLIMATE ACTION   CLIMATE ACTION   CLIMATE ACTION  CLIMATE ACTION  CLIMATE ACTION 
+ CLIMATE ACTION   CLIMATE ACTION  Where Are We Now?
+Area-wide Carbon Footprint
+The estimated carbon footprint of the East Riding of Yorkshire was 3,217.9 kilotonnes of carbon dioxide 
+equivalent (kt CO2e) in 2020 (BEIS, 2022). For reference, the Yorkshire and Humber region collectively 
+produced 36,938.7 kt CO2e, in the same year, and the carbon footprint of England was 291,134.6 kt 
+CO2e. Please note we will endeavour to continually update this data in alignment with  
+the release of emissions statistics by Government.
+To identify priorities for climate action we need to understand where our emissions come from.  
+The chart below shows the main sources of emissions in the East Riding, breaking it down into key 
+sectors. These are the latest estimates of the territorial emissions produced by Government, where 
+emissions are allocated according to the point where that energy is consumed. This does not account  
+for emissions from imported goods into the East Riding.
+Waste 
+Management 
+5%
+Agriculture  
+18%
+Domestic  
+18%Industry  
+26%Transport 
+22%Commercial  
+4%
+Public Sector  
+2%Land Use  
+Land Use Change and 
+Forestry (LULUCF)  
+5%
+18 19The industrial sector produces a large proportion of the emissions in the East Riding, despite a reduction 
+in emissions over recent years. The region is nationally recognised for its industry and manufacturing, 
+particularly around the Humber Estuary. The industrial cluster in the Humber region emits more emissions 
+than any other UK cluster and accounts for a large proportion of the total emissions in the East Riding. 
+Emissions from road transport have only marginally declined since 2005 and remain a large part of the 
+total emissions in the East Riding. This is because, despite improvements in vehicle efficiency and clean 
+technology, these gains have been offset by an increase in road traffic. 
+Notably, there has been a 64.6 per cent reduction in emissions from electricity in the East Riding 
+from 2005 - 2019. This is largely due to an increase in renewable energy capacity contributing to the 
+decarbonisation (less carbon used to produce electricity) of the national electricity grid. This is alongside 
+phasing out the use of carbon intensive fuel sources like coal, which have contributed to the overall 
+reduction in residential and industrial emissions in the East Riding. 
+The agriculture sector also produces a large proportion of the area’s emissions. These emissions arise 
+primarily from livestock, urea application, liming of soils and fertiliser application.
+Not all the emissions we produce in our daily lives are captured in the data above, because carbon 
+emissions are produced from the products we purchase and consume like food and drink, clothes,  
+shoes, consumer electronics and appliances. Each product that is purchased has a carbon footprint, 
+which will depend on how the product is sourced, prepared and transported during its lifecycle. 
+It is estimated that in the East Riding the emissions produced from food and diet, along with the 
+consumption of goods and services (including leisure and entertainment activities) per household is 
+similar to the UK average household. Changing personal daily habits and what we consume can help 
+tackle climate change. 
+The Council’s Carbon Footprint
+The estimated carbon footprint of East Riding of Yorkshire Council was 29,875 tonnes of carbon  
+dioxide equivalent (CO2e) in 2020 - 21. 
+The Council, one of the largest unitary authorities in the country, is responsible for a large array of 
+property and infrastructure assets and provides public services to an area of over 930 square miles. 
+The Council directly accounts for approximately one per cent of the total carbon footprint of the East 
+Riding of Yorkshire. This includes the total emissions from assets that are owned or managed by the 
+Council including buildings, schools, streetlights and transport (the Council’s fleet vehicles and business 
+travel). The following chart below illustrates the relative contribution of these asset groups to the 
+Council’s overall carbon footprint, using the most recent data we have available. The Council holds data 
+on carbon emissions back to 2007 / 08. Since then, buildings have always been the largest contributor 
+to the overall emissions, contributing over a third in 2020 - 21 (36.1 per cent). This is followed closely by 
+transport (34.2 per cent). Carbon emissions from schools has reduced over time reflecting the energy 
+improvements as a result of planned maintenance schemes and grid decarbonisation. Street lighting 
+accounts for just 6.1 per cent of emissions and has seen reductions overtime as a result of upgrades 
+from inefficient discharge lamps to high efficiency LED lamps. Buildings  
+36.1%Transport  
+34.2%
+Schools  
+23.6%Street  
+Lighting  
+6.1%Since 2007 - 08 the Council has reduced its total carbon emissions by 27.5 per cent. This has been  
+the result of the Council’s carbon reduction initiatives and having an Environmental Policy process  
+that delivers environmental improvements, demonstrated through our ISO14001:2015 accreditation.  
+Major external factors have also contributed to this including the decarbonisation of the electricity grid. 
+The Council’s Carbon and Energy Management Strategy found that whilst the Council’s carbon emissions 
+are predicted to decrease in the short-term, due to the decarbonisation of the electricity grid, the 
+Council will fail to meet the Climate Change Committee’s (CCC) fourth and fifth carbon budget targets 
+later this decade. To meet these, the Council will have to significantly increase investment in carbon and 
+energy reduction technologies and set relevant policies to reduce the authority’s carbon footprint. 
+More data would support further understanding of the emissions we produce. In particular,  
+the emissions that occur indirectly as a result of the Council’s activity. These are often referred to as 
+scope three emissions and usually represent 70 - 80 per cent of a local authority’s total emissions. 
+Typically, these relate to the emissions associated with the things we buy (procured goods and services), 
+out sourced contracts and staff commuting. As part of our carbon monitoring and reporting we will 
+explore ways to capture these emissions and set subsequent reduction plans. 
+20 21Future Pathways 
+The Tyndall Centre for Climate Change Research have calculated carbon budgets for each of the local 
+authority areas in the UK. This helps local authorities understand the contribution they must make 
+towards the Paris Climate Change Agreement. The carbon budget sets out the maximum amount of 
+carbon dioxide that can be emitted in a local area to limit global warming to 1.5 degrees compared to 
+pre-industrial levels. With no change to the current emissions produced, it was predicted that the East 
+Riding of Yorkshire would use its carbon budget by 2026. 
+We have undertaken a study to further understand the various pathways to achieve net zero.  
+The research suggested that to align with a Science Based Target of 1.5 degrees, the East Riding of 
+Yorkshire will need to achieve net zero emissions by 2044. 
+The challenge for achieving this target should not be underestimated and will require significant changes 
+to the way our energy system operates and fundamental lifestyle changes. Even if we follow the more 
+ambitious pathways presented by the National Grid or Northern Power Grid, this may not achieve the 
+net zero goal by 2044 and would require offsetting of residual emissions, which should always be a last 
+resort. This is presented as the ‘Leading the way’ scenario on the graph below. 
+According to study we had commissioned, this scenario would require as a minimum a: 
+Measuring progress on climate adaptation is more challenging, primarily because the impacts of climate 
+change are so varied and are changing all the time. 
+Nationally, the Government is required to produce a five-yearly climate change risk assessment,  
+which helps set the National Adaptation Programmes, with the next set for 2023. The Climate 
+Change Committee produces an assessment (every two years) of the UK Government’s progress with 
+adaptation. The most recent report found that action on adaptation has failed to keep pace with the 
+worsening reality of climate risk and acting sooner will save more resources rather than waiting to deal 
+with the consequences. 
+Locally, we continue to monitor and track elements of climate risk in the East Riding across our different 
+work streams and partnerships. This includes: 
+• A programme to assess the levels of risk from coastal erosion, which includes twice yearly aerial  
+ image and Light Detection and Ranging (LiDAR) surveys of the whole East Riding coastline. 
+• A series of assessments and studies to improve understanding of surface water flood risk,  
+ test the effectiveness of flood mitigation works and record the condition of flood defence structures.  
+ This includes our cutting-edge approach to produce ‘baseline’ integrated computer models of the  
+ area’s drainage catchments, which we can overlay with rainfall and tide level data to simulate  
+ combined sources of flooding. 
+• Our emergency planning team regularly update and share an assessment of the major risks we face in  
+ the East Riding, including those from climatic and weather events, so the core responders can plan  
+ and prepare for emergencies as necessary. 
+• Measuring progress with partnerships, such as the Humber Resilience Forum and the Regional Flood  
+ and the Yorkshire Regional Flood and Coastal Committee (RFCC). 
+Whilst we have these procedures in place for measuring climate risk, we will continue to undertake 
+research to further understand all the risks from climate change, estimating the costs of achieving climate 
+resilience and how the Council can support residents and businesses with adaptation measures.78%   
+reduction in transport 
+emissions with private 
+vehicles and public 
+transport powered 
+by electricity or 
+hydrogen.89%   
+reduction in 
+industrial  
+emissions.94%   
+reduction in building 
+emissions by maximising 
+thermal efficiency and the 
+majority of homes and 
+commercial buildings 
+operating a heat 
+pump. 
+East Riding Total Emissions 
+(ktCO2e) for Each Scenario
+22 23What is Important to our Residents?
+Initial Public Consultation
+Recognising that early engagement was critical to the development and success of the Climate Change 
+Strategy, East Riding of Yorkshire Council utilised the online engagement platform, Commonplace, to 
+better understand public opinion on climate change in the local area. The consultation took place between 
+November 2021 and February 2022. We had 300 responses and the results are highlighted below. 
+We found the key climate priorities for respondents, in order of popularity, were:
+Transport and Air Quality  | Trees and Green Space | Buildings and Home  
+ Energy Supply  | Community Action
+We also found the top priorities for driving climate action, in order of popularity, were:
+Political leadership  | Community Involvement  | Funding  
+Education and Awareness  | Transparency
+Some of the other frequently mentioned topics outside of the set questions of the survey were:
+Electric vehicle infrastructure.
+Electrification of the rail network.
+More engagement with residents on climate change and the environment.
+Supporting active travel.
+We have worked with members of the Youth Parliament, the Regional Youth Climate Action and  
+East Riding Voluntary Action Services to hear what our young people think about their future and  
+more specifically climate change. Climate Change was a key priority for candidates for the youth 
+parliament. East Riding of Yorkshire Council will support young people to have their say on how  
+climate change is addressed. 
+East Riding of Yorkshire Council recognises the importance of individual actions and those of community 
+groups, businesses and partner organisations. Consultation and engagement will remain  
+an important tool for the delivery of the Climate Change Strategy. 
+The views of residents have been considered when developing the Climate Change Strategy. An eight 
+week consultation was completed between August and September 2022. Updates have been made to 
+the strategy to reflect the feedback received. 
+24 25Our Approach 
+The Climate Change Strategy outlines the approach that East Riding of Yorkshire Council will use to 
+reduce carbon emissions and build resilience to climate change. It is designed to set the East Riding on 
+a path to net zero by establishing a flexible road map which can be added to over time as new policies 
+and strategies are introduced that impact our ambitions. 
+The strategy will take an integrated approach to climate change, considering how we become more resilient to 
+the changing climate (climate adaptation) and how we can reduce our impact on the climate (climate mitigation). 
+The strategy has been developed to cover the period 2022 - 2030 with the aim to kick start rapid action to 
+reduce emissions and build resilience. During this time, we will focus our efforts on quick win actions (those 
+that make big carbon savings or are simple to implement). We’ll also develop our data to ensure we have 
+the best information on which to base future decisions. This approach will enable us to reassess our position 
+in 2030, and ensures the strategy remains aligned with evolving policy, legislation and technological changes.Scope
+East Riding of Yorkshire Council recognises that although as an authority we are only directly responsible 
+for a small proportion of the emissions in East Riding, we can use our influence to reduce emissions 
+across the wider East Riding. This strategy has been developed to cover three broad areas of our work. 
+• East Riding of Yorkshire Council directly reduces carbon emissions and takes action to adapt to the  
+ changing climate. East Riding of Yorkshire Council is directly responsible for just one per cent of  
+ emissions in the East Riding.
+• Indirect climate action will facilitate change through the services the Council delivers. East Riding  
+ of Yorkshire Council is responsible for the delivery of many key services, such as planning, housing,  
+ economic development, and waste. Estimates suggest that we might influence as much as 30 per cent  
+ of the area’s emissions in this way.
+• East Riding of Yorkshire Council works in partnership with other organisations, businesses and  
+ communities and we will support climate action across the East Riding through collaboration.THE STRATEGY IS...
+ Based on our current understanding and evidence which will develop and evolve over time. 
+ Integrated. A strategy that sets aims for reducing emissions and building resilience to the  
+ climate within the East Riding.
+ A strategy that sets our priority areas for action to 2030.
+ A plan that has been developed in collaboration with key partners and aims to reflect the  
+ views of residents.
+ Flexible. We will update this regularly to ensure that it aligns with evolving policy,  
+ legislation and technological and market changes.
+ A strategy that builds on the positive actions taken by the Council, its partners,  
+ local businesses, and residents within the East Riding.
+ A strategy that has sustainability at its core. We will strive to ensure actions represent a  
+ sustainable solution to the challenges of climate change, making best use of resources and  
+ having socio-economic benefits.
+ Designed to support, coordinate, and facilitate climate action.
+THE STRATEGY IS NOT...
+ Perfect. The Council has led on the development of this strategy at pace, acting in line with  
+ the climate emergency that we are facing. 
+ A fixed path to achieving net zero. We will continue to review our strategy to ensure we are  
+ still heading in the right direction.
+ Enough on its own to meet our climate targets. Everyone must play their part. 
+ A strategy that will dictate action. Instead, we hope to work with partners, businesses,  
+ and our residents to establish the most suitable actions for the East Riding. Local Authority Sphere of Influence
+Partnerships, Businesses  
+and ResidentsIndirect 
+ActionDirect  
+Action
+26 27Priority Areas 
+The Climate Change Strategy proposes climate action to be taken across a series of eight broad priority 
+areas. Although we recognise there is overlap between these areas, they are presented separately in the 
+following pages. The priority areas are set out in the diagram below: 
+Please note a detailed list of our areas for action within each of these priority areas can be 
+found in Appendix 2 (page 48).
+Transition to low / 
+zero emission vehicles.
+Shift towards public, 
+active and community 
+led transport.
+Avoid unnecessary 
+vehicle transport.KEY AREASTRANSPORTTRANSPORT
+ENERGY
+WASTE
+ENVIRONMENT
+BUILDINGS
+ECONOMY
+NET ZERO COUNCIL
+CLIMATE RESILIENCE
+28 29Transport  
+Transport is the sector that emits the most greenhouse gas emissions across the UK, accounting for 31.5 
+per cent of carbon dioxide emissions in 2021. In the East Riding, the transport sector is second only to 
+industry as the highest emitting sector, making up 22 per cent of all emissions within the East Riding of 
+Yorkshire. Government has introduced a ban on the sale of petrol and diesel cars by 2030, which will 
+start to reduce emissions across the sector, but more work will be required. 
+To achieve our net zero ambitions there will have to be a transition to low and zero emission vehicles,  
+a modal shift towards active travel and public transport, and an avoidance of unnecessary travel through 
+digital and rational solutions. As set out in the UK Government’s Transport Decarbonisation Plan, the 
+electrification of road transport is only part of the solution; it is essential we avoid a car-led pathway to 
+net zero and instead make public transport, cycling and walking the natural first choice for all who can 
+take it. 
+Reducing carbon emissions and improving healthy lifestyles is a key objective set out in East Riding of 
+Yorkshire Council’s Local Transport Plan (2021 - 2039) which sets our transport funding priorities and 
+solutions to help us meet net zero and increase climate resilience.
+Electric Vehicle (EV) Infrastructure
+The Council’s strategic approach for the uptake of electric vehicles for the East Riding area is  
+outlined in the ‘Public Electric Vehicle Infrastructure Strategy’, which forms part of the Council’s  
+Local Transport Plan (2021-2039). The main aim of the Strategy is to support and encourage the 
+use of electric vehicles (EV) by installing a basic network of charging points across the East Riding. 
+Growth of our EV infrastructure is important as it gives people the confidence to visit the East  
+Riding whilst boosting the economy at the same time. 
+Through the Local Transport Plan, the On-street Residential Charge Point Scheme and other grants 
+and development funding, the Council has successfully installed 15 twin socket 7kW chargers across 
+our 14 main settlement areas. Since their installation the uptake in their usage has increased with all 
+sites being used daily. 
+The Council has committed to expand their EV infrastructure with a further 100 by April 2023, 
+focussing on our settlement areas and where they can benefit both residents and visitors. Key Challenges and Opportunities
+Challenges to Delivery
+Addressing the heavy reliance on car travel - In East Riding, the distance between remote settlements 
+and local services, coupled with higher-than-average car ownership, means there is estimated to be 
+more trips made by car compared to other areas in the Yorkshire and Humber region.
+Capital cost of electric vehicles  - The current market for ultra-low emission vehicles makes them 
+unaffordable for many residents and businesses across East Riding. 
+Funding  - There is currently insufficient funding to undertake all the proposed transport schemes set  
+out in Council strategies, with reductions seen in funding from National Government for many areas  
+of sustainable and active travel, including for our Local Cycling and Walking Infrastructure Plans.
+Rurality  - The East Riding of Yorkshire is predominantly rural which is a key factor for high car 
+ownership rates and car use being the preferred mode of transport; these are fundamental challenges 
+to reducing carbon emissions. This means community transport services and the electrification of road 
+transport will be vital in our decarbonisation effort for these areas.
+Impact of COVID -19 on public transport - The pandemic and social distancing has caused disruption  
+to bus and rail patronage and industry forecasts suggest a recovery to previous levels will take years.
+Opportunities
+Encouraging healthy lifestyles - Encouraging and supporting active travel to reduce emissions, can help 
+to reduce the negative effects of a sedentary lifestyle and reduce the likelihood of developing chronic 
+health conditions and associated long-term healthcare costs.
+Homeworking  - There is an opportunity to take advantage of the demand for homeworking across the 
+East Riding, since the COVID -19 Pandemic, to reduce emissions associated with commuting.
+Active travel opportunities - The rural scenic nature, flat landscape and compactness of East Riding’s 
+large towns offer residents and visitors an enticing option to travel on foot or by bike.
+Reducing congestion  - Schemes to encourage active travel and use of public transport will reduce traffic 
+congestions by encouraging more people away from using the private car.
+Uptake in cycling - The COVID -19 pandemic led to a change in travel patterns and an uptake of cycling 
+across England. Cycling levels increased to the highest since national travel surveys were undertaken. 
+There is a huge opportunity to capitalise on this at a local level.
+30 31ENERGY
+Transition away from fossil 
+fuels and increase renewable 
+energy production.
+Smarter and more flexible 
+energy system.Energy  
+Although using energy in our homes is easy (we often push a switch to turn on a light), producing, 
+transforming, transporting and distributing that energy across a region is a more complex and difficult 
+task. All of this together is commonly described as our ‘energy system.’ Based on future scenarios of our 
+energy system, if we are to meet net zero by 2050 or earlier, we would likely require the following: 
+• A transition away from unabated natural gas. Some natural gas will be required for hydrogen  
+ energy production in the short-term.
+• An increase in renewable energy production, particularly wind and solar power. 
+• To make more use of hydrogen energy, which will help with inter-seasonal flexibility  
+ (when we cannot rely on solar and wind power). 
+• An increase in the use of bioenergy (sourced from recently living organic materials),  
+ and combined with carbon capture and storage, where possible, to create negative emissions.
+• A mass transformation of how we consume energy with the electrification of home heating,  
+ transport and industry. 
+• Become smarter and more flexible in the way we use energy, balancing demand to reduce  
+ peak energy requirements.
+• Store energy more effectively and reduce energy waste.
+East Riding of Yorkshire Council continues to take action to support the transition to a cleaner energy 
+system and this priority area sets out how the Council can further support the ambitions listed above. 
+Fundamental changes to the way we will consume energy such as the electrification of transport,  
+heating buildings and industry are set out in more detail in other priority areas.
+KEY AREAS
+32 33Solar Farm at South Cliff Holiday Park
+In 2021, the Council installed a 370kW solar farm at South Cliff Holiday Park, Bridlington,  
+which generates zero carbon electricity that is supplied directly to the site, significantly reducing 
+carbon emissions by 130 tonnes a year. This is equivalent to the carbon savings associated with 
+powering 22 homes for an entire year. The renewable technology will provide 45 per cent of the 
+site’s annual electricity usage. 
+The Council owns and operates the large caravan park that supplies electricity to approximately  
+900 static caravans and 250 touring caravan pitches, which is the Council’s second highest consumer 
+of electricity. 
+The shower blocks at the holiday park are also heated using ground source heat pumps to provide 
+low carbon heating. They have solar thermal panels on the roof, which means much of the hot water 
+used by holidaymakers has been heated by the sun. The site is recognised as one of the greenest 
+holiday parks within the United Kingdom
+Funded jointly by the Council and the European Regional Development Fund (ERDF), the project in 
+Bridlington was part of a wider array of green initiatives. The estimated total value of the investment 
+in the solar farm and solar panels was £1,895,341, with the council contributing £1,047,365 towards 
+the scheme.
+Key Challenges and Opportunities
+Challenges to Delivery
+Natural gas  - Gas has long been promoted as a transition fuel as it has lower carbon emissions than coal, 
+but still requires a similar scale of centralised infrastructure. As a result, we now have one of the most 
+developed gas networks in the world. This makes the replacement or decarbonisation of the network 
+a key challenge nationally, which is particularly significant given the Government’s commitment to phase 
+out the installation of new gas boilers by 2035.
+Costs  - Whilst we have identified opportunities for carbon reduction initiatives and energy projects, 
+such as new solar farm projects or geothermal heating, the economic viability of projects on this scale 
+are challenging. Rising electricity prices will lead to high running costs for electric vehicles and heat 
+pumps meaning these technologies become less financially viable for businesses and residents.
+Fossil fuel economy  - The Humber is home to many traditional heavy industries, such as oil refining 
+and steel production, whose long-term future is under pressure from decarbonisation. Ensuring this 
+economy remains sustainable during the transition to net zero is essential to the region. To overcome 
+this challenge partners have come together to create a Humber Industrial Cluster Plan setting out a  
+strategy to achieve net zero.Environmental impact  - We must use our natural resources sustainably and create new infrastructure 
+which does not have negative impacts on the wider environment. For instance, offshore wind can 
+negatively impact seabird populations which are already under significant pressure from climate change. 
+As such, we need to plan energy infrastructure developments efficiently.
+Opportunities
+Hydrogen  - The Humber industrial area is leading on the development of hydrogen production and 
+storage facilities to create one of the UK’s most efficient gas-fired power station and support the roll-out 
+of low-carbon hydrogen infrastructure. Hydrogen has the potential to be blended into the gas network, 
+used for domestic heating and power transportation.
+Offshore wind  - The Humber region has been identified as a flagship region for wind power and will be 
+key to achieving the Government’s offshore wind power targets. This is unsurprising given that region 
+is recognised internationally for offshore wind energy with Ørsted’s Hornsea Project One, the largest 
+offshore wind farm in the world, powering more than one million homes. Even larger offshore projects 
+are in development, with most of the turbines manufactured at the Siemens Gamesa factory in Hull. 
+Carbon capture and storage  - Major energy companies have come together to develop offshore carbon 
+capture and storage in the North Sea, forming The Northern Endurance Partnership.  
+This partnership provides the infrastructure needed to transport carbon dioxide from emitters in the 
+Humber to secure offshore storage in the North Sea. In October 2021, this partnership’s East Coast 
+Cluster was selected as a priority cluster in phase-one of the UK Government’s Carbon Capture,  
+Usage and Storage cluster sequencing process. Once developed it will transport and store 50 per cent  
+of all UK industrial cluster emissions. This will serve the Zero Carbon Humber project, aiming to 
+establish a fully decarbonised industrial cluster on the Humber. 
+Industrial clustering  - The Humber is just one of the six energy intensive industrial clusters in the UK. 
+These industrial districts provide unique partnership opportunities for integrating processes, building 
+more efficient supply-chains, utilising by-products or waste materials, and conducting research and 
+development on low-carbon technologies.
+Biomass  - The Yorkshire and Humber region is leading the way nationally in terms of biomass energy 
+and fuel production. This includes the 22MW Solar 21 biomass plant in Aldbrough, the Y Pellets wood 
+refinery near Goole and Drax power station in Selby, which is fuelled by compressed wood pellets.
+34 35WASTEWaste  
+Greenhouse gas emissions from waste management practices currently account for approximately five 
+per cent of the territorial carbon footprint for the East Riding. These are mainly from methane released 
+from landfill sites, with some also from waste-water treatment and the incineration of waste. In East Riding, 
+a large proportion of our waste is classified as household, commercial, industrial, or agricultural waste. 
+To reduce the carbon footprint of our waste activities in the East Riding, we will need to reduce how 
+much waste we produce by keeping resources in use for as long as possible and prevent waste by  
+re-using materials and products where possible. The waste hierarchy (below) is a useful guide for 
+reducing emissions, prioritising action further up the hierarchy.
+We also have an ambition to help East Riding become a circular economy. This means moving away from 
+the linear process of taking materials from the earth, making products out of them, and throwing them 
+away. We want to create a more cyclical process where materials flow, there is a focus on recovery or 
+regeneration of resources, and we design products that can be made and made again. Based on what we 
+use in our average daily lives across East Riding, over a third of our personal carbon footprint is from the 
+purchase of goods (including food and diet).
+The circular economy will require partnership action across all sectors of society, as a unitary local 
+authority only has limited control over the full lifecycle of products and materials.
+Prevention
+Preparing for re-use
+Recycling
+Other recovery
+DisposalManage waste in 
+accordance with the 
+waste hierarchy, 
+aiming to reduce and 
+recycle waste as 
+much as possible.
+Move towards a  
+circular economy.KEY AREAS
+36 37Please sort the waste you bring to  
+the HWRS to ensure only non-recyclables 
+go in the general waste container.
+LET’S GET IT SORTED
+CHANGES AT YOUR HOUSEHOLD  
+WASTE RECYCLING SITE
+www.eastriding.gov.uk/binsTOGETHER WE CAN RECYCLE MORE
+Scrap metal
+Garden wasteMixed textiles and clothes
+Electricals
+Hard plastics
+Wood
+Key Challenges and Opportunities
+Challenges to Delivery
+COVID -19 pandemic  - This pandemic has brought new challenges to waste management, in particular the huge 
+amount of extra medical waste produced. There are limitations on how this waste can be recycled or reused.
+Commercial waste - The local authority has limited influence over the management of commercial 
+waste, particularly if they do not use the Council’s collection service.
+Control on production  - Many of the products we consume originate from outside the area,  
+and even the country, meaning we have limited control locally over sustainability in the early stage  
+of a products lifecycle.
+Collection of waste - We are still awaiting clarity on national changes, through the Environment Act,  
+for the collection of separate waste streams and the impacts this will have, particularly if food waste has 
+to be collected separately from other compostable waste.
+Transfer of waste - The transfer of commercial and industrial waste between companies and 
+organisations for alternative or re-use is hampered by overly complex and restrictive waste legislation. 
+Replacement products - There is limited capacity for the large-scale repairing of products, which means 
+that it is more practical, and often cheaper, for individuals and organisations to purchase replacement 
+products and dispose of faulty items, rather than repair them. 
+Opportunities
+Environment Act - This came into law in November 2021 and plans to extend producer responsibility for waste, 
+create a deposit return scheme for single use drinks containers and further charges for single use plastics.
+Saving money - Having sustainable waste management practices in place as an organisation can reduce 
+the amount of waste your business produces, saving disposal costs.
+Sustainability - As well as reducing carbon emissions, circular economy principles have wider sustainability 
+benefits, including lowering demand on the finite resources we have available and reducing pollution like plastics.
+Waste heat - With the large industrial sector we have on the Humber there is the potential to utilise 
+the waste heat produced from industries to be made available for third parties, without it simply being 
+discharged into the atmosphere.
+Product efficiency information - Legislation has come into place, through the Environment Act,  
+giving powers for Government to introduce new resource efficiency information on products,  
+including labelling on the recyclability and durability of products.
+Yorkshire Circular Economy  - Initiatives by organisations, such as CATCH, are working to establish a 
+circular economy approach across the Humber Industrial Cluster, including the re-use of waste products. Bag Sorting at Household Waste Recycling Sites
+A waste composition analysis at Household Waste Recycling Sites (HWRS) showed that up to 
+30 per cent of bags of waste contained recyclables including textiles, cardboards and electricals. 
+A project has been set up asking residents to pre-sort their waste. The aim is to ensure that only 
+non-recyclables are placed in the general waste container. Residents who arrive with a mixed bag of 
+waste are asked to visit the sorting table where they separate out any recyclables and place them in 
+the bins provided. 
+The initiative started at Driffield HWRS in March 2022 and has since been rolled out across all ten 
+sites. At the Driffield site, there has been a five per cent increase in recycling rates since the scheme 
+started. In the first two months over 40 tonnes less of non-recyclable waste was taken to the site, 
+and nearly seven tonnes extra was diverted to recycling through the sorting area on site. 
+Although the scheme hasn’t been in place across all sites for long, recycling rates across the HWRS 
+have already increased by 3 - 5 per cent. The overall recycling rate for the HWRS is likely to be 82 
+per cent for 2022 / 23. 
+Free compost giveaways ran by East Riding of Yorkshire Council.
+38 39ENVIRONMENTEnvironment  
+At a local level we must support the sustainable use of land across East Riding meeting our  
+objectives to support nature, people, and the climate. This must consider nature recovery,  
+recreation, food production, renewable energy and creating high quality places to live. Whilst many  
+of these types of land use are picked up through the Climate Change Strategy, this priority area focuses 
+on three: nature, farming, and food systems.
+There are fundamental links between the natural environment and climate change:
+• Soils, forests, wetlands, peatlands, and oceans absorb and store carbon. Future emissions can be  
+ cut through the maintenance of healthy ecosystems and restoring degraded environments.  
+ However, damage to ecosystems can reduce their capacity to capture and store carbon. 
+• Working with and enhancing nature can provide cost-effective and accessible solutions for climate  
+ mitigation and adaptation.
+• The climate is changing much faster than nature and wildlife can adapt to it. The pressures on natural  
+ resources have led to an ecological crisis with species and habitats declining at an alarming rate.  
+ The UK has experienced some of the highest rates of biodiversity loss in the world.
+• The impact of climate change on biodiversity and ecosystems can exacerbate other pressures such  
+ as pollution, over-exploitation, invasive species, flooding and habitat loss and fragmentation. 
+Agriculture and the food sector will play a large role in the local and national climate response. In the 
+East Riding, 18.6 per cent of emissions are produced from the agricultural sector, largely from livestock, 
+fertilisers, and operational activity. Emissions linked to food and drink production and consumption more 
+broadly can be related to supply chains, transportation, and waste. In East Riding, agricultural land makes 
+up 90 per cent of the land area and supports over 2,000 farming and food manufacturing businesses, 
+illustrating its importance to our economy and cultural identify.
+Sustainable land-use to support 
+nature, people, and the climate.
+Recognise the ecological crisis.
+Support emissions reduction in the 
+agriculture and food sectors.KEY AREAS
+40 41Humber Forest
+Humber Forest is the community forest for the Hull and East Riding region. The team at East Riding 
+of Yorkshire Council help landowners, farmers, businesses, and communities to transform their local 
+environment through tree planting. Humber Forest can provide funding and practical help, making it 
+both easy and effective, at no cost to the landowner. The initiative aims to promote joy and prosperity 
+to communities through the act of tree planting to sustain the planet on which we depend. 
+Tree planting provides many benefits to the environment and can reduce the effects of climate 
+change locally and globally. Tree coverage across the East Riding and Hull Region is recognised as the 
+lowest in England at 2.2 per cent. With this in mind, it makes planting projects like this one all the 
+more important if we are to combat the effects of climate change.
+Humber Forest has increased woodland coverage in this region during the 2021 / 2022 planting season 
+by planting 17.37 hectares of trees / hedgerow / woodland. The goal for planting season 2022 / 2023 is 
+to plant a further 88 hectares in the Hull and East Riding region, with more planned in future years.
+For anyone interested in planting on their land, or who would like to find out more information, 
+please visit www.humberforest.org  or contact humber.forest@eastriding.gov.uk 
+Key Challenges and Opportunities
+Challenges to Delivery
+Invasive Non-Native Species (INNS) - Increasing summer temperatures could lead to an increase 
+in non-native species colonising the area or being able to reproduce more successfully and thus 
+potentially become invasive.
+Marine environment  - Whilst some impacts of climate change in the marine environment are  
+well-documented, the complexity of marine and coastal ecosystems means that data gathering  
+and implementing management measures can be particularly challenging. 
+Nature-based solutions  - Many nature-based solutions to manage flood and coastal change risk in 
+East Riding are not suitable. Factors such as our coastline’s geology often prevents nature solutions  
+to coastal erosion.Food price - Some of the sustainable and ethical food products can be more expensive, which can 
+disproportionally affect those on low incomes.
+Supply chains - Supporting the implementation of a sustainable and resilient food supply chain that 
+extends across all aspects of the East Riding’s food network is a huge challenge, requiring change from 
+outside the region.
+Opportunities
+Regenerative agriculture  - Technologies that regenerate and revitalise the soil and environment can 
+help rebuild soil organic matter and restore degraded soil biodiversity, storing more atmospheric 
+carbon and creating more resilient soils that can better withstand climate change impacts like flooding 
+and drought.
+The Agriculture Act  - This includes the Environmental Land Management Scheme, rewarding farmers 
+for public goods, such as improving soil health, measures to reduce flooding and storing carbon.
+The Environment Act  - In line with the requirements in the Environment Act, the Council will 
+lead on the creation of a Local Nature Recovery Strategy that identifies opportunities for nature’s 
+recovery and delivers wider benefits, including climate change mitigation and adaptation. We will 
+also implement into our planning system a way to deliver measurable net gain improvements for 
+biodiversity by creating or enhancing habitats in association with development.
+Government Food Strategy - The national food strategy, published in 2022, contains an objective to 
+deliver a sustainable, nature positive and affordable food system setting out this will only be achieved 
+through a reduction in greenhouse gas emissions of the food system.
+COVID -19 - A survey undertaken by Natural England found that more than 40 per cent of people 
+noticed that nature, wildlife and visiting local green and natural spaces has been more important to 
+their wellbeing since the start of the pandemic in 2020. There is an opportunity to capitalise on this 
+newfound appreciation for the natural environment.
+Natural capital approach  - A natural 
+capital approach allows the value of 
+our natural resources to be included 
+in decision-making. This includes both 
+monetised goods (such as food and fuel) 
+and the non-monetised services we 
+receive (such as health and wellbeing 
+benefits of spending time in nature). 
+42 43Buildings  
+Domestic properties in the East Riding account for approximately 18 per cent of the county’s 
+greenhouse gas emissions. A priority for significantly reducing carbon emissions in East Riding is to 
+retrofit the existing building stock with technology to produce low-carbon or renewable energy and 
+ensure buildings can then retain this energy as efficiently as possible.
+Typically, most of the energy used in homes is to heat space. Therefore, we will require a shift away from 
+gas and oil central heating systems to heat pumps, biomass or hydrogen boilers (when commercially 
+available) in our existing building stock. This will have to be coupled with measures to ensure buildings 
+retain heat. Factors that determine whether a building retains heat include how it was built, how much 
+insulation has been installed, the efficiency of the windows, how draughty it is and the behaviour of those 
+who live there.
+With provision to be made for 1,400 new houses each year, as set out in the East Riding Local Plan,  
+we will have to transition towards these buildings being designed and built to zero carbon standards  
+as soon as possible if we are to not contribute further carbon emissions as an area.
+How is energy used in the average UK home?
+64%   
+for space  
+heating17%  
+for heating 
+water
+16%   
+for lighting  
+and electrical 
+appliances3%  
+for cooking
+BEIS (2021), Energy Facts from: 
+Energy Consumption in the UK.
+Improve the energy performance 
+of existing buildings.
+Transition to zero carbon 
+standards for new buildings.KEY AREASBUILDINGS
+44 45Energy Performance 
+Standards of Buildings 
+across East Riding, 
+March 2022East Riding Future Energy Scheme Grants
+East Riding of Yorkshire Council has been awarded funding from The Department of Business, 
+Energy, and Industrial Strategy (BEIS) to install fully funded air source heating systems and other 
+energy saving measures in private sector properties.
+The project is aimed at homeowners who have either storage heating, portable heaters, coal, LPG or 
+oil heating in their home at present. The household must also have an energy efficiency rating of E, F, 
+or G and fulfil an eligibility assessment of the property and income threshold. 
+The principle aim of the scheme is to improve the energy performance of homes through the 
+installation of a new air source heat pump as well as insulation and ventilation upgrades, which will 
+help you to keep warmer throughout all your home. 
+Reverends Vincent and Anne Lewis, whose Broomfleet property is off the gas network and had solid 
+fuel heating, contacted the Council to have an air source heat pump system installed.
+They said “We are very pleased with the air source heat pump system, it provides consistent heat 
+throughout all of the house which has made a great improvement to the warmth of the whole of the 
+property, without costing us anymore on our fuel bills. The installation of the air source heat pump was 
+completed efficiently, excellent workmanship, customer service and how to use the system was fully 
+explained to us. We would highly recommend having an air source heat pump installed to other people  
+off the main gas network.”
+For further information and to check eligibility for this scheme, contact East Riding of Yorkshire 
+Council’s Energy Efficiency at the email healthy.homes@eastriding.gov.ukKey Challenges and Opportunities
+Challenges to Delivery
+Gas network  - Approximately 32 per cent of properties in the East Riding are not connected to the 
+mains gas. This means they rely on different heating fuels like oil or liquefied petroleum gas (LPG) which 
+are more carbon intensive and expensive compared to mains gas. 
+Energy performance ratings  - Approximately 66 per cent of the properties in East Riding have an 
+energy performance rating of D or below. The Government’s Heat and Buildings Strategy recognised 
+that most homes below EPC band C will need to be upgraded between now and 2050. 
+Fuel poverty  - According to the most recent data, the percentage of households deemed fuel poor in  
+East Riding was 14.7 per cent, compared to an average in England of 13.2 per cent. In response, we have 
+been targeting those on lower incomes for energy efficiency improvements and low-carbon heating grants. 
+Costs  - The costs of household energy efficiency and low carbon retrofits remains high. Whilst very 
+limited grant funding is available, changes to the market and further Government support will be 
+required to reach current targets.
+Opportunities
+Future Homes and Building Standard - The new standard, setting changes to Building Regulations, 
+should ensure that all new homes built from 2025 will produce 75 - 80 per cent less carbon emissions 
+compared to current regulations, and produce 31 per cent less from 2022. 
+Gas boilers  - The Government’s Net Zero Strategy included the ambition for no new gas boilers to 
+be sold by 2035. Although not yet set into law, there has also been indications by Government that as 
+part of changes to building regulations there may be a gas boiler ban for new homes as early as 2025. 
+Furthermore, in Spring 2022, the Government’s Boiler Upgrade Scheme opened for applications.  
+This provides upfront capital grants to support the installation of heat pumps (or biomass boilers in 
+some circumstances) in domestic and non-domestic buildings
+Health  - Improving the quality of our indoor environment through deep energy retrofits, such 
+as improved insulation, can provide benefits to physical health by creating healthy indoor living 
+environments with healthy air temperatures, humidity levels, noise levels and improved air quality.
+Social Housing Decarbonisation Fund - An application will be made in 2022 to the fund which is for 
+social housing landlords to deliver improvements to the fabric of their properties (wall, loft, and other 
+insulation measures) to achieve an energy efficiency rating of C or above. This will make the property 
+ready for the transfer to low carbon heating such as air source heat pumps in the future.
+46 47D 
+40%E 
+18%B 
+11%
+C 
+23%F 
+6%G 
+2%A 
+1%Economy  
+The commercial and industrial sectors are significant contributors to climate change in the East Riding  
+of Yorkshire, accounting for approximately 30 per cent of the areas carbon emissions, as shown in the  
+following chart.
+Across these two sectors, industry makes up a large proportion of the emissions, reflecting the industrial 
+base present in East Riding, particularly in the areas bordering the Humber Estuary.
+It is important we work together to drastically reduce commercial and industrial emissions, whilst making 
+sure our diverse economy thrives, building on our natural strengths in the food, manufacturing, tourism, 
+and renewable energy sectors. 
+Growing the green economy will also be vital for powering the transition to net zero, as we look to 
+increase capacity and skills in key sectors such as sustainable farming, electric vehicles, domestic retrofit, 
+and renewable energy. 
+Support emissions 
+reduction in the 
+commercial and 
+industrial sectors.
+Maximise growth 
+and opportunities in 
+the green economy.KEY AREAS
+Commercial  
+4%Industry  
+26%ECONOMY
+48 49Key Challenges and Opportunities
+Challenges to Delivery
+Carbon intensive business - East Riding is home to many traditional heavy industries that are essential 
+to our economy but remain carbon intensive. Working with these to decarbonise is a priority on our 
+pathway to net zero. 
+Working population  - Compared to the national average, a lower proportion of the population of East 
+Riding of Yorkshire is of working age and there are less jobs available for this working age population. 
+Whilst these pose different challenges for the local economy, green job creation and attracting high 
+skilled workers in the low-carbon and sustainability sector can help overcome these.
+Skills deprivation  - There are pockets of skills deprivation in some urban and coastal areas in East 
+Riding. Alongside green job creation, working with schools, colleges, and training providers in these areas 
+to enhance career opportunities in the green sector will be necessary for creating a greener economy 
+and ensuring we reduce rather than exacerbate existing inequalities through climate action.
+Understanding climate change  - A survey undertaken by the Carbon Trust in 2020 found many small 
+and medium sized companies (SME) were yet to fully appreciate the importance of climate change for 
+their business and most thought it would not impact their organisation. This suggested more work is 
+needed to communicate the impact of the climate emergency sufficiently to all parts of the economy.
+Opportunities
+Natural environment  - Our environment in East Riding underpins our local economy through 
+agriculture, forestry, fishing, tourism and through an abundance of natural energy resources. This means 
+to strengthen and grow our economy we must protect and invest in our natural environment which 
+can also have wider health and wellbeing, climate mitigation and adaptation benefits, through carbon 
+restoration or flood resilience, for example.
+Green jobs  - The share of jobs in the Yorkshire and Humber that are in the green economy is above  
+the UK average, indicating a solid foundation for future growth as we look to focus on the production  
+of higher-skilled, better paid, and permanent jobs.
+Renewable energy  - The Humber has established a merited reputation as the UK’s Energy Estuary,  
+with a world-leading renewable energy sector and ambitious industrial decarbonisation targets,  
+indicating further growth opportunities for the local energy economy.
+Warmer climate  - With East Riding set to experience warmer days we can expect there to be an 
+increase in coastal tourism as a result. Maximising the local economic opportunities from the visitor 
+economy can help facilitate economic growth, whilst presenting opportunities to enable and encourage 
+sustainable and responsible tourism.  
+The Aura Innovation Centre
+The Aura Innovation Centre (AIC) is a place like no other. Opened in 2020, the AIC accelerates, 
+innovates, and collaborates to support business success and drive green innovation. The centre is  
+a community that supports businesses of all sizes, helping them to bring their low-carbon projects  
+to life.
+The AIC, supported by East Riding of Yorkshire Council, connects businesses to the research power 
+at the University of Hull, taking an organisation’s carbon reduction objectives and linking them with 
+expertise, equipment, and funding to turn their visions into reality. The centre can assist businesses 
+with prototyping, testing and the manufacturing of sustainable products, supporting emissions 
+reduction and saving of energy costs. 
+The AIC has already helped many organisations achieve their sustainable ambitions. Key projects 
+already completed include supporting a forestry and horticultural firm to find alternatives to plastic 
+tree guards, finding inventive ways to use discarded pea pods, creating energy-efficient lighting for 
+vertical farms, and finding ways to commercialise novel nanofibers. Our most recent case studies can 
+be viewed on our website: www.aura-innovation.co.uk/case-studies
+The Aura Innovation Centre will continue to assist businesses on their journey to net zero, but with 
+ERDF funding due to end in June 2023, more support is needed to enable this vital work to continue.
+50 51Net Zero Council  
+This priority area relates to the activities we are taking as an organisation to tackle climate change 
+and build resilience. It includes activities like reducing our carbon footprint, spreading awareness and 
+education of climate issues, and embedding climate action across our services. 
+In February 2021, East Riding of Yorkshire Council declared a climate emergency and confirmed our 
+ambition to be net zero by 2050. This target relates to reducing the emissions that are produced from 
+the Council’s own services and operations. Whilst we have set this initial target, our intention is to 
+continually review this to reflect our ambition and ability to meet an earlier deadline.
+To achieve this will require significant investment in decarbonisation projects and embedding a strong culture 
+of climate awareness across the organisation so our staff feel empowered to make change. We also recognise 
+our influential role in engaging, educating, and collaborating on climate change across East Riding.
+Our established Environmental Policy, Environmental Management System, and Carbon and Energy 
+Management Strategy will continue to drive forward positive action to reduce the Council’s carbon footprint.
+Public Sector Decarbonisation Scheme Funding
+East Riding of Yorkshire Council were successful in receiving £1.9 million of funding from phase 1 of the Public 
+Sector Decarbonisation Scheme (PSDS) to undertake decarbonisation work across Council sites in 2022. 
+The Beverley based Annie-Reed Road Depot will benefit from air source heat pumps to reduce the 
+reliance on gas-fired boilers for both heating and hot water.
+County Hall will also gain air source heat pumps to transition away from gas fired boilers. It will also 
+see the installation of energy efficiency windows, replacement energy efficient hand dryers and the 
+installation of flow restrictors to hand wash taps to reduce water consumption.
+Bridlington Spa will benefit from air source heat pumps and upgrades to more efficient windows and 
+air conditioning units. 
+Phase 1 of the PSDS provided £1 billion in grants nationally, reflecting the public sector’s role in 
+meeting the Government’s net zero commitment by 2050.
+Undertake carbon reduction initiatives.
+Embed culture of climate awareness.
+Facilitate action through collaboration 
+and education in East Riding.KEY AREASNET ZERO COUNCIL
+52 53Key Challenges and Opportunities
+Challenges to Delivery
+Old building stock - We own and manage several old or even historical listed buildings, which tend to 
+have a lower energy performance than modern buildings, and for the latter, it limits options for energy 
+efficiency improvements.
+Energy costs  - Despite reducing our overall energy consumption over time, the total energy costs  
+for the Council have actually risen, largely due to the increase in price of grid-supplied electricity. 
+Scale of council operations - With an estimated 6,209 corporate employees, 4,955 school-based 
+employees, services ranging from libraries to highways maintenance to social care, the scale and 
+complexity for reaching net zero as a large unitary authority should not be underestimated.
+Homeworking  - The increase in homeworking since the COVID -19 pandemic has reduced emissions 
+from staff commuting, but the increase in domestic energy and heating use at our staff homes will  
+have to be factored into the Council’s carbon footprint. Calculating and reducing these emissions  
+poses a challenge.
+Opportunities
+Business travel  - There are many potential ways to reduce emissions associated with business travel  
+at the authority, including lower emission vehicles, pool car schemes, car sharing and the transition to 
+online events.
+Schools - Many schools managed by the authority have an energy performance that is below the national 
+average, suggesting there are many opportunities for dedicated energy project work with our schools.
+Scope 3 emissions - The indirect emissions that occur from our activities are estimated to make up 70 - 
+80 per cent of our overall carbon footprint, yet we are only at the starting point for understanding and 
+tackling action to reduce these. 
+Behaviour change - Changing how we work and live on a daily basis has an important role in reducing 
+the further onset of climate change. Moving forward we will explore different interventions to change 
+behaviour, potentially including climate literacy training for staff, campaigns on environmentally conscious 
+behaviour, and providing supporting mechanisms to encourage change.
+Agile transformation  - The Council’s agile project, leading on the transition to becoming a more 
+modern, flexible, and responsive workforce brings more opportunities for staff to work digitally or  
+from work hubs, potentially closer to their residence. This brings opportunities for reducing  
+unnecessary travel. 
+CLIMATE 
+RESILIENCE
+54 55Climate Resilience  
+Flooding, coastal erosion and heatwaves can have significant impacts on society, the economy, and 
+the natural environment. In the East Riding, this has been demonstrated by the devastating economic 
+and human impacts of the June 2007 and December 2013 floods, the complete loss of homes and 
+businesses due to ongoing coastal erosion and public health impacts from heatwaves in 2018 and 2019.
+Climate change is likely to cause an increase in the frequency and intensity of these weather events,  
+so their impacts are likely to also increase significantly. To limit these impacts we must ensure that the East 
+Riding is resilient to climate change. While in some cases this may mean negating the impacts of climate 
+change (for example through flood and coastal defence schemes), in most cases it will involve adapting our 
+buildings, infrastructure and behaviour to reduce the inevitable impacts of future extreme weather events.
+The scale of adaptation required will be dependent on the level of future greenhouse gas emissions, 
+however the ‘baked in’ impacts of past emissions will require significant action to take place to make the 
+East Riding a climate resilient county. 
+South Withernsea Coastal Defence Scheme
+The challenge of managing the East Riding’s defended and rapidly eroding coastline is anticipated to 
+increase as sea level rise driven by climate change and increased storminess impact upon erosion and 
+sediment transport rates.
+As a response to high erosion rates at the coastline south of Withernsea, in 2019, the Council took 
+the decision to construct a new rock armour coastal defence structure that extended the existing 
+defences southwards by an additional 400m. The structure was carefully designed to provide 
+protection without exacerbating downdrift coastal erosion issues. This scheme was completed in 
+2020 at a cost of just over £7 million and has permanently removed approximately 70 residential 
+properties from risk, along with 250 chalets and caravans and the A1033 (Hollym Road).
+Work has also begun for the creation of additional habitat, through ecological enhancements on the 
+completed defence scheme. This will involve the management of the regraded cliff face to create 
+maritime cliff and slope habitat, and the potential creation of artificial rockpools, holes and grooves  
+in the rock armour itself, which provides habitat for inter-tidal species.
+Adapt our buildings, infrastructure and 
+behaviours to build resilience in East Riding.
+Deliver schemes to manage the risks and 
+reduce the impacts of climate change.KEY AREASKey Challenges and Opportunities
+Challenges to Delivery
+Knowledge  - There is often a lack of understanding and recognition of the impacts of climate change 
+beyond flood risk. We need to better understand the wider impacts of climate change in the East Riding 
+and the range of potential solutions required and available.
+Engagement  - One of the biggest challenges to becoming a more resilient region is engaging with as many communities, 
+businesses and stakeholders as possible to promote cultural and behavioural change. This will require large scale and 
+prolonged participation across the region, targeting multiple sectors including residents, businesses and educational institutions.
+‘Defend-first’ approach  - Much of the national budget for flood and coastal erosion risk management continues to be 
+used on defences meaning there is less financial support for adaptation and transition. It has been proved in this area that 
+this can be successful and cost effective, particularly in areas where it is not sustainable to install or maintain hard defences. 
+No one-size-fits-all solution  - As climate change brings different pressures across areas of the East Riding, 
+we recognise that an area-wide single adaptation plan will not be effective.
+Older population  - East Riding has a higher proportion of older adults (65+) compared to the England average. Older 
+populations are more likely to be vulnerable to extreme heat, poor air quality and extreme events. As an authority we 
+aim to ensure homes are suitable for this population across the East Riding, taking into account future climatic change. 
+Resilience of energy infrastructure  - Flood events, high-winds and lightning are all examples of weather events that 
+have the potential to disrupt energy generation, transmission and distribution. Planning for and monitoring these 
+risks is essential to ensure our energy infrastructure can be climate resilient, so we can avoid future losses of power. 
+Opportunities
+Coastal adaptation and transition  - The Council has recently secured funding to deliver an East Riding Coastal 
+Transition Accelerator Programme, in partnership with the Environment Agency. The programme aims to deliver 
+effective coastal change management, transitioning away from a reactive approach (prioritising those at imminent 
+risk) to a planned long-term transition based on the projected impacts of climate driven coastal change.
+Co-benefits  - The designing of areas to be more resilient to flooding and heatwaves often results in multiple benefits such as 
+better access to green space, improved air quality and health benefits. This is especially the case where multiple uses of space is 
+factored into the design of open spaces. For instance, a flood storage area which acts as sports pitches in the summer.
+Education  - Working with the Hull and East Riding Living with Water partnership, our flood risk strategy 
+team have visited schools to engage with young people on the water cycle, flood risk and water management, 
+increasing awareness of the impacts of climate change and to learn more about their role in reducing flood risk.
+Local Resilience Forums  - The Government has committed to strengthening the role of Local Resilience Forums so they are 
+able to support delivery of more climate resilience initiatives and further minimise the impacts of potential emergency events.
+Mental health  - The threat from flooding and coastal change have been shown to cause significant 
+physical and mental health issues. Any actions which can be taken to make communities more resilient  
+to flooding and coastal change will have benefits for health and wellbeing.
+56 57How can you reduce your carbon footprint?
+For shorter trips, walking and cycling is a good way to reduce your carbon footprint and can have a 
+positive impact on your health.
+If you cannot access more sustainable forms of travel, have you considered car sharing? It is a great 
+way to help the environment and can save you money on travel costs too. Liftshare manages a car 
+sharing scheme that is open to all. See link liftshare.com/uk
+Switching to a green energy tariff can reduce your carbon footprint.
+Installing renewable energy technologies (e.g. solar panels) on a property can significantly  
+reduce the carbon footprint of your home and save you money.
+Replacing lights with LED bulbs, washing your clothes less frequently and not leaving your devices 
+on standby can help you save energy and money.
+Line drying clothes where possible promotes energy saving.
+Consider how a product is packaged. Can you reuse or recycle these materials? 
+Avoid single-use plastics where possible and use reusable shopping bags and cups.
+Use your brown kitchen caddies to store food waste at your home before transferring it to your 
+brown wheelie bin.
+Have you considered donating old clothes, rather than throwing them away?
+Do you have any unwanted domestic large appliances still in good working order? You can donate 
+these at your local recycling site. www.eastriding.gov.uk/environment/bins-rubbish-recycling/  
+tips-and-recycling-sites/recycling-site-finder
+If you are interested in planting trees on your land or volunteering to help plant trees, check out 
+this link to get involved with the Humber Forest www.humberforest.org/get-involved
+As weather patterns shift due to climate change, some insects that depend on particular flowers 
+might suffer, so consider planting a diverse variety of pollinator friendly plants with ranging 
+flowering times. Planting trees and plants can help tackle climate change by absorbing carbon 
+dioxide and reduce risks of flooding by slowing rainwater runoff. 
+Consider shopping locally for your food and drink.Have you considered the energy performance of your home or business? You may be able to  
+find the energy certificate for your property, along with tips for improving its efficiency,  
+here www.gov.uk/find-energy-certificate
+See the Council website for advice and support on improving energy efficiency at home.  
+www.eastriding.gov.uk/housing/energy-efficiency/energy-efficiency-at-home
+Consider shopping local. Locally owned businesses often make more local purchases requiring less 
+transportation and cutting carbon emissions.
+If planning a holiday, have you considered local or domestic destinations? Staying local can reduce 
+your carbon footprint. See websites below for more information.  
+www.visithullandeastyorkshire.co.uk  www.visitbritain.com/gb/en
+When installing renewable energy or heat pumps, source a reputable local trader to help build 
+local supply chains. See the website for more information - mcscertified.com/find-an-installer
+You can sign up to receive personal flood alerts or warnings by phone, text or email here:  
+www.gov.uk/sign-up-for-flood-warnings
+In hot temperatures, trees can offer effective ways of keeping cool. If possible, consider planting 
+trees in your garden as they can provide shade for you and your home.
+Exterior shutters or blinds can reduce overheat exposure in homes.
+Refrain from opening windows when the outside temperature is higher than indoors.
+Check out the Met Office’s guidance for protecting your property from flooding:  
+www.metoffice.gov.uk/weather/warnings-and-advice/seasonal-advice/your-home/  
+protecting-your-property-from-floodingTRANSPORT ENERGY WASTE ENVIRONMENT
+BUILDINGS ECONOMY CLIMATE RESILIENCE
+58 59Governance 
+This strategy is a living document, which means that as our knowledge of climate change improves,  
+or more national policy and legislation come into effect, this will be reflected within the strategy.  
+We will review the strategy annually to ensure it is up to date and accurate. We will also provide an 
+annual update on progress through a revised Environmental Statement. This will reflect key activity  
+taken throughout the year and achievements made, including reporting our corporate and areawide 
+carbon footprints. 
+Taking action to address the Climate Emergency cannot be done solely by officers, but instead needs  
+a multi-disciplinary approach. We will need to draw on skills and resources from across the organisation 
+and with wider partners. It will need to be part of the way we do things and embedded in the way we 
+deliver our services. We will review our service plans to ensure that they align with the ambition of  
+the strategy.
+We will also explore the opportunities to develop an areawide climate change action group. This could 
+take several forms and will be subject to public consultation to ensure it meets the needs of residents. 
+Such a group would aim to expand on existing community involved and support future action. It would 
+enable regular two-way dialogue and share ideas with and across local community representatives. 
+Due to the broad range of areas the Climate Change Strategy covers it is essential to have an action plan 
+detailing activities and projects that contribute to the strategy vision and priorities. The action plan for 
+this strategy is in development and will cover each of the priority areas identified. The action plan will  
+be updated every five years, except for the initial action plan, which will be for the period 2022 - 2025. 
+The initial period of the action plan will lay the foundations for future activity and focus in on actions that 
+will deliver rapid emission reductions. 
+Climate action will also be monitored through our corporate risk register, which as well as quarterly 
+reporting will be reviewed annually to ensure that we are capturing all the risks effectively and that they 
+are still appropriate. Action will also be scrutinised at regular meetings of Environment and Regeneration 
+Overview and Scrutiny.
+Targets 
+The council set a target for its services to be net zero by 2050 in line with national government.  
+This target will be reviewed over the period of the next action plan to ensure we are able to achieve  
+it and identify opportunities to bring this date forward if possible.
+An areawide emissions target has not currently been set. This is because such a target needs to be 
+developed through extensive consultation across partner organisations, businesses, and residents.  
+During the course of the action plan, we will consult widely on a potential areawide target which  
+can be supported and monitored by the action group as defined within the governance section.Road Map to Net Zero 
+Road map based on an ambitious scenario for achieving the fasted credible decarbonisation,  
+achieving net zero before 2050. Scenario built around key elements of future energy scenarios  
+by Northern Powergrid and National Grid ESO.
+2018 Baseline  
+2,803.4 ktCO2
+The local authority 
+emissions data used  
+for this was accurate  
+as of May 2022.2022 Climate 
+Change Strategy 
+launch
+Government set 
+to end the sale 
+of new petrol 
+and diesel cars 
+in 2030Government’s 
+Future Homes 
+and Building 
+Standard 
+introduced  
+in 2025
+2030
+2040
+2050
+40%  
+reduction in 
+transport 
+emissions
+64%  
+reduction 
+in industrial 
+emissions58%  
+reduction 
+in building 
+emissions65%  
+reduction in 
+transport 
+emissions
+82%  
+reduction in 
+industrial 
+emissions
+2050 Climate 
+Change Strategy 
+review2050 
+Government UK 
+target for net 
+zero carbon 
+emissions2040 Climate 
+Change Strategy 
+review
+To align with a 
+Science Based 
+Target of 1.5 
+degrees we 
+should look to be 
+net zero by 2044
+89%  
+reduction in 
+industrial 
+emissions83%  
+reduction 
+in building 
+emissions
+Offset 
+any residual 
+emissions94%  
+reduction 
+in building 
+emissions78%  
+reduction in 
+transport 
+emissions2030 Climate 
+Change Strategy 
+review
+60 61Appendix 1
+Understanding Climate Change Language 
+Term Definition
+Carbon footprintA carbon footprint is the total amount of greenhouse gases that are generated by the actions of a 
+particular individual, organisation, or community. The UK average footprint for 2022 is 9.5 tonnes 
+per person. It includes activities relating to commuting, food, shopping, and travel. 
+Circular economyA circular economy is a model of making and using products, which involves sharing, reusing, 
+refurbishing, and recycling existing materials and products, so that they can be used for as long 
+as possible. It is a solution to the global climate emergency where products and services are 
+designed to maximise their value and use and minimise waste. It can be explained as ‘make, 
+use, remake’. 
+Climate changeClimate change is the long-term changes in global temperatures and other characteristics of 
+the earth’s atmosphere. The earth is surrounded by a layer of greenhouse gases, which 
+trap heat from the sun, keeping our planet warm. Since the industrial revolution and the 
+burning of fossil fuels like coal, oil and gas, more greenhouse gases have been released into the 
+atmosphere, which traps more of the sun’s heat causing the planet to heat up. Climate change 
+affects everyone and as the earth warms, we will experience more unpredictable and extreme 
+weather events such as big storms and heavy rainfall to droughts and wildfire. 
+Climate resilienceClimate resilience is the ability to anticipate, prepare for and respond to hazardous events, 
+trends or disturbances related to climate.
+Climate riskClimate risk refers to the potentially negative impacts of climate change, for example the potential 
+adverse effects on lives, the economy, and the environment.
+Decarbonisation Decarbonisation refers to the process of removing carbon dioxide from a given activity.  
+For example, the decarbonisation of the national grid means the reduction of the amount of 
+carbon used to generate a unit of electricity. 
+Energy efficiencyEnergy efficiency means using less energy to get the same job done and eliminating waste energy. 
+For example, energy-efficient LED lightbulbs can produce the same amount of light as 
+normal lightbulbs but use 75 - 80 per cent less electricity. 
+Fairer and more 
+equitable society 
+/ equalitiesThe principles of equity, justice and fairness are fundamental to understanding and addressing the 
+challenges of global climate change. An equitable society is one in which everyone can participate 
+and prosper and is fair and reasonable in a way that gives equal treatment to everyone. 
+Fuel povertyIn England, a household is considered fuel poor if they are living in a property with an energy 
+efficiency rating of band D or below, and when they spend the required amount to heat their 
+home, they are left with a residual income below the official poverty line.
+Green economyA green economy is a concept that creates a sustainable low-emission world that benefits  
+both society and the planet. A green economy is defined as low carbon, resource efficient 
+and socially inclusive and is driven by investments into activities, infrastructure and assets that 
+benefit the planet.Term Definition
+Land Use, Land 
+Use Change 
+and Forestry 
+(LULUCF)The LULUCF sector covers emissions and removals of greenhouse gases resulting from direct 
+human-induced land use, land-use change and forestry activities. Carbon is sequestered by 
+forestry and grassland, while carbon losses occur on existing cropland and natural land  
+(e.g. grassland) that is converted to cropland or settlement.
+Net zero and 
+carbon neutralBeing Carbon Neutral means balancing greenhouse gas emissions by ‘offsetting’ (removing from 
+the atmosphere) an equivalent amount of carbon for the amount produced. A commitment 
+to being carbon neutral does not require or imply a commitment to reduce overall GHG 
+emissions. In contrast, a commitment to net zero means reducing greenhouse gas emissions 
+with the goal of balancing emissions produced and emissions removed from the atmosphere. 
+For the purposes of this strategy, we will use the following definition (SBTi Net Zero Standard 
+2021): Reducing scope 1, 2, and 3 emissions to zero or to a residual level that is consistent with 
+reaching net zero emissions at the global or sector level in eligible 1.5°C-aligned pathways 
+Neutralizing any residual emissions at the net zero target year and any GHG emissions 
+released into the atmosphere thereafter.
+Scope 1,2 and 3 
+emissionsGreenhouse gas emissions are divided into three different groups or scopes to help trace 
+where those emissions came from and make it easier to report on them. Scope 1 emissions are 
+produced directly at source from fuel combustion e.g. for company vehicles. Scope 2 emissions 
+are indirect emissions from purchased electricity. Scope 3 includes all other indirect emissions  
+e.g. from outsourced services or purchased goods. 
+SustainabilitySustainability means meeting our own needs without compromising the ability of future 
+generations to meet their own needs. Sustainability does not only refer to environmentalism, 
+but also includes things such as social equity and economic development. Sustainability as a 
+value is shared by many individuals and organisations who want to demonstrate it through their 
+policies, everyday activities, and behaviours. 
+Sustainable 
+transportSustainable transport refers to any type of transport that has a low impact on the environment 
+and is also about balancing our current and future needs. Examples of sustainable transport 
+include walking, cycling, car sharing or ultra-low emission vehicles (ULEV) e.g. electric vehicles. 
+Vulnerability in 
+the context of 
+climate changeClimate change vulnerability is the tendency to be adversely affected by climate change and 
+is a component of climate risk. It refers to the degree to which places / people / the natural 
+environment are susceptible to and unable to cope with the adverse effects of climate change, 
+for example extreme weather variability and extremes. 
+62 63Appendix 2
+Areas for Action
+AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: TRANSPORT
+Transition 
+to low 
+and zero 
+emission 
+vehiclesExplore measures to reduce the carbon 
+emissions of the Council’s fleet including 
+by transitioning to electric vehicles, 
+procuring vehicles at the highest 
+emission standards and monitoring 
+driving behaviours.
+Install publicly accessible EV charging 
+points across the East Riding. 
+Explore with partners innovative 
+projects that support on-street EV 
+residential parking and the creation of 
+EV charging community hub locations.
+Assess ways to reduce emissions 
+associated with freight transportation, 
+such as by using renewable fuels or 
+through transportation by rail or water 
+instead of roads.
+Shift 
+towards 
+public, 
+active and 
+community 
+led 
+transportUndertake infrastructure  
+improvements to the local walking and 
+cycling networks.
+Support and encourage residents to 
+walk or cycle for short trips through 
+promotional tools, free cycling 
+training and other behaviour change 
+programmes.
+Work with partners on innovative 
+projects that improve the experience of 
+rail and bus journeys in the East Riding.
+Invest in infrastructure to support 
+sustainable multi-modal journeys,  
+such as improved cycle parking at bus 
+and rail stations.Shift 
+towards 
+public, 
+active and 
+community 
+led 
+transportWork with schools to encourage 
+children and parents to walk, cycle  
+or scoot to school and provide  
+support to schools to help them  
+achieve a Modeshift sustainable  
+travel accreditation.
+Work with partners such as East 
+Yorkshire Buses, the Rail Industry,  
+the Highways Agency and other 
+authorities to improve accessibility to 
+public transport. Continue to encourage 
+use of public transport in areas with high 
+quality public transport links. 
+Explore with partners projects to 
+decarbonise the rail network and 
+continue to put forward proposals for 
+rail electrification in the Humber area. 
+Maintain the Public Rights of Way 
+network in the East Riding to  
+provide a better experience for all  
+users, supporting the shift away from  
+car travel.
+Avoid 
+unnecessary 
+travelDevelop an East Riding Local Plan that 
+supports developments where there are 
+services, facilities, homes and jobs which 
+reduce the need to travel and can be 
+served more easily by sustainable modes 
+of transport. 
+Support and empower parish councils, 
+local communities and groups to devise 
+innovative and sustainable transport 
+solutions, offering our Parish Transport 
+Toolkit we have created and utilising the 
+network Parish Transport Champions.
+Promote car sharing for residents who 
+cannot use or access more sustainable 
+forms of travel.
+Through our Broadband East Riding 
+Programme, work with suppliers to 
+ensure our residents, visitors and 
+businesses enjoy faster broadband 
+connectivity enabling digital options  
+that reduce unnecessary travel.
+64 65AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: ENERGY
+Transition 
+away from 
+fossil 
+fuels and 
+increase 
+renewable 
+energy 
+productionLead by example, maximising 
+opportunities for renewable energy 
+and sustainable energy consumption 
+throughout the Council’s estate. 
+Work with landowners to assess 
+the benefits and potential of hosting 
+renewable generation.
+Explore and investigate emerging technologies 
+to support energy decarbonisation 
+and storage in the area, such as carbon 
+capture utilisation and storage, hydrogen 
+technology or heat networks.
+Explore further economic measures to 
+support the expansion of the renewable 
+and low-carbon energy sector.
+Work with the North East and  
+Yorkshire Net Zero Hub to support  
+local energy projects and attract finance 
+for energy projects.
+Support work to reduce the 
+environmental impacts of new energy 
+infrastructure construction, operation and 
+decommissioning, to achieve truly sustainable 
+energy production.
+Smarter 
+and more 
+flexible 
+energy 
+systemAssist schools with energy projects by 
+identifying new funding opportunities, 
+providing financial support, energy audits 
+and general advice.
+Promote the importance of maximising 
+the use of energy assets through energy 
+reduction, flexibility and storage.
+As a planning authority, support new 
+developments that enable low carbon 
+energy with neighbourhoods planned 
+around infrastructure such as local 
+microgrids, enabling energy autonomy 
+through self-generation and direct 
+consumption.Smarter 
+and more 
+flexible 
+energy 
+systemExplore with partners the creation of a 
+whole-system local area energy plan for 
+East Riding to help inform our energy 
+decarbonisation road map.
+Look to finalise construction, and identify 
+new opportunities, for district energy 
+networks in suitable locations across the 
+East Riding, maximising opportunities 
+for the utilisation of waste energy and 
+renewable technology.
+66 67AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: WASTE
+Manage 
+waste in 
+accordance 
+with the 
+waste 
+hierarchy, 
+aiming to 
+reduce and 
+recycle 
+waste as 
+much as 
+possibleContinue to review our household 
+waste management procedures using 
+the waste hierarchy principle, increasing 
+the percentage of waste to be reused, 
+recycled and composted, with the 
+remainder sent for energy recovery.
+In line with the Environment Act,  
+review the efficiency of our household 
+waste collections.
+Prioritise reuse and repair above 
+recycling through setting up and 
+organising sites where household waste 
+in good condition can be donated rather 
+than disposed of.
+Work with key partners, such as FCC 
+Environment and Hull City Council,  
+to continue to set up initiatives to help 
+increase sustainable waste management, 
+based on the success of previous 
+schemes like trialling bag sorting at 
+household waste sites or the electrical 
+item collection events. 
+Move 
+towards 
+a circular 
+economyEngage with staff, public, schools and 
+communities to support learning and 
+share best practice, including on waste 
+prevention, waste contamination and 
+maximising the value of products 
+through repair and re-use opportunities.
+Work with partners and businesses to 
+reduce commercial waste, encouraging 
+re-use and recycling.
+Work with local government and waste 
+industry bodies to influence and implement 
+the Resources and Waste Strategy for 
+England through extended producer 
+responsibility, consistency in recycling 
+collection and the deposit return scheme.
+Explore new opportunities for the 
+utilisation of waste heat across East Riding.AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: ENVIRONMENT
+Recognise 
+the 
+ecological 
+crisisExplore the value of declaring an 
+ecological emergency, recognising  
+the links between nature and  
+climate change.
+Lead on the development of a Local 
+Nature Recovery Strategy.
+Integrate biodiversity net gain into our 
+local planning policy.
+Develop an approach to mapping and 
+valuing natural capital and ecosystem 
+services across the sub-region to help 
+inform climate decision-making.
+Sustainable 
+land-use 
+to support 
+nature, 
+people and 
+the climateWork with partners, such as the Humber 
+Forest, to calculate carbon sequestration 
+rates of tree planting and to explore the 
+creation of a carbon-based tree planting 
+Strategy for East Riding. 
+Create habitats and plant trees on Council 
+land, where appropriate, maximising 
+opportunities for carbon sequestration.
+Explore further opportunities for carbon 
+sequestration in East Riding, including in 
+marine and intertidal habitats.
+Work with partners, such as the Yorkshire 
+Marine Nature Partnership, to advocate 
+for the marine and coastal environment 
+and further explore opportunities for 
+environmental progress.
+Ensure through the review of the 
+Environmental Policy that the  
+Council implements measures to 
+enhance the natural environment and 
+reduce food waste through its owns 
+policies and procedures.
+Promote nature-based solutions 
+and development of blue-green 
+infrastructure wherever possible.
+68 69AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: BUILDINGS
+Improve 
+the energy 
+performance 
+of existing 
+buildingsDeliver an ambitious programme of 
+energy efficiency improvements to 
+the East Riding of Yorkshire Council’s 
+housing stock.
+Capitalise on new funding opportunities 
+to support the rollout of energy 
+efficiency and low-carbon improvements 
+across the East Riding, with targeted 
+support for low-income households and 
+those off the gas grid.
+Provide advice to residential and 
+non-residential sectors on low-carbon 
+and energy efficiency opportunities, 
+including the promotion of Government 
+funding opportunities (e.g. the national 
+Boiler upgrade scheme).
+Work in partnership with local 
+contractors, community interest groups, 
+energy providers and local energy hubs 
+to improve building energy performance 
+standards across East Riding.
+Transition 
+to zero 
+carbon 
+standards 
+for new 
+buildingsEnsure that climate change is  
+embedded throughout the East Riding 
+Housing Strategy.
+Develop future Local Plan policies 
+to ensure low-carbon opportunities 
+and climate risks are identified in 
+new developments, reviewing local 
+energy efficiency standards following 
+the release of the Future Homes and 
+Buildings Standards.Support 
+emission 
+reduction 
+in the 
+agriculture 
+and food 
+sectorsWork with Council farm tenants to 
+encourage more climate and wildlife 
+friendly practices.
+Engage with local farmers and national 
+farming bodies promoting sustainable 
+agriculture practices.
+70 71Maximise 
+growth and 
+opportunities 
+in the green 
+economyWork with local schools to engage  
+staff and students on climate change  
+and environmental issues, showcasing 
+the opportunities for careers in the 
+green sector.
+Promote the climate change and wider 
+environmental benefits of supporting 
+your local economy and making 
+environmentally informed purchases. 
+AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: ECONOMY
+Support 
+emission 
+reduction 
+in the 
+commercial 
+and 
+industrial 
+sectorsProvide support to local businesses 
+to help them reduce their carbon 
+emissions, including guidance for 
+calculating their organisations’ carbon 
+footprint, developing a carbon reduction 
+strategy and advice on grants and 
+funding available.
+Work with local partners at the Aura 
+Innovation Centre to engage with SMEs, 
+raising awareness of climate change and sharing 
+opportunities for reducing carbon emissions.
+Showcase examples of how businesses 
+are responding to climate change across 
+East Riding.
+Maximise 
+growth and 
+opportunities 
+in the green 
+economyStimulate the local green economy by 
+working with local contractors and 
+suppliers to deliver carbon reduction 
+programmes in sectors such as 
+renewable energy, district heating and 
+housing retrofit.
+Support innovation, commercialism and 
+growth in the local green sector, through 
+further investment in local economic 
+growth and promoting the attractive 
+opportunities for low-carbon and 
+renewable enterprises in East Riding.
+Deliver education and training to ensure 
+East Riding residents are better placed to 
+take advantage of job opportunities in the 
+green economy.
+Look to support businesses in the  
+green sector, through financial  
+incentives such as business grants or 
+shared energy networks.
+Maximise collaborative opportunities for 
+renewable and environmental enterprises 
+through our Ergo partnership.
+72 73Facilitate 
+action 
+through 
+collaboration 
+and 
+education in 
+East RidingExplore options to bring people 
+together across East Riding to discuss 
+recommendations for climate action 
+and partnership working, for instance, 
+through a climate assembly, digital  
+forum or through established 
+community groups. 
+Share our experience and best practice 
+of carbon reduction with parish councils, 
+businesses and communities.
+Look to expand our sustainability and 
+climate change section of the Council’s 
+website, providing information updates 
+on climate action in East Riding and  
+tips for us all to reduce our personal 
+carbon footprint
+Work with public sector partners  
+(such as the Association for Public 
+Service Excellence and the Local 
+Government Association) to share 
+knowledge and delivery of carbon 
+reduction in local government.
+Engage and support local schools, parish 
+and town councils, organisations and 
+community groups on climate change 
+and broader environmental issues.
+Collaborate with young people in 
+East Riding to ensure they have a 
+fundamental role in how we can 
+respond to climate change moving 
+forward.AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: NET ZERO COUNCIL
+Undertake 
+carbon 
+reduction 
+initiativesThrough our Carbon and Energy 
+Management Strategy process, maximise 
+opportunities to reduce carbon 
+emissions across our range of assets, 
+including:  
+Council owned buildings (e.g. offices, 
+leisure centres, libraries).  
+Council maintained schools.  
+Street lighting.  
+Council fleets vehicles.
+Look to reduce scope three emissions 
+by better understanding emissions that 
+occur indirectly from the Council’s 
+activity, including from procured goods 
+and services, outsourced contracts,  
+staff commuting and homeworking.
+Embed 
+culture of 
+climate 
+awarenessExplore how to integrate climate change 
+further into decision-making processes 
+within the Council.
+Include climate change as a cross-
+cutting theme within the update of 
+the Council’s Environmental Policy, 
+illustrating its linkages with the wider 
+sustainability themes of the Policy and  
+to raise opportunities for joint-action.
+Explore the rollout of a carbon literacy 
+programme in the Council.
+Explore further the financial implications 
+of meeting a target of net zero by 2050 
+(or sooner) to support financial planning 
+and budgeting within the authority.
+Continue to provide updates on our 
+response to climate change through 
+Your East Riding and on social media 
+platforms.
+74 75Deliver 
+schemes 
+to manage 
+the risks 
+and reduce 
+the impacts 
+of climate 
+change.Work closely with partners, such as the 
+Environment Agency and DEFRA, to 
+deliver flooding and coastal erosion risk 
+management schemes.
+Explore with partners, such as the 
+University of Hull, the impacts of climate 
+change on health to influence future 
+decision making.
+Provide advice and information on 
+flood insurance, directing residents to 
+information on Flood RE.
+Feed into national guidance and policy 
+on flood and coastal erosion risk 
+management, making sure it remains 
+appropriate for local resilience action in 
+East Riding.
+Work with partners to build climate 
+readiness through improved emergency 
+and recovery planning by promoting 
+regional climate risk assessment, multi-
+agency collaborations, provision of 
+climate response training for emergency 
+responders and support for local 
+resilience forums.
+Explore sustainable funding mechanisms 
+and new funding opportunities to 
+develop and deliver local schemes to 
+limit the impacts of flooding, coastal 
+erosion and heatwaves.
+Work with partners to develop a whole 
+of society approach to emergency 
+response raising awareness of new risks 
+to the region and the available hazard 
+warning systems, followed by clear 
+communications and training as to  
+what individuals, communities and 
+businesses should do during differing 
+emergency scenarios.AREAS OF FOCUSCROSS-CUTTING THEMES
+Health Rurality Inequality Coastal
+PRIORITY AREA: CLIMATE RESILIENCE
+Adapt our 
+buildings, 
+infrastructure 
+and 
+behaviours 
+to build 
+resilience in 
+East Riding.Through the Council’s updated 
+Environmental Policy, look to improve 
+the resilience of Council assets and 
+ensure climate change remains a key 
+consideration for the design and delivery 
+of infrastructure projects.
+Provide advice to communities and 
+businesses on building resilience to climate 
+change through East Riding of Yorkshire 
+Council communications and social media.
+Work with residents and partners to 
+find the best solutions for changing 
+behaviours to become a more resilient 
+East Riding.
+Work with partners to increase climate 
+change resilience across the region’s 
+built assets, including our transport 
+network and energy infrastructure, to 
+protect communities and businesses.
+Ensure that the East Riding Local Plan accounts 
+for the impacts of climate change in future 
+design and developments, including limiting 
+inappropriate development in certain areas 
+at risk from flooding and coastal erosion.
+Design developments to maximise the 
+wider sustainable benefits of climate risk 
+management, prioritising nature-based 
+solutions and those that provide more 
+socio-economic benefits.
+Deliver 
+schemes 
+to manage 
+the risks 
+and reduce 
+the impacts 
+of climate 
+change.Continue to work with communities, 
+businesses and partners to enable them 
+to proactively plan their transition away 
+from coastal change risk.
+Work with partners and utilise scientific 
+models and the latest technology (such 
+as aerial surveys, water level sensors 
+and cameras) to effectively monitor and 
+manage the risk of flooding and coastal 
+change within East Riding.
+76 77This document can be made available in other languages or formats if required.  
+To request another format, please contact us on  (01482) 393939

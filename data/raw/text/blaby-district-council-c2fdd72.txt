@@ -1,0 +1,1352 @@
+1 
+ CARBON NEUTRAL 
+ACTION PLAN  
+Contents  
+CARBON NEUTRAL ACTION PLAN  ................................ ................................ ................................ ............  1 
+1. Foreword  ................................ ................................ ................................ ................................ .........  2 
+2. Introduction  ................................ ................................ ................................ ................................ ..... 3 
+3. Background and evidence  ................................ ................................ ................................ ...............  3 
+PART 1  ................................ ................................ ................................ ................................ .....................  5 
+4. Our Ca rbon Footprint  ................................ ................................ ................................ ......................  5 
+4.1 Blaby District’s Carbon Footprint  ................................ ................................ ................................ .. 5 
+4.2 Blaby District Council’s Carbon Footprint  ................................ ................................ .....................  8 
+5. Blaby’s Carbon Budget  ................................ ................................ ................................ ..................  12 
+6. Carbon Reduction Measures  ................................ ................................ ................................ .........  15 
+6.1 Transport  ................................ ................................ ................................ ................................ ..... 15 
+6.2 Built Environment  ................................ ................................ ................................ ........................  17 
+6.3 Energy  ................................ ................................ ................................ ................................ ..........  18 
+6.4 Waste and Water  ................................ ................................ ................................ ........................  20 
+6.5 Resources and Consumption  ................................ ................................ ................................ .......  21 
+7. Air Quality  ................................ ................................ ................................ ................................ ..........  22 
+8. Biodiversity  ................................ ................................ ................................ ................................ ........  23 
+9. Governance, Funding and Engagement  ................................ ................................ ............................  23 
+10. Carbon Offsetting  ................................ ................................ ................................ ............................  25 
+11. Resilience and Adaptation  ................................ ................................ ................................ ...............  26 
+12. Monitoring and evaluation  ................................ ................................ ................................ ..............  26 
+ 
+ 
+ 
+ 2 
+ 1. Foreword  
+Today we face a global climate emergency which requires us to think beyond 
+‘business as usual ’. But while central g overnment  must play a vital role we recognise 
+that many of the solutions will happen at the local level. As a District we need to act 
+now to reduce direct and indirect carbon emissions to net zero. We need to prepare 
+and adapt to deal with the inevitable i mpacts of climate change. We recognise that 
+achieving our vision will not be easy. There are entrenched market and wider forces 
+that will support existing fossil -fuel dependent, consumption -based systems. We will 
+need to show strong leadership to create op portunities for all to participate in the 
+benefits of change with its costs shared fairly.  
+ 
+Climate change increases the likelihood of extreme weather events, including floods, 
+droughts and heatwaves and the health impacts are likely to be significant. In recent 
+years there have been increasing public calls for action on climate change and the 
+environment, be that in terms of reducing the use of single use plastics, improving air 
+quality, encouraging the use of low emissions vehicles and improving energy 
+efficiency.  
+ 
+Now more than ever we must look forward rather than aiming to get back to normal 
+and be ready to take the opportunities emerging from a ‘green recovery’. The 
+collective response to Covid 19 has demonstrated our ability to take significant and 
+far reaching steps  to tackle a global threat. It has  shown us how we can innovate and 
+deliver our services differently. We will use what we  have learnt from the pandemic to 
+inform our climate strategy and action plan going forward. The lockdown has brought 
+about significant benefits to air quality and the environment and has demonstrated 
+how behaviours can be dramatically changed through effective communication and 
+leadership. We will take advantage of these and use this window of opportunity to 
+shape our res ponse to the global climate emergency.  
+ 
+We have an exciting opportunity to address the challenge of climate change w hilst 
+also bringing about numerous co -benefits; r educing inequality , delivering sustainable 
+new homes, creating a district with more green s paces and  places fo r our children to 
+play, cleaner air and  jobs and opportunities for all. This is a complex problem. We 
+know that no single organisation alone can deliver the scale and pace of change we 
+need . So w e will engage widely to understand how we can work together to achieve 
+the am bitions set out in our Clim ate Change Strategy . This action plan gives Blaby 
+District Council a focus and direction and provides the fr amework from  which we can  
+take responsibility and work together to transform the distr ict. 
+ 
+ 
+Cllr Terry Richardson Leader Blaby District Council  
+Cllr Sharon Coe Portfolio Holder for Health Wellbeing and Regulatory Services  3 
+ 2. Introduction  
+This is the Council’s Carbon  Neutral  Action Plan ( CNAP) setting out how we intend to 
+cut our Carbon Emiss ions and become car bon neutral. It was adopted in August 
+2020  and is intended to be reviewed and updated every year.  
+ 
+In line with the UK Government’s commitments under the Climate Change Act1, this 
+Action Plan is the first major step we are taking to deli ver our commitment to 
+achieving net -zero carbon emissions across the Council’s operations by 2030 and 
+carbon neutrali ty across the district by 2050  if not sooner . This plan identifies where 
+our current emissions come from and identifies  many  potential carb on reduction 
+measures to increase our chance of staying within our carbon budget and meeting 
+these targets.  We are committed to working with the whole district to reduce 
+emissions and there is an appreciation that far more resource and investment will be 
+required to implement many of the actions and reach our targets.  
+ 
+The plan is not a fixed or definitive path to carbon neutrality as there are likely to be 
+unpredictable local and national developments in the future that wi ll influence our 
+actions . To ensur e the action plan adapts to such changes and remains valid over 
+time, it will be reviewed on an a nnual basis. This  will allow  us to take into account the 
+latest research and funding opportunities , incorporate the new technologies  and 
+respond to new regulat ions as they arise. This flexible approach will allow us to learn 
+from previous actions and enable new partners and stakeholders to contribute. It will 
+be vital to maintain involvement from citizens, businesses and organisations across 
+the district to help  in the development and implementation of actions.  
+ 
+Blaby District  Council is committed to taking  action to reverse the trend of increasing 
+consumption of natural resourc es. If everyone on Earth lived as the average British 
+or European citizen does, we wou ld need nearly three planets’ worth of resources to 
+sustain us2. This means, on average, each of us is using too much of the world’s 
+resources to produce the food we eat, treat the waste we produce, and generate the 
+energy we use.  This action plan sets out  ways we can shape our environment and  
+minimise our resou rce use to help keep  our district  prosperous, healthy and happy.  
+3. Background and evidence  
+It has become clear that there is now an urgency to address  climate c hange and  the 
+science has become unequivo cal. There is recognition that the impacts of climate 
+breakdown are already causing serious damage around the world. The 
+Intergovernmental Panel on Climate Change (IPCC) Special Report on Global 
+Warming of 1.5° Celsius  describes the enormous harm that a 2°C elsius  (C) average 
+rise in global temperatures is likely to cause co mpared with a 1.5°C rise (IPCC, 
+2018). And we can see the  evide nce of rising temperatures ourselves. In Ju ly 2019  
+an all -time high temperature of 38.1oC was recorded in the UK . The latest UK climate 
+projections (UKCP18)3 suggest that the UK climate will continue to warm over the 
+rest of this century,  and on average, will result in hotter and drier summers, warmer 
+and wetter winters with more extreme weather eve nts expected, though individua l 
+years may not conform to this patt ern4. 4 
+ A Global Climate Emergency  
+In May 2019 the UK became the first parliament to declare a climate emergency. 
+While there is no single definition of what that means Blaby Dist rict Council 
+recognises this fact and has p ledged to become carbon neutral across its services by 
+2030 and to use the powers and influence it has to support partners, business and 
+the community  to become carbon neutral a cross the district by 2050  if not sooner . In 
+light of this the Council has comm itted to a wide range of comprehensive actions to 
+reduce  our carb on emissions, with the headline being to hit the net zero target by 
+2030 for the Council’s activities.  In simple terms, this document:  
+ 
+ Establishes a framework for reducing carbon emissions  
+ Sets out what our current ‘baseline’ carbon emissions are (or ‘carbon 
+footp rint’), so we know where we are starting from and can set meaningful 
+targets and milestones.  
+ Establishes our carbon budget and identifies potential carbon reduction 
+pathways.  
+ Priorit ises carbon reduction measures and suggests timescales in which  we 
+inten d to deliver these.  
+ Puts forward potential future projects, or ideas requiring further investigation 
+before being committed to.  
+ A series of options for how different projects may be fu nded.  
+ The process by which this will be managed.  
+Carbon Neutral  
+ 
+In the last 50 years the average global temperature has increased at the fastest  rate 
+in recorded history and it  continues to accelerate. When sunlight reaches the earth 
+energy is absorbed on  the surface and is radiated out into the atmosphere as heat. 
+Gases in our atmosphere trap this heat in a natural process that stops our planet 
+becoming cold and unin habitable. This is the ‘Green house effect’. Simply put, human 
+activities are carbon positi ve. T he burning of fossil fuels for electricity , heat and 
+transport has increased the amount of Carbon Dioxide and other greenhouse gas es 
+therefore trapping more  heat and increasing  global temperature s.  
+ 
+Carbon neutrality, or having a net zero carbon foot print means having no net release 
+of carbon dioxide into the atmosphere. We can achieve net zero  emissions by 
+balancing carbon emissions with carbon removal (often through carbon offsetting) or 
+simply eliminating carbon emissions altogeth er from those  activities that release it 
+such as transportation, energy production, agriculture, and industrial processes.  
+Renewable energy sources such as wind, water and solar are said to  be carbon 
+neutral whereas f ossil fuels are  carbon positive . 
+ 
+ 
+ 5 
+ There are other green house gases including methane, n itrous oxide and  fluorinated  
+gases which  also trap heat and contribute to climate change. When we talk about 
+carbon emissions and carbon neutrality we also refer to these gases and their impact 
+is accounted for in carbon dio xide equivalents (CO 2e), the standard unit for 
+measuring carbon footprints.  
+PART 1  
+4. Our Carbon Footprint  
+Before we decide what we should do differently, to reduce our emissions, we need to 
+properly understand what  our current activities are emitting. This i s sometimes 
+known as working out our ‘carbon footprint’ which, in  technical terms, is a measure  of 
+the greenhouse gases (GHGs)5 emitted into the atmosphere from sources in a  
+specified area or organisation. It usually includes all relevant greenhouse gases,  the 
+most common of which is  carbon dioxide (CO 2). Together with e missions of other 
+GHGs such as me thane (CH 4) or nitrous oxide (N 2O) this is measured as  ‘carbon 
+dioxide equivalent’ (CO 2e)6. 
+ 
+Nationwide, emissions of CO 2 make up 81% of GHG emissions, with the remainder 
+from methane (11%), nitrous  oxide (4%) and fluorinated gases (3%), when weighted 
+by Global Warming Potential (GWP)7. The biggest source of  greenhouse gas 
+emissions in the UK is transport, closely followed by energy supply.  To help set the 
+wider context, this Action Plan examines both the carbon footprint of the 
+geographical area of  Blaby District as a whole, and that of Blaby District  Council as 
+an organisation.  
+4.1 Blaby District’s  Carbon Footprint  
+The carbon footprint for the geographical ar ea of Blaby should comprise all GHG 
+emissions that occur in the  area – this includes commercial and industrial sources, 
+domestic homes , transport, agriculture, waste and land use. There is no perfect, 
+simple and 100% accurate way of calculating a carbon fo otprint, as it relies on a 
+number of assumptions.  The Government Department for Business, Energy and 
+Industrial Strategy (BEIS) annually publishes de tailed local authority level CO 2 
+emissions data, however does not provide data on the other recognised Kyot o 
+Protocol GHGs emissions, collectively known as CO2e emissions. As such, this data 
+‘misses’ 19% of all GHGs but is useful for showing the overall trend.  
+BEIS data is publi shed with a 2 year lag , and therefore the data for 2017 is the most 
+recent available . From this it is evident that the trend in Blaby is similar  to the 
+national trend;  CO 2 emissions slowly and steadil y declining over the last few years, 
+due mainly to the decarbonisation  of the electricity gri d (see figure 2 ). Emissions from 
+agriculture  waste and peatlands are not included in these figures because they 
+primarily produce methane rather  than CO 2, therefore are missed fro m the BEIS 
+emissions data .  
+ 6 
+ Blaby will us e the SCATTER tool to demonstrate the potential carbon reductions that 
+are possibl e through certain pathways. SCATTER is a local authority focussed 
+emissions tool, built to help create low -carbon local authorities and has been used to 
+gene rate our area footprint. It’s  development  has been funded by the Department for 
+Business Energy and  Industrial Strategy (BEIS) in collaboration with Nottingham City 
+Council, GMCA, the Anthesis Group and the Tyndall Centre.   
+Footprint Scope  Activities taking place within a city can generate GHG emissions that 
+occur inside the city boundary as well as out side the city boundary. To distinguish 
+among them, emissions are commonly grouped into three categories based on 
+where they occur:  
+•Scope 1 (Direct emissions) GHG emissions from sources located within the district 
+boundary  
+•Scope 2 (Indirect emissions) GHG  emissions occurring as a consequence of the 
+use of grid -supplied electricity, heat, steam and/or cooling within the district boundary 
+but purchased from outside the boundary.  
+•Scope 3 All other indirect emissions from activities and their lifecycles that occur 
+outside the district boun dary as a result of activities taking place within the district 
+such as procurement, waste disposal and investments . 
+Blaby District’s Green House G as Emissions by Source  (2017)  
+ 
+Table 1. Key emissions from main sources.  
+TonnesCO 2e Scope 1  Scope 2  Scope 3    
+Stationary Energy9 156,418  125,621  45,703    
+Transport9 320,961   179,709    
+Aviation9   51,901    
+Waste9 17,857      
+Imported consumption10   526,302    
+Total 495,236  125,621  803,615 Net Total  Per Capita11 
+    1,424,472  14.2 7 
+ Figure 1. Blaby District’s green house gas emissions by source (2017).  
+ 
+Detailed information about the key emissions from the main sources are shown in the 
+table ab ove (table 1 ) and pie chart (fig ure 1 ). The se emissions include imported 
+consumption emissions, which is the carbon locked into the goods, food and services 
+we consume from around this country and the world. These are very hard to 
+measure locally, but we can make an estimate fo r Blaby District from  BEIS data . It 
+shows that these often hidden emissions make up around a third of our emissions 
+footprint overall, followed by transport and residential building emissions.  
+Carbon dioxide and other greenhouse gas emissions come from a variety of sources. 
+Some are naturally occurring processes  and others from activities in our homes, 
+transport and businesses. Carbon emissions, especially those that we can measure, 
+generally come from the use of energy for heating, vehicles, motors, machinery and 
+appliances. S ome of these, like traditional cars or gas boilers, have direct emissions 
+from the burning of fossil fuels. Others have them through the use of electricity from 
+the grid.  
+Government data shows what kind of energy is consumed in Blaby District - 
+principally  gas (28.6%), petrol products (53%) and electricity (15.8%)12. Each energy 
+source will have a different carbon intensity and footprint, meaning the emissions 
+from some sources, such as coal, are worse than others. The true picture of carbon 
+and greenhouse gas emissions in any district or city is wider than the description 
+above. There are emissions involved in the lifecycle of products, and the 
+infrastructure that delivers energy and products to us.  
+8 
+ 4.2 Blaby District Council’s Carbon Footprint  
+The carbon footprint of Blaby District Council (as an organisation) comprises 
+emissions that occur as a result of the Council ’s own operations.  We have calculated 
+the carbon footprint of the Council ’s own operations in line with the UK Government’s  
+Environmental Repo rting Guidelines13. The footprint is calculated using data for the 
+financial year 1 April 2018 to 31 March 2019.  
+ 
+The resultant baseline for 2018/19 is summarised as follows:  
+Table 2: Summary of GHG emissions (tonnes CO2e)  
+Total Gross Emissions 2018/19  Tonnes CO 2e 
+Scope 1 (Direct)  683.91  
+Scope 2 (Indirect)  96.2 
+Scope 3 (other indirect)  220.22  
+Grand Total  1000.33  
+The O rganisational boundary  
+In order to produce this Carbon Management Action Plan it is essential to accurately 
+establish the scope of the o perations on which our organisation will report. This 
+process is known defining the organisational boundary. This means establishing 
+what activities and functions are counted (or ‘in scope’) for the purpose of 
+determining the Council’s overall emissions, a nd by default what activities and 
+functions are not counted (‘out of scope’). This stage of the process involves 
+reviewing the Council’s operations to determine activities that give rise to carbon 
+emissions. As district council the organisational structure  is relatively straightforward 
+and reporting therefore  include s the impacts from everything that is owned and 
+operated by the organisation.  
+Defining the scope  
+The starting point for carbon management is to accurately establish the emissions 
+baseline. The scope of the baseline includes the required types and sources of 
+emissions over a defined timescale. The baseline is a fixed point against which a 
+reduction target can be set and future performance monitored. Emission  releasing 
+activities are classified in to three groups known as scopes. These  scopes and their  
+relevant associated activities are  defined in the GHG Protocol Corporate Standard , 
+as follows:  
+Table 3: GHG Emission scopes and associated emission releasing activities 
+(BEIS,2019a)  
+Scope  Definition / Activity  
+1 (Direct)  Emissions from sources that are owned or controlled by the 
+organisation  
+Fuels  Fuel sources combusted at a site or in an asset owned or 
+controlled by the organisation.  
+Passenger 
+Vehicles  Travel in cars and on motorcycles owned or c ontrolled by the 
+organisation.  
+Delivery 
+Vehicles  Travel in vans and heavy goods vehicles that are owned or 
+controlled by the organisation.  9 
+ 2 (Indirect)  Emissions that are a consequence of the organisation’s 
+operations, but occur from sources owned or co ntrolled by 
+another company  
+Electricity 
+(grid)  Electricity used by an organisation at sites owned or controlled by 
+them.  
+3 (Other 
+Indirect)  Emissions that are a consequence of the organisation’s 
+operations, which occur at sources which they do not own or  
+control  
+Well-to-Tank 
+(WTT):  
+Fuels  Upstream emissions associated with extraction, refining and 
+transportation of the raw fuel sources  to an organisation’s site (or 
+asset) prior to their combustion.  
+Transmission 
+and  
+distribution (T  
+and D) Emissions asso ciated with grid losses (the energy loss that 
+occurs in getting the electricity from the power plant to the 
+organisations that purchase it).  
+Well-to-Tank 
+(WTT):  
+Electricity  Upstream emissions of extraction, refining and transportation of 
+primary fuels bef ore their use in the generation of electricity.  
+Land business 
+travel  Travel for business purposes in assets not owned or directly 
+operated by the organisation.  
+Well-to-Tank 
+(WTT):  
+Passenger 
+vehicles  Upstream emissions associated with extraction, refining  and 
+transportation of the raw fuels before they are used to power the 
+transport mode.  
+Well-to-Tank 
+(WTT):  
+Delivery 
+vehicles  Upstream emissions associated with extraction, refining and 
+transportation of the raw fuels before they are used to power the 
+transport mode.  
+Well-to-Tank 
+(WTT):Land 
+business 
+travel  Upstream emissions associated with extraction, refining and 
+transportation of the raw fuels before they are used to power the 
+transport mode.  
+ 
+Scope 1 – All Direct Emissions from the activities of an or ganisation or under their 
+control. This includes fuel combustion on site, from owned vehicles and fugitive 
+emissions.  
+Scope 2 – Indirect Emissions from electricity purchased and used by the 
+organisation. Emissions will be created during the production of the energy and 
+eventually used by the organisation and includes electricity from energy supplier to 
+power computers, heating and cooling.  
+Scope 3 – All Other Indirect Emissions from activities of the organisation. This is 
+usually the largest share of the c arbon footprint  (up to 90%) , especially for office -
+based companies, covering emissions associated with business travel, commuting, 
+procurement, waste  disposal,  water, downstream leased assets (leisure centres and 
+industrial estates)  and upstream emissions associated with purchased good or 
+services  
+Outside of scopes (Table 5 ) – This relates to biogenic emissions that are considered 
+to have a net zero carbon dioxide impact due to the carbon they absorb during their 10 
+ growth. When they are burned to produce ener gy this carbon is released and the 
+associated emissions are recorded as being ‘outside of scopes’ in accordance with 
+the GHG Protocol. For example the average biofuel blend of forecourt diesel.  
+Table 4:  Breakdown of emissions (tonnes CO2e)  
+GHG emissions (T onnes of 
+CO 2e) Scope 1  Scope 2  Scope 3  Grand 
+Total  
+Building and Utilities      
+Electricity for council buildings  - 96.2 - 96.2 
+Gas consumption  80.85  - - 80.85  
+Water Supply and treatment  - - 0.986  0.986  
+Well to tank emissions for fuel 
+(heat)  - - 11.24  11.24  
+Electricity transmission and 
+Distribution  - - 8.20 8.20 
+Transport      
+Fleet  603.06  - - 603.06  
+Business miles  - - 46.09  46.09  
+Well to tank emissions for fuel 
+(fleet)  - - 141.98  141.98  
+Well to tank emissions for fuel 
+(business miles)  - - 11.72  11.72 
+Grand Total  683.91  96.2 220.22  1000.33  
+ 
+Table 5: Emissions that fall outside of scope (tonnes CO 2e) 
+Outside of scope   (Tonnes of CO 2e)  
+Diesel (Average biofuel blend)  13.1  
+Excluded Emissions  
+In addition to those sources detailed above there are o ther areas which give rise to 
+emissions that the Council feel should either be included but for which, at this time, 
+insufficient detail is hel d to enable them to be included or  excluded for specific 
+reason.  These are as follows:  
+Scope  1 
+Refrigerants  – Leakage from air -conditioning and refrigeration units can release 
+gases into the atmosphere that have a global warming potential. At present this data 
+is not available, however going forward the Council will look to find methods to record 
+and report this inf ormation.  
+Scope 3 
+Waste Disposal  – This plan deliberately excludes emissions arising from waste 
+treatment /disposal as these are considered to be  district wide in origin and will be 
+considered as part of those actions which seek to influence resource use an d waste 
+minimisation across area wide.  
+ 
+Waste production  – The Council produces waste as part of the day to day  operation 
+of its services i.e. general office waste and through the delivery of some of its 
+services such  as highway maintenance. At the time of  writing this plan it was not 
+possible to include emissions arising from  these sources but this will be calculated 
+and included moving forward.  
+ 11 
+ Purchased Goods and Services  – By far the biggest ‘exclusion’ relates to the 
+purch asing and use of goods, and t he consequential ‘embodied energy’ of such 
+goods. Embodied energy is a co mplex area, but in simple means the energy used to 
+make and distribute goods, before such goods are actually used.  
+Employee commuting  – Whilst the emissions relating to employees tra velling for the 
+purposes of work, to and from meetings for example, is included within this report, 
+the e missions arising from employees travelling from home to work are not included. 
+This approach is accepted as part of the GHG guidance and we will look t o find 
+methods to record and report  this information going forward.  
+ 
+Leisure Centres – Blaby District Council leases th e Huncote and Enderby Leisure 
+Centre s to Everyone Active. Both  the financial and day to day management  of these 
+is controlle d wholly by E veryone Active and as such we do not intend to report these  
+at present . However there may be scope to influence emissions arising from these 
+facilities from contractual perspective going forward.  
+Data Collection  
+The energy data used to calculate the baseli ne was gathered from different sources 
+including: Annual energy sta tements from util ity providers and fleet fuel us age 
+mileage and employee expenses claims held by neighbourhood services and finance 
+teams. Work continues to ensure that this data is robust and systems  are in place to 
+ensure ongoing timely and accurate collection of such data.  
+Table 6: Sources of data by energy type  
+Energy type  Source  Data Quality  
+Gas Energy invoices and Annual  
+Energy Statements from  supplier  Data held and collated by 
+Finance. 
+Passenger 
+vehicles  The Merridale system at the 
+Depot.  Usage reports sent monthly to 
+finance a nd collated  
+Electricity  Energy invoices and Annual  
+Energy Statements from  supplier  Data held and collated by 
+Finance  
+Business 
+travel  Employee mileage claim s made 
+on iTrent.  Data held on iTrent and 
+extracted by Finance.  
+Water  Statements from supplier  Data held and collated by 
+Finance.  
+ 
+Calculating the Baseline  
+To calculate what your CO2e emissions are, it is necessary to convert the ‘raw’ data 
+(such as KWh  of electricity used) into CO2e emissions. This process is relatively 
+straightforward, using what are known as ‘conversion factors’. The carbon 
+conversion factors used for this Action Plan are the 2018 UK Government published 
+carbon conversi on factors (BEI S, 2019b). The Council will use the most up to date 
+conversion factors each time it updates this plan or produces an annual report.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+  
+ 
+ 
+The key conversion factors used are as follows:  
+Table 7: Key GHG conversion factors (BEIS, 2019b)  
+Energy Type  Conve rsion factor  
+Fuels   
+Natural Gas  0.18396 kg CO2e / kWh (Gross CV)  
+Electricity   
+Electricity generated  0.28307 kg CO2e / kWh (Gross CV)  
+Passenger vehicles   
+Diesel (average biofuel blend)  2.62694 kg CO 2e / litre  
+Business Travel   
+Average car (unknown f uel) 0.29072 kg CO 2e / litre  
+Water Consumption and Treatment   
+Water supply  0.344  kg CO 2e / m3 
+Water treatment  0.708 kg CO 2e / m3 
+ 
+5. Blaby’s Carbon Budget  
+The relationship between CO 2 and global temperatures means that staying within a 
+given temperature thresh old requires that only  a certain total quantity of CO 2 is 
+released to the atmosphere. This is the global carbon budget. It provides an 
+indication of the maximum cumulative amount of carbon dioxide that can be emitted 
+to the atmosphere through human actions , between 2020 and 2100, to be in line with 
+keeping globa l temperature rise well below 2oCelsius and pursuing efforts to limit to 
+1.5oCelsius  rise by the end of the century14. A carbon budget of this type is not a 
+financial scheme or a limit or cap given t o individual persons or organisations.   
+ 
+With this in mind it follows that any  target  date for carbon neutrality is meaningless 
+unless we also ab ide by an overall carbon budget . The carbon budget shapes the 
+rate at which we need to decrease emissions each year. Analysis of the national 
+picture has suggested that if nationally we were to plot a straight line pathway to zero 
+from today, the target date would have to be 2025 to avoid exceeding the available 
+carbon budget.  This stresses the need to cut emission  deeper and sooner to give us 
+the best possible chance of avoiding dangerous levels of climate change.  
+ 
+Based on  analysis  by the Tyndall Centre for Climate Change Research , for Blaby  
+District  to make its ‘fair’ contribution towards the Paris Climate Change  Agreement, 
+the following recommendations should be adopted:  
+1. Stay within a maximum cumulative carbon dioxide emissions budget of 3.8 
+million tonnes (MtCO 2) for the period of 2020 to 2100. At 2017 CO 2 emission 
+levels  based  on BEIS LA statistics 2017 CO 2 emissions (excluding aviation, 
+shipping, process CO 2 emissions from cement pr oduction and those from  land 
+use, land use change and forestry) , Blaby would use this entire budget within 
+6 years from 2020.  13 
+ 2. Initiate an immediate program me of CO 2 mitigation to del iver cuts in em issions 
+averaging a minimum of 14.2% per year to deliver a Paris aligned carbon 
+budget. These annual reductions in emissions require national and local 
+action, and could be part of a wider collaboration with other local authorities.  
+3. Reach z ero or near zero carbon no later than 2040. This report provides an 
+indicative CO 2 reduction pathway that stays within the recommended 
+maximum carbon budget of 3.8 MtCO 2. At 2040 5% of the budget remains. 
+This represents very low levels of residual CO 2 emissions by this time, or the 
+Authority  Should  opt to forgo these residual emissions and cut emissions to 
+zero at this point.  
+ 
+Figure 2 below shows a visual representation of Blaby District’s historic cumulative 
+emission period (grey), allocated carbon budg et (green) and overshoot of emissions 
+(red) from 2005 – 2050. This clearly demonstrates that knowing and limiting our 
+cumulative emissions is as, if not more importance than any particular target date.  
+ 
+Figure 2. Illustrative potential cumulative emission scenarios to 2050 for 
+Blaby District  
+ 
+Carbon Reduction Pathways  
+Blaby’s carbon budget illustrates the need to pursue an ambitious  carbon reduction  
+programme  if we are to become  a carbon neutral district by  2050 a nd preferably 
+earlier. Figure 3 below shows  some illustrative pathways that we could take  in line 
+with our carbon budget in comparison  to the trend in emissions if Blaby  District 
+Council  were to continue as it has done so since 2005.  
+14 
+ Figure 3.  Illustrative emission reduction pathways to 2050 for B laby District  
+ 
+A delayed reaction to emissions reduction  (yellow line)  would mean emissions 
+continue along the business as usual path, slowly increasing  in scale of emission 
+cuts year on year and  becoming more rapid as we get closer to 2030. This would 
+allow time for a more gradual implementation of emission reduction actions but puts 
+huge pressure on later years and has  a greater risk of overshooting Blaby’s carbon 
+budget . Delaying action by just one year means the minimum 14.2% annual 
+reduction to remain  below Blaby’s carbon budget , becomes 15.2%. This clearly 
+demonstrates the urgent need to start reducing Blaby’s emissions immediately. T he 
+longer we delay the greater the effort needed  in the subsequent years . 
+Instead, Blaby  will aim to reduce emissions a s quickly as possible to increase the 
+chance of staying within our ca rbon budget and meeting our  carbon neutral 
+ambition s. To do this, emission reduction rates wo uld have to be at or above 14.2 % 
+per year. This is the rate of emissions reduction required ea ch year to reduce 
+emissions to the point when cumulative emissions up to 21 00 remain below 5% of 
+Blaby ’s total carbon budget, and acknowledges the technical challenges  behind 
+removing all emissions.  Negative emissions technologies and offsetting could be 
+used to neutralise remaining emissions.   
+Using tools, such as SCATTER15 the depth and breadth of carbon reduction 
+interventions required to get to carbon neutral will be identified. This will provide  us 
+with an idea  of the scale of action needed to become c arbon neutral and how much 
+carbon can be saved by certain types of interventions if they were to be rolled out 
+across the district.  
+ 
+15 
+ Ultimately, for the District  to meet its  carbon neutral aspiration s, we must increase 
+our use of renewable energy , display better energy behaviours, use more efficient 
+products and buildings, alongside an overall red uction in the demand for energy and 
+consumption.  
+6. Carbon Reduction Measures  
+The technologies and approaches to deliver a net -zero world are believed to be 
+available  already, and with strong leadership could be implemented at a cost 
+effective level (1-2% UK GDP)16. The co-benefits of tackling  climate change  and 
+Green Recovery include  improving  the health and diets of our citizens, better  air 
+quality and new  opport unities through a growing green economy . 
+This plan places a high priority on carbon reduction measures to order improve our 
+chance of staying with in our carbon budget and meet our  carbon neutral ambitions. 
+There are 5 main target areas for actions on carbon re duction:  
+ Transport  
+ The Built Environment                                         
+ Energy   
+ Waste and water  
+ Resource Use  
+ Air quality  
+ 
+Within each ta rget area of the plan,  key objectives and actions  and timescales for 
+implementation are identified.  
+Short ter m (2020 -2023 ) Actions already underway or that can start now and aim to 
+complete within the first 3 years (unless earlier date is specified).  
+Medium term  (2023 -2026 ) – Actions requiring further development before 
+implementing. Aim to complete 3 – 6 years.  
+Long term  (2026 -2030) - Actions that require significant ly more development or 
+resource before implementation. Aim to complete by 2030.  
+To facilitate understanding and implementation we have grouped the activities 
+needed to become carbon neutral into 5 mai n sections. Each section will introduce 
+the key issues and current activities, and a range of actions that will deliver the  
+overall  objective. It will also specify whether the action contributes to the carbon 
+neutral target for Council Operations or that o f the Wider District.  
+ 
+6.1 Transport  
+Transport makes up a significant proportion of both the council ’s own carbon footprint 
+(approximately 60%) and that of the wider  district (around 3 5%) with most of this 
+coming fr om car s, vans, lorries and buses. Action is needed to reduce j ourne ys of 
+these type of vehicl es and  therefore we will pursue policies that encourage the use of 
+public transport together with walking and cycling  and increase  the use of electric  
+vehicles  (EV’s) . This will have the co -benefit of improving air quality, mobility and the  
+health and wellbeing or our citizens .  16 
+  
+Electric vehicle emissions are primarily determined by the upstream emissions: that 
+is, from the production and distribution of the energy used to charge them. Recent 
+research als o suggests that the  lifetime carbon emissions of EV’s are approximately 
+half those of a conventional vehicle, with more efficient electric vehicles saving on 
+the carbon produced in the batteries in just two or three years17. Further carbon 
+savings can be m ade when you consider the potential for  onward re -use of retired 
+electric vehicle batteries for less demanding applications like stationary energy 
+storage  in homes, workplaces or charging hubs .  
+ 
+Action  Timescale  
+Council wide   
+6.1.1 Conduct  Green Fleet Review  to make business case and 
+kick start switch to electric  vehicles  Short term  
+6.1.2 With a grant obtained from LCC’s Choose How You Move 
+scheme - purchase a small fleet of e -bikes for use by council 
+employees as a pilot scheme initiative to promote s ustainable 
+travel and healthy lifestyles and improve the wellbeing of  staff.  Short term  
+6.1.3 Increase numbers of secure p ublic bike shelters  around 
+the district  (Narborough station , Leisure centres,  car parks, 
+council offices etc).  Short term  
+6.1.4  Review of the  Council’s employee business travel and 
+commuting to explore opportunities to switch to electric vehicles 
+and the feasibility of this .  Short term  
+6.1.5 Replace all council fleet vehicles (cars, vans, refuse lorries 
+and other maintenance vehic les) with electric, hybrid or similar 
+low/no carbon alternatives.  Medium – Long 
+term 
+6.1.6 Following scoping project install the appropriate electric 
+vehicle charging points at the Depot and main offices  Short term  
+6.1.7  Carry out a staff travel survey.  Allow ing us to estimate 
+current trends and associated carbon emissions arising from 
+staff commuting.  Short term  
+6.1.8  Reduce staff commuting through promotion  and support of 
+agile working . Short term  
+6.1.9  Encourage the use of video conferencing and in vest in 
+equipment to facilitate participation in digital meetings, thus 
+reducing travel.  Ongoing  
+District wide   
+6.1.10  Walk and Ride Blaby – multi stakeholder approach to 
+connect communities and places by creating and improving a 
+sustainable transport n etwork focussing on walking and cycling 
+and improving the health and wellbeing of residents.  Short term  
+6.1.11  Develop a partnership with Electric Blue to deve lop a 
+local Authority EV Strategy  to create a charg ing network across 
+the district (public and p rivate car parks, petrol stations, on 
+street)  Short term  
+6.1.12  Specify an approach to electric charging infrastructure for 
+homes and businesses in strategic plans . Short term  
+6.1.13  Engage with the taxi drivers to encourage the switch to 
+electric vehicl es. Short term  
+6.1.14 Engage with and encourage  businesses to switch to 
+electric vehicles. Lead by example  and provide information.   Short term  17 
+ 6.1.15  Work in partnership with neighbouring local authorities to 
+deliver an EV charging network, share idea s and work 
+collaboratively on other initiatives.  Short term  
+6.1.16  Explore opportunities to increase the use public rail 
+service s – Increasing the number of stops  by trains passing 
+through Narborough Station.  Short term  
+6.1.17  Submit application bid for  On Street Residential Charging 
+Scheme (ORCS) to Office for Low Emission Vehicles (OLEV) to 
+fund residential EV charging points across the district.  Ongoing (July 
+2020)  
+6.1.18  Submit bid in next round of the ‘Ultra Low Emission Taxi 
+Infrastructure Scheme’  from OLEV.  Short term  
+6.1.19 Ask for comments from residents via Council ’s Climate 
+Change Website (with addition al publicity through 
+Communications T eam)  in regard EV charging point network 
+and feed into OLEV bid.  July 2020  
+6.1.20 Explore potential to work in partnership with neighbouring 
+authorities to connect cycle routes and investigate  new  funding 
+streams that might be available by incorporating links to local 
+history along cycle routes.    Medium term  
+6.1.21  to use our influence/work with partner s to create secure 
+cycle parking facilities at traffic -laden locations/destinations (eg: 
+Fosse Park, Everards Meadows at Rutland Cycles), Grove 
+Farm, Blaby Town Centre, etc  Short term  
+ 
+6.2 Built Environment  
+Over the coming decade s Blaby will have to drama tically improve the energy 
+efficiency of all its buildings to reduce the demand for energy. As a district w e will 
+need to reduce our reliance o n gas and instead  heat our buildings wit h low carbon 
+alternatives such as heat pumps . We must change behaviours, embrace energy 
+efficiency technologies and encourage the uptake of modern methods of construction 
+in commercial and domestic buildings.  We must explore and take  opportunities to 
+influence development through planning policy and the Local Plan and ensure th ese 
+are in line with our carbon neutral commitments and the recommendations of the 
+CCC report UK Housing - Fit For Future18 
+ 
+Action  Timescale  
+Council wide   
+6.2.1  Conduct energy efficiency audit of main council offices  (Pick 
+Everard)  Ongoing   
+6.2.2  Identify options for r etrofit of existing council buildings to 
+improve insulation, air tightness and install better windows. 
+Improve the management of energy usage across our assets to 
+highlight and reduce energy use.  Short term  
+6.2.3  Replace existing gas b oilers at main offices with low carbon 
+alternative and explore potential for the use of heat pumps.  Short term  
+6.2.4  Identify way s and means of reducing  carbon footprint and 
+energy efficiency of  our leased assets and use our influence as 
+landlord to e nsure these are implemented. This applies in  
+particular to Huncote and Enderby Leisure centres which are 
+owned by Blaby District Council.  
+ 
+ Medium term  18 
+ District wide   
+6.2.5 Promote the council’s collective switching initiative to 
+minimis e residents’ fuel c osts and  encourage resident s to switch  
+to 100% green tariff. Working with IChoosr to use direct mail  to 
+increase uptake.  Ongoing (by Oct 
+2020)  
+6.2.6 Explore potential for joining Solar Together – a scheme for 
+helping residents to install solar panels on their property.  This 
+must be in collaboration with other local authorities.  Make contact 
+with neighbouring authorities.  Ongoing 
+(complete by Oct 
+2020  if support is 
+received ) 
+6.2.7 Promote LEAP (Local Energy Advice Partnership) on our 
+website which is a fr ee energy and money saving advice service 
+for residents.  Short term  
+6.2.8 Develop partnership with  HDC &  Harborough Energy   ECO 
+Flex scheme to help p romote and encourage uptake of Warm 
+Homes funding for low income/low EPC Homes. Tackle fuel 
+poverty and in  turn improve the health and well -being of citizens 
+by providing new heating systems, energy efficiency solutions 
+and advice to households without them.  Short term  
+6.2.9 Ensure th at Climate change is embedded in the 
+development of  the New Local Plan to ensure  that it supports our 
+aims for carbon reduction  and sustainable development  across 
+the district.  Short term  
+6.2.10 Introduce planning requirements for all future domestic 
+housing in lin e with carbon neutral target and Committee on 
+Climate Change (C CC) advice . New homes should deliver ultra -
+high levels of energy efficiency as soon as possible and by 2025 
+at the latest, consistent with a space heat demand of 15 -20 
+kWh/m2/yr18. Passivhaus or equivalent should be considered and 
+an assessment against Net  Zero Carbon should be required.  Short term  
+6.2.11 Introduce planning requirements for all future non 
+domestic bui ldings in line with t he carbon neutral t arget.  
+Passivhaus or equivalent should be considered and an 
+assessment against Net Zero Carbon should  be required.  Short term  
+6.2.12 Consider Policy intervention to prevent the installation of 
+any new fossil fuel heating sy stem (e.g.gas boilers)  on new 
+developments  by a specified date.  Medium term  
+6.2.13 Set up carbon offset fund to incentivise private developers 
+to achieve greater carbon reductions on site while providing a 
+fund for the sole purpose of delivering carbon reduction 
+projects19. Medium term  
+6.2.14 Work with developers and heating engineers to tackle the 
+skills gap for renewable technologie s in the construction sector. 
+Encourage re-training in low -carbon heating, energy and water 
+efficiency, ventilation and thermal comfort, and property -level 
+flood resilience. Inform of the planned phasing out of  gas boilers.  Short term  
+6.2.15 Ensure buildi ng regulations standards are maintained and 
+buildings are built as designed.    Short term  
+6.3 Energy  
+Since 2010, the UK electricity national grid CO2e conversion figures have decreased 
+by 47%20. This trend is likely to continue as the mix of electricity  sources nationally 
+become lower carbon with an ever greater proportion of our energy coming from 
+renewable sources such as wind and solar.  However due to the limited grid capacity 19 
+ to both store and transfer electrical energy  at a national level we will  need to take 
+steps to significantly expand renewable sources of energy at a local level and build 
+capacity to store that energy within the district. This will require significant investment 
+in new and existing low carbon energy generating technologies.  
+ 
+As of 2018, Blaby had 1345 Solar PV installations generating 10409 mWh of 
+electricity21. If we ar e to succeed we must significantly increase our  local renewable 
+energy generation, with a particular focus on small -medium scale Solar PV 
+(Photovoltaic) installat ions c ombined with energy storage. We will aim to participate 
+and lead on innovative solutions to energy generation and look to have a range of 
+sources in place including energy from solar, waste, wind and ground source heat.  
+ 
+Action  Timescale  
+Council wid e   
+6.3.1  Establish the Council’s carbon footprint and continue to monitor 
+our green house gas emissions. Produce an annual Green House 
+Gas Emissions Inventory.  Complete(18/19) 
+Ongoing (19/20)  
+6.3.2  Conduct a holistic energy opportunity assessment for D epot, 
+main Office and closed landfill sites to identify measures that can be 
+taken to reduce consumption and identify potential for local 
+renewable energy solutions.  Short term  
+6.3.3  Where viab le install Solar (PV)  on council buildings  Short term  
+6.3.4  Explore potential for Solar ( PV) installations on leased assets.  Short term  
+6.3.5  Switch to a 100% renewable ‘green’ electricity tariff  
+6.3.5.1 – Explore switch to Green Gas.  Short term  
+District wide   
+6.3.6  The Council acknowledges that in order to achi eve the target of 
+net-zero carbon emissions the district will need to generate much 
+more energy from renewable sources. As such the Council is 
+committed to working with its partners to identify and develop further 
+suitable opportunities with a particular e mphasis on small -medium  
+scale solar PV installations combined with energy storage  Medium term  
+6.3.7  Through our new Local P lan ensure that new developments 
+take advantage of Ground Source Heat Networks  Medium term  
+6.3.8 Within the Local  Plan set an amb itious formal target for S olar 
+(PV) capacity in Blaby District (study currently being investigated by 
+planning policy team)  Long term  
+6.3.9 Promote Ground Source heat pumps a s a viable and cost 
+effective alternative to gas central heating.  Short term  
+6.3.10 Explore potential for onshore wind installations within the 
+district and if necessary lobby central government to change planning 
+laws.  Short term  
+6.3.11  There is a need to establish existing grid capacity within Blaby 
+District for the purposes  of planning an  EV Charging network  and 
+renewable energy projects . We will therefore commit to working with 
+the local Distribution Network Operator to establish this  and feed this 
+into our Local Plan .  Short term  
+6.3.12  Engage with the public and private secto r to seek partners for 
+a community renewable energy investment fund for large scale Solar 
+PV projects.  Medium term  
+ 20 
+  
+6.4 Waste and Water  
+In 2019/20, 34,750 tonnes of household waste was produced i n Blaby District of 
+which approximately 42%  was recycled or  composted.  Action needs to be taken to 
+reduce the volume of all waste , increase the re -use and recycling of waste , eliminate 
+disposal to landfill and generate  energy from the remainder . We should also explore 
+emerging technologies around the mining of ene rgy and resources from historic 
+landfill sites.  We must also ensure both the supply and demand of water is managed 
+in a more sustainable way.  
+ 
+Action  Timescale  
+Council wide   
+6.4.1  Conduct a waste audit to better understand our sources 
+of waste, i dentify  our recycling rate. Once known explore ways 
+to minimise waste generated  from our own activities, increase 
+recycling rates and set ambitious targets.  Short term 
+6.4.2  Reduce the total volume of  waste we produce  and 
+identify annual reduction targets  ongoi ng 
+6.4.3  Review need for vending machines in light of Covid 19 
+given reduction/absence of external meetings. Replace all 
+existing vending machines which currently use non -recyclable 
+cups  and s ingle use plastics with more sustainable  
+alternatives . Short te rm 
+6.4.4 Explore potential for food waste collection around main 
+office and depot.  Short term  
+6.4.5 Investigate the potential to include technologies to 
+improve water efficiency within buildings, such as rainwater 
+harvesting, grey water systems, flow reg ulators, water efficient 
+toilets and showerheads.  Short term  
+District wide   
+6.4.6 Investigate alternative disposal routes for municipal 
+waste with the aim of eliminating  waste to landfill  Short term  
+6.4.7 Introduce food waste collection across the distr ict. Medium term  
+6.4.8 Explore opportunity for alternative food waste disposal 
+such as composting and  anaerobic digestion and its potential 
+for energy generation.   
+6.4.9 Target a 70 % Recycling rate for all domestic and non 
+domestic waste by 2025 . Medium  term  
+6.4.10 Target zero biodegradable waste to landfill by 2025  Medium term  
+6.4.11 Investigate opportunities for more Anaerobic Digestion 
+facilities within the district as a potential disposal route for food 
+waste.  Medium term  
+6.4.12 Explore potentia l for introducing  planning requirements 
+for construction waste on new build projects that specifies 
+recycling targets and diversion from landfill (links to carbon 
+offsetting fund) .  Short term  
+6.4.13 Explore  potential for food waste collection for 
+busine sses across the district.  Short term  
+6.4.14 Work with supermarkets to explore ways of reducing 
+food waste to zero and consider/investigate working w ith social Short term  21 
+ enterprise schemes example : The Real Junk food Project, 
+Leicester –( reducing food waste and fe eding the hungry)  
+6.4.15 Provide information to citizens and businesses on the 
+best practices to reduce water consumption, helping to 
+improve understanding of the issues and solutions to better 
+water management, reducing bills and carbon emiss ions Short term  
+6.4.16 Explore ways of encouraging the use of technology and 
+to improve water  efficiency in buildings through the Local Plan.  Short term  
+6.4.17 Work with partners to understand how and where Green 
+and B lue infrastructure can improved  to manage water in more 
+sustainable way within the district. Identify projects that 
+conserve water and manage wetlands to reduce flood risk (e.g. 
+room for water  in the Netherlands)  Short term  
+6.4.18  Use our influence/work with supermarkets to explore 
+ways  of reducing the use of single use plastic packaging – 
+particularly for fruit/veg and fresh items.   Short term  
+6.4.19  Explore potential for underground refuse systems in 
+both new and existing developments. This would have the 
+benefit of significantly re ducing the number of collections, 
+mileage and staffing costs related to refuse collection service.  Medium term  
+6.5 Resources and Consumption  
+The embedded carbon  of the goods and services we buy have their own emissions 
+and asso ciated carbon footprint. Th ey can account for up to 90% of an organisations 
+total emissions. Food and drink in also have a big impact on our imported emissions. 
+We must use our influence to reduce meat and dairy  consumption , increase  plant 
+based food  production. Promoting  locally so urced produce, reducing food miles and 
+sourcing from less energy intensive forms of farming will benefit the local economy 
+and the health and wellbeing of our residents.   
+ 
+Action  Timescale  
+Council wide   
+6.5.1  As a council , become single use plastic free by 2025 . Short term 
+6.5.2  Conduct an analysis of our purchased goods and services to 
+ascertain the associated carbon emissions and identify potential 
+savings.  These are Scope 3 e missions which may account for up to 
+90% of our carbon footprint.   
+ Short te rm  
+6.5.3  Engage with suppliers to reduce their carbon footprint and 
+consider environmental performance when awarding contracts or 
+making purchases . Consider ways environment impact can be 
+assessed as part of the procurement process.  Short term  
+District  wide  
+6.5.4  Work with LCC to  reduce the meat content of meals served in 
+schools and increase plant based and vegetarian choices in schools.  Short term  
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 7. Air Quality  
+The Local Air Quality Management System is governed by the Environment Act 
+1995, as amended. Local authorities, including Blaby District Council, are required to 
+assess air quality i n their area against nationally set Air Quality Objectives and 
+designate Air Quality Management Areas (AQMAs) if improvements are necessary. 
+Where an AQMA is designated, local authorities are required to produce an Air 
+Quality Action Pla n (AQAP) d escribing the pollution reduction measures it will put in 
+place.   
+ 
+Since 1992, Blaby District Council has carried out air quality monitoring in various 
+locations, prim arily for Nitrogen Dioxide associated with the roads in the District.  
+AQMAs have been declared and a replacement AQAP is being developed alongside 
+this Carbon Neutral Action Plan (CNAP).  
+ 
+Each year an Annual Status Report (ASR) has to be completed, using a  template, 
+and submitted to Defra. The ASR includes monitoring data and analysis, together 
+with an update on actions being taken in relation to air quality.  
+ 
+Local authorities are encouraged to publish Air Quality Strategies which can contain 
+policies for wider measures. Blaby District Council has an Air Quality Strategy 2018 -
+21. 
+The 3 documents (AQAP, AQS, and C NAP) all contain actions designed to improve 
+air quality. Therefore by operating collectively, there is increased potential to achieve 
+improvements . Several of the actions that are in the Transport section above, which 
+relate to reducing the need to use private transport and cleaner engines, are directly 
+relevant to air quality. The AQAP will contain actions that are specific to the AQMAs 
+and are les s useful to this Plan. Therefore the actions that appear in the table below 
+are ones that are most relevant:  
+Action  Timescale  
+District wide   
+7.1 Continue to deliver  project s to encourage active travel and car use 
+reduction, targeting schools and then loc al businesses within and 
+around the District’s AQMA’s partly in partnership with Leicestershire 
+County Council.  Ongoing  
+ 
+7.2 Continue to work closely with Leicestershire County Council and 
+Leicester City Council to manage  the air quality impacts of the l ocal 
+road network with the District . Ongoing  
+7.3 Continue to work closely with Highways England to manage  the air 
+quality impacts of their roa ds within the District.  Ongoing  
+7.4 Continue to work closely with all Leicestershire authorities, 
+including Leic ester City Council, Leicestershire County Council 
+(various sections including highways and transportation, public health, 
+and sustainability), Highways England, the Environment Agency, and 
+Public Health England This collective working improves understandin g 
+and seeks to maximise the benefits of various work streams . Ongoing  
+7.5 Share Air Quality data with parishes, partners and residents, 
+providing transparent information on what our monitoring is telling us 
+so they feel informed . Ongoing  23 
+ 7.6 Integrate th e guidance produced by the East Midlands Air Quality 
+Network into planning related documents as appropriate . This 
+guidance is in the form of a toolbox and is intended to promote a more 
+consistent set of policies across the Region .  Short term  
+7.7 Consider  the noise and Air Quality implications of a variety of 
+planning applications , when consulted , and  ensure that impacts of 
+proposed schemes are mitigated as far as possible . Ongoing  
+8. Biodiversity  
+Increasing biodiversity goes hand in hand wit h our carbon ne utral ambitions.  
+Biodiversity net gain is referenced strongly in the National Planning Policy 
+Framework ( NPPF ) 2019 . The environmental test of sustainable development 
+requires planning policy and planning decisions to help to ‘improve biodiversity’ . 
+Delive ring biodiversity net gain will have the knock on benefit  of enhancing our green 
+spaces and increasing carbon sequestration.   
+Action  Timescale  
+Council wide   
+8.1 Diversify amenity grass areas to create wildflower meadows, 
+creating Bee Friendly Habitats a nd increase biodiversity.  
+ Short term  
+District wide   
+8.2 Work w ith farmers and landowners to increase  or enhance 
+hedgerows, meadows, and other habitat resources that con tribute to 
+biodiversity  net gain . Short term  
+8.3 Work with partn ers to explore ways we can increase Biodiversity 
+and the ecological value of our SSSI’s  (Sites of Special Scientific 
+Interest)  and Nature Reserve s (e.g. Narborough Bog, Croft Quarry)   Short term  
+8.4 Develop local policies in line with NPPF that conserve, enhance  or 
+restore p riority  habitats , ecological networks and protect priority 
+species.  Specify 10%  biodiversity net gain in the  Local Plan.  Short term  
+9. Governance , Funding and Engagement  
+Achieving our target to be carbon neutral as a council by 2030 and district wide by 
+2050  or earlier will not be possible through a ‘business as usual’ approach. We will 
+need to find innovative ways of working.  The list of actions set out in this plan are not 
+exhaustive and  additional measures will inevitably come to  light in the future. 
+Howev er they are a starting point and they provide some perspective  on the  scale of 
+the task in hand and will inform how we allocate resource s to tackle the global 
+climate emergency.  
+Action  Timescale  
+Council wide   
+9.1 To work with our Green Champion and membe rs of scrutiny to 
+ensure we have cross party representation in championing carbon 
+savings, scrutinis ing  decision making and steer ing  further carbon 
+saving initiatives and ideas.  Short term  24 
+ 9.2 Introduce a ‘Carbon Impact Assessment’ procedure – a new 
+assessment which requires all Council key decisions to be assessed 
+for their  potential carbon implications and therefore support the 
+council’s carbon neutral aims.  Short term  
+9.3 Develop our Green Champions to represent the Council’s various 
+service areas . These individuals are responsible for raising awareness 
+of key initiatives and embedding change. A key focus for the 
+Champions moving forward will be to develop and deliver a 
+programme of behavioural change activities to result in actions that will 
+direc tly reduce carbon emissions across the Council’s estate. Ongoing 
+– further resource and budget needed to support this work.  Short term  
+9.4 Run carbon literacy training for Green Champions, council staff 
+and elected members to help educate wider staff on h ow they can help 
+reduce their carbon impact, reduce energy use, minimise waste and 
+improve sustainability . APSE online training.  Short term  
+9.5 Ensure cou ncil’s investments are placed with  environmentally and 
+socially responsible projects/comp anies . Short te rm  
+District wide   
+9.6 Working with willing Parish Councils, to prepare a template pari sh 
+based Carbon Neutral Action Plan , and subsequently encouraging all 
+Parish Councils to come up with their own targets and projects.  Short term  
+9.7 Continue with and  build on our work with schools and the youth 
+council to deliver workshops and engage with young people.  Ongoing  
+9.8 Citizen Engagement – Create dedicated Climate Change  web 
+page that provide s accurate and up to date information on its carbon 
+management a ctions and raise awareness of climate change through 
+local media.  Short term  
+9.9 Produce  a carbon calculator for the website to allow residents to 
+quantify their own impact.  Short term  
+9.10 Schools – While they are not under our control we will seek to 
+influence and raise awareness of their own impact and what they can 
+do to be more energy efficient and reduce their energy consumption 
+and emissions.  Short term  
+9.11 Continue to work across boundaries with a wide network of local 
+authorities to share exp ertise and work in par tnership as part of the 
+local Energy Hub  and East Midlands  Sustainability Officers Group . Ongoing  
+9.12 Hold a Citizens A ssembly on climate change to allow 
+representation from across the district to engage and contribute to 
+actions.  Short term  
+9.13 Engage with local businesses  to raise awareness of Net Zero 
+Carbon. (Business Breakfast)   Short  term 
+9.14 Engage with owners and occupiers of local business and retail 
+parks (Fosse  Shopping Park , Meridian  Business Park  and Grove  
+Park) to discuss potential for Solar PV installations  and EV Charging 
+points.   Short term  
+9.15 On-Street Residential Chargepoint  Scheme Grant  (ORCS) 
+Funding from OLEV – Submit bid.  Ongoing -
+complete by 
+end of June.  
+9.16 Explore opportunities for funding from Sali x Finance. Salix , who 
+are funded by BEIS , provide interest free government loans for local 
+authorities  to fund energy efficiency projects across their estates. This 
+could be considered to address the  findings from Project Alpha  with 
+regard to energy effici ency/retrofit of main offices . Short term  25 
+ 9.17 Consider action to form a lobby group including all City and 
+County MPs to challenge Defra Air Quality standards and to form 
+unitary agencies to both measure and enforce air quality standards.  Short term  
+10. Carbon Offsetting  
+This section focusses on carbon capture and offsetting those residual greenhouse 
+gases that cannot be completely removed. Whilst there are likely to be new negative 
+emission technologies that emerge over the coming decades we cannot rely  on these.  
+We must therefore also focus on methods that are available to us now.  
+ Local carbon offsetting  
+ Carbon Capture  
+ Large scale carbon offsetting  
+ 
+A carbon offset is a reduction in emissions of carbon dioxide or other greenhouse 
+gases made in order t o compensate for emissions made elsewhere. This may 
+include tree planting, woodland and parks management which will increase the 
+capture of CO 2 via sequestration and help to achieve our carbon neutral 
+commitments.  
+Whilst we will identify potential offsetti ng practices to help Blaby District’s carbon 
+neutral am bition. We will not be actively promoting  these above actions to reduce 
+carbon emissions directly. Blaby’s carbon budget currently assumes that we will not 
+be using technologies to remove CO 2 from the atmosphere  as these are currently 
+unproven at scale and relying on them would create uncertainties in our contribution 
+to future climate change action.  
+ 
+Theoretically, if these technologies were to become widel y available and used, 
+Blaby ’s carbon budget wo uld become bigger. However,  it is important th at we do  not 
+assume this before these technologies become well proven, otherwise we risk 
+contributing to a warmer world.  
+ 
+Action  Timescale  
+Council wide   
+10.1 Explore potential  for funding carbon offset proje cts within the 
+district to offset  those council emissions that  cannot yet be fully 
+mitigated.  Medium 
+term 
+District wide   
+10.2 Determine whether a district  carbon off -setting programme can be 
+put in place and to examine the viability of potential carbon s avings 
+from tree planting.  Short term  
+10.3 Encourage the planting of more trees and hedgerows on farmland 
+to improve carbon sequestration.  Short term  
+10.4 Explore opportunities to work with landowners  and the National 
+Farmers Union  to promote agroforestr y, forest carbon capture 
+schemes and carbon credits.  Short term  
+ 
+ 
+ 
+ 26 
+ 11.   Resilience and Adaptation  
+ 
+This section will address the actions that Blaby must take to protect the district and 
+its residents against the harmful impacts of climate change that are no w unavoidable. 
+We are already beginning to experience localised flooding and extreme 
+temperatures.  
+ 
+The Council also acknowledges that in recognising there is a global climate 
+emergency, the actions needed to be taken are not all about mitigating the impac ts, 
+but also adapting to the inevitable changes of climate change.  
+The Council’s Local Plan has contained policies relatin g to flooding for many years.  
+The current one is within the adopted Core Strategy: Policy CS22 – Flood Risk 
+Management : 
+‘To minimise the risk of flooding (and other hazards) to property, infrastructure and 
+people ’ 
+The planning team regularly consult the Environmental Services Team on a variety of 
+planning applications for flooding and drainage, which do not fall with the remits of 
+the E nvironment Agency or Local Lead Flood Authority. The information submitted, 
+which can include a Flood Risk Assessment, is considered and comments sent to the  
+relevant planning case officer  
+Action  Timescale  
+Council wide   
+11.1Seek to introduce policies in the Local Plan that require design 
+measures that  build resilience for heatwaves.  Short term  
+11.2 Ensure core council services are resilient and ada ptable to  
+extreme weather events . Ongoing  
+11.3 Ensure that all post Covid 19 recovery plans and associated 
+decisions to be assessed for their potential carbon implications and 
+therefore support the council’s carbon neutral aims.  Short  term 
+District wide   
+11.4 Reduce the number of homes and businesses , across the district 
+that are exposed to flood risk . Short term 
+11.5 Maintain robust planning measures to ensure that flood risk 
+implications are considered in applications .   Short term  
+11.6 Understand the current and future risk of extreme weather events 
+to the most vulnerable citizens.  Short term  
+11.7 Look at scope to expand  and enhance  natural floo d plains and 
+wetlands to provide additional natural flood storage in such a way that 
+protects properties and increases biodiversity.  Short term  
+ 
+12.  Monitoring and evaluation  
+The UK Government department BEIS (Depar tment for Business, Energy and 
+Industrial Strategy) annually release local authority carbon emissions  each summer.  
+At the end of each financial year, Blaby District  Council’s own emissions and those of 
+the whole district will assessed against the pathways and allocated carbon budget to 
+assess progress towards carbon neutrality. Also a review of the action plan will 
+inform an understanding of the anticipated carbon saved. The related year’s carbon 27 
+ emissions will not be published by BEIS until two years later  due to the data lag (e.g. 
+short term actions in 2020/21 will not be in the released reported emissions until 
+2022).  
+To ensure all service areas are involved in delivery, the actions specified in this 
+document will be entered into an excel spreadsheet to c reate a simple live matrix so 
+that departments and services can easily see what actions are applicable to them  
+and update accordingly . Progress will  be recorded on the matrix throughout the year   
+and action s updated within the Carbon Neutral Management Pla n during it’s annual 
+review.  
+Action  Timescale  
+Council wide   
+12.1 Carry out annual review of CNAP  March 2021  
+12.2 Develop a working  spreadsheet/matrix for use across 
+departments and services to allow for live tracking  progress  and 
+updating actions.  Sept 2020  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ Glossary of terms  
+ 
+1.50C Temperature rise  - This refers to the rise in the average global temperature 
+above the pre -industrial period (pre -1750) . 
+Adaptation  - Actions to reduce vulnerability to climate change impacts,  reducing its 
+effects on social, economic and natural systems . 
+Biodiversity  - The variety of animal and plant life on Earth . 
+Business as usual  - Future emissions trend if the current state of affairs continue as 
+they are today . 
+Carbon budget  - The maximum amount of carbon dioxide that can be emitted to be 
+in line with keeping temperatures well below 20C and pursue a 1.50C limit to rising 
+temperatures . 
+Carbon dioxide (CO 2) - A key greenhouse gas with a long -lifetime in the 
+atmosphere and both natural and hum an sources.  
+Carbon neutral  - Having no net release of carbon dioxide into the atmosphere . 
+Climate change  - The long term change of climate, typically measured over decades 
+or longer. This is different to weather, which is now.  
+Climate emergency  - Climate c hange presents the greatest threat to life: on the 
+economy, social well -being and the natural environment . 
+CO2e  - Carbon dioxide equivalence; this includes all greenhouse gasses converted 
+into the equivalent amount of carbon dioxide.  
+Decarbonisation  - reducing the carbon intensity of energy in the national grid, this is 
+achieved by reducing the proportion of fossil fuels and increasing the proportion of 
+renewable energy sources such as solar and wind.  
+Ecosystem  - Community of living organisms and the natura l environment  
+Global warming  -  Increase in temperature of the Earth’s atmosphere over long 
+timescales, caused by increased levels of greenhouse gasses . 
+Greenhouse gas (GHG)  - The Earth can maintain a regular average temperature 
+(about 150C) despite heat l eaving the planet’s surface because a layer of gases in 
+the atmosphere absorb and release heat – a process known as the greenhouse 
+effect. Greenhouse gases are those that have this effect, each with differing lifetimes 
+and abilities to capture heat (infrar ed radiation).  
+MtCO 2 - Millions of tonnes of carbon dioxide  
+PV – Photovoltaics (Solar Panels)  
+Resilience  - The ability of a system and its component parts to anticipate, absorb, 
+accommodate, or recover from the effects of a hazardous event in a timely and 29 
+ efficient manner, including through ensuring the preservation, restoration, or 
+improvement of its essential basic structures and functions  
+Sustainability  - Meeting the needs of current generations, without compromising 
+future generations or the natural env ironment  
+Upstream/Downstream emissions  - Upstream applies to suppliers of the 
+organisation. Downstream, to the organisation’s customers. The term covers the 
+emissions from the movement of goods by land, sea and air. It also includes 
+emissions from third -party services along the supply chain  
+BEIS (2019a). Environmental Reporting Guidelines: Including streamlined energy 
+and carbon reporting guidance .[online] Available at: 
+https://www.gov.uk/government/publications/environmental -reporting-
+guidelinesincluding -mandatory -greenhouse -gas-emissions -reporting -guidance  
+BEIS (2019b) UK Government GHG Conversion Factors for Company Reporting 
+2018: full set for all users. [online]  
+Available at: https://www.gov.uk/gove rnment/collections/government -conversion -
+factors -for-company -reporting  
+BEIS (2019c). UK local authority and regional carbon dioxide emissions national 
+statistics: 2005 to 2017. [online]  Available at: 
+https://www.gov.uk/governmen t/statistics/uk -local-authority -and-regional -carbon -
+dioxideemissions -national -statistics -2005 -to-2017  
+IPCC (2018). Global Warming of 1.5°C: An IPCC Special Report on the impacts of 
+global warming of 1.5°C above preindustrial levels and related global gree nhouse 
+gas emission pathways, in the context of strengthening the global response to the 
+threat of climate change, sustainable development, and efforts to eradicate poverty. 
+[online] available at: https://www.ipcc.ch/sr15  
+ 
+Refer ences  
+ 
+1. Climate Change Act 2008. The world’s first long term legally binding framework to 
+tackle the dangers of climate change. The Climate Change Bill was introduced into 
+Parliament on 14 November 2007 and became law on 26th November 2008.  
+ 
+2. WWF state s that if everybody in the world lived as the average EU resident, we 
+would have exhausted nature’s budget for 2019 by 10 May 2019, and would need 
+2.8 planets to sustain us. (WWF, 2019)  
+ 30 
+ 3. https://www.metoffice.gov.uk/research/a pproach/collaboration/ukcp/about  
+ 
+4. 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attach
+ment_data/file/758983/Climate_change_impacts_and_adaptation.pdf  
+ 
+5. The ma in GHGs are: carbon dioxide (CO 2), methane (CH 4), nitrous oxide (N 2O), 
+hydrofluorocarbons (HFCs), perfluorocarbons ( PFCs), sulphur hexafluoride (SF 6) and 
+Nitrogen Trifluoride (NF 3). The Kyoto Protocol – the international agreement 
+addressing climate change - covers these seven main GHGs. Th e last four are 
+fluorinated gases ("F -gases") which are a range of man -made compounds (i ncluding 
+HFCs, PFCs, SF 3 and NF 3) used in a variety of industries including refrigeration, air -
+conditioning and the manufacture of cosmetics, pharmaceuticals, electroni cs and 
+aluminium. F -gases are extremely potent greenhouse gases with some having 
+GWPs of several thousand or more (BEIS, 2019a). The greenhouse gases covered 
+by the Kyoto Protocol account for over 99% of global greenhouse gas emissions.  
+ 
+6. Using CO2e as a  measuring tool means that the different global warming potential 
+(GWP) of different gases are taken into account. Quantities of GHGs are multiplied 
+by their GWP to give results in units of carbon dioxide equivalent (CO2e)  
+ 
+7. Global warming potential. A f actor describing the radiative force impact (degree of 
+harm to the atmosphere) of one unit of a given GHG relative to one unit of CO2.  
+ 
+8. Decarbonisation means reducing the carbon intensity of energy in the national 
+grid, this is achieved by reducing the proportion of fossil fuels and increasing the 
+proportion of renewable energy sources such as solar and wind.  
+ 
+9. Emissions are from the SCATTER inventory tool and reported as CO2 
+equivalences www.scattercities.com  
+ 
+10. Imported consumption emissions have been calculated based on a per  capita 
+allocation of data from 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attach
+ment_data/file/794557/Consumption_emissions_April19.pdf  
+ 31 
+ 11. Based on Office of National Statistics (ONS) UK 2018 population for Blaby 
+District (100,421)  
+ 
+12. https://www.gov.uk/government/statistical -data-sets/total -final-energy -
+consumption -at-regional -and-local-authority -level 
+ 
+13. https://www.gov.uk/government/publications/environmental -reporting -guidelines -
+including -mandatory -greenhouse -gas-emissions -reporting -guidance  
+ 
+14. https://carbonbudget.manchester.ac.uk/reports/E07000129 / 
+ 
+15. www.scattercities.com  
+ 
+16. https://www.theccc.org.uk/publication/net -zero-the-uks-contribution -to-stopping -
+global -warming/  
+ 
+17. https://www.drax.com/press_release/ev -battery -emissions -offset -by-lower -
+carbon -electricity -system/  
+ 
+18. https://www.theccc.org.uk/wp -content/uploads/2019/02/UK -housing -Fit-for-the-
+future -CCC -2019.pdf  
+ 
+19. 
+https://www.london.gov.uk/sites/ default/files/carbon_offsett_funds_guidance_2018.p
+df 
+ 
+20. https://www.gov.uk/government/collections/government -conversion -factors -for-
+company -reporting  
+ 
+21. This uses a range of BEIS data released in 2019 for 2017 Consumption, and 
+2018 datasets were avai lable for renewable generation. 22 
+https://www.gov.uk/government/publications/sub -national -electricit y-and-gas-
+consumption -statistics -analysis -tool and 
+https://www.gov.uk/government/statistics/regional -renewable -statistics  32 
+  
+22. https://archiv e.ipcc.ch/pdf/special -reports/srex/SREX -Annex_Glossary.pdf  
+ 
+ 

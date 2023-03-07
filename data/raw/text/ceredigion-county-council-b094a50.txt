@@ -1,0 +1,729 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ceredigion  County Council  
+Carbon Management Plan  
+Version  1.4 -Final 
+March 2019 
+ Ceredigion County Council CMP 2018/19  
+ | 1   The Carbon Trust’s mission is to accelerate the move to a sustainable, 
+low carb on economy. It is a world leading expert on carbon reduction 
+and clean technology. As a not -for-dividend group, it advises 
+governments and leading companies around the world, reinvesting 
+profits into its low carbon mission.   
+  Ceredigion County Council recognises the importance of climate 
+change and the long -term impact that it will have both on 
+communities and on the environment. As a 'responsible' organisation, 
+Ceredigion County Council is committed to reducing its' carbon 
+footprint, which with benefit  both the Authority and the wider 
+community through reduced CO 2 emissions and also energy cost 
+savings . 
+ 
+Owner(s):  
+Bethan Lloyd Davies  
+Carbon Reduction Energy & Asset Management Programme Manager  
+bethan.lloyddavies@ceredigion.gov.uk  
+ 
+Author(s):  
+Robert Hatcher  
+Manager  
+robert.hatcher@carbontrust.com  
+ 
+Hector Wilson  
+Analyst  
+hector.wilson@carbontrust.com  
+ 
+Ceredigion County Council CMP 2018/19  
+ | 2 Table of contents  
+Foreword from Ceredigion County Council  ........................................................ 4 
+Foreword from the Carbon Trust  ....................................................................... 5 
+Executive Summary ............................................................................................ 6 
+Introduction  ................................................................................................ 9 
+1. Carbon Management Strategy  ................................................................... 10 
+1.1 Our drivers and priorities for reducing carbon emissions  ................ 10 
+1.2 Our low carbon target  ..................................................................... 11 
+2. Emissions Baseline and Projections  ........................................................... 12 
+2.1 Scope and data sources  ................................................................... 12 
+2.2 Baseline  year  ................................................................................... 13 
+2.3 Projections and value at stake  ......................................................... 14 
+3. Carbon Management Projects  ................................................................... 16 
+3.1 Carbon Management Projects  ......................................................... 16 
+3.2 Project register  ................................................................................ 16 
+3.3 Projected achievement towards target  ........................................... 17 
+4. Implementation  ......................................................................................... 19 
+4.1 Implementation  .............................................................................. 19 
+4.2 Finances  .......................................................................................... 19 
+4.3 Programme management o f our carbon management plan  ........... 20 
+4.4 Monitoring and reporting  ................................................................ 22 
+Appendix 1: Project Register ...................................................................... 24 
+Appendix 2 : Carbon Management Matrix -  Embedding  ............................. 25 
+ Ceredigion County Council CMP 2018/19  
+ | 3 Table of figures  
+Figure 1: Baseline carbon emissions by fuel type  ............................................... 7 
+Figure 2: Predicted project performance against target and BAU  ...................... 8 
+Figure 3: Overview of Greenhouse Gas Protocol scope and emissions across the 
+value chain. Source: GHG Protocol  ................................................................... 12 
+Figure 4:  Breakdown of carbon emissions by source  ....................................... 13 
+Figure 5:  Breakdown of carbon related costs by sour ce .................................. 14 
+Figure 6: Comparison of carbon related costs with BAU increases and reduction 
+targets  ............................................................................................................. 15 
+Figure 7: Comparison of emissions with predicted BAU increase and reduction 
+targets  ............................................................................................................. 15 
+Figure 8: Carbon progress against targets  ........................................................ 17 
+Figure 9: Carbon progress against targets  ........................................................ 18 
+Figure 10: Project costs, savings and cash flow  ................................................ 20 
+ 
+ Ceredigion County Council CMP 2018/19  
+ | 4 Foreword from Ceredigion County 
+Counc il 
+Climate change is the biggest challenge facing humanity and 
+carbon dioxide is one of the main contributing causes.  We 
+recognise the scale and speed of climate change, and its 
+potential adverse effect on our economy, environment and local 
+communi ty.  Therefore as an organisation operating within the 
+heart of Wales, we are delighted to endorse this Carbon 
+Management Plan.  
+As a result of our two previous carbon management plans over 
+the last 10 years, we have already significantly reduced our CO 2 
+emissions.  As an integral part of our vision for the future, 
+Ceredigion County Council is committed to developing sustainable practices that will continue to 
+demonstrate our commitment to reduce carbon emissions and remain efficient and effective in our 
+operations.  
+Ceredigion Council is committed to playing its full part in helping to prevent climate change. As a local 
+authority responsible for providing services for 73,000 residents, many with a high environmental 
+awareness, we believe it is our duty to set a strong example to both our own population and to other 
+public sector organisations. We are therefore committed to reducing and minimising greenhouse gas 
+emissions in all our activities.  
+Our last five year plan exceeded expectations by reducing the C ouncil’s carbon output by 21.15% over 
+the lifetime of the Plan. We now hope to reduce our emissions further with this new plan for the next 
+five years. We know that our residents expect no less.  
+We are indebted to the Carbon Trust for their expertise in helping us put this plan together.  
+ 
+Alun Williams,  
+Ceredigion County Council’s Sustainability Champion   
+ 
+Ceredigion County Council CMP 20 18/19  
+ | 5 Foreword  from the Carbon Trust  
+Cutting carbon emissions as part of the fight against climate 
+change should be a key priority for public facing organisations 
+around the world. The need to bring down carbon emissions to 
+prevent global temperature increasing b y more than two 
+degrees over pre- industrial averages is now urgent. Taking 
+action in these areas is necessary to bring about a successful and 
+prosperous low carbon transition. A clear mitigation strategy for 
+Ceredigion’s own estate and operations is crucial part of this 
+process - it helps to save money on energy, whilst also allowing 
+the Ceredigion to lead by example in reducing the risk of 
+dangerous climate change.  
+Ceredigion County Council (CCC) worked with the Carbon Trust in 2018 in order to develop the ir 
+carbon management (2018 -2023). This Carbon Management Plan commits CCC to a target of reducing 
+CO 2e by 15% between 2018 and 2023, and underpins potential gross financial savings to the 
+organisation of £450 k/year over this period.  
+There are those that c an and those that do. Public bodies can contribute significantly to reducing CO 2e 
+emissions. The Carbon Trust is proud to support CCC in their on -going implementation of carbon 
+management and climate action planning.  
+  
+Ricard Rugg,  
+Director of Programmes & Innovation   
+The Carbon Trust
+ 
+ 
+Ceredigion County Council CMP 2018/19  
+ | 6 Executive Summary  
+This Carbon Management Plan sets out our strategy and action plan for reducing carbon emissions 
+over the next five years. It identifies both the tangible and intangible benefits of Carbon Management 
+and describes the governance arrangements to keep the programme on track. Ceredigion County 
+Council (CCC) has already implemented many successful carbon management initiatives in the 
+previous five year plan and we will continue to build on this success.  
+There is a range of reasons for CCC to take action on carbon. These include; contributing to Welsh, UK 
+and international carbon reduction targets, setting an example by leading the way amongst public 
+sector organisations, acting on behalf of our residents who will suffer the effects of climate change, 
+adapting to the negative effects of climate chang e and creating cost savings to better enable us to 
+maintain services during this time of austerity. The following specific drivers in Wales are also key:  
+.  
+In 2017/18 Ceredigion County Council spent £3,505,512 on energy and emitted 8,649 tonnes of CO 2. 
+These emissions are generated when we use diesel [17%], petrol [8%], LPG [7%], gas [16%] and 
+electricity [41%] for heating, lighting, transport and to power equipment. This baseline figure also 
+includes the use of biomass and kerosene, which are important fo r heating and energy generation in 
+more rural locations where a grid connection is not available.  80% Carbon reduction across Wales by 2050
+Reduce local energy costs and emissions
+2030 Public sector carbon neutrality
+Wellbeing of future generations actCeredigion County Council CMP 2018/19  
+ | 7  
+Figure 1: Baseline carbon emissions by fuel type  
+As a result of previous carbon management plans, our annual emissions have decr eased by 45% from 
+15,820 tCO 2 in 2007/8. The last 5 -year plan resulted in a reduction in emissions of 21.15%.  
+In order to continue this progress we have now set another ambitious carbon reduction target, 
+supported by the concrete technical projects and embedding actions set out in this plan.
+ 
+We have identified carbon reduction projects and activities in the following areas:  
+> Energy efficiency: the roll out of energy efficient measures in public sector owned buildings. This 
+will build on a substantial amo unt of previous work already undertaken by Ceredigion County 
+Council.  Work will involve the installation of new more efficient boilers, lighting and other 
+equipment.  
+> Street lighting: New, energy efficient, LED street lighting to be rolled out across the Co uncil’s 
+streetlights.  
+> Generation: Small and medium scale solar photovoltaic (PV) and wind projects - in addition to 
+those undertaken as part of the last 5 -year plan -  will further reduce the reliance on more carbon 
+intensive grid electricity.   
+40.7%
+16.0%3.6%8.5%3.7%7.3%0.4%2.2%17.5%Breakdown of building energy emissions by fuel type
+Grid electricity
+Natural Gas
+Other
+Petrol
+Gas Oil
+LPG
+Biomass
+Kerosene
+Disel
+Ceredigion 
+County Council 
+will reduce the 
+carbon by 15%, 
+from a 2017/18 
+baseline of 8,649 
+tonnes CO2, by 
+2022/23.15%Ceredigion County Council CMP 2018/19  
+ | 8 > Clean heatin g: Potential plans for additional new biomass fired district -heating schemes in several 
+areas, and improved heating systems in schools across the region.  
+> Transport: More energy efficient Council fleet vehicles, with the potential for an electric vehicle 
+pilot scheme.  
+The projects identified in this plan have the potential to reduce our emissions by 1,519 tonnes CO 2 
+annually and achieve our targeted 15% reduction measured against the 2017/18 baseline. However , 
+by accounting for a business as usual increase e stimate of 441 tCO 2 we must aim to identify a further 
+219 tCO 2 of saving over the lifetime of the plan.  
+ 
+Figure 2: Predicted project performance against target and BAU 
+ 
+The total investment to implement identified projects is estimated at a minimum of £6,863,561.  
+The identified projects will deliver an annual saving of approximately 1,519  tonnes CO 2 and 
+£448,847  with an overall simple payback period of at least 15.3  years.  
+To deliver this plan, a project management team and governance structure has been set up within the 
+Council to ensure successful implementation. A carbon reduction, energy and asset has overall 
+accountability for the delivery of this plan and the achievement of our targets.  
+ 
+ 
+ 
+ 0 500 1000 1500 2000Identified savingsTarget
+Emissions (tCO2)Projected Achievment Towards Target
+Target reduction BAU growth High level estimateCeredigion County Council CMP 2018/19  
+ | 9 Introduction  
+Ceredigion County Council (CCC) has prepared two previous 5 -year carbon management plans to great 
+success, with a resulting 45% reduction in annual emissions from 15,820tCO 2 in 2007/08. This work 
+has resulted in emission reductions across all areas under the Council’s control. Furthermore, our 
+proactive approach has inv igorated climate action in areas outside of our direct control. For example, 
+Ceredigion frequently has the highest recycling rates in Wales.  
+This Carbon Management Plan (CMP) summarises the results of the work undertaken in partnership 
+with The Carbon Trus t and sets out the action that we will take over the next five years to reduce our 
+carbon emissions and costs.  
+The previous CMP was written in 2013, based on a 2011/12 baseline, and set out a five -year strategy 
+to take Ceredigion County Council through to 2016/17. A 15% target was set from a baseline of 12,442 
+tCO 2 in 2011/12, and sought to save a cumulative £2.7 million over the lifetime of the plan.  
+The document highlights the sources of our carbon emissions, sets out our baseline figures for 
+2017/18, est ablishes a target to reduce emissions from this baseline and sets out a timetable of actions 
+to achieve this over the period.  It also details the key internal management arrangements and 
+reporting mechanisms that will be used to maintain the programme’s p resence and influence within 
+our corporate structure.  
+The benefits of a Carbon Management Plan are:  
+1. Reduce costs of energy, water and fuel use  
+2. Demonstrate leadership to our partners and local community  
+3. Protect the environment and limit our impact on climat e change  
+4. Comply with legislation such as carbon reduction targets for the Welsh public sector  
+The programme commenced in November 2018 following a five -step process as outlined below:  
+ Mobilise•Building the team and setting the scope
+Identify the individuals and groups in the organisation who can provide the information, ideas , drive and 
+direction to set the scope and target for the organisation and to create a relevant challenging and justified 
+plan
+Baseline & 
+Forecast•Measuring the baseline & goals
+Seek out and analyse data on the activities leading to the emissions of greenhouse gases
+Identify & 
+Quantify•Identifying the risks & prioritising actions
+Establish the carbon reduction projects that will help us reach our target, prioritise these projects and 
+identify risks to implementation
+Approve 
+Plan•Designing a cost effective strategy
+Have the plan accepted, endorsed and promoted by senior management in the Organisation
+Implement 
+Plan•Embedding carbon reduction into daily business
+Begin to implement initiatives as early as is feasible to start to reap benefits and to build up a track record 
+of delivery that will give momentum . Ceredigion County Council CMP 2018/19  
+ | 10 1. Carbon Management Strategy  
+1.1 Our drivers and priorities for reducing carbon 
+emissions  
+Climate change is recognised globally as the greatest long -term environmental and economic threa t 
+faced by national governments and humanity as a whole. CCC is determined to play a full part in 
+delivering on our collective responsibility to reduce carbon emissions.  The rising cost of energy also 
+creates a shorter- term opportunity to create financial savings through energy efficiency actions.   
+Over the past century, human activities have released large amounts of greenhouse gases, such as 
+carbon dioxide (CO 2), into the atmosphere. The majority of these emissions have come from burning 
+fossil fuels to  produce energy, although industrial processes, deforestation and some agricultural 
+practices also emit greenhouse gases into the atmosphere. These gases trap more heat in the Earth’s 
+atmosphere, leading to an increase in global temperatures. A warming planet will lead to a variety of 
+mainly adverse effects on natural systems, causing increases in extreme weather conditions, changing 
+rainfall patterns and rising sea levels. The latest Intergovernmental Panel on Climate Change (IPCC) 
+report is very clear that this will affect water supplies, agriculture, power, transport and infrastructure, 
+as well as human health. Many of these impacts are already becoming apparent.  
+The UK has specific domestic and international commitments in reducing emissions of greenhou se 
+gases. Many public sector bodies and private businesses are taking a strategic view of carbon 
+emissions, under pressure from regulation, market forces and stakeholders. We are also subject to 
+many of these drivers, shown in more detail below.  
+Ceredigio n County Council recognises the significant role it can play in helping to accelerate the 
+transition towards developing a low carbon economy. The following primary drivers for the Council 
+are set out below:  
+ 80% Carbon reduction across Wales by 2050
+Reduce local energy costs and emissions
+2030 Public sector carbon neutrality
+Wellbeing of future generations actCeredigion County Council CMP 2018/19  
+ | 11 1.2 Our low carbon target  
+The target of a 15% reduction in scope 1 and 2 emissions by 
+2023 from the current (2017/18) baseline of 8,649 tCO 2e has 
+now been set. We are confident that the reduction can be 
+made with the right actions and funding. Details of which can 
+be found in the subsequent sections in this plan.  
+ 
+ 
+The total investment to implement identified projects is estimated at £ 6,863,561 .  The 
+identified projects will deliver an annual saving of approximately 1,519 tonnes CO 2 and 
+£448,847  with an overall simple payback period of 15.3  years.  
+ “Our target is to 
+reduce scope 1 and 2 
+carbon emiss ions by 
+15% by 2022/23”  Ceredigion County Council CMP 2018/19  
+ | 12 2. Emissions Baseline and Projections  
+2.1 Scope and data sources  
+The globally accepted carbon accounting standard known as the World Resources Institute (WRI) 
+Greenhouse Gas (GHG) Protocol defines direct and indirect emissions as follows:  
+> Direct GHG emissions are emissions from sources that are owned or controlled by the reporting 
+entity.  
+> Indirect GHG emissions are emissions that are a consequence of the activities of the reporting 
+entity, but occur at sources owned or controlled by another entity.  
+The GHG Protocol further categorises these direct and ind irect emissions into three broad scopes:  
+> Scope 1: All direct GHG emissions from fuels.  
+> Scope 2: Indirect GHG emissions from consumption of purchased electricity, heat or steam.  
+> Scope 3: Other indirect emissions, such as the extraction and production of pur chased materials 
+and fuels, transport -related activities in vehicles not owned or controlled by the reporting entity, 
+electricity -related activities (e.g. T&D losses) not covered in Scope 2, outsourced activities, waste 
+disposal, etc.  
+ 
+Figure 3: Overview of Greenhouse Gas Protocol scope and emissions across the value chain. Source: GHG Protocol  
+The scope of our baseline emission calculations covers: 163 sites, fleet transport and business 
+transport. Emissions relating to waste and water were not included, because of a lack of data at the 
+time of collection, however there might be scope to cover these in subsequent carbon management 
+efforts.  
+The emission sources we have included in our baseline are listed below, divided into Scop es 1, 2 and 
+3, in accordance with the GHG Protocol standard. The emissions volumes identified are approximate, 
+and limited by the accuracy and completeness of available data.  
+Ceredigion County Council CMP 2018/19  
+ | 13 Emissions sou rces included in baseline scope  Data Sources and quality  
+Scope 1  - includes all direct emissions from sources directly controlled by CCC -  fuels consumed on site and 
+from owned vehicles  
+• Fuel use in buildings and estates (e.g. gas, 
+LPG, biomass and oil)  Energy and utility bills  
+• Fleet transport emissions (e.g. pet rol and 
+diesel)  Mileage reports  
+Scope 2  - emissions from purchased energy produced off site.  
+• Electricity consumption in buildings and 
+estates  Energy and utility bills  
+Scope 3  – all other emissions  
+• Business travel (public transport and staff 
+vehicle  use)  Mileage reports  
+Table 1: Emission sources by scope and their data source/quality  
+2.2 Baseline year  
+We have chosen 2017/18 financial year as our baseline year. The emissions reported below have been 
+produced over the 12 -month peri od from April 2017 to March 2018. The following table identifies 
+emissions sources relevant to our Plan’s scope.  
+ Buildings  Transport  Waste & Water  Total  
+Baseline CO 2 
+emissions (tonnes)  6,091  2,558  0 8,649  
+Baseline Cost (£)  £1,751,119  £1,754,393  £0 £3,505,512  
+Table 2: Breakdown of baseline CO 2 emissions for 2017/18  
+ 
+From figure 3, it is possible to see that the 
+majority of emissions from Ceredigion County 
+Council are a result of stationary sites (buildings), 
+which include schools, libraries and leisure 
+centres but also street lighting. This also includes 
+emissions fro m all fuel sources, including 
+electricity, natural gas, biomass etc. primarily 
+used for heating and hot water purposes.  
+Transport emissions contribute just under a third 
+of the Council’s total. These are a combination of 
+emissions directly from the Counci l’s fleet but 
+also scope 3 emissions relating to business travel 
+using third party transportation.  
+  
+Figure 4:  Breakdown of carbon emissions by source  29.6%
+70.4%
+Transport Site EnergyCeredigion County Council CMP 2018/19  
+ | 14 Figure 4 details the associated costs of the 
+energy that produced the emissions in figure 3, 
+also broken down by user of that 
+energy/producer of emissions. There is a 
+significant difference between the two figures, 
+with costs from transport and stationary sites 
+being near identical. This reflects the higher 
+costs per uni t of carbon emission produced for 
+transport.  
+ 
+ 
+ 
+ 
+ 
+2.3 Projections and value at stake  
+The potential cost to Ceredigion County Council of taking no 
+action on carbon reduction, compared to achieving the target 
+in this plan, is a cumulative sum of extra costs of £2,412,663 
+by 2022/23.  
+The business -as-usual (BAU) scenario shows the calculated growth in carbon emissions and related 
+costs that CCC would experience if we do nothing to reduce consumption. If we do nothing, our 
+emissions are likely to in crease over time, as our activities become more energy intensive. The BAU 
+scenario therefore includes assumptions on how our consumption might increase and what increases 
+in energy tariffs we are likely to experience:  
+BAU Increase in demand for all station ary sources, 0.7%, source DBIS  
+BAU increase in demand for Fleet, 0.7%, source DBIS  
+BAU increase in demand for Commuting, 1%, source 2010 and 2013 internal commuting survey  
+The reduced -emissions- scenario (RES) or target reduction line in figures 4 & 5 show what the yearly 
+carbon emissions would be if we hit our target and what the yearly energy costs would be.  
+The Value at Stake (VAS) is the year -on-year difference between the BAU and RES scenarios. The Value 
+at Stake shows us the potential savings, or avoided cost, from implementing our plan and hitting our 
+target against the alternative of doing nothing (BAU). The capital costs of projects required to meet 
+the target are not included. The Value at Stake is a useful high -level analysis, as it can be produce d 
+early on in the process of developing the carbon management plan and helps make the case for action.  
+  
+Figure 5:  Breakdown of carbon related costs by source  
+ 
+£2,412,663  50.0% 50.0%
+Transport Site EnergyCeredigion County Council CMP 2018/19  
+ | 15  
+Figure 6: Comparison of carbon related costs with BAU increases and reduction targets  
+ 
+ 
+Figure 7: Comparison of emissions with predicted BAU increase and reduction targets  
+Under the BAU scenario, our energy cost could rise from its current £3,505,512 to £4,325,367 by 
+2022/23. Our BAU emissions are projected to increase from 8,649 tonnes to 9,091 by 2022/23. This 
+equates to a cumulative value at stake of £2,412,663 over five years. These future cost and emission 
+values are based on the following annual percentage changes assumptions: BAU consumption will 
+increase by 1%, inflation by 3% and utility prices by 4%.  
+ £0£1,000,000£2,000,000£3,000,000£4,000,000£5,000,000
+2017 2018 2019 2020 2021 2022Cost (£)Comparision of Carbon related costs with BAU increases and reduction 
+targets
+BAU Target Reduction
+02,0004,0006,0008,00010,000
+2017 2018 2019 2020 2021 2022CO2 Emissions (tonnes)Comparision of Emissions with predicted BAU increase and reduction targets 
+BAU Target ReductionCeredigion County Council CMP 2018/19  
+ | 16 3. Carbon Management Projects  
+3.1 Carbon Management Projects  
+Key Points  
+• To implement the  projects defined in this plan it will cost £ 6,878,561  over the five years of 
+the plan.  
+• Some of the funding sources have already been identified.  
+• When all these projects are implemented, it will result in an estimated annual financial 
+savings of £ 448,847.  
+• The average payback period of projects in this plan is 15.3  years. However, the majority of 
+the funding will be recovered in less than nine years.  
+ 
+This section of the plan lists and prioritises the opportunities identified for carbon emissions savings 
+and sustainable practices that are critical to ensuring CCC achieve the five -year reduction target. The 
+projects were identified through a number of means including Refit analysis, street lighting 
+assessments, energy audits and project ID workshops. We then quantified the projects to understand 
+the cost and benefits of each of them. A Carbon Management Projects Register will be maintained by 
+Ceredigion County Council to record, quantify and evaluate projects on an ongoing basis.  
+The projects have been split i nto the following sections:  
+> Building: all projects relating to efficiency measures, and other changes made to buildings, 
+including their energy and heating supply.  
+> Property rationalisation: projects where buildings will be removed from the Council’s list of owned 
+assets.  
+> Other sites: primarily ongoing projects relating to street lighting.  
+> Renewables: potential opportunities have been identified as a case for the Council to consider as 
+opposed to already identified projects.  
+> Transport: this includes projects related to the business and fleet usage.  
+ 
+3.2 Project register  
+This section  (table 3)  includes projects that are already underway, planned or proposed since the 
+baseline year, summarised by category, details of each project can be found in Appendix 1 . 
+Furthermore a breakdown of individual sites within the majority of these projects/project categories 
+can be found within Appendix 3.  Ceredigion County Council CMP 2018/19  
+ | 17 Project Category  Capital  (£) Annual energy 
+cost saving (£) Annual carbon 
+saving  (tCO 2e) Average Payback 
+(years) % project 
+contributes to 
+meeting target  
+Property 
+Rationalisation  £-  £31,270   139  0.00 11% 
+Renewables  £2,759,000  £239,498    885  11.46  68% 
+Transport  £2,227,861   £13,568   28  164.20  2% 
+Buildings  £1,021,500   £101,160    289  10.10  22% 
+Other Sites  £869,200   £63,351   179  13.72  14% 
+Total  £6,878,561 £448,847  1,519  15.3 >100%1 
+Table 3: Project category summaries  
+3.3 Projected achievement towards target 
+The figure below shows predicted business -as-usual (BAU) emissions and the target emissions. Figure 
+6 subsequently shows the emissions reductions from implementing all the projects identified in this 
+plan by 2022/23. This plot takes into account the following factors:  
+> The effect of BAU forces:  so for example, if in year three no additio nal projects were implemented, 
+the emissions would then trend back towards the BAU line.  
+> The impact of project life: the nature of the project determines how long its impact may be felt. 
+If a short life project is finished (e.g. awareness raising) before the end of the programme (and not 
+maintained or repeated) a stepwise increase in emissions would be seen.  
+By including these effects, we are trying to model some of the real life factors that may influence our 
+ability to meet our target. Because of these additional factors, the plot does not directly agree with a 
+simple summed list of the carbon saving impact of the projects.  
+The figure below shows how far the existing and identified (planned and potential) projects take us 
+towards the target. If all thes e projects are implemented, we expect to achieve our targeted savings.  
+We will however need to identi fy a further 219 tonnes of emissions savings to fill the gap to make up 
+for the  potential  BAU upward drift (gap to target).  
+ 
+Figure 8: Carbon progress against targets  
+ 
+                                                           
+1 Does not account for  projected BAU increases in the footprint  0 500 1000 1500 2000Identified savingsTarget
+Emissions (tCO2)Projected Achievment Towards Target
+Target reduction BAU growth High level estimateCeredigion County Council CMP 2018/19  
+ | 18  
+Figure 9: Carbon progress against targets  
+Figure 9 shows predicted business -as-usual (BAU) emissions and the target emissions. The “forecast 
+from actual” line shows the emissions reductions from the projects scheduled in the duration of this 
+plan. This analysis includes the effect of BAU forces as stated.  Additionally a degradation factor is 
+included.  This assumes that over the life of a project its carbon saving impact will decrease due to 
+factors such as business focus being diverted to other initiatives, projects not being maintained and 
+percentage sav ings becoming smaller as a building becomes more efficient.  
+  6,000 6,500 7,000 7,500 8,000 8,500 9,000 9,500
+2017 2018 2019 2020 2021 2022CO2 Emissions (tonnes)
+YearCarbon Reduction Progress against Target
+BAU Target Forecast from actual emissionsCeredigion County Council CMP 2018/19  
+ | 19 4. Implementation  
+4.1 Implementation  
+This section covers  the main elements required to move from planning to implementation. It includes 
+our financing strategy, governance structure, monitoring and reporting mechanisms. We also describe 
+the activities that will help us embed carbon management within the Council  and drive the changes in 
+behaviour that will lead to long -term, sustained savings and low carbon practice.  
+4.2 Finances  
+The value at stake shows that over the next five years £2,412,663 could be saved by reaching the 
+target. However, to achieve these savings,  significant capital investment will be needed. The project 
+register tool that accompanies this plan contains the calculations to assist with the selection of carbon 
+reduction projects . 
+To implement the projects defined in this plan will cost £ 6,878,561 . £3,440,561 of funding has 
+already been sourced, with £ 3,453,000 still to be achieved. When all these projects are 
+implemented, it will result in an estimated maximum annual financial savings of £ 448,847. The 
+overall payback period of projects in this plan i s 15.3 years.  
+4.2.1 Capital Costs 
+The table below summarises the total capital costs for our Carbon Management Plan by year. These 
+figures include only the upfront cost of the project and do not include any operation or maintenance 
+costs.  
+Project Year  2018/19  2019/20  2020/21  2021/22  2022/23  
+Total Costs  -£884,200 -£2,646,361  -£404,000   -£744,000   -£2,200,000  
+Table 4: Year by year capital costs  
+The cost of implementing the projects in this plan has been estimated at £ 6,878,561  by 2023, of which 
+£3,440,561 has already been allocated from existing capital budgets. The sources to fund the 
+remaining projects have yet to be confirmed.  
+We believe that our Carbon Management Plan offers a compelling and robust business case for 
+impleme ntation, taking into account direct cost savings to the Council, enhanced staff comfort, 
+benefits to reputation, and the vital leadership role of Ceredigion in tackling climate change.  Ceredigion County Council CMP 2018/19  
+ | 20 4.2.2 Plan costs and savings  
+ 
+Figure 10: Project costs, savings and cash flow  
+If all the projects are implemented as planned it would result in estimated reduced energy costs of 
+£448,847 per annum by 2023, based on 2017/18 prices. The overall payback period of the projects in 
+this plan is approx. 15.3 years. Whilst this payback time is longer than the lifetime of the plan 
+(considering implementation will not commence until late 2018/ early 2019), it reflects the duration 
+of a substantial number of projects outlined in the plan. These projects will prov ide cost and carbon 
+savings well beyond 2023 and will payback their capital investment over this longer time period.  
+It should be noted that the analysis in the tables included in this section does not account for inflation 
+and all figures are shown at tod ay’s prices. If inflation were included, we would expect energy cost 
+savings to be higher. It should also be noted that costs for certain projects scheduled for later years 
+may also be higher for the same reason but this will not be the case for all projec ts – certain 
+technologies such as LED lighting continue to reduce in cost.  
+4.3 Programme management of our carbon 
+management plan  
+Beyond the set of initiatives identified above, it is important that organisational systems are put in 
+place to maintain a focus o n carbon management over time.  This section describes the main activities 
+we will undertake to ensure carbon management is embedded into our organisation. The Carbon 
+Management Maturity Matrix (located in Appendix 2 ) provides a framework for evaluating th e extent 
+to which an organisation has embedded carbon management into its organisational culture, practices 
+and processes. We will use this framework to guide the progress we make in this area.  
+Programme Governance  
+The Carbon Management Team (CMT) will m anage the carbon management programme. The scope 
+of the CMT is to oversee the implementation of the Carbon Management Plan so that the carbon 
+reduction target is met within the timescales set out.  
+This group has a number of key functions specifically rela ted to carbon management:  
+> to provide regular, strategic oversight and monitoring of progress towards our target  
+> to raise ‘blockages’ to a level where they can be removed e.g. resource issues  
+> to ensure that carbon management stays on the high level agenda a t CCC  -£3.0-£2.5-£2.0-£1.5-£1.0-£0.5£0.0£0.5£1.0
+2017 2018 2019 2020 2021 2022Net Cost (£ millions) YearProject Cost and Savings
+Total Capex for year Energy cost savings for year Total Cash flow for yearCeredigion County Council CMP 2018/19  
+ | 21 > to manage the expectations of key stakeholders and recognise achievements on carbon reduction  
+Overall organisation of the programme will fall to the Project Lead and Project Sponsor who will report 
+project highlights, risks and issues to the CMT. The Project Sponsor will have overall responsibility to 
+make sure the progress of the Plan is reported to senior stakeholders and that the projects within the 
+Plan are delivered. The Project Lead, and colleagues, will focus on the day -to-day delivery of the 
+programme projects. The CMT meet on a quarterly basis and aims to include the following 
+representatives from the following departments:  
+> Street lighting  
+> Education  
+> Social Care  
+> Leisure Services  
+> IT 
+> Housing 
+> Planning 
+> Finance  
+> Fleet/Transport  
+> Property Services  
+The CMT is also responsible for implementing the projects contained within this Plan. The CMT will 
+oversee the activity within the programme, which will be overseen by the Project Lead.  
+Corporate Strategy & Policy Alignment  
+To ensure that carbon management is established and maintained as a priority, it should be 
+considered as part of all decision -making processes. We recognise that in order to achieve our carbon 
+reduction target, we need to maintain a number of practices/procedures and embed a philosophy of 
+considering carbon emissions in business as usual activities. This includes:  
+Change  Action  Lead  Completion Date  
+Endorsement / sign off o f this plan and the associated 
+15% reduction target by [senior staff]  Project Sponsor  February 2019  
+Publica tion of this CMP on the intranet and internet  Communications  June 2019  
+Communication & engagement on the carbon 
+management programme to Ceredigion  stakeholders  Project Lead /  
+Communications  June 2019  
+All business cases submitted to financial manageme nt to 
+be appraised for carbon reduction as well as costs & 
+payback  Project Lead / 
+Project Sponsor /  
+Finance  Ongoing  
+Inclusion of the risks arising from not meeting our carbon 
+reduction target included in the Corporate risk register  Project Sponsor  Februa ry 2019  
+Inclusion of our Carbon reduction targets in Business Plan 
+and Annual Report  Project Sponsor  Ongoing  
+Review and re -alignment of all council  Environmental 
+Statements to take account of the Carbon Management 
+Plan  Project Lead / 
+Project Sponsor  March 2019  Ceredigion County Council CMP 2018/19  
+ | 22 Development of a sustainable procurement policy to take 
+account of low carbon procurement  Procurement  September  2019  
+Review of existing policies to decide where alignment 
+with the Carbon Management Plan is relevant  Project Sponsor  September  2019 
+Table 5: Schedule of actions needed  
+4.4 Monitoring and reporting  
+This section describes actions we will take to improve the quality of carbon emissions data and the 
+data gathering process, and how will we report on our progress. Robust data will provide the basis to 
+monitor and report on the results of our actions and it will help to drive behaviour change.  
+Progress Reporting  
+The progress of the Carbon Management Plan will be discussed and reviewed by the CMT and project 
+team. Pro gress will be monitored against the targets set within this plan and the KPIs set out below.  
+> Fuel and electrical data per month for each area and per year  
+> % increase/decrease carbon emissions by year  
+> Achievement against projected carbon savings  
+> Number of projects completed  
+> Number of projects submitted for approval and progressing towards completion.  
+For each meeting of the CMT, the progress of the Carbon Management Plan as a whole, as well as 
+individual projects, will be discussed against these KPIs. It is  important that we adopt a way of flagging 
+the projects that are perhaps stalling or not progressing as expected. We will do this by using the Red, 
+Amber & Green (RAG) risk register.  
+An annual report of progress towards our carbon management target will b e produced and presented 
+to the CMT. This report will provide an update on progress against the KPIs above and embedding 
+actions included in this plan. The report will be prepared by the Project Lead and signed off by the 
+Project Sponsor. This report will also be circulated to the wider organisation and uploaded on the 
+Ceredigion County Council intranet.  
+Data Management  
+Effective data management has been a critical element of developing this plan. It underpins our 
+strategy and target and it will continue to  be a critical element as we monitor implementation 
+progress. Having confidence in our figures, assumptions and data sources helps ensure that:  
+High priority areas are targeted: a good understanding of where our emissions are coming from will 
+allow us to identify high emitters and prioritise projects that tackle these.  
+Carbon reduction projects are accurately quantified: this will allow us to predict the impact a project 
+will have on carbon emissions and how effective our portfolio of projects will be at achieving our 
+target.  
+Business / investment cases are credible and accurate: accurate estimations of costs and savings 
+ensures that funds are used in the most cost effective way.  
+The effectiveness of carbon reduction projects can be measured and demonstrated: this allows 
+progress against target to be tracked and strengthens the business case for future investment.  Ceredigion County Council CMP 2018/19  
+ | 23 Continuity and succession planning is not problematic (data sources / referencing): all activities should 
+be well documented and referenced to ens ure smooth hand over of responsibility.  
+Stakeholder Engagement & Communication  
+To keep carbon management a priority in people’s minds and behaviours, we need to regularly 
+communicate with stakeholders at various levels. Effective and timely communications  with our staff 
+is an important aspect to delivering our target. We will do this by rolling out the following change 
+actions.  
+Change Action  Completion Date  
+Develop a communications plan  March 2019  
+Publication of the Carbon Management Plan on the intranet  and internet  June  2019 
+Communication & engagement on the Carbon Management P lan to 
+Council  stakeholders  June 2019 
+Produce a Progress Report on an annual basis for the Pro ject Board / wider 
+organisation  Annual  
+Use social media to increase awareness on environmental projects & 
+benefits with internal & external stakeholders  Ongoing  
+Regular column in internal newsletter  Ongoing  
+Table 6: Schedule of change actions  
+Control of Risks and Issues  
+Any member of the Project Board or Project Team may raise an Issue or Risk with the Project Manager. 
+They should be communicated verbally and confirmed in writing within 24hrs. The Project Manager 
+will then record the Issue/Risk on the appropriate log and allocate a reference number. The Lo gs will 
+be maintained with each Issue or Risk being allocated a status of either “Acknowledged”, “In Progress” 
+or “Resolved”. All risks are monitored and updated in a detailed Risk Register maintained by the 
+Project Manager.  
+Some of the key risks associate d with the plan are set out below:  
+> Resources unavailable to achieve actions identified  
+> Reputational risk to authority for not pursuing or meeting carbon reduction targets  
+> Carbon management not seen as a strategic priority  
+> Lack of buy -in by staff reduces p articipation in relevant carbon reduction projects  
+> Potential for a higher than predicted increase in energy demand threatening the ability to meet 
+the carbon reduction target  Ceredigion Count y Council CMP 2018/19  
+ | 24 Appendix 1:  Project Register  
+ID Project  Lead  Capital  Financial 
+Savings 
+(Gross)  tCO 2e Payback 
+(yrs)  % of 
+Target  Start 
+Year  
+1 Street Lights  TBC  £869,200.00   £63,350.50  179 13.72  13.8%  2018  
+A 2 year programme to convert every streetlight to LED where possible.  
+2 School heating 1  TBC  £343,500.00   £20,000.75  17 17.17  1.3%  2019  
+Conversion of school heating systems from electric to wet (fired by natural gas or LPG) in 2018/19.  
+3 School heating 2  TBC  £225,000.00   £6,596.78  5 34.11  0.4%  2020  
+Conversion of school heating systems from electric to wet (fired by natural gas or LPG) in 2019/20.  
+4 School heating 3  TBC  £244,000.00   £3,004.57  4 81.21  0.3%  2021  
+Conversion of school heating  systems from electric to wet (fired by natural gas or LPG) in 2020/21.  
+5 Fleet renewal  TBC  £2,227,861.00   £13,567.67  28 164.20  2.1%  2019  
+Replacement of 16 of the most inefficient tippers/fleet vehicles with EURO 6 rated vehicles.  
+6 Building 
+rationalisation  TBC  £-     £31,270.46  139 0.00 10.7%  2019 
+Certain buildings no longer fall under the ownership of the council, e.g. following the completion of a new heat network 
+programme, or construction of Area School (closure of existing) etc.  
+7 Solar PV - 1 TBC  £500,000.00   £57,097.95  161 8.76  12.4%  2021  
+8 Solar PV – 2 TBC  £1,000,000.00   £81,000.00  229 12.35  17.6%  2022  
+9 Solar PV – Comins CP  TBC  £15,000.00   £1,300.00  4 11.54  0.3%  2019  
+10 Solar PV – YHR TBC  £15,000.00   £1,300.00  4 11.54  0.3%  2019  
+11 Solar PV – Bro Pedr  TBC  £15,000.00   £3,800.00  11 3.95  0.8%  2019  
+Several sites to install solar PV, ranging from10kW systems to 500kW. With ‘site 2’ to have battery storage installed 
+alongside.  
+12 Penrhos Wind 
+Turbine  TBC  £1,200,000.00   £95,000.00  477 12.63 36.8%  2022 
+500kW turbine to be installed, with an expected capacity factor of approximately 30%.  
+13 LED Site 1  TBC  £138,000.00   £16,000.00  49 8.63  3.8%  2020  
+14 LED Site 2  TBC  £26,000.00   £3,000.00  9 8.67  0.7%  2020  
+15 LED Site 3  TBC  £30,000.00   £3,700.00  11 4.05  0.9%  2020  
+Various potential LED lighting schemes  
+16 Penglais Boiler  TBC  £30,000.00   £1,600.00  10 18.75  0.8%  2019  
+Maintenance requirement to replace boiler, but some carbon savings associated with the scheme.  
+17 21st Century School A  TBC  £-     £9,300.00  33 0.00  2.5%  2023  
+18 21st Century School B  TBC  £-     £31,817.00  129 0.00  9.9%  2023  
+19 21st Century School 
+Cardigan Comp  TBC  £-     £6,141.00  22 0.00 1.7%  2020 
+Major, long -term and strategic capital investment programme creating educational communities that promote 
+sustainability; reduce emissions, cost and energy consumption; and maximise resources available to them.  
+Table 7: Project Register  Ceredigion County Council CMP 2018/19  
+ | 25 Appendix 2:  Carbon Management Matrix -  Embedding  
+ 
+ 
+Ceredigion County Council CMP 2018/19  
+ | 26  
+  
+ 

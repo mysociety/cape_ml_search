@@ -1,0 +1,1075 @@
+GEP Environmental Ltd       
+Registered Office: Unit 5, Basepoint Business Centre, 1 Winnall Valley Road, Winchest er, SO23 0LD.  
+Company Number: 05057066  Amber Valley Borough Council
+Carbon Reduction Management Programme  and Action Plan 
+GEP Environmental  Ltd 
+Unit 5, Basepoint Business Centre,  
+1 Winnall Valley Road,  
+Winchester,   
+SO23 0LD  
+http://www.gepenv.c o.uk/   
+Tel: 01962 600  205 
+Regional Offices:  
+Winchester, Edinburgh, Bedford, Anglesey.  Amber Valley Borough Council  
+Town Hall  
+Ripley  
+Derbyshire  
+DE5 3BT  
+https://www.ambervalley.gov.uk/  
+Date: 16th July 2020  
+Version: 1.4 
+ENERGY  ENVIRONMENT  TRAINING  
+Agenda Item No 13(a) -
+Appendix APage 2 of 31 
+Contents  
+Executive Summary  ................................ ................................ ................................ ................................ .......................  4 
+Overall Report Summary  ................................ ................................ ................................ ................................ ...... 4 
+1 Introduction and Context  ................................ ................................ ................................ ................................ ...... 5 
+1.1 Amber Valley Borough Council Climate Emergency  ................................ ................................ .....................  5 
+1.2 Net Zero Carbon Emissions  ................................ ................................ ................................ ...........................  5 
+1.3 Context to the Net Zero Target ..................................................................................................................... 6 
+2 Carbon Emissions Baseline  ................................ ................................ ................................ ................................ .... 7 
+2.1 Scope of Carbon  Emissions Inventory  ................................ ................................ ................................ ...........  7 
+2.2 Calculation Methodology  ................................ ................................ ................................ ..............................  7 
+2.3 Baseline Carbon Emissions (FY 201 8/19)  ................................ ................................ ................................ ...... 8 
+3 Identifying Reduction Measures  ................................ ................................ ................................ .........................  10 
+3.1 Reducing Emissions from Council Buildings  ................................ ................................ ................................  10 
+3.2 Reducing Emissions from Council Vehicles  ................................ ................................ ................................ . 10 
+4 Net Zero Reduction Pathways  ................................ ................................ ................................ .............................  11 
+4.1 Scenario Modelling  ................................ ................................ ................................ ................................ ..... 11 
+4.2 Switching to Low Carbon/Renewable Energy Tariffs  ................................ ................................ ..................  11 
+4.3 Overview of Reduction Pathways  ................................ ................................ ................................ ...............  12 
+4.4 Combined Maximum Reduction Pathway  ................................ ................................ ................................ .. 13 
+4.5 Building Maximum Reduction Pathway  ................................ ................................ ................................ ...... 14 
+4.6 Transport Maximum Redu ction P athway  ................................ ................................ ................................ ... 15 
+4.7 Science Based Targets Reduction Pathway  ................................ ................................ ................................ . 16 
+4.8 Science Based Targets Reduction Pathway – Detailed Overview  ................................ ...............................  17 
+4.9 No Action Scenario  ................................ ................................ ................................ ................................ ...... 18 
+5 Carbon Reduction Action Plan – Council Buildings  ................................ ................................ .............................  19 
+5.1 Site Electricity Consumption  ................................ ................................ ................................ .......................  19 
+5.2 Site Gas Consumption  ................................ ................................ ................................ ................................ . 20 
+5.3 Switching to Low Carbon/Renewable Energy Tariffs  ................................ ................................ ..................  21 
+6 Carbon Reduction Action Plan – Council Transport  ................................ ................................ ............................  23 
+7 Carbon Offsetting/Sequestration  ................................ ................................ ................................ ........................  24 
+7.1 Amber Valley’s Forest for the Future  ................................ ................................ ................................ ..........  24 
+8 Conclusion/Next Steps  ................................ ................................ ................................ ................................ ........  29 
+Annex 1 - Terms and Definitions  ................................ ................................ ................................ ................................ . 30 Page 3 of 31 
+Guidance
+This report has been prepared by GEP Environmental Ltd (GEPEnv) solely for use of Amber Valley Bo rough Council to 
+whom it is addressed and should not be relied upon by any person or entity other than the Amber Valley Bo rough 
+Council.  
+GHG Baseline Emissions  
+This report is designed to provide Amber Valley Borough Council with an overview of their baseline GHG emissions for 
+the 2018/19, as well as the GHG emissions reductions potential for several  suggested technological a nd behavioural 
+energy reduction strategies.  As such the results of the Net Zero Carbon Pathways modelling should be treated as 
+advisory and is recommended that Amber Valley Borough Council complete full feasibility surveys to better quantify 
+potential GHG  emissions reductions . 
+Location -Based GHG Emissions  
+Location -based emissions are calculated based on electricity and natural gas conversion factors sourced from the UK 
+Government, which are an average of the supply mixture for the National Grid.  These fac tors have been used in the 
+modelling of  all GHG Emissions Reduction Pathways . 
+Mar ket-Based GHG Emissions  
+Market -based GHG emissions are calculate d based specific energy supply mixtures for low carbon/renewable energy 
+tariffs and can be used to demonstrate the impact of switching supplies upon GHG emissions.    The impact of switching 
+energy supplies (electricity and gas) to renewable/low carbon energy tariffs on GHG emissions, has been modelled 
+assuming that selected tariffs supplied via Crown Commercial Ser vices are backed up with Renewable Energy 
+Guarantees of Origin Certificates (REGO s).   
+Market -based GHG emissions cannot be reported as standalone results  and need to be reported in conjunction with 
+location -based GHG emissions  (dual reporting) . 
+Tree Plant ing & Carbon Sequestration  
+Carbon Sequestration figures outlined in Section 7 of this report are calculated using a methodology from the 
+Woodland Carbon Code (a voluntary UK standard).  These figures should be treated as advisory as to the maximum 
+sequestr ation potential from propos ed 5 -year planting timescale for the proposed Forest of the Future project.  
+It is recommended that Amber Valley Borough Council consider the tree planting programme not as a standalone 
+activity to achieve Net Zero Carbon emission s, but as part of a wider p rogramme to reduce overall resource 
+consumption in the first instance.    Page 4 of 31 
+Executive Summary  
+Amber Valley Borough Council has set itself an ambitious Net Zero Carbon target to be achieved by 2030. Having 
+analysed emissions from its current operations and determined emission-reduction trajectories, the Council will now 
+be undertaking more detailed investigations of cost-effective energy reduction measures across all its assets, 
+operations, and spheres of influence within the Borough.  
+In the first instance and in line with what’s been proven with other public and private organisations, we will focus on 
+cost effective reduction measures across the Councils largest sites and fleet of vehicles, as it is here where the 
+greatest impact will be achieved. 
+It should be noted that the current baseline is approximately 55.5% better than when some ten years ago the 
+Carbon Trust undertook a similar exercise.  This can be attributed to a number of factors such as the effect of public 
+sector cuts, demolition of obsolete and inefficient building assets, the installation of renewable energy (Solar PV), 
+large scale LED retrofit, and a progressively more efficient fleet of vehicles. 
+Budgets must be set aside, including an appetite to extend return on investment periods, to upgrade the existing 
+built environment, such as installing LED lighting, automated building controls and effective insulation. Electric 
+vehicles will need to be phased into the vehicle fleet.    The following report details the methodology used to 
+determine the Council’s Greenhouse Gas emissions, likely emission reduction trajectories and measures to be 
+undertaken.  
+Overall  Report Summary  
+Net Zero Carbon Emissions: 
+Amber Valley Borough Council has pledged to achieve Net Zero Carbon emissions across its property portfolio and 
+owned vehicle fleet by 2030.  The  Net Zero Carbon strategy will tie in with strategies adopted by both 
+Derbyshire County Council and the UK Government  
+Amber Valley Borough Council’s Baseline Year Emissions (2018/19): 
+The Co uncil’s baseline year emissions are 520.85 tonnes CO2e (1st April 2018 – 31st March), arising from the 
+operation of its buildings and transport assets.  The Councils  baseline GHG emissions and will act as a benchmark 
+for target setting and for tracking future emissions reductions towards the Net Zero target. 
+Identifying Reduction Measures: 
+We have identified several technological and behavioural measures which will enable Amber Valley BC to reduce its 
+GHG emissions, in both  buildings and transport.  These measures include energy efficiency, technological 
+upgrades, expansion of on-site renewables, and behavioural change (increasing awareness and encouraging staff to 
+use energy efficiently).  In addition, we are also looking at opportunities to switch energy supplies to low 
+carbon/renewabl e en ergy tariffs.  
+Net Zero Reduction Path ways: 
+Scenarios have been modelled (based on the identified reduction measures above) to define different Net 
+Zero Reduction Pathways which the Council could choose to follow or benchmark its performance against.  
+Following the best-case scenario (all measures implemented) we may be able to reduce GHG emissions by 62.3% 
+(324.06 tCO 2e) compared to the 2018/19 baseline. 
+Amber Valley’s Forest for the Future: 
+The Fores t for the Future programm e aims to plant between 2,500 and 5,000 trees per ye ar over 16 hectar es of Council 
+owned land and open spac es, acros s the Borough .  This planting will form a network o f community woodland s and 
+orchard s (wher e appropriate ) which will provid e valuable recreational and wildlif e areas in addition to sequestering a 
+proportion o f the Coun cil’s GHG emission s.    The Coun cil completed th e first phas e of planting during April 2019 , with 
+the aim to plan t a to tal of 16 hectar es o f nativ e trees by 2025 .  By 2030 thi s planting programme could potentially 
+sequester c.1,680 tonnes of carbon dioxide from the atmosphere. Page 5 of 31 
+1 Introdu ction and Context  
+1.1 Amber Valley Borough Council  Climate Emergency  
+Whilst Climate Change is regarded as a global environmental issue, the impacts can be identified on a global, national, 
+and local scale. As a developed country, the UK’s business operations provide a sizeable contribution to 
+Climate Change. In order to reduce the national impact, the UK Government declared a national Climate Emergency 
+on 1st May 2019. The declaration of a Climate Emergency symbolises the UK’s ambition to decarbonise the UK 
+economy in order to lead the way and reduce national contributions to Climate Change. The declaration of a Climate 
+Emergency by the UK Government makes room for feasible carbon reduction measures and initiatives to be 
+developed and established within the existing economy and infrastructure. 
+Whilst the impacts of Climate Change are often viewed on a global scale, Amber Valley Borough Council recognises 
+that its  day- to-day  operational  activities  contribute  to Climate  Change.  On 24th July  2019,  Amber  Valley  Borough 
+Council declared a Climate Emergency and pledged to reduce the environmental impact of its services and 
+operations.  This Councils Net Zero ambition compliments Derbyshire County Council’s Carbon Reduction Plan to 
+achieve carbon neutrality for the wider county by 2032.   
+1.2 Net Zero Carbon Emissions  
+Amber Valley Borough Council has pledged to achieve Net Zero Carbon emissions across its property portfolio and 
+owned vehicle fleet by 2030. Net Zero Carbon emissions reflects a reduction of Greenhouse Gas emissions 
+associated with an organisation’s operations through the implementation of carbon reduction measures and 
+initiatives. The  Net Zero Carbon strategy will tie in with strategies adopted by both Derbyshire County Council and 
+the UK Government, focusing  on the following key areas: 
+•Improving resource and energy efficiency  within buildings, procurement operations and owned fleet to 
+reduce the demand for energy across the Council.
+•Encouraging behavioral and societal change that lead to a reduced demand for carbon-intensive activities  
+and a more responsible use of resources.
+•Extensive electrification for Council wide transportation and heatin g supported by a major expansion of  
+renewable and other low-carbon power generation to remove the need for unsustainable fuels.
+•Utilising the Councils green spaces promoting sustainable and eco-friendly practices, including a focus on 
+encouraging  the uptake of carbon sequestration.
+To achieve Net Zero Carbon emissions  by 2030, 
+Amber Valley  Borough Council  is establishing a 
+comprehensive Carbon Reduction Management  
+Plan.  
+This Plan will detail the Council’s carbon reduction 
+measures and initiatives that will be im plemented 
+over a 10 -year period to deliver a pragmatic and 
+sustainable approach to achieving Net Zero 
+Carbon emissions by 2030.   
+ 
+Figure 1 (right)  – Amber Valley Borough Council’s 
+approach to delivering Net Zero Carbon Emission  Page 6 of 31 
+1.3 Context to Net Zero Target 
+Amber Valley is home to a vast expanse of green spaces and rural countryside providing resid ents and visitors with 
+stunning views and access to nature. To preserve the beauty of Amber Valley’s environment, the Council will be 
+establishing a  Carbon Reductio n Plan to minimise its contribution to Climate Change.  
+Climate Change presents a variety of environmental impacts, affecting countries on a global scale. On a national scale, 
+the most noticeable impacts the UK faces include sea level rise, a rise in summer temperatures and an increase in 
+extreme weather events , such as flooding.  
+The key impacts arising from Climate Change that are likely to affect Amber Valley Borough Council are as follows: 
+Table 1 – Potential impacts of climate change upon Amber Valley  
+Climate Change Impact  How will  this impact on Amber Valley?  
+Rising  global temperatures An increase in global temperature will mean that the UK will have hotter summers 
+and milder winters. More frequent and severe heat waves during summer months 
+will lead to higher mortality rates due  to inadequate cooling infrastructure . 
+Transportation infrastructure, such as roads in and around Amber Valley, will become 
+degraded at a faster rate, leading to disruption.  
+Hotter temperatures will impact on water sources located within Amber Valley, such  
+as the River Amber, leading to reduc ed water quality and availability . 
+Rising River Levels  Derbyshire is very susceptible to surface water flooding due to the presence of large 
+flood plains throughout the county. Increased flooding events lead to increased 
+disruption to transportation links , wide scale damage to properties and an increase 
+in loc al water pollution levels.  
+Extreme changes in temperature and 
+weather patterns  Changes in natural temperature and weather patterns would lead to changes in 
+biodiversity richness and abundance as tol erance ranges for species are exceeded.  
+Changes in tempe ratures can lead to rapid ly changing growing seasons for plants and 
+crops present within Amber Valley, disrupting existing food webs and providing 
+unstable environments for many native species.  
+Migrat ory species, such as birds and insects, will be impacted  by changes in 
+temperatures and weather patterns, leading to earlier migration occurring each year. 
+This may also impact on the annual relocation of non -native species within the UK to 
+favour warming climates.  
+Though Climate Change requires a global respo nse, it is recognised that actions to mitigate and adapt to climate 
+change must be undertaken at a local level.  
+The Committee on Climate Change’s report “Net Zero – the UK’s contribution to stopping global warming”, surmises 
+that Local Authorities are ide ally placed to influence and make changes to local infrastructure to help achieve net zero 
+emissions. Local Authorities across the UK and worldwide have responded to this by declaring their own region al 
+climate emergencies, making significant moves towards  mitigating the impacts of Climate Change.  
+This is why Amber Valley Borough Council has committed to Net Zero Carbon by 2030.  Page 7 of 31 
+2 Carbon Emissions Baseline  
+The first step towards  achieving Net Zero Carbon by 2030  is to quantify and understand  Amber Valley Borough 
+Council’s  Carbon Emissions Baseline . This assessment will enable better understand ing the distribution  of energy 
+consumption across the Council’s operations and will allow reduction measures  to be focused  where they will have 
+the greatest am ount of impact.  The Council  has chosen the 2018/19 financial year (running from 1st April 2018 – 31st 
+March 2019) as their baseline GHG emissions inventory.  
+2.1 Scope of Carbon  Emissions Inventory  
+The Council has accounted for all e missions sources over which it has operational control , and has identified the 
+following emissions sources which are included within the assessment:  
+For th e Council’s  carbon emissions inventory thei r vehicle flee t has be en spl it into commercial veh icles and 
+maintenance vehicles.   
+Commercial vehicles are classed as vans and small HGVs, whilst maintenance vehicles include the  Street 
+Cleansing vehicles, ride-on mowers and tractors used by maintenance teams. 
+For the purpo ses o f Figure s 2 and 3 (on th e following page) these hav e been group ed togeth er as ‘Council owned 
+Vehicles’.  
+2.2 Calculation Methodology  
+Amber Valley Borough Council’s baseline footprint is calculated using the 201 8 Conversion Factors develope d by the 
+UK Department for Env ironment, Food and Rural Affairs (Defra) and the Department for Business, Energy & Industrial 
+Strategy (BEIS) . 
+Activity data (i.e. gas, electricity, fuels) is multiplied with specific emissions factors, to determine GHG emissi ons.  The 
+results of the asses sment are provided in tonnes of carbon dioxide equivalent (tCO 2e). This methodology is  an 
+internationally  recognised approach to compiling a GHG Inventory and follows best practi ce guidance .  Scope 1
+Direct GHG Emissions
+Fuel Combustion
+Natural Gas
+Owned Transport
+Commercial Vehicles
+Maintainence VehiclesScope 2
+Energy Indirect GHG Emissions
+Consumption of purchased 
+electricity, heat, steam & 
+cooling
+ElectricityScope 3
+Other Indirect GHG Emissions
+Transmission & Distribution of 
+energy
+Electricity
+Purchased materials & fuels
+Water
+Transport related activities
+Employee Vehicle Travel
+(Council business only)Page 8 of 31 
+2.3 Baseline Carbon Emissions (FY 2018/19)  
+2.3.1 Summary of Results  
+The total carbon footprint for Amber Valley Borough Council for the period ending 31st March 2019 was 520.8 5 tonnes C O2e. The following table and graph s provide a 
+summary of results by scope and source activity.   
+Element of 
+Footprint  Location -Based 
+GHG Emi ssions (tCO 2e) 
+Scope 1 – Direct GHG Emissions  
+Maintenance Vehicles  90.22  
+Commercial Vehicles  85.65  
+Site Natural Gas  78.55  
+Scope 2 –Energy Indirect GHG Emissions  
+Site Electricity (Generation)  223.27  
+Scope 3 – Other Indirect Emissions  
+Electricity (Tr ansmission & Distribution)  19.03  
+Employee Vehicle Travel  17.41  
+Water (and Wastewater) Consumption  6.71  
+Total GHG Emissions (tonnes CO 2e) 520.85  
+Emissions per m2 Floor Area (tonnes CO 2e) 0.05  Site Electricity
+46.5%
+Council owned 
+Vehicles
+33.8%Site Natural 
+Gas
+15.1%Employee Vehicle Travel
+3.3%Site Water
+1.3%Percentage Split of GHG Emissions
+(1stApril 2018 -31stMarch 2019)
+520.85 tonnes 
+CO 2e 
+0 50 100 150 200 250 300Site ElectricityCouncil owned VehiclesSite Natural GasEmployee Vehicle TravelSite Water
+GHG Emissions (tonnes CO2e)Figure 2 (left) Detailed overview of AVBC’s baseline GHG emissions .  Figure 3 (above) AVBC's Baseline 
+GHG emissions split by percentage (%).   Page 9 of 31 
+2.3.2 Property  Portfolio  & Non -Building Supply  GHG Emis sions  
+The majority of the Council’s  GHG emissions result from electricity consumption ( 46.5 %) and natural gas consumption 
+(15.1%) across its property portfolio  and open sites .  The table s below highlight  the sites  and supplies  which contribute 
+the most to the Council’s  GHG emissions.  
+Property Portfolio  
+It is recommended that the Council focus es their  initial energy and GHG emissions reduction programme across these 
+sites.  Any reductions made here will have the greatest overall impact on the Council’s GHG e missions and help meet 
+its Net Zero Emissions target by 2030.  
+Site Name  Annual Consumption  GHG Emissions (tCO 2e) 
+Electricity  
+(kWh)  Natural  
+Gas 
+(kWh)  Water  
+(m3) Electricity  Natural 
+Gas Water  Total 
+Emissions  
+(tCO 2e) 
+Central Headquarters  362,116  351,730  2,349  111.24  64.70  2.47  178.42  
+Main Buildings (Leafy Lane Dpt)  41,020  0.00  2,260  12.60  - 2.38  14.98  
+Alfreton Market Hall  44,964  0.00  570 13.81  - 0.60  14.41  
+Totals  448,100  351,730  5,179  137.65  64.70  5.45  207.81  
+Non -Building Supplies  
+The Council ’s non-building supplies also account for a large proportion of its GHG emissions.  In addition to 
+technological and behavioural reduction measures focused on its sites, the Council will also consider opportunities to 
+switch energy supplies to low carbon/rene wable energy tariffs where possible (see Sections 4.1 and 4.2 for further 
+details).  
+Site Name  Electricity Consumption (kWh)  GHG Emissions (tonnes CO 2e) 
+Unmetered Lighting & CCTV  139,783  42.94  
+Three Phase Supply  33,366  10.25  
+Pay & Display Machines  22,785  7.00  
+Totals  195,934  60.19  
+2.3.3 Transport  GHG Emissions  
+Amber Valley Borough Council’s transport emissions are focused upon its  maintenance and commercial vehicle 
+fleets which collectively account for 33.8% of  the Council’s total baseline GHG emissions.  Emissions from employee 
+travel (grey fleet) accounts for 3.3% of total baseline GHG emissions.     
+Whilst the commercial and maintenance fleets should be the priority for the GHG emissions reduction measures, 
+the Council may also be able to make significant savings from reducing grey fleet (travel by Council employees using 
+their own vehicles) mileage. 
+Transport Type  Fuel Consumption 
+(Litres)  Annual Mileage 
+(Grey Fleet only)  Total Emissions  
+(tCO 2e) 
+Maintenance Vehicles  34,345  - 90.22  
+Commercial Vehicles (vans)   32,606  - 85.65  
+Employee Vehicles (Grey Fleet)  - 59,878  17.41  
+Totals  66,951  59,878  193.28  Page 10 of 31 
+3 Identifying Reduction Measures  
+3.1 Reducing Emissions from Council Buildings  
+The following technologies and reduction measures listed in the table below have been  identified as being the most 
+applicable to the Council’s property portfolio .  
+Utility  Technology/Measure  Consumption 
+Reduction Potential 
+(% kWh per annum)  Maximum Emissions 
+Savings Potential 
+(tonnes CO 2e)1 
+Electricity  LED Lighting upgrade/retrofit  65% 93.41 
+Installation of PIR Sensors  20%  28.74  
+Solar PV  11%2- 
+Increased HVAC controls  5% 1.37  
+Replacement of older/less efficient equipment  5% 1.37  
+Behavioural Change (sites with electricity only /electricity 
+and gas )3 5% / 2.5%  2.69  / 2.93  
+Gas Building Heating Zone controls  25%  17.674 
+Installation of a BMS  15%  10.60  
+Central Heating controls  8% 6.28  
+Insulation (building fabric)  3% 2.12  
+Behavioural Change (gas only sites /gas and electricity ) 5% / 2.5%  0.16  / 0.96  
+For the purposes of mod elling reduction trajectories,  it is assumed that energy and efficiency  savings  from 
+technological measures  will only  be realised in the first year t hat they are implemented on a site.     
+Behavioural change measures focus upon encouraging employees to use heating and lighting more effi ciently in 
+Council buildings.  In practice typical behavioural change measures may include ‘Switch it off’ campaigns , encouraging 
+sensible use of heating and cooling, facilitating  greater  remote/home working  to increas e the us e of webinars and 
+virtual meetings  (to reduce travel related GHG emissions and pollution).   
+At time of producing Amber Valley Borough Council’s plan under the lockdown imposed as a consequence of the Covid -
+19 pandemic, it has become clear around the  World that pollution levels have decreased and air quality has 
+significantly increased due to less vehicles being on the road, as more people have been home working who would 
+otherwise have been commuting.  
+3.2 Reducing Emissions from Council Vehicles  
+The fol lowing technologies and reduction measures listed in the table below have been identified as being the most 
+applicable to the Council’s vehicle fleet.  Research was completed into alternative fuel vehicles for the Council’s 
+maintenance fleet, however suita ble veh icles for comparison have not been found.  As the technology for alternative 
+fuel vehicles continues to evolve the Council will review opportunities for switching some or all the maintenance fleet 
+to CNG (compressed natural gas) or other alternative  fuelle d vehicles.   
+Fleet  Technology/Measure  Maximum Emissions Savings 
+Potential by 2030  (tonnes CO 2e) 
+Commercial Fleet (Vans)  Switching commercial vehicles to electric alternatives  52.84  
+Employee Vehicle Travel  Reducing travel distances by 5% per annum until 
+2029/30  10.15  
+1 If applied across the whole of the Council’s property portfolio based on Defra/BEIS 2018 emissions factors for each energy ty pe. 
+2 Based on the performance of current 19kWp (kilowatts peak) array installed at Central Headquarters (Rip ley) and potential up grade to 40 kWp system.  
+3 Reductions from behavioural change are assumed as follows for each energy type:  5% for sites with only one energy source (el ectricity or gas); 2.5% for sites 
+with both electricity and gas.   Reductions are ap plied across total en ergy consumption and exclude unmetered supplies/open sites.  
+4 Based on 7 sites in the property portfolio which use natural gas.  Page 11 of 31 
+4 Net Zero Reduction Pathways  
+4.1 Scenario Modelling  
+The following scenarios have been modelled to define different Net Zero Reduction Pathways which the Council could 
+choose to follow or benchmark its performance against.   These scen arios are des igned to provide an overview of the 
+maximum potential for emissions savings across the Council’s portfolio and vehicle fleets.  
+Modelled Scenario  Details and Assumptions  
+Combined Maximum (CM)  Maximum possible reductions and savings from energy efficiency m easures implemented in 
+buildings ; 
+Maximum potential reductions from behavioural change across the property portfolio;  
+Maximum possible reductions in transport emissions from switching to elect ric vehicles and 
+achieving a 5% reduction in grey fleet mileage per annum ; 
+Grey Fleet emissions calculated to reflect an increase in hybrid/electric vehicles . 
+Building Maximum (BM)  Maximum possible reductions and savings from energy efficiency measures implemented in 
+buildings;  
+Maximum potential reductions from behavi oural change across the property portfolio;  
+Assumes transport fleet will still use fossil fuels until 20 29/30; 
+Grey Fl eet emissions calculated to reflect an increase in hybrid/electric vehicles based on an 
+average distance per annum.  
+Transport Maximum (TM) Maximum possible reductions in transport emissions from switching to electric vehicles and 
+achieving a 5% reduction in grey fleet mileage per annum ; 
+Grey Fleet emissions calculated to reflect an increase in hybrid/electric vehicles;  
+Assumes that no energ y efficiency measures have been implemented in Council buildings.  
+No Action (NA)  Assumes that no action will be taken to reduce emissions from the Council’s building portfolio, 
+the vehicle fleet will continue to utilise current fossil fuels and grey fleet  will continue at an 
+average distance per annum.  
+Emissions reductions from this scenario are from forecast changes in emissions factors ; the 
+continued decarbonisation of the UK electricity grid.  
+Science Based Target (SBT)  Reduction trajectory modelle d usi ng the Science Based Targets Initiative, based on their 
+Better than 2 °C Scenario5.  This approach considers  sectoral change (forecast growth, 
+decarbonisation of electricity grids) across different industry sectors.  
+All building energy scenarios  and Net Ze ro trajectories are based on the Council’s  location -based6 GHG emissions 
+footprint , assum ing that energy supplies are sourced from tariffs which utilise the current and future modelled 
+projections, of the energy supply mixture from the National  Grid.   Thes e are published by the National Grid as part of 
+their Future Energy Scenarios (FES) reporting ( http://fes.nationalgrid.com/ ).  
+4.2 Switching  to Low Carbon/ Renewable Energy Tariffs  
+Amber Valley Borough Council is pla nning to switch  its current energy supplies  to 100% low carbon or renewable 
+sourced electricity and natural ga s.  Switching to low carbon  or renewabl y sourced energy, will have a significantly 
+positive impact on the reduc tion of carbon across the Council’s  estate . 
+The potential for GHG emissions reduction from switching to low carbon/renewable energy tariffs , has been modelled 
+based on switching the Council’s  supply tariffs in their  2020/21 financial year.  It is important  to note that any 
+reductions can on ly be quantified for the Council’s market -based7 GHG emissions, and not location -based GHG 
+emissions .   For further definition on market and location based GHG emissions please see Annex 1.   
+For modelling results please see Section 5.3 of this report.
+5 The Science Based Targets Initiative’s ‘1.5°c Target Setting Tool’ is currently not available, and so a m ore ambitious SBT cou ld not be modelled.  
+6 GHG Emissions calculated based on average generation emissions from national supply grids.  
+7 GHG emissions calculated based on energy supply mixtures from specific energy tariffs.  Page 12 of 31 
+4.3 Overview of Reduction Pathways  
+The following scenarios were modelled to develop trajectories which the Council can follow or benchmark its performance against to meet their Net Zero Carbon emissions 
+target by 2030.  The chart below details an overview of all modelled scenarios and their results.  Results for each of these individual scenarios are presented in the following 
+pages. 
+All scenarios have a trajectory (shown as a line graph) and a GHG budget for each financial year.   Each scenario is designed to demonstrate the relative impacts 
+of implementing suggested reductions measures for the property portfolio and transport assets.  A combined scenario (assuming all transport and building energy 
+reduction measures are implemented)  has been modelled to demonstrate the maximum potential reductions that can be achieved. 
+Page 13 of 31 
+4.4 Combin ed Maximum Reduction Pathway  
+This scenario details the maximum possible reductions and savings from energy efficiency measures implemented across the property portfolio as well as reduction 
+in transport emissions (from switching to electric vehicles and reducing grey fleet mileage by 5% per annum).  To clearly demonstrate the relative impact of building 
+and transport reduction measures, it has been modelled that significant buildings emissions reductions will occur in 2021/22 and significant transport reductions will 
+occur in 2025/26 and 2029/30 
+Reporting 
+Year  GHG Budget
+ (tCO 2e) Y.o.Y Reduction
+(%) 
+18/19  520.85  0.0%  
+19/20  497.02  -4.58%
+20/21  485.71  -2.28%
+21/22  275.12  -43.36%
+22/23 271.48  -1.32%
+23/24  266.01  -2.01%
+24/25  256.82  -3.45%
+25/26  240.76  -6.25%
+26/27  239.47  -0.54%
+27/28  235.60  -1.62%
+28/29  236.49  0.38%  
+29/30  196.49  -16.91%
+Modelled 
+Reduction s 324.36  -62.3%FY 18/19
+520.85
+FY 29/30
+196.49
+050100150200250300350400450500550
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tCO2e)
+Financial YearSummary of Net Zero Reduction Pathway
+Combined Maximum (CM)
+CM TrajectoryModel Assumptions 
+✓ Building reduction measures implemented in FY 2021/22.
+✓ Maximum energy saving is achieved in the first -year post installation
+with energy consumption remaining at a lower level thereafter.
+✓ Transition of commercial fleet to EV in two phases - FY 2025/26 and FY
+2029/30 .
+✓ Grey fleet mileage reduces at 5% per annum with assumed increase in
+use of EV/hybrid vehicles.
+✓Page 14 of 31 
+4.5 Building Maximum  Reduction Pathway  
+This scenario details the maximum possible reductions and savings from implementing all energy efficiency measures (outlined in Section 3.1)  across the property portfolio.  
+As with the Combined Maximum scenario significant GHG emissions reductions are modelled to occur during the 2021/22 reporting year.  This scenario assumes that the 
+maximum amount of energy saving is achieved in the first year (post installation) and thereafter energy consumption remains at a lower level.   The graph and table below 
+outline both the trajectory and carbon budget for each reporting year in this scenario. 
+Reporting 
+Year  GHG Budget
+ (tCO 2e) Y.o.Y Reduction
+(%) 
+18/19  520.85  0.0%  
+19/20  497.02  -4.6%
+20/21  488.04  -1.8%
+21/22  278.01  -43.0%
+22/23  275.07  -1.1%
+23/24  269.75  -1.9%
+24/25  261.0 5 -3.2%
+25/26  262.65  0.6%  
+26/27  261.99  -0.3%
+27/28  258.72  -1.2%
+28/29  262.20  1.3%  
+29/30  259.47 -1.0%
+Modelled 
+Reductions  259.47  -50.2%FY 18/19
+520.85
+FY 29/30
+259.47
+050100150200250300350400450500550
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tCO2e)
+Financial YearSummary of Net Zero Reduction Pathway
+Building Maximum (BM)
+BM TrajectoryModel Assumption s 
+✓ Building reduction measures implemented in FY 2021/22.
+✓ Maximum energy saving is achieved in the first -year post installation
+with energy consumption remaining at a lower level thereafter.
+✓ Council transport fleets will continue to use fossil fuels.
+✓ Grey fleet mileage will remain at a similar level using fossil fuel vehicles.Page 15 of 31 
+4.6 Transport  Maximum Reduction Pathway  
+This scenario details the maximum possible reductions in transport emissions  (from switching to electric vehicles and reducing grey fleet mileage by 5% per annum).  The 
+graph and table below outline both the trajectory and carbon budget for each reporting year in this scenario.   For this scenario,  the transition of the commercial fleet t o 
+electric vehicles  (EV) is modelled as being completed in two distinct phases – the first in FY 2025/26  and the second in FY 2029/30 .   The composition of the Grey Fleet 
+(employee owned vehicles) is assumed to shift from  predominantly  fossil fuels to being mostly electric /hybrid vehicles by FY 2029/30.  
+Reporting 
+Year  Modelled GHG Budget
+ (tCO 2e) Y.o.Y Reduction
+(%) 
+18/19  520.8 5 0.0%  
+19/20  497.02  -4.6%
+20/21  485.71  -2.3%
+21/22  384.81  -20.8%
+22/23  381.50  -0.9%
+23/24  375.92  -1.5%
+24/25  357.81 -4.8%
+25/26  346.50  -3.2%
+26/27  342.70  -1.1%
+27/28  332.06  -3.1%
+28/29  333.91  0.6%  
+29/30  291.25  -12.8%
+Modelled 
+Reductions  229.58  -44.0%FY 18/19
+520.85
+FY 29/30
+291.25
+050100150200250300350400450500550
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tCO2e)
+Financial YearSummary of Net Zero Reduction Pathway
+Transport Maximum (TM)
+TM TrajectoryModel Assumptions  
+✓ Transition of commercial fleet to EV in two phases - FY 2025/26 and FY
+2029/30 . 
+✓ Grey fleet mileage reduces at 5% per annum with assumed increase in
+use of EV/hybrid  vehicles.
+✓ Maintenance fleet will continue to use fossil fuels.
+✓ Building energy reduction measures have not been implemented.Page 16 of 31 
+4.7 Science Based Targets Reduction Pathway  
+This scenario  has been modelled utilising the Science Based Targets  Initiative’s (SBTi)8 Better than 2°C Scenario.  The SBTI tool generates emissions reduction targets based 
+on forecast rates of change across many industry sectors and is  designed to provide a reduction pathway towards Net Zero carbon emissions by 2050.  W hilst there is not 
+currently a tool available specifically for the Public Sector, this scenario is based on existing tools for other industry se ctors , which closely align  with elements of the Council’s 
+emissions footprint.  
+8 https://sciencebasedtargets.org/  Reporting 
+Year  GHG Budget
+ (tCO 2e) Y.o.Y Reduction
+(%) 
+18/19  520.8 5 0.0%  
+19/20  498.26  -4.3%
+20/21  472.02  -5.3%
+21/22  454.43  -3.7%
+22/23  434.11  -4.5%
+23/24  411.66  -5.2%
+24/25  387.86  -5.8%
+25/26  360.15  -7.1%
+26/27  332.17  -7.8%
+27/28  304.99  -8.2%
+28/29  279.42  -8.4%
+29/30  255.91  -8.4%
+Modelled 
+Reductions  264.94  49.1%  FY 18/19
+520.85
+FY 29/30
+255.91
+050100150200250300350400450500550
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tCO2e)
+Financial YearScience Based Targets Net Zero Reduction Pathway
+Science Based Target (SBT)
+SBT TrajectoryPage 17 of 31 
+4.8 Science Based Targets Reduction Pathway – Detailed Overview  
+This chart below details the exact reduction trajectories for each of the individual elements of the Council’s  GHG emissions footprint which ha ve been modelled utilising the 
+Science Based Targets Initiative’s (SBTi) Better than 2°C Scenario.   
+18/19
+(baseline)19/20 20/21 21/22 22/23 23/24 24/25 25/26 26/27 27/28 28/2929/30
+(Target)
+Water 6.71 6.71 6.71 6.71 6.71 6.71 6.71 6.71 6.71 6.71 6.71 6.71
+Grey Fleet 17.41 19.27 15.78 15.23 14.71 14.20 13.71 13.15 12.62 12.10 11.59 11.09
+Natural Gas 78.55 78.48 65.94 62.00 58.17 54.47 50.88 46.97 43.20 39.55 36.01 32.59
+Commercial Vehicles 85.65 87.29 85.94 85.06 83.42 81.24 78.78 76.30 73.99 72.00 70.42 69.25
+Maintenance Fleet 90.22 87.79 85.47 83.03 78.37 71.87 64.06 55.50 46.04 36.64 28.05 20.73
+Electricity 242.31 218.72 212.18 202.40 192.72 183.17 173.72 161.52 149.61 137.99 126.64 115.54050100150200250300350400450500550GHG Emissions (tCO2e)Science Based Targets Trajectory
+(Better than 2 Degree Warming Scenario)Water Grey Fleet
+Natural Gas Commercial Vehicles
+Maintenance Fleet ElectricityPage 18 of 31 
+4.9 No Action Scenario  
+This scenario has been modelled assuming that the Council takes no action to reduce emissions from its property and transport assets.   This scenario is designed only for 
+reference to provide an overview of the likely emissions reductions through continued decarbonisation of the electricity grid as well as forecast changes in emissions factors 
+for other fuels and vehicle types until 2029/3 0. 
+Reporting 
+Year  GHG Budget
+ (tCO 2e) Y.o.Y Reduction
+(%) 
+18/19  520.85  0.0%  
+19/20  497.02  -4.6%
+20/21  488.04  -1.8%
+21/22  387.70  -20.6%
+22/23  385.09  -0.7%
+23/24  379.65  -1.4%
+24/25  362.03  -4.6%
+25/26  368.39  1.8%  
+26/27  365.22  -0.9%
+27/28  355.17  -2.7%
+28/29  357.61  0.7%  
+29/30  354.23  -0.9%
+Modelled 
+Reductions  166.62  -32.0%FY 18/19
+520.85
+FY 29/30
+354.23
+050100150200250300350400450500550
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tCO2e)
+Financial YearSummary of Net Zero Reduction Pathway
+No Action (NA)
+NA TrajectoryModel Assumptions  
+✓ Maintenance fleet will continue to use fossil fuels.
+✓ Building energy reduction measures have not been implement ed.
+✓ Modelled year on year change in National Grid (electricity) supply
+mixture based on Future Energy Scenarios (FES) assessment.
+✓ Modelled year on year change in gas and transport emissions factors
+based upon reductions seen  in published emissions factors datasets.Page 19 of 31 
+5 Carbon Reduction Action Plan – Council Buildings  
+Building reduction measures identified in Section 3 and modelled reduction trajectories listed in Section 4 , are now used t o define the potential impact upon GHG emissions 
+from  the Council’s  property portfolio.  These measures and their modelled benefits can inform the ongoing carbon reduction actions  which can be reviewed regularly to 
+ensure the Council is on track to meet their Net Zero target . 
+5.1  Site Electricity Consumption  
+Electricity consumption accounts for the majority of GHG emissions from the property portfolio.  The following energy reduction and efficiency measures (also outlined in the 
+chart below ) have been identi fied as being the most applicable to the estate.  As with all building reduction measures, maximum reductions are modelled to occur only in the 
+year following installation.  
+Electricity GHG Reduction Measures  
+LED Lighting Upgrade/Retrofi t – 93.41 tCO 2e potenti al reduction 
+The replacement  of existing  lighting  and  ongoing  lighting  replacement 
+across  the property  portfolio  will  increase  energy  efficiency  and  reduce 
+consumption. 
+Installatio n of PIR senso rs – 28.74 tCO 2e potentia l reduction 
+The installation of passive infra-red sensors (PIR) in low occupancy areas 
+of  buildings will reduce unnecessary electricity consumption from 
+lighting/equipment being left on. 
+Installatio n of Solar PV 
+Using solar PV to generate renewable  energy to supply some or all of a 
+site’s energy demand will reduce reliance on grid electricity and 
+reduce emissions. 
+Tighte r HVAC Control s & Energ y efficien t equipmen t – 1 .37 tCO 2e 
+potenti al reductio n (each) 
+Greater control over existing HVAC systems and its usage will enable the 
+Council  to reduce  unnecessary  energy  consumption  and  reduce  GHG 
+emissions.  Replacing older less energy efficient equipment will also help 
+reduce consumption an d the Council’s emissions. 
+Behavioural Change – 5.63 tCO 2e potential reduction 
+Encouraging  employees to use lighting and equipment more 
+efficien tly will help to increas e ene rgy efficien cy an d contribute 
+toward s redu cing the Council’ s GHG emissions. FY 29/30
+92.15FY 18/19
+242.31
+FY 29/30
+35.02
+0306090120150180210240270
+18/19 29/30GHG Emissions (tCO2e)
+Financial YearSite Electricity GHG Reduction Measures
+LED Lighting PIR
+Sensors
+Energy Efficient Equipment HVAC
+Controls
+Solar PV Behavioural Change
+No Action All Measures ImplementedPage 20 of 31 
+5.2 Site Gas Consumption  
+Gas consumption accounts for a significant proportion of the Council’s GHG emissions from its property portfolio.   Focused across seven sites in the portfolio, t he following 
+energy reduction and efficiency measures (also outlined in the chart below) have been identified as being the most applicable  to the Council’s  estate.  As with all building 
+reduction measures, max imum reductions are modelled to occur only in the year following installation . 
+Gas GHG Reduction Measures 
+Heating Zone Control s – 17.67 tCO 2e potential reduction 
+Setting  up heating  zones  within  buildings  will  ensure  that 
+unoccupied or low occupancy areas are not being heated 
+unnecessarily, reducing  heating demand.  
+Installation of a BMS – 10.60 tCO 2e potential reduction 
+The installation of a BMS at larger sites will ensure that 
+heating  is being used appropriately  and  can  be more  easily 
+managed. 
+Central Heating Controls – 6.28 tCO 2e potential reduction 
+Greater control over existing central heating systems and its 
+usage will enable the Council to reduce unnecessary 
+energy consumption and reduce GHG emissions.   
+Building Fabric Insulation – 2.12 tCO 2e potential reduction 
+Ensuring that buildings are properly insulated will help to 
+increase their thermal efficiency by retaining more heat and 
+reducing subsequent heating demand. 
+Behavioural Change – 1.13 tCO 2e potential reduction 
+Helping employees to use heating more effectively will help 
+to increase energy efficiency, further reduce unnecessary 
+heating use, and contribute towards reducing the Council’s 
+GHG emissions. 78.2578.55
+40.62
+0102030405060708090
+18/19 29/30GHG Emissions (tCO2e)
+Financial YearSite Gas GHG Reduction Measures
+Heating Zone Controls Installation of BMS Central Heating Controls Building Fabric Insulation
+Behavioural Change only No Action All Measures ImplementedPage 21 of 31 
+5.3 Switching to Low Carbon/Renewable Energy Tariffs  
+The impact of switching to low carbon/renewable energy tariffs for the Cou ncil’s property and supply portfolio  in FY 2020/21,  has been modelled belo w, based on the No 
+Action and Building Maximum  Scenarios.  Modelled reduction results only relate to market -based GHG emissions rather than location -based GHG emissions (as used in o ther 
+previous scenarios) .  To demonstrate relative GHG emissions impacts, location based  GHG emissions (using National Grid average s) are also presented.  
+For guidance both market and location based  GHG emissions footprints should be reported in conjunction , to demonstrate relativ e impacts of choosing low 
+carbon/renewable ene rgy tariffs.  
+Building  Maximum Scenario (all energy reduction measures implemented)  
+Modelled Scenario  
+Scenario models the impact of switching all electricity supplies 
+(building and non -building) to low carbon/renewable tariffs. 
+This switch can take place at any time subject to approval and 
+available finance via Crown Commercial Services-the public 
+sector energy framework provider.
+The results show combined GHG emissions footprints which 
+include e lectricity, natural gas, and water consumpt ion GHG 
+emissions  (excludes transport) , based upon the modelled 
+Energy Maximum Reduction Pathway . 
+The scenario assumes that the electricity tariff is backed up with 
+Renewable Energy Guarantees of Origin (REGO)  Certificates.  
+For FY 29/30 the Council’s c ombined market -based GHG 
+emissions footprint for energy use, may be up to 73% lower than 
+the location -based (grid average) equivalent. 
+Should the Council be able to procure a low carbon/renewable 
+energy tariff f or natural gas, further reductions in marke t-
+based emissions can be achieved. achieved (black dashed line).  
+This trajectory has been modelled based on Biogas conversion 
+factor (and subsequent forecasting) sourced from the UK 
+Government’s Conversion Factors for Company Reporting  FY 29/30:
+47.33 tCO2eFY 29/30:
+82.35 tCO2e
+050100150200250300350
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tonnes CO2e)
+Financial YearLow Carbon/Renewable Energy Tariffs -Building Maximum Scenario
+(Market -Based vs Location -Based GHG Emissions)
+Water GHG Emissions (Market-Based)
+Natural Gas GHG Emissions (Market-Based)
+Electricty GHG Emissions (Market-Based)
+Combined GHG (Market Based)
+Combined GHG Emissions (Location-Based)
+Combined GHG Emissions (MB-Gas)Page 22 of 31 
+No Action Scenario ( excluding transport - no energy reduction measures implemented ) 
+Modelled Scenario  
+Scenario  models  the impact  of switching  all electricity  supplies 
+(building and non-building) to low carbon/renewable tariffs.  
+This switch could take place subject to approval , in 2020/21 
+financial year, via the public sector framework arrangement we 
+have with Crown Commercial Services (CCS). 
+The results show combined GHG emissions footprints which 
+include electricity, natural gas, and water consumption GHG 
+emissions (excludes transport), based upon the modelled No 
+Action Scenario.    
+The scenario assumes that the electricity tariff is backed up with 
+Renewable Energy Guarantees of Origin (REGO) Certificates. 
+For FY 29/30 the Council’s combined market -based GHG 
+emissions footprint for energy use, may be up to 52% lower 
+than the location-based (grid average) equivalent.   
+Should the Council be able to procure a low carbon/renewable 
+energy tariff for natural gas, further reductions in market-
+based emissions can be achieved (black dashed line).   This 
+trajectory has been modelled based on Biogas conversion factor 
+(and subsequent forecasting) sourced from the UK 
+Government’s Conversion Factors for Company Reporting.  FY 29/30
+84.96 tCO2eFY 29/30:
+177.11 tCO2e
+050100150200250300350
+18/19
+(baseline)19/20 20/21 21/22 22/23 23/24 24/25 25/26 26/27 27/28 28/29 29/30
+(Target)GHG Emissions (tonnes CO2e)
+Financial YearLow Carbon/Renewable Energy Tariffs -No Action Scenario
+(Market -Based vs Location -Based GHG Emissions)
+Water GHG Emissions (Market-Based)
+Natural Gas GHG Emissions (Market-Based)
+Electricty GHG Emissions (Market-Based)
+Combined GHG (Market Based)
+Combined GHG Emissions (Location-Based)
+Combined GHG Emissions (MB - Gas)Page 23 of 31 
+6 Carbon Reduc tion Action Plan – Council Transport  
+The following opportunities  have been identified  to reduce GHG emissions from the Council’s owned vehicle fleets and well as from travel completed by employees using 
+their own vehicles (Grey Fleet).   It is recommended  that t hese measures and their modelled benefits are used to inform ongoing carbon red uction actions in this area which 
+are reviewed regularly to ensure the Council is  on track to meet their  Net Zero target.  
+Transport GHG Reduction Measures  
+Replacing commercial vehicles with EV alternatives :  
+52.84 tCO 2e Potential reduction  
+Replacing the  commercial fleet with EV alternatives will help the 
+Council to significantly reduce transport GHG emissions.   
+The scenario shown in the chart is modelled based on a phased 
+replacement of the  commercial fleet (FY 2025/26 and FY 2029/30) . 
+Replacing commercial vehicle s with E V alternative s and reducing 
+Grey Fleet mileage by 5% per annum: 
+62.98 tCO 2e potential reduction 
+In addition, to replacing the commercial fleet with EVs the Council may 
+be able  to reduce  the  amount  of mileage  being  completed  by 
+employees  by  encouraging  teleconferencing,  remote  working 
+opportunities, and behavioural change.   
+The model assumes that there will be a steady increase in the numbers 
+of hybrids and EVs within the Grey Fleet, which will also help to reduce 
+GHG emissions. 
+It is recommended that the Council identifies future opportunities to 
+reduce GHG emissions from maintenance vehicles (i.e. tractors, street 
+sweepers, diggers) by using alternative fuels or by switching to EV 
+alternatives (where feasible). 119.88
+114.14193.28
+177.12
+020406080100120140160180200
+18/19
+(baseline)29/30
+(Target)GHG Emissions (tonnes CO2e)
+Financial YearTransport GHG Emissions Reduction Trajectory Pathways
+(Combined)EV Only
+EV & Grey Fleet
+No Action
+EV Only Trajectory
+EV+G Trajectory
+NA TrajectoryPage 24 of 31 
+7 Carbon Offsetting/Sequestration  
+Amber Valley  Borough Council is currently reviewing opportunities to offset residual GHG emissions to achieve and maintain Net Zero Carbon  from 2030 onwards .  The Council 
+has begun implementing  their  ‘Forest of the Future’ programme , with the first phase (5,802 trees  planted  over 2.5 hectares ) completed in April 2020 .  The Council is on track 
+to complete  the planting of  16 hectares of woodland  planted  across the Borough  by 2025.  This programme will not only help to mitigate climate change but also create a 
+network of community woodlands to improve the local environment.  
+7.1 Amber Valley’s Forest for the Future  
+The Forest for the Future programme aims to plant between 2,500 and 5,000 trees per year over 16 hectares of Council owned land and open spaces, across the Borough. 
+This planting will form a network of community woodlands and orchards (where appropriate) which will provide valuable recreat ional and wildlife area s in addition to 
+sequestering  a proportion of  the Council’s GHG emission s. 
+Carbon Sequestration Potential  
+Using the Woodland Carbon Code (a voluntary UK 
+standard) methodology9, planting 16 hectares of native 
+mixed woodland species has the potential to se quester 
+as much as 1, 680 tonnes of carbon dioxide within 10 
+years of planting (assuming a spacing distance o f 1.5m 
+between trees and no substantial thinning).  
+Sequestration of carbon dioxide  from the atmosphere  is 
+proportionate to the rate at which tre es are planted and 
+the spaces between saplings.  
+The Forest for the Future programme, by 2050, 
+depending on the rate of tree planting, has the potential 
+to sequester up to  11,000 tonnes of carbon dioxide  from 
+the atmosphere.  
+9 https://woodlandcarboncode.org.uk/  
+Figure 4  - Carbon sequestration potential (tonnes CO 2) for 16 
+hectares of UK native trees planted over 5 years (c.3.4 ha per 
+annum between 2020/21 and 2024/25)  Page 25 of 31 
+Carbon Sequestration Potential and GHG Emissions  – No Action Scenario  
+The chart below shows the modelled Annual GHG Emissions under the ‘no action scenario’  (Orange Bars) against the modelled Annual Carbon Sequestration Potential (Green 
+Bars). This chart shows that if the Forest for the Future programme is fulfilled then by 2030, Ambe r Valley Borough Council will be sequestering more carbon th at it emits on 
+an annual basis. For example, in 2030 the Annual GHG Emissions will be  354. 23 tCO 2e and the Annual Carbon Sequestration will be 1,680.99  tCO 2.    
+Figure 5 - Carbon sequestration potential of planting 16 hectares of  UK native trees planted over 5 years (based on No Action scenario) compared with annual GHG emissions. 2024/25:
+362.03 tCO2e 2029/30:
+354.23 tCO2e2024/25:
+450.48 tCO22029/30:
+1,680.89 tCO2
+02004006008001,0001,2001,4001,6001,800
+2018/19
+(Year-1)2019/20
+(Year 0)2020/21
+(Year 1)2021/22
+(Year 2)2022/23
+(Year 3)2023/24
+(Year 4)2024/25
+(Year 5)2025/26
+(Year 6)2026/27
+(Year 7)2027/28
+(Year 8)2028/29
+(Year 9)2029/30
+(Year 10)Carbon Sequestration Potential/ Cumulative GHG Emissions (tonnes 
+CO2e) Annual Carbon Sequestration Potential vs. Annual GHG Emissions (No Action Scenario)
+(16 Hecatres planted over 5 years)
+Annual GHG Emissions (tCO2e - No Action Scenario)
+Sequestration Potential (tCO2)
+Tree Planting Programme 
+2019/20 -2024/25Page 26 of 31 
+Amber Valley Borough Council should recognise that although by 2030 the Council will be sequestering more carbon than it produces; it will still be producing GHG 
+emissions on an annual basis which have consequential impacts on the climate. The chart below uses the same information as the previous page but has been produced to 
+demonstrate the Annual GHG Emission (Orange Bars) that are still being emitted, versus the Annual Carbon Sequestration Potential (Green Bars). Therefore, the Council 
+should still seek to prioritise a combination of decarbonisation (from buildings and transport) and increasing renewables, along with sequestration activities.   
+Figur e 6 - Carbon sequestration potential of planting 16 hectares of UK native trees planted over 5 years (based on No Action scenario) compared with annual GHG emissions. 2024/25:
+-450.48 tCO2
+2029/30:
+-1,680.89 tCO22024/25:
+362.03 tCO2e2029/30:
+354.23 tCO2e
+-2,000-1,500-1,000-50005001,000
+2018/19
+(Year-1)2019/20
+(Year 0)2020/21
+(Year 1)2021/22
+(Year 2)2022/23
+(Year 3)2023/24
+(Year 4)2024/25
+(Year 5)2025/26
+(Year 6)2026/27
+(Year 7)2027/28
+(Year 8)2028/29
+(Year 9)2029/30
+(Year 10)Carbon Sequestration Potential / Annual GHG Emissions
+(tonnes CO2e) Annual Carbon Sequestration Potential vs. Annual GHG Emissions (No Action Scenario)
+(16 hectares planted over 5 years )
+Annual GHG Emissions (tCO2e - No Action Scenario)
+Sequestration Potential (tCO2)
+Tree Planting Programme
+2019/20 -2024/25 
+ 
+ Page 27 of 31 
+ 
+Carbon Sequestration Potential and GHG Emissions  – Combined Ma ximum Scenario  
+The chart bel ow shows the modelled Annual GHG Emissions under the ‘combined maximum  scenario’  (Blue  Bars) against the modelled Annual Carbon Sequestration Potential 
+(Green Bars). This chart shows that if the Forest for the Future programme i s fulfilled then by 2030, Am ber Valley Borough Council will be sequestering more carbon that it 
+emits on an annual basis. For example, in 2030 the Annual GHG Emissions will be 196.49  tCO 2e and the Annual Carbon Sequestration will be 1,680.89 tCO 2.    
+ 
+Figure 7 - Carbon sequestration potential of planting 16 hectares of UK native trees over 5 years (based on Combined Maximum scenario)  compared with annual GHG emissions.   2023/24:
+266.01 tCO2e
+2029/30:
+196.49 tCO2e2023/24:
+294.64 tCO22029/30:
+1,680.89 tCO2
+02004006008001,0001,2001,4001,6001,800
+2018/19
+(Year-1)2019/20
+(Year 0)2020/21
+(Year 1)2021/22
+(Year 2)2022/23
+(Year 3)2023/24
+(Year 4)2024/25
+(Year 5)2025/26
+(Year 6)2026/27
+(Year 7)2027/28
+(Year 8)2028/29
+(Year 9)2029/30
+(Year 10)Carbon Sequestration Potential/ Cumulative GHG Emissions 
+(tonnes CO2e) Annual Carbon Sequestration Potential vs. Annual GHG Emissions (Combined Maximum Scenario)
+(16 Hectares planted over 5 years)
+Annual GHG Emissions (tCO2e - Combined Maximum Scenario)
+Sequestration Potential (tCO2)
+Tree Planting Programme 
+2019/20 -2024/25 
+ 
+ Page 28 of 31 
+ 
+Amber Valley Borough Council should recognise that although b y 2030 the Council will be s equestering more carbon that it produces; it will still be producing GHG emissions 
+on an annual basis which have consequential impacts on the climate. The chart below uses the same information as the previous  page but has been p roduced to demonstrate 
+the Annual GHG Emission (Blue Bars) that are still being emitted, versus the Annual Carbon Sequestration Potential (Gr een Bars). Therefore, the Council should still seek to 
+prioritise a combination of decarbonisation (from buildings and transpo rt) and increasing renewables, along with sequestration activities  
+ 
+Figure 7 - Carbon sequestration potential of planting 16 hectares of UK native trees planted over 5 years (based on Combined Maximum  scenario) compared with annual GHG emission s 2023/24:
+-294.64 tCO2
+2029/30:
+-1,680.89 tCO22023/24:
+266.01 tCO2e 2029/30:
+196.49 tCO2e
+-2,000-1,500-1,000-50005001,000
+2018/19
+(Year-1)2019/20
+(Year 0)2020/21
+(Year 1)2021/22
+(Year 2)2022/23
+(Year 3)2023/24
+(Year 4)2024/25
+(Year 5)2025/26
+(Year 6)2026/27
+(Year 7)2027/28
+(Year 8)2028/29
+(Year 9)2029/30
+(Year 10)Carbon Sequestration Potential / Annual GHG Emissions
+(tonnes CO2e) Annual Carbon Sequestration Potential vs. Annual GHG Emissions (Combined Maximum Scenario)
+(16 Hectares planted over 5 years)
+Annual GHG Emissions (tCO2e - Combined Maximum Scenario)
+Sequestration Potential (tCO2)
+Tree Planting Programme 
+2019/20 -2024/25 
+ 
+ Page 29 of 31 
+ 
+8 Conclusion/Next Steps  
+Amber Valley Borough Council will determine an appropriate level of ambition to achieve their  Net Zero Carbon 
+aspiration .  The Council acknowledge s that there will be an appreciable amount of cumulative residual emissions  
+resulting  from the ir operations between 2018/19 and 2029/30 .  The implementation of the Council’s Forest for the 
+Future  (16 hectares of tree planting)  programme  will mean that by 2030 the Council will be sequestering more carbon 
+then it emits on an annual basis, ho wever it will still be producing GHG emissions on an annual basis which have 
+consequential impacts on the climate.    
+The Council should seek to prioritise a combination of decarbonisation  (from buildings and transport) and increasing 
+renewables, along wit h sequestration activities.  It is recommended that t he Council now undertake s further detailed 
+analysis of energy reduction measures within their buildings and ascertain the most cost -effective solutions which can 
+be taken forward. Similarly, budgets must  be allocated to both building and vehicle upgrades (including electric vehicle 
+charging infrastructure).  
+Amber Valley Borough Council should use either the Combined Maximum or Science Bas ed Target scenarios as a basis 
+to develop a more detailed action pla n on emission reduction initiatives. This will help to keep the Council on track to 
+and monitor their  contribution towards the mitigation of climate change, embed resilience throughout their 
+operations and upkeep a high level of public service over the com ing years.  
+   
+ 
+ Page 30 of 31 
+ 
+Annex 1 - Terms and Definitions  
+Behavioural Change (BC): refers to a suite reduction measures based on the modification of the behaviour of 
+employees and/or building users.  Typically, these can include energy efficiency measures (‘Switch it o ff’ campaigns, 
+better understanding of heating and ventilation control s) and changes in work practices (increased home/remote 
+working to reduce transport emissions).  To have greatest effect these measures need to be implemented with other 
+GHG emissions re duction activities and can be re -enforced with regular training and reminder s.  
+Carbon Budget:  the amount of greenhouse gases that could be emitted globally before their concentrations reached 
+dangerous levels.  
+Carbon Sequestration:  describes long -term sto rage of carbon dioxide from the atmosphere to slow or reverse 
+atmospheric CO 2 pollution and to mitigate and reverse global warming . 
+Climate Emergency: Climate Emergency refers both to the state of emergency and to a specific approach to tackling 
+climate ch ange, considering  the scale and speed required to restore a safe climate.  
+Emission Boundary:  an organisation’s emissions boundary defines which emissions are included in their greenhouse 
+gas inventory and reporting (and which are excluded).  
+Fossil Fuels:  non-renewable hydrocarbons formed within the earth over thousands of years ( i.e. coal, gas, petrol) that 
+create greenhouse gases when used as a source of energy.  
+Greenhouse gases (GHG) emissions:  carbon dioxide, methane, nitrous oxide,  and other gases that  contribute to 
+climate change , commonly expressed in units of carbon dioxide  equivalent (CO 2e). 
+Location -based GHG Emissions Reporting  describes the standard form of GHG emissions calculation which utilises 
+grid average  emissions factors, based upon the av erage supply mixture for National Grid electricity and gas, to 
+calculate emissions from energy use.  This approach does not consider the benefits  of switching energy to low 
+carbon/renewable energy tariffs.  
+Market -based GHG Emission Reporting:  market -based reporting reflects emissions from energy tariffs (electricity and 
+gas only) that organisations have purposefully chosen.  The methodology derives emission factors from sources such 
+as energy attribute certificates (also  known as REGOs), direct contracts, a nd supplier -specific emissions rates regarding 
+the generation supply mixture of specific tariff or tariffs.  The market -based approach allows organisations to account 
+for the impact of switching to low carbon/renewable energy tariffs upon their GHG emissio ns targets.  Market -based 
+GHG emissions can only be reported in conjunction with location -based GHG emissions . 
+Net Zero Emissions:  when an organisation or activity balances a measured amount of greenhouse gas across a d efined 
+sector(s) with an equivalent a mount of carbon sequestration, offsets,  or carbon credits.  
+Renewable Energy Guarantees of Origin (REGO) Certificates:  energy attribute certificates which certify that specific 
+energy tariffs are sourced from 100% renew able or low carbon sources.  
+ 
+  
+ 
+ Page 31 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GEP Environmental Ltd  
+ 
+ 
+Unit 5, Basepoint Business Centre, 1 Winnall Valley Road, Winchester, SO23 0LD  
+64A Queen Street, Edinburgh, EH2 4NA  
+Suite A, 18 Grove Place, Bedford, MK40 3JJ  
+Unit 6 Mona Industrial Estate, Gwalchmai, Anglesey, LL65 4RJ  
+ 
+ 
+T: 01962 600205  
+http://www.gepenv.co.uk/  

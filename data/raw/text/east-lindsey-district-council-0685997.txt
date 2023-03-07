@@ -1,0 +1,826 @@
+Carbon Reduction PlanEast Lindsey District Council 
+August 2020
+Context
+Growing acknowledgement of the latest science and recommendations from the Committee on Climate 
+Change have resulted in unprecedented recognition of the global climate emergency and the need to act 
+urgently in order to reduce carbon emissions to limit further global warming and associated environmental 
+impacts. Global initiatives are now focused on limiting warming to well below 2oC, aligning to the pledges 
+outlined in the Paris Agreement. Despite this, warming continues, with the impacts being felt both 
+nationally and internationally. Across the UK, continued warming is projected to make winters warmer and 
+summers hotter and drier. Sea levels will also continue to rise and threaten many coastal communities 
+across the country. Many industrial and farming processes will also be affected by a continuation of rising 
+temperatures, exacerbating impacts that warming will have on communities across the UK. 
+In 2019, the UK Government became the first major economy in the world to pass laws to end its 
+contribution to global warming by 2050 by setting a target of achieving net zero emissions by 2050. Local 
+authorities have a crucial role to play in developing effective pathways towards reducing their emissions, 
+which. If successfully achieved, will help to reduce climate impacts at both the local and national scale as 
+well as delivering public health co -benefits resulting from cleaner air and leading a more active lifestyle .
+East Lindsey District Council recognises the significant role it can play in helping to accelerate the national 
+transition towards developing a low carbon economy and has included a strategic aim within its new 
+corporate strategy to adapt to meet the challenge of a changing natural environment . This report has 
+been commissioned by the Council to help achieve their carbon reduction targets.
+Executive summary 3Contents
+Section 1: Council target 10
+Section 2: Carbon footprint 12
+Section 3: Carbon reduction opportunities 21
+Section 4: Governance and engagement 34
+Section 5: Monitoring and reporting 36
+Appendices 38
+3Executive summaryExecutive summary
+•This Carbon Reduction Plan forms a key step in East Lindsey District Council’s (ELDC) 
+response to the climate crisis and sets out a number of strategic actions that ELDC 
+should work towards in order to achieve their carbon reduction target. ELDC previously 
+developed a Carbon Reduction Plan in 2009, which has now been updated to reflect the 
+Council’s new climate commitments.
+•To lead by example and encourage the District as a whole to undertake similar steps, 
+ELDC is committing to an ambitious target of reducing its carbon emissions to net zero 
+by 2040, with a minimum emissions reduction of 45% by 2027. 
+•Achieving the target will reduce emissions from 2,583 tCO2e in 2019 to 1,421 tCO2e/year 
+in 2027, before progressing to net zero by 2040 . Moving towards this ambition will 
+solidify ELDC’s recognition of the wider climate crisis we are all facing, whilst showing 
+the Council’s local leadership role in climate change action.
+•This action plan suggests a number of projects that, alongside the expected 
+decarbonisation of the national electricity grid, will contribute to the Council achieving 
+its carbon reduction target. 
+Overview of the World Resource Institutes GHG Protocol accounting methodology
+Scope 1 •Gas consumption for space and water 
+heating in buildings •Council vehicle fleet fuel consumption
+Scope 2 •Electricity consumption in buildings
+Scope 3 •Emissions from employee commuting
+•Business travel in non -Council fleet vehicles•Third -party disposal and treatment of 
+waste generated in Council -controlled 
+operations Emissions included within the carbon 
+footprint and targeted with projects:4Carbon footprint overviewExecutive summary
+East Lindsey District Council’s carbon footprint for the calendar year 2019 was 
+calculated to be 2,583 tCO2e. Six emissions categories make up this total carbon 
+footprint:
+1. Fuel consumption in the Council’s fleet (1,336 tCO2e)
+2. Gas consumption in buildings (196 tCO2e)
+3. Electricity consumption in buildings (463 tCO2e)
+4. Employee commuting (473 tCO2e)
+5. Business travel (112 tCO2e)
+6. Waste emissions (4 tCO2e)
+•The carbon reduction target set by the Council contains all of the stated 
+emission categories here, including selected scope 3 emissions (business 
+travel, waste and commuting) from sources outside of the Council’s direct 
+operational control.
+•These Scope 3 emissions make up 22% of the total footprint. The Council 
+will therefore have to integrate carbon management in its interactions with 
+contractors, employees and operators to achieve its decarbonisation 
+targets, as well as focusing on the assets under their operational control.
+ELDC emissions by scope
+59% 19%22%
+Scope 1 Total Scope 2 Total Scope 3 Total
+195.51,336.2
+462.9
+111.8
+3.7473.2
+050010001500
+Electricity Gas Fleet Business
+TravelWaste Commuting
+Scope 1 Scope 2 Scope 3Emissions by source / tCO2e55
+Carbon reduction opportunities overviewExecutive summary
+To achieve the first emissions reduction target of 45% by 2027 the Council needs to reduce scope 1, 2 and selected scope 3 em issions by approximately 194 
+tCO2e /year. The Council will then have to decarbonise at a rate of 109 tCO2e /year between 2027 and 2040 in order to achieve net -zero by 2040. The following 
+target areas have been identified across the Council, with relevant reduction opportunities identified for each. These projec ts will assist ELDC on the pathway 
+towards the goal:
+The projects identified in this plan have the potential to reduce ELDC emissions from 2,583 tCO2e/year to just 15 tCO2e/year by 2040. 
+The total estimated cost to implement the above projects is approximately £301,100, not including any costs associated with i mprovements required to 
+decarbonise the refuse Heavy Goods Vehicle (HGV) fleet or replacing Tedder Hall with a more energy efficient office site. The project proposals in this plan have 
+been based on high level and remotely accessed information and benchmarks. All projects will require full feasibility assessm ents to be undertaken to establish 
+a detailed cost -benefit analysis.
+Upgrading street and 
+promenade lighting under 
+ELDC’s control to LED and 
+introducing advanced 
+controls Public lighting 
+Replacing existing internal 
+combustion engine vehicle fleet 
+with battery powered electric 
+vehiclesFleet electrification
+Roll out of regular driver 
+training and 
+comprehensive telematics Fleet management
+Encouraging low carbon 
+transport modes and mileage 
+management strategiesCommuting and travel
+Roll out of energy 
+efficiency and renewable 
+energy measures Council buildings
+Centralised or remote 
+control and monitoring of 
+HVAC* systemsCouncil offices
+*Heating Ventilation AirConditioning (HVAC)66
+050010001500200025003000
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040
+Project Emissions Target Emissions BAU EmissionsOverview of the Carbon Reduction PathwayExecutive summary
+Projection of total ELDC business as usual emissions, the effect of proposed projects and the ‘net -zero by 2040’ target
+NB. projected UK grid electricity decarbonisation is included within the BAU pathway
+R1 –Energy Management
+R2 –Mileage ManagementR3 –Driver Training 
+R4 –Remote HVAC* SystemsR5 –Fan and Pump Upgrades
+R6 –LEDsR7 –Vehicle Fleet Electrification
+R8 –Tedder Hall & Skegness Town 
+Hall to be replacedR9 –Space Heating Electrification
+R10 –Refuse Fleet Electrification
+R1, R2, R3
+R4, R8 R5 R6R7 R9
+R10
+2027 
+target
+*Heating Ventilation AirConditioning (HVAC)77
+Greenhouse Gas Removals
+Meeting ELDCs net -zero 2040 target will need more than just extensive cuts to emissions. It will also require the 
+active removal and storage of Greenhouse Gases (GHGs) from the atmosphere in a process known as GHG 
+removal. GHG removals are a carbon offset mechanism for cancelling out GHG emissions through anthropogenic 
+methods. These include m ethods such as growing forests, enhancing mineral weathering and direct capture of 
+CO2 from the air. 
+ELDC has committed to a net-zero target, which requires any residual emissions to be addressed using 
+greenhouse gas (GHG) removals only. This is in contrast to a carbon neutral target under which avoided 
+emissions carbon offsets (e.g. investing in renewable energy projects) are also permissible.
+The exact level of GHG removals required by ELDC is still not clear and guidance is expected to progress between 
+now and 2030. (The World Resource Institute and the Carbon Trust are developing a new accounting standard 
+for GHG removal, which is due for public comment in 2021). It is recommended that the Council agree on several 
+principles around which a specific GHG removal strategy can be built as the sector develops. Any strategy should 
+include the principles of: 
+a. Reductions before removal. GHG removal should only be explored after efforts to achieve reductions within 
+an organisation’s emissions boundary have been fully explored.
+b. Additionality. The reductions achieved should be additional to what would have happened in the absence of 
+the project.Executive summary
+888
+Next steps
+Building on the analysis and suggestions provided throughout this action plan, it is now important for ELDC to 
+conduct a further, more detailed feasibility assessment of individual project opportunities. This will ensure 
+that the Council is able to quantify appropriately and take forward more confidently the provisional 
+opportunities identified here. Considering the current emissions ‘hot spots’ (certain Council -owned buildings 
+and fleet), ELDC should prioritise and coordinate efforts towards these emissions sources in the first instance, 
+using the contents of this Carbon Reduction Plan for further iterations of project development. 
+The Council should use the initial quantifications provided (energy, carbon and cost -saving potential) as a 
+building block for the development of further detailed business cases going forward. The information shown 
+in this plan should be clearly communicated -along with explanation of the limitations to what has been 
+done -and shared with key decision makers across the organisation.
+Putting in place an early immediate action plan to build on the findings of this Carbon Reduction Plan will 
+help to ensure carbon reduction remains a key part of the Council’s agenda going forward, also allowing the 
+necessary budgets and organisational/governance structures to be developed accordingly. Executive summary
+9Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+1010Section 1: Council targetSection 1: Council target
+East Lindsey District Council has set a target of reducing its carbon emissions to net zero by 2040, with a 
+minimum emissions reduction of 45% by 2027 . This target covers a range of emissions sources that are under 
+both direct and indirect control of the Council (Table 1). 
+The ambition of East Lindsey District Council’s carbon reduction target demonstrates the Council’s intention to 
+act against the causes and impacts associated with climate change. The Council must now work towards reducing 
+its carbon footprint in order to achieve its targets, building and accelerating on the emissions reductions that 
+have previously been achieved across the organisation. This plan therefore details initial actions and key 
+mechanisms required in order to work towards reducing emissions by at least 45% by 2027. It builds on the 
+Carbon Reduction Plan developed by ELDC back in 2009 and reflects the Council’s newly declared climate 
+commitments, progress and latest developments. ​
+The first step in developing this action plan is establishing an up -to-date carbon baseline, particularly as some of 
+this data has not been collected previously for ELDC. This baseline provides the reference from which to start a 
+full analysis of the current emissions, their magnitude and who is responsible for them.
+Scope 1 •Natural gas
+•Vehicle fleet
+Scope 2 •Electricity
+Scope 3 •Operational waste
+•Business travel
+•Employee commuting
+Table 1: Footprint boundary for East Lindsey District 
+Council’s net zero target
+10Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+1212Section 2: Carbon footprint
+East Lindsey District Council has set a target of reducing its carbon emissions by at least 45% by 2027, as well as endeavour ingto become net -zero carbon by 
+2040. These targets cover emissions sources that are under direct and indirect control of the Council (Table 1, previous page ). 
+This section provides an inventory of ELDC greenhouse gas emissions for the calendar year 2019 –the ‘baseline’ against which fu ture progress will be evaluated.
+Scope
+ELDC’s footprint has been calculated according to the World Resources Institute (WRI) 
+Greenhouse Gas (GHG) Protocol, and aligns to the following accounting definitions: 
+•Direct GHG emissions are emissions from sources that are owned or controlled by the 
+reporting entity
+•Indirect GHG emissions are emissions that are a consequence of the activities of the reporting 
+entity, but occur at sources owned or controlled by another entity
+The GHG Protocol further categorises these direct and indirect organisational emissions into 
+three broad scopes (Figure 1):
+•Scope 1: All direct GHG emissions
+•Scope 2: Indirect GHG emissions from consumption of purchased electricity, heat or steam
+•Scope 3: Other indirect emissions, such as the extraction and production of purchased 
+materials and fuels, transport -related activities in vehicles not owned or controlled by the 
+reporting entity, electricity -related activities not covered in Scope 2 (e.g. transmission and 
+distribution losses) , outsourced activities, waste disposal, etc.Section 2: Carbon footprint overview
+Figure 1: Overview of the World Resource Institute’s GHG Protocol accounting methodology1313
+Section 2: Carbon footprint methodologySection 2: Carbon footprint
+A carbon footprint is calculated by multiplying activity data (e.g. litres of vehicle fuel, kWh of electricity/gas) by 
+an associated emissions factor:
+•Where possible, real activity data should be collected throughout the reporting period for use in the footprint 
+calculation.
+•Emissions factors are updated annually and published by the UK Government’s Department for Business, 
+Energy and Industrial Strategy (BEIS).
+If activity data is not available, various benchmarks and proxies can be used: 
+•Benchmarks can be used to approximate activity data. For example, typical electricity consumption per m2
+floor area of a building. 
+•When input data is scarce, proxy factors can be used in place of the BEIS factors to approximate emissions 
+from the available input data (e.g. contract value).
+General calculation methodology 
+to calculate carbon emissionsInput/ activity data
+•kWh (utilities)
+•Litres or km (fuel)
+•£ (contract value)
+•m2 (floor area)Carbon factor
+•BEIS factor 
+(kgC02e/unit)
+•Proxy factor e.g. 
+(kgC02e/£ spent)Carbon emissions (kgC02e) = xEmissions are calculated by multiplying activity 
+data by an emissions factor:
+In carbon footprinting a common unit of 
+carbon dioxide equivalent (CO2e) is used, 
+which allows the impact of each of the 
+seven main greenhouse gasses to be 
+expressed in terms of the amount of CO2
+that would create the same amount of 
+warming.
+14Section 2: Carbon footprint
+Scope 1 emissions [S1] :
+•Gas consumption, typically space and water 
+heating in buildings 
+•Council vehicle fleet fuel consumption
+Scope 2 elements [S2] :
+•Electricity consumption throughout ELDC
+Scope 3 elements [S3] :
+•Business travel in non -Council fleet vehicles
+•Third -party disposal and treatment of waste 
+generated in Council -controlled operations 
+•Employee commuting based emissionsSection 2: Scope of carbon footprint
+ELDC Footprint 2019
+Non -Council 
+operations
+Employee Commuting
+Council operations
+Building emissions
+Electricity 
+consumption
+Gas 
+consumption
+Waste 
+generation & 
+treatment
+Transportation 
+emissions
+Council -
+owned fleet
+Business 
+mileageScope 3
+Scope 2 Scope 1 Scope 1 Scope 3
+Scope 3
+An explanation of excluded 
+emissions is included in Appendix 11515
+Section 2: Carbon footprint
+Inthe2019 calendar year, 2,583 tCO2ewere emitted from theCouncil’s own operations and associated activities .
+•Scope 1:gas(primarily forheating buildings) and transport fuel consumption intheCouncil’s own fleet ;
+•Scope 2:electricity consumption within ELDC buildings used byELDC staff ;
+•Scope 3:waste generation, business travel (arising from ELDC -operated buildings, journeys completed byELDC
+staff and councillors onbehalf ofELDC activities) and employee commuting .
+The Council will need toreduce itsfootprint toatleast 1,421 tCO2eby2027 toachieve theinterim 45%carbon
+reduction target, representing anaverage annual reduction of194 tCO2e/year until 2027 .The council willthen
+have todecarbonise atarate of109 tCO2e/year between 2027 and 2040 inorder toachieve net-zero by2040 .Section 2: East Lindsey District Council Footprint 2019
+Total emissions [tCO2e]
+Scope 1
+Natural Gas FleetScope 3
+Employee
+CommutingWaste Business travel2,583
+1,532 589
+196 1,336473 4 111Scope 2
+Electricity463
+463
+*Emissions figures have been rounded tothenearest whole number1616Section 2: Carbon footprint
+ELDC’s footprint is primarily made up from three emissions categories (so -called emission hotspots):
+51.7% of emissions are associated with fuel consumption in the Council’s vehicle fleet 
+25.4% of emissions  are from electricity and gas consumption in the Council’s buildings
+22.6% of emissions come from business travel and commuting 
+These emissions hotspots should be at the forefront of the Council’s carbon reduction efforts and are the focus of the recomm endations made in this report.Section 2: East Lindsey District Council Footprint 2019
+59% 19%22%
+Scope 1 Total Scope 2 Total Scope 3 Total2,583 
+tCO2e
+195.51,336.2
+462.9
+111.8
+3.7473.2
+040080012001600
+Electricity Gas Fleet Business
+TravelWaste Commuting
+Scope 1 Scope 2 Scope 3Emissions by source / 1717Section 2: Carbon footprint
+•The greatest opportunities forreducing fleet emissions come from electrification .
+•East Lindsey District Council’s fleet consists ofapprox .101 vehicles .
+•The furthest alight fleet vehicle (van orcar) drives inayear isapprox .38,270 miles, assuming
+operation 200 days oftheyear, yielding adaily average of191 miles peroperational day.This iswithin
+therange ofatypical electric vehicle .
+•98%ofallfleet emissions arise from the use ofdiesel, compared to2%from petrol .Although diesel
+vehicles are more efficient from akgCO2/mile perspective, they release more harmful particulate
+matter and more NOXand SOXgases –major contributors tolocal airpollution .
+•Heavier vehicles (HGVs and refuse trucks) arecurrently much harder todecarbonise .Inthenear term,
+abetter understanding oftelematics and age and efficiency ofvehicle should beconsidered .Itmay
+then beeasier toconvert fuel (toCNG forexample) than toelectrify .Hotspot 1: Transport Emissions from Operational Fleet
+11.232.7252.5273.11,082.2
+0 200 400 600 800 1000 1200Gardening & MaintenanceSmall CarsVansRefuse Trucks & Road SweepersHGVs
+Emissions (tCO2e)Transport emissions from Operational Fleet1818
+Section 2: Carbon footprint
+•Tedder Hall HQand Skegness Town Hall contribute approximately 86%ofthe Council’s total gas-related
+carbon emissions .
+•The total figure displayed inthepiechart below (195 tCO2e)excludes upstream scope 3elements related to
+theextraction, refining and transportation ofnatural gas.
+•Options formitigating emissions from gas heating include substitution with district heating systems and
+electric heat pumps, aswell asimproving building fabric materials toimprove heating efficiency .
+•Electricity emissions are likely todecrease year onyear asmore renewables are integrated into the UK
+national electricity grid and more coal power plants aredecommissioned .
+•ELDC’s main offices account forthemajority ofelectricity emissions (51%).
+•Energy efficiency measures, such asreplacing filament and fluorescent lightbulbs with LEDs, can aidELDC in
+reducing their electricity footprint .
+Tedder Hall 
+HQ, Manby 
+Park : 96.1 Skegness 
+Town Hall : 
+71.2Others: 
+28.2Gas emissions / tCO2e
+Hotspot 2: Buildings Emissions from Gas and Electricity
+195 tCO2e
+288.7129.136.226.58.9
+0 50 100 150 200 250 300 350OfficePublic LightingIndustrialLeisurePublic ToiletsElectricity Emissions by Site Type /tCO2e1919Section 2: Carbon footprint
+Hotspot 3: Commuting and Business Travel
+•Caremissions from commuting and business travel account forasizeable portion (22%)ofELDC’s total
+emissions .There isclear agreement across industry, government and the public that future travel /
+commuter networks must emit fewer emissions and help theUKmeet net-zero targets
+•Strategies forreducing travel emissions include reducing the number ofjourneys people make, for
+instance bymaking optimal use oftechnology -based solutions such asvideo -conference calls .The
+coronavirus pandemic hasaccelerated new ways ofworking fororganisations, from which wecanlearn .
+Flexible working practices, such asworking from home where possible, offer asolution tomitigating the
+carbon emissions associated with commuting .
+•Utilising less carbon intensive modes oftravelling, such aspublic transport, cycling orusing low-
+emission private vehicles, isanother potential solution .These solutions can save theCouncil and/or its
+employees money, reduce congestion and improve people’s health .
+71.075.347.149.612.311.6318.2
+0 50 100 150 200 250 300 350Small petrol car, up to 1.4 litre engineSmall diesel car, up to 1.7 litre or underMedium petrol car, from 1.4 - 2.0 litresMedium diesel car, from 1.7 to 2.0 litreLarge petrol cars, above 2.0 litresLarge diesel car, over 2.0 litreAverage car (unknown fuel)Emissions from Commuting & Business Travel
+Emissions (tCO2e)Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+21212121Section 3: ELDC Carbon Reduction Short -term Opportunities -SummarySection 3: Carbon reduction opportunities
+Projects have been phased according totheestimated cost pertonne ofcarbon dioxide equivalent abated (CAPEX £/tCO2e),with themost cost efficient projects deployed first
+(CAPEX refers tothecapital expenditure required toupgrade individual technologies/buildings) .
+IMPORTANT NOTE :The costs, technologies and emissions provided inthis report areestimates and theorder (CAPEX /tCO2e)may besubject tochange when actual quotes are
+received from contractors asindividual technologies mature and projects progress .Allsuggestions aresubject tofurther feasibility/design studies and procurement processes .
+Emissions source RecommendationEstimated CAPEX
+GBPAnnual emissions 
+saving
+tCO2eCost efficiency
+£/tCO2eAnnual cost 
+saving
+GBPPayback period
+years
+Council offices Improve standard of energy management & staff awareness £0 16 £0 £3,400 instant
+Commuting & travel Mileage management £0 56 £0 £0 instant
+Vehicle fleet Driver training & performance management £20,200 148 £136 £46,300 0.4
+Council offices Centralised/remote control and monitoring of HVAC systems £10,000 40 £248 £8,000 1.3
+Council offices, foreshore 
+leisure infrastructureFan & pump upgrades £5,400 18 £307 £1,800 3.0
+Public toilets Upgrade public toilet lighting to LED £3,100 8 £403 £4,300 0.7
+Public lighting Upgrade promenade lighting to LED £6,900 11 £604 £6,900 1.2
+Council offices Full LED lighting roll out across council offices £35,300 40 £873 £10,600 3.3
+Vehicle fleet Electrification of car & van fleet £200,000* 230 £957 £69,100 2.9
+All Total £301,100 568 n/a £149,300 2.0
+*Revenue figure ifleased (CAPEX ifpurchased outright est.£1.6m).Year 1cost estimate includes EVcharging infrastructure and cost difference between leasing EVs and conventional fuel vehicles .
+Future year costs expected todecrease astheEVmarket develops .22222222Additional ELDC Carbon Reduction Opportunities –longer -termSection 3: Carbon reduction opportunities
+The opportunities listed below are likely torequire significant capital investment and some are subject toplanning application and/or suitable technologies
+becoming available onthemarket .These recommendations have been setoutseparately from those ontheprevious pages asitisunderstood they arelikely to
+beviewed byELDC aslonger term opportunities/investments, some ofwhich may not bepractically implementable immediately, i.e.not within the next 1-3
+years .
+Itshould benoted, however, that these measures areestimated toreduce theCouncil’s footprint byover 50%.
+Electrification ofvehicle fleet and space heating systems recommendations assume that electricity isprocured onrenewable electricity tariffs until the UK
+electricity grid mix fully decarbonises .
+The emissions savings provided inthis report are estimates and may besubject tochange if/when individual projects progress and are subject tofurther
+feasibility studies and procurement processes .
+Emissions source RecommendationEstimated CAPEX
+GBPAnnual emissions 
+saving*
+tCO2e£/tCO2eAnnual cost 
+saving
+GBPPayback period
+years
+Council offices Replace Tedder Hall with new Head Office site TBC 265 TBC TBC TBC
+Vehicle fleet Electrification of refuse fleet TBC 1,097 TBC TBC TBC
+Council offices, leisure 
+facilitiesElectrification of all space heating TBC 233 TBC TBC TBC
+All Total TBC 1,595 TBC TBC TBC23232323The costs, technologies and emissions provided are estimates and the figures may be subject to change when actual quotes are received from contractors, as individual 
+technologies mature and projects progress. Further assumptions and information can be found in Appendix 3. 
+Council offices carbon reduction opportunities (1)Section 3: Carbon reduction opportunities
+ELDC operates a number of ‘office’ sites (offices, town halls, business centres), which account for ~70% of the emissions ass ociated with the Council’s natural gas 
+and electricity consumption. The largest contributor to this footprint by far is Tedder Hall, which accounts for ~58% of offi ce-based emissions. It is understood 
+that a proposed new -build office site will eventually become ELDC’s head office, however, there remains uncertainty around the f uture use of Tedder Hall. It is 
+also understood that the second largest contributor to office -based emissions, Skegness Town Hall, will not be used by ELDC as a n office in the longer term. With 
+these considerations in mind, it is notrecommended that any significant investment is made at ELDC’s office sites until future considerations are taken into 
+account. However there are a number of low cost or “no regret” actions that should be considered at these sites, alongside th e larger capital investment 
+decisions that have been highlighted later in this report. These primarily concern the treatment of the energy consumption at all sites as a controllable resource 
+(by implementing management procedures such as those outlined below); upgrading controls for heating, ventilation and air con ditioning (HVAC) so that these 
+multiple systems can be controlled and monitored remotely; upgrading fans and pumps within these systems; and upgrading fluor escent lighting to LED. 
+Manage energy usage
+•Appointment of senior staff 
+member at each site with 
+responsibility for energy, and 
+energy champions appointed
+•16 tCO2e/year saving
+•67,750 kWh/year saving
+•£3,400/year cost saving
+•Internal time only cost
+LED lighting upgrade
+•Upgrade 85% of existing fittings 
+to LED units (remainder already 
+LED)
+•40 tCO2e/year saving
+•142,800 kWh/year saving
+•£10,600/year cost saving
+•£35,300 nominal costHVAC control upgrades
+•Centralised/remote control of 
+HVAC systems across 9 sites
+•40 tCO2e/year saving
+•194,600 kWh/year saving
+•£8,000/year cost saving
+•£10,000 nominal cost
+Fan & pump upgrades
+•Replacement of ageing fans and 
+pumps with more efficient 
+models
+•18 tCO2e/year saving
+•18,600 kWh/year saving
+•£1,800/year cost saving
+•£5,400 nominal cost24242424Further assumptions and info can be found in Appendix 3. Council offices carbon reduction opportunities (2) Section 3: Carbon reduction opportunities
+As described earlier in this section, the largest contributor to the Council’s ‘office’ carbon footprint by far is Tedder Hal l, which accounts for ~58% of office -based 
+emissions. It is understood that a proposed new -build office site will eventually become ELDC’s head office. Therefore, we have modelled the impact of replacing 
+Tedder Hall with a Building Regulations Part L2A compliant new -build office building. While actual in -use building consumption m ay vary, this provides a useful 
+high level theoretical comparison against measured consumption at Tedder Hall. 
+Should the construction of the new Head Office go ahead this offers a one -off opportunity for ELDC to lock in significant and pe rmanent carbon savings, 
+therefore, ensuring that the building is designed to be as low carbon as possible is vitally important in ELDC’s journey towa rdsnet-zero . Any increase in capital 
+costs as a result of lower carbon design will be recouped in lifetime operational costs and avoided emissions. Achieving opti mal low/zero carbon performance in a 
+new build by design from the outset is much more practical and cost -effective -even if it means slightly higher initial capital costs -than attempting to retrofit in 
+years to come, once the building is built and in use.
+Replace Tedder Hall with new head office
+•265 tCO2e/ year 1 estimated saving
+•985,330 kWh/year saving 
+•10% reduction in total Council footprint 
+25252525Electrification ofthe gas-fired space heating systems within Council offices and Council -operated leisure facilities represents asignificant carbon reduction
+opportunity .While replacing (insome cases) relatively efficient gas-fired heating systems with airsource heat pumps (ASHPs) isnot expected toresult in
+significant energy orcost savings, this could potentially reduce ELDC’s carbon footprint by~9%.
+ASHPs can often beconnected toexisting infrastructure toreduce installation costs ;however, adetailed evaluation ofeach site will berequired toassess the
+feasibility ofconnecting with existing hotwater pipework, radiators, ducting and soon.
+​Afulldetailed feasibility assessment should beconducted toascertain more accurate costs and savings before moving forward with these measures .
+N.B. Should electrification of space heating systems be implemented, the predicted savings stated elsewhere in this report fr om fan/pump upgrades and 
+BEMS/heating control optimisation may need to be discounted to avoid double -counting of emissions reductions. This has been acco unted for in the Carbon 
+Reduction Pathway in this plan. 
+Electrification of space heating carbon reduction opportunities (3)Section 3: Carbon reduction opportunities
+Electrification of space heating 
+•Replacement of gas -fired heating systems with Air Source Heat 
+Pumps (ASHPs)
+•233 tCO2e/year saving
+•9% reduction in total Council footprint
+Further assumptions and information can be found in Appendix 3. 
+26262626
+Public lighting carbon reduction opportunities (4)Section 3: Carbon reduction opportunities
+ELDC has responsibility for over 500 MWh per annum of public lighting across the District. Some of this, e.g. footway lightin g, has already been upgraded to LED 
+however some less efficient lighting remains. ~50,000 kWh of energy consumption relates to promenade lighting columns at Mabl ethorpe, which are assumed 
+to be low pressure sodium units. No information has been received regarding their state of repair (or column upgrade needs). Based on electricity consumption 
+data, public toilet lighting is responsible for ~36,000 kWh of electricity consumption per annum and is understood to be a mi x of low and high frequency 
+fluorescent luminaires. Energy savings of 60 -80% are assumed achievable by upgrading promenade and public toilet lighting to app ropriate LED alternatives. 
+Once LEDs are installed, additional savings will also be possible through implementing “control” savings such as dimming and/ or trimming. Beyond energy and 
+carbon savings, ELDC would also benefit from reduced maintenance and lamp replacement lifecycle costs thanks to the significa nt additional burn hours that 
+LED alternatives bring over traditional lighting.
+Illustrative energy and cost savings for full LED upgrades are detailed below. Maintenance savings and potential savings thro ugh centralised management or 
+trimming have notbeen included. A full detailed feasibility assessment should be conducted to ascertain more accurate costs and savings before moving 
+forward with these measures. 
+Promenade lighting upgrades
+•LED upgrade of existing low pressure sodium lamps
+•11 tCO2e/year 1 estimated saving
+•£6,900 estimated capital cost (£3k/kW installed)
+•40,400 kWh/year saving 
+•£5,800/year cost saving 
+Further assumptions and information can be found in 
+Appendix 3. 
+Public toilet lighting upgrades
+•LED upgrade of existing fluorescent luminaires
+•8 tCO2e/year 1 estimated saving
+•£3,100 estimated capital cost (£1.8k/kW installed)
+•27,200 kWh/year saving 
+•£4,300/year cost saving 
+Further assumptions and information can be found in 
+Appendix 3.  27272727There areanumber ofdriver training and performance monitoring actions that could betaken toreduce ELDC’s recorded fuel useand related carbon emissions .
+Improvements intheperformance monitoring ofwaste fleet drivers have been made recently (e.g.assigning drivers their own vehicle .More could stillbedone,
+however, tomonitor and promote efficient driving across thewaste fleet, e.g.KPIs, driver league tables, inclusion offuel efficiency indriver performance reviews .
+Based onexperience ofsupporting clients toimplement driver monitoring, wehave conservatively estimated that ELDC could achieve a5%reduction inwaste
+fleet emissions byimproved monitoring and management ofdriver performance .
+Driving style has abigimpact onallfleet fuel efficiency and driver training can reduce fuel consumption and emissions, aswell asmaintenance costs and risks
+ofaccidents .Typically training cansave around 5-10%**.Sustaining these savings over thelonger term ischallenging, sowehave assumed that alldrivers offleet
+vehicles attend thetraining twice between 2021 and 2030 .We have estimated that ELDC could achieve a7%reduction infleet emissions byensuring that all
+drivers attend driver training .
+Adetailed feasibility assessment should beconducted toascertain more accurate costs and savings before moving forward with these measures .
+Driver training: all fleet
+•Driver training for all fleet 
+vehicle drivers
+•94 tCO2e/year saving
+•35,750 litres diesel/year saving
+•£45,000/year cost saving
+•£20,200 nominal costFleet management carbon reduction opportunities (5)Section 3: Carbon reduction opportunities
+**Department of Transport, 2016, Efficient Driving https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/509972/efficient -
+driving -rapid -evidence -assessment.pdfDriver performance 
+management: waste fleet
+•Performance management of 
+waste fleet drivers
+•55 tCO2e/year saving
+•20,900 litres diesel/year saving
+•£1,300/year cost saving
+•Internal time only cost
+Further assumptions and information can be found in Appendix 3. 
+28282828The current fleet operated byELDC consists of~90vehicles, themajority ofwhich arediesel fuelled .Inorder toreach azero emission transport system atransition
+from afossil fuel powered fleet toafleet powered bylow emission energy sources such aselectricity, hydrogen orother zero carbon fuels isessential .This
+transition toalow carbon transport system islikely tobeachieved predominantly through theuseofbattery powered Electric Vehicles (EVs), however theCouncil
+willremain open toexploring alternative future technologies (such ashydrogen fuel cellvehicles) asappropriate .
+Electrification ofthis fleet would lead tosignificant carbon reduction .Toquantify this opportunity, itishas been assumed that alldiesel vans and company cars
+(total of65vehicles) willbereplaced bycomparable EVsfrom 2021 ,while mileage willremain constant .Rollout ofelectric orother zero carbon fuelled HGVs should
+follow once thetechnology becomes readily available forHGVs .The Council isopen toother forms oflow orzero carbon transport that may bemore appropriate
+given theregion’s geography, such ashydrogen fuel cellvehicles, orbiofuels .
+​Currently, themajority ofthefleet isowned bytheCouncil (not operated onalease basis) .The estimated capital costs below show two procurement alternatives
+1)outright ownership and 2)leased .The cost ofEVcharging points and supporting infrastructure isincluded inthe costs .When considering the benefits and
+disadvantages ofoutright purchase vsleasing ofEVs there areanumber offactors toconsider, e.g.depreciation, servicing and maintenance costs, available EV
+grants, fleet replacement cycles, expected mileage, pace ofmarket and technology advancements and battery life.
+Afulldetailed feasibility assessment should beconducted toascertain more accurate costs and savings before moving forward with these measures .
+Fleet electrification carbon reduction opportunities (6) Section 3: Carbon reduction opportunities
+Fleet electrification
+•Replacement of 65 diesel and petrol fleet vehicles with EVs and 
+installation of charging points
+•230 tCO2e/year saving
+•Costs:
+1. £1.6m estimated capital cost (outright purchase x 65 
+vehicles + installation of charging points)
+2. £200k estimated revenue cost (annual lease cost x 65 
+vehicles + installation of charging points)
+•£69,100/year cost saving (difference between EV and current 
+vehicle running costs)
+Further assumptions and information can be found in Appendix 3. 
+29292929Further tothereplacement ofdiesel vans and company cars with comparable electric vehicles (EVs), therollout ofelectric HGVs toreplace the diesel -fuelled
+waste fleet should follow once this technology becomes readily available .Asthewaste fleet isresponsible forover 80%oftotal fleet emissions, this willhave a
+significant impact ontheCouncil’s footprint once itbecomes feasible .
+Anumber ofHGV manufacturers have announced plans tolaunch electric HGVs ontothemarket in2020 orbeyond ;however, atpresent there appear tobe
+limited options available totheCouncil .Also, many oftheELDC diesel -fuelled vehicles have recently been replaced .Therefore, itisrecommended that ELDC
+consider e-HGVs orother zero carbon fuelled HGVs during thenext vehicle replacement cycle, rather than immediately .The council isopen toother forms oflow
+orzero carbon transport that may bemore appropriate given theregion’s geography and technically feasible inthetimescales suggested, such ashydrogen fuel
+cellvehicles, orbiofuels .
+​Afulldetailed feasibility assessment should beconducted toascertain more accurate costs and savings before moving forward with these measures .
+Furthermore, ELDC ispart ofLincolnshire Waste Partnership which islooking collectively atsustainable options todecarbonise thecounty’s waste fleet .
+Waste fleet electrification carbon reduction opportunities (7)Section 3: Carbon reduction opportunities
+Waste fleet electrification
+•Replacement of diesel -fuelled HGVs with e -HGVs and installation 
+of charging infrastructure
+•1,097 tCO2e/year saving
+•41% reduction in total Council footprint
+Further assumptions and information can be found in Appendix 3. 
+30303030Commuting and business travel carbon reduction opportunities (8)Section 3: Carbon reduction opportunities
+The emissions associated with staff commuting and business travel on behalf of ELDC currently total 585 tCO2e, or ~22% of the Council’s footprint. The following 
+opportunities should be considered to encourage a reduction in commuting and business travel associated emissions. These oppo rtunities largely revolve around 
+reducing the total journeys and mileage being completed by Council employees. 
+•The use of video -conferencing tools are a great way to cut down on face to face meetings. 
+•Car sharing and encouragement of the use of active and public transport where possible should also be investigated. 
+Ultimately ELDC will need to engage with its employees to understand better the practical implications of reducing its busine ss travel footprint. 
+Remote working
+ Video conferencing
+ Car sharing incentives
+Encourage use of public transport
+ Employee engagement
+31313131Rooftop Solar PV carbon reduction opportunities (9)Section 3: Carbon reduction opportunities
+~19%ofELDC’s emissions areassociated with theCouncil’s electricity consumption .Identifying buildings such asschools and offices with significant areas
+offlat, south facing roof space could lend itself well forthe installation ofroof mounted solar photovoltaic (PV) panels .Solar PVinstallation isan
+economically ‘low regret’ measure ;with benefits including helping tomitigate this substantial source ofELDCs’ emissions, saving ELDC money byoffsetting
+theneed topurchase peak time electricity from thegrid, utilising unused rooftop space aswell asinsulating thecouncil from unexpected future electricity
+price fluctuations .The electricity generated can beused tomeet thebuilding’s own energy consumption requirements orfedback into theelectrical grid
+viathegovernment’s Smart Export Guarantee (SEG) scheme .
+Electricity production from solar PVmay notalways coincide with times ofelectricity demand .Energy storage systems areoften incorporated inparallel
+with solar PVtohelp address this issue .Electricity generated from thesolar PVpanels canbestored forusewhen thesunisnotshining, orinorder tolimit
+thepower exported tothegrid.Currently themost commonly used storage technologies arebatteries and water heating .Detailed feasibility studies will
+need tobecarried outtoassess theeconomic viability ofthis carbon reduction opportunity .
+Rooftop Solar PV
+•ELDC’s 2018 electricity consumption was ~1635 MWh, which 
+amounts to a daily usage of ~4.5MWh per day
+•To fully meet ELDCs electricity demand, an area of approximately 
+8,300m2would need to be covered with solar PV panels. This is 
+approximately the area of 1.3 football pitches
+• This would result in GHG emission savings of 463 tCO2e / year and 
+electricity bill savings of £159264 / year
+It should be noted that the UK electricity grid is already in the process of 
+decarbonising, and ELDC’s electricity emissions will steadily fall as this proceeds. Further assumptions and information can be found in Appendix 3. 32323232District heating carbon reduction opportunities (10)Section 3: Carbon reduction opportunities
+Heat networks have been identified asakey technology todecarbonise heat within the UK.
+District heat networks connect heat sources with local homes and businesses through a
+network ofpre-insulated pipes carrying hot water .The heat source isoften acombined heat
+and power (CHP) plant, but other heat sources such aselectric heat pumps and waste heat
+recovery are also used .Aswell asoffering the potential todecarbonise ELDCs natural gas
+emissions, district heating also improves airquality, provides low-cost heating aswell asthe
+ability toprovide flexibility tothelocal energy system byproviding large scale thermal energy
+storage .
+Itshould benoted that district heating projects have very high upfront capital costs .Capital
+expenditure can account foraround 2/3oftheheat network’s total lifetime costs .These costs
+relate tothe heat network infrastructure, aswell asthe energy centre where the heat is
+generated .District heat projects also have long project development timeframes and require
+long -term planning and alignment between investors, councils, and consumers .
+Furthermore, district heating projects areoften much less viable inrural areas due tothelow
+population density .District heat networks arebest suited forhigh -density urban areas, such as
+city centres .The cost percustomer tobuild and runadistrict heat network inless dense areas
+makes them less attractive, and therefore often economically unviable .However, this can be
+overcome with low-temperature heat networks, and lower heat losses from rural dwellings
+(through better building efficiency) .Estimating the precise heat demand profile ofanurban
+area isnotstraightforward .Given thehigh costs associated with building theenergy centre and
+heat network, theriskofunderutilising theheat network isabarrier todeployment .
+Detailed feasibility studies will need tobecarried out toassess the viability ofthis carbon
+reduction opportunity .
+Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+34Section 4: Governance and EngagementSection 4: Governance and Engagement
+Stakeholder engagement
+Robust engagement with stakeholders from across the Council will be crucial for successful climate action 
+implementation. The Council should explore innovative ways for the whole organisation to contribute 
+towards achieving the targets of net zero by 2040, with a minimum emissions reduction of 45% by 2027. 
+An effective engagement strategy needs to be drawn up that actively involves all Council departments, 
+employees and councillors . Achieving the greatest possible input and buy -in will allow ELDC to work 
+closely with all stakeholders to identify the areas of the Council to prioritise to reduce emissions. It will be 
+important for the Council to remain transparent throughout all engagement activities, and to provide 
+stakeholders with the opportunity to contribute towards the planned reduction activities that the Council 
+intends to implement across its own estate. 
+Developing a robust stakeholder engagement plan should build on previous engagement to:
+•Develop an initial list of stakeholders from across the Council to engage on a continuous basis.
+•Complete internal in -depth stakeholder mapping exercise to identify, map and prioritise key stakeholders from across (and, poten tially, external to) the 
+Council organisation. This will ensure that key stakeholder needs are identified and understood, with the relevant resources bei ng targeted effectively.
+•Develop and agree a communications/engagement strategy that clearly details the Council’s approach towards stakeholder engage men t, 
+ensuring complete transparency.
+•Develop the appropriate tools to plan and track all stakeholder interaction accurately and store stakeholder information.Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+3636Section 5: Monitoring and reporting
+Once a carbon footprint has been measured and a target set, monitoring progress is an important part of 
+implementation. Monitoring and reporting are essential activities that should be undertaken at least annually 
+between the baseline year and target year, and beyond.
+Monitoring
+Collecting the data should be completed internally on a regular basis. This process should become streamlined as 
+the necessary data sources and associated contacts/owners become familiar with the process and adopt best 
+practice data management. The ‘Carbon Trust Footprint Calculator’ provides a tool to collect data and calculate an 
+updated footprint (using updated emission factors where necessary). 
+Not only does the footprint need to be monitored at least annually but progress with implementing carbon 
+reduction opportunities should be actively monitored too, including implementation year, energy reduction and 
+cost savings. In this way, successful projects can be reported in a quantitative as well as a qualitative way. This can 
+help to drive momentum and support the securing of budget for future measures.
+In addition to monitoring the footprint itself, the project team should continually monitor how local plans and 
+policies will affect the Council’s footprint and affect the ability of the Council to reach its carbon reduction targets. 
+This will help the team to identify other potential carbon reduction opportunities and ensure that any carbon 
+reduction co -benefits of specific policies and actions can be delivered. 
+Section 5: Monitoring and reporting
+Executive summaryContents
+Section 1: Council target
+Section 2: Carbon footprint
+Section 3: Carbon reduction opportunities
+Section 4: Governance and engagement
+Section 5: Monitoring and reporting
+Appendices
+3838Appendix 1: Excluded emission sourcesAppendices
+Some emissions categories under the GHG Protocol are not relevant to a Council’s operations and have therefore been excluded from this footprint. 
+In future, ELDC could consider expanding its footprint to include supply chain and other Scope 3 emissions, such as procured goods and services, and 
+investments. This would require additional data and analysis.
+Emission Source (Scope 3)
+Capital goods Out of scope: Does not play a key role in the Council’s operations.
+Purchased goods and services (contracts) Excluded from scope of this report
+Franchises Out of scope: No franchises controlled by the Council
+Investments Excluded from scope of this report
+Downstream transportation and distribution Out of scope: No sold goods distributed by the Council
+Processing of sold products Out of scope: Not applicable to the Council’s operations
+Use of sold products Out of scope: Not applicable to the Council’s operations
+End-of-life treatment of sold products Out of scope: Not applicable to the Council’s operations3939Appendix 1: Excluded Emission SourcesAppendices
+It should be noted that two of the most significant scope 3 emission sources are not included within the footprint –Purchased g oods and services, and Leased 
+buildings. These emission categories typically form between 60 -80% of an organisation’s entire scope 1, 2 and 3 footprint.
+These emission categories were excluded for the reason that the council wishes to focus its efforts at the start to reducing their own operational carbon 
+footprint, once the governance and procedures are set in place then the council will aim to include other scope 3 emissions s ources. This is a sensible stepped 
+approach, and shows long term commitment to not only reducing their own emissions but also the emissions arising from goods, services and buildings that 
+they have influence over. This reaffirms the Council’s commitment to be seen as leading the way in reducing the region’s carb on footprint.
+‘Crafty carbon accounting’ could be used to outsource the council’s own operations to contractors and external suppliers, the refore no longer having to account 
+the associated emissions as their own. Under the GHG protocol’s operational boundary setting, this is technically allowed. However, it should be made clear 
+that this is not the Council’s intentions, and they wish to be transparent, open and progressive in the way they report their carbon footprint.
+4040Appendix 2: General notesAppendices
+Capital Costs ​
+•The capital costs stated in this report are based on the application of technical principles and professional evaluation. The pr ofessional evaluations are based 
+on information available and are conditioned by data limits, scope of work and time.
+•Whenever possible, calculation of energy and economic savings has been performed. Approximate capital costs were estimated which can be used to derive 
+simple financial payback.
+•All suggested projects require verification and detailed assessment prior to proceeding with implementation.​
+•It would be prudent to conduct detailed life cycle assessments, particularly for high capital value projects, factoring ina num ber of variables that are not 
+included within this action plan, in order to derive more sophisticated metrics such as Net Present Value and Internal Rate o f Return for improved evaluation 
+and prioritisation of business cases for intervention measures.
+Decarbonising Heat
+•The majority of decarbonisation pathways include the electrification of heat sources (e.g. replacement of gas boilers with elect rically -powered heat pumps).
+•Heat pumps output at a lower temperature compared to gas boilers and their operation is therefore more sensitive to the energy e fficiency of the building.
+•Before electrification is considered, a building’s fabric (notably air tightness, insulation, ventilation) should first be consi dered and upgraded where 
+necessary to ensure that an appropriately sized heat pump can efficiently and effectively meet the heat demand of a building.
+4141Appendix 3: Calculations and assumptionsAppendices
+General assumptions/notes:
+•All energy consumption figures rounded to nearest 50 kWh, cost figures to nearest £100, and emissions to nearest 1 tCO2e. 
+•Fleet performance management savings assume that fuel consumption can be reduced by 5%. Driver training savings assume that f uelconsumption can be 
+reduced by 7%. This does not include potential associated maintenance cost savings. 
+•Fleet CAPEX assumes that vehicles will be leased on 4 -year cycles, and includes the cost of installing EV charging points. EV sa vings assume that a renewable 
+electricity tariff is procured for supply to EV charging points until the grid fully decarbonises.
+•Across most sites it is estimated that energy consumption can be reduced by between 1 and 5% through improved energy manageme nt practices and staff 
+awareness/behaviour change. Percentage savings have been applied to each site based on the auditor’s assessment of current pr actices and the potential 
+for improvement. 
+•BEMS optimisation assumes a 15% energy saving can be achieved through improved control of HVAC systems. A cost of £10,000 has been applied to include 
+purchase and installation of required equipment. 
+•LED lighting savings have only been applied where we have reasonable confidence that current lighting is non -LED.
+•Gas-fired boiler seasonal efficiencies have been applied where boiler model details have been provided. Where only the age of bo ilers is known a seasonal 
+efficiency has been assumed based on age. 
+4242•Across most Council office sites it is estimated that energy consumption can be reduced by between 1 and 5% through improved energy management 
+practices and staff awareness/behaviour change. Percentage savings have been applied to each site based on the auditor’s asse ssment of current practices 
+and the potential for improvement. 
+•Existing energy consumption in this case relates to gas and electricity consumption only. 
+•The figures below include Tedder Hall and Skegness Town Hall. 
+•No capital cost has been applied as it is assumed that only internal resource will be required to implement this recommendati on.
+•All energy consumption figures rounded to nearest 50 kWh, cost figures to nearest £100, and emissions to nearest 1 tCO2e. Appendix 3.1: Energy management calculationsAppendices
+4343•Fleet performance management savings assume that fuel consumption can be reduced by 5%. Driver training savings assume that f uelconsumption can be 
+reduced by 7%. This does not include potential associated maintenance cost savings. 
+•No capital cost has been applied to Driver Performance Management as it is assumed that only internal resource will be requir ed to implement this 
+recommendation. A capital cost of £200 per driver has been applied to the Driver Training recommendation, assuming one driver per fleet vehicle.
+•All fuel consumption figures rounded to nearest 50 litres, cost figures to nearest £100, and emissions to nearest 1 tCO2e. Appendix 3.2: Fleet management calculationsAppendices
+4444•Based on the staff travel information available it has been assumed that a 10% saving can be achieved in commuting and busine ss travel emissions. This 
+could be achieved through a combination of ‘mileage management’ measures, including increased working from home, promoting co nference calling over 
+in-person meetings, and car sharing where feasible. 
+•All recorded commuting and business travel was via petrol or diesel car.
+•As no business travel or expenses data was available no cost saving has been calculated for this recommendation, although it is understood that Council 
+employees are able to claim back business travel costs.  
+•All fuel consumption figures rounded to nearest 50 litres, cost figures to nearest £100, and emissions to nearest 1 tCO2e. Appendix 3.3: Commuting & business travel calculationsAppendices
+4545•Heating, ventilation and air conditioning (HVAC) control optimisation assumes a 15% energy saving can be achieved through imp roved control of HVAC 
+systems at Council office sites. A cost of £10,000 has been applied to include purchase and installation of required equipmen t. 
+•It is understood that only Tedder Hall has a comprehensive Building Energy Management Control System (BEMS), with other Counc il offices having more 
+basic, localised controls, leading to sub -optimal control of the various systems. 
+•All energy consumption figures rounded to nearest 50 kWh, cost figures to nearest £100, and emissions to nearest 1 tCO2e. 
+•A full detailed feasibility assessment should be conducted to ascertain more accurate costs and savings before moving forward with this measure. Appendix 3.4: HVAC control calculationsAppendices
+4646•Based on the details of previously identified energy efficiency projects provided it is assumed that a 30% energy saving can be achieved through upgrades to 
+the various fans and pumps in use at Council office sites and council -operated leisure facilities. A cost of £5,400 has been app lied based on the calculated 
+savings and typical payback of this recommendation. 
+•All energy consumption figures rounded to nearest 50 kWh, cost figures to nearest £100, and emissions to nearest 1 tCO2e. 
+•A full detailed feasibility assessment should be conducted to ascertain more accurate costs and savings before moving forward with this measure. Appendix 3.5: Fan & pump calculationsAppendices
+4747•Based on details provided of existing lighting it is assumed that savings of between 60 -80% can be achieved by replacing existin g internal and external 
+lighting with LED. Promenade lighting is understood to be mainly high pressure sodium while public toilet and office lighting isa mix of high and low 
+frequency T8 and T5 fluorescent lighting. All of these are less efficient and effective than LED lighting solutions available onthe market. 
+•All energy consumption figures rounded to nearest 50 kWh, cost figures to nearest £100, and emissions to nearest 1 tCO2e. 
+•A full detailed feasibility assessment should be conducted to ascertain more accurate costs and savings before moving forward with these measures. Appendix 3.6: LED lighting calculationsAppendices
+4848Appendix 3.7: Fleet electrification calculationsAppendices
+•CAPEX assumes that vehicles will be 
+leased on 4 -year cycles, and includes the 
+cost of installing EV charging points. EV 
+savings assume that a renewable 
+electricity tariff is procured for supply to 
+EV charging points until the grid fully 
+decarbonises.4949Appendix 3.8: Rooftop Solar PV calculationsAppendices
+•Calculations were run using 250 W panels each occupying an area of ~1.6 m2 perpanel. ELDC was assumed to consume 100% of the electricity 
+produced by the array.
+•An energy storage system (e.g. a battery) has not been included in the calculation. Further consideration of a site’s actual demand profile 
+should be made to access the suitability of an energy storage system to increase the utilisation of electricity generated.
+•Losses due to shading, solar panel inclination, azimuth angle, reflection losses, inverter inefficiencies have not been inclu ded within the 
+calculation
+Metric Value Unit Assumptions/Sources
+2018 Electricity Consumption 1635000 kWh ELDC 2018 Electricity Carbon Footprint
+Daily Electricity Consumption 4479.45 kWh
+UK Sun Hours per day 4hrshttps://www.statista.com/statistics/322602/monthly -average -daily -sun-hours -in-the-united -kingdom -
+uk/#:~:text=The%20average%20annual%20number%20of,to%204.7%20hours%20in%202018.
+Solar panel nominal power 0.25 kW Assuming each panel is rated at 250W peak power
+Energy produced per day per panel 1kWh Energy = Power x Time
+Area of solar panel 1.85 m2https://www.pvfitcalculator.energysavingtrust.org.uk/Documents/150224_SolarEnergy_Calculator_Sizing_Guide_
+v1.pdf
+Total solar panel area required to meet 
+daily electricity consumption of ELDC 8,286.98 m2Whilst reasonable steps have been taken to ensure that the information contained within this publication is correct, the auth ors, the 
+Carbon Trust, its agents, contractors and sub -contractors give no warranty and make no representation as to its accuracy and acc ept 
+no liability for any errors or omissions. All trademarks, service marks and logos in this publication, and copyright in it, a re the property 
+of the Carbon Trust (or its licensors). Nothing in this publication shall be construed as granting any licence or right to us e or reproduce 
+any of the trademarks, services marks, logos, copyright or any proprietary information in any way without the Carbon Trust’s prior 
+written permission. The Carbon Trust enforces infringements of its intellectual property rights to the full extent permitted by law.
+The Carbon Trust is a company limited by guarantee and registered in England and Wales under company number 4190230 with its 
+registered office at 4th Floor Dorset House, Stamford Street, London SE1 9NT.
+Published in the UK: 2020.
+© The Carbon Trust 2020. All rights reserved. 

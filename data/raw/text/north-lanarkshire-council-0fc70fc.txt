@@ -1,0 +1,1285 @@
+Carbon Management Plan 2019-2022 
+1 
+ 
+ 
+ 
+ 
+Carbon Management Plan 2019-22 
+Our plan to address, adapt and act 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Author Lynda Stevenson Contact 
+details  Stevensonly@northlan.gov.uk 
+Owner James McKinstry Mckinstryj@northlan.gov.uk 
+ 
+Date 1 April 2019 Version number 3 Document status Final Version 
+ 
+Governance Committee  Environment and 
+Transportation Date approved   
+Review date 1 May 2019 
+ 
+Strategic Alignment  
+The Carbon Management Plan supports a number of cou ncil’s priorites 
+The Plan for North Lanarkshire: 
+Improve economic opportunities and outcomes  
+Support all children and young people to realise th eir full potential 
+Improve the health and wellbeing of our communities  
+Enhance participation, capacity, and empowerment ac ross our communities 
+Improve North Lanarkshire’s resource base  
+ Carbon Management Plan 2019-2022 
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change record 
+ 
+ 
+ 
+ 
+  Consultation 
+process  Key stakeholders, including members of the Carbon M anagement Group, were 
+contacted at various stages of development for inpu t and feedback on select 
+and entire text. 
+Stakeholders Contacts identified for each service  
+James McKinstry  
+John Sanders 
+Nicole Paterson 
+Andrew McPherson 
+Linda Johnston 
+Lucinda Hughes 
+Vicky Abernethy 
+Graham Johnstone 
+Fiona Maguire 
+Catrional Bell 
+John Ashcroft 
+Cameron Barr 
+Carol Ann Peerless 
+Alex Miller 
+David Carroll 
+ Asset and Procurement Solutions  
+Asset and Procurement Solutions 
+Environmental Assets 
+Regulatory Services and Waste Solutions 
+Business Solutions 
+Business Solutions 
+Integrated Street and Community Services 
+Environmental Assets 
+Regulatory Services and Waste Solutions 
+Regulatory Services and Waste Solutions 
+Integrated Street and Community Services 
+Housing Property and Projects 
+Housing Property and Projects 
+Planning and Regeneration 
+CultureNL 
+ 
+Distribution Carbon Management Group, Senior Management Team 
+Date 00/00/00 Author  n/a 
+Change made none 
+ Carbon Management Plan 2019-2022 
+3 Contents 
+ 
+Foreword  4 
+Introduction  5 
+Section 1 – Strategic Context and Drivers  6 
+Section 2 – Targets  10  
+Section 3 – Projects and Activities  15  
+Section 4 – Action Plan & The Plan for North Lanark shire  20  
+Section 5 – Housing & Energy Efficiency  24  
+Section 6 – Green Risk Register  28  
+Glossary  0 
+North Lanarkshire Ambition Statements  2 
+ 
+  Carbon Management Plan 2019-2022 
+4 Foreword  
+ 
+Since our last carbon management plan, the council has achieved significant reductions in 
+key emission areas.  Meanwhile the climate change a nd energy agenda in Scotland has 
+gained momentum and has witnessed an increase in po licy development and activity for 
+both domestic and non-domestic buildings. 
+ 
+Reducing carbon emissions continues to be a key pri ority for the council. The Carbon 
+Management Plan is an integral part of the Environm ent Strategy which brings together 
+separate but related strategies, policies and plans  to ensure a one council approach to the 
+environment.  
+ 
+We ASPIRE that North Lanarkshire is the place to Li ve, Learn, Work, Invest and Visit and 
+a key aspect of this will be to ensure that we have  an environment that allows us to deliver 
+on this ambition. 
+ 
+As a council we realise the important role we play including the example we set to our 
+communities. This carbon management plan sets out h ow we aim to achieve further 
+carbon reductions over the next three years, whilst  adapting to a changing climate and 
+looking to sustain the environment around us. 
+ 
+Please support our plan and help play your part in caring for our future generations.  
+ 
+Robert Steenson 
+Executive Director (Enterprise & Communities)  
+ 
+ 
+ 
+In 2018, I became the Carbon Management Champion fo r the council and as such fully 
+support the contents of this plan. I welcome the co ntinued commitment from the officers of 
+the council to in their endeavours to positively im pact on our environment by targeting 
+savings of main emissions sources. 
+ 
+As the policy agenda continues to evolve, I look fo rward to the innovative ways that the 
+council will look to meet its carbon commitments.  Furthermore, I look forward to the 
+completion of the council’s Local Heat and Energy E fficiency Strategy pilot which whilst 
+supporting the council’s carbon ambitions will look  at opportunities to decarbonise heat. 
+ 
+Councillor Lynne Anderson 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Carbon Management Plan 2019-2022 
+5  
+Introduction 
+ 
+North Lanarkshire Council, along with other large p ublic bodies such as Scotland’s 
+universities and the NHS, plays an important role i n achieving the national carbon 
+reduction targets. This carbon management plan focu ses on council projects and activities 
+that will be delivered during 2019-2022.  
+ 
+The success of this plan relies on the co-operation  and engagement of senior managers, 
+employees and elected members.  Everyone within the  organisation has a responsibility to 
+reduce carbon emissions in their daily work activit ies and service delivery. This 
+organisational commitment is reinforced by the targ ets set within this plan which strive to 
+continuously reduce the council’s emissions by focu ssing on the main emission sources. 
+ 
+Our residents have an important role to play and ca n contribute to our carbon 
+management approach and the national/international agenda by reducing the amount of 
+waste that goes to landfill by recycling more. They  can also benefit financially from being 
+more energy efficient as this will result in reduce d energy bills for their homes. The 
+proposed EESSH 2 will further enhance domestic ener gy efficiency whilst addressing the 
+emerging issue of air quality within homes. The cou ncil’s capacity to develop heat 
+opportunities will be further strengthened through the pilot Local Heat and Energy 
+Efficiency Strategy project. 
+ 
+This carbon management plan initially looks at the strategic context and drivers, providing 
+a summary of the legislation and policies which hel p support public bodies such as North 
+Lanarkshire Council in their activities to reduce g reenhouse gas emissions.  It also 
+provides an overview of the council’s governance ar rangements i.e. the Improvement and 
+Accountability Framework. 
+ 
+In Section 2, defining the organisation boundaries sets the parameters for calculating the 
+council’s footprint.  The historical targets provid e a summarised timeline of the council’s 
+carbon reduction journey resulting in its current f ootprint. Using the current footprint as the 
+new baseline has informed the revision of the 2019 target. 
+ 
+Section 3 reviews the progress from the 2015/16 bas eline in terms of both historic and 
+current projects.  Through the council’s planned pr ojects and activities further energy 
+efficiencies will be generated enabling a further c arbon reduction target. 
+ 
+Section 4 draws on the complimentary actions of oth er council strategies, plans and 
+policies that will contribute directly or indirectl y to the revised carbon reduction target and 
+addressing/adapting to climate change. 
+ 
+Section 5 focuses on the domestic sector as this co ntributes to the overall emissions of the 
+North Lanarkshire area. 
+ 
+Section 6 provides a high level summary of the curr ent carbon management risk register. 
+ 
+  Carbon Management Plan 2019-2022 
+6 Section 1 – Strategic Context and Drivers 
+ 
+The United Nations Framework Convention on Climate Change (UNFCCC) was held at 
+the Rio ‘Earth Summit’ in 1992, and since then ther e has been an international and 
+national drive, via legislation and policy, to stab ilise the levels of greenhouse gases within 
+our atmosphere. The Kyoto Agreement (2005-2012) was  the first international agreement 
+where there was recognition of the need, and the co mmitment, to reduce carbon dioxide 
+and other greenhouse gas emissions. Within Europe, further review of policy and 
+legislation aims to directly combat the causes of c limate change. The 2030  
+Climate and Energy Framework follows on from the Cl imate and Energy Package and 
+increased its main targets as follows: 
+ 
+• Reduce greenhouse emissions by (at least) 40% 1; 
+• To meet (at least) 27% of EU energy needs with Ren ewables; 
+• Reduce energy consumption by (at least) 27% by 203 0 2. 
+ 
+In 2015 the UNFCCC ‘Paris Agreement’ detailed its a im to reduce emissions as quickly as 
+possible and to aspire to halt global warming, and prevent a rise in temperature of a further 
+2oC. The agreement came into force on 4 November 2016 . 
+ 
+Figure 1: Related Legislation and Policy Summary 
+ 
+ 
+ 
+                                                           
+1 Compared with 1990 
+2 Compared to 2007 scenario 
+Carbon Management Plan 2019-2022 
+7 ‘A Clean Planet for All’ is an ambitious strategy l inked to the Paris Agreement and sets out 
+a vision for a prosperous, modern, competitive and climate neutral Europe. However, prior 
+to the COP24 held in Poland, the Intergovernmental Panel on Climate Change (IPCC) 
+issued a special report where they stated it was likely  that global warming would reach 
+1.5 oC by 2030-2052, highlighting the potential impact a nd risks throughout the world. At 
+COP24 all the countries agreed to implement most of  the Paris Agreement, reaching a 
+consensus on the monitoring and reporting of perfor mance.  Further discussion will take 
+place in Chile in 2019 to finalise the remaining de tail.  By 2020 however countries will need 
+to show that they have met their own targets and de veloped new ones for 2030. 
+ 
+The Carbon Reduction Commitment Energy Efficiency S cheme (CRC) was enabled via 
+Part 3 of the Climate Change Act 2008.  It was an i ncentive to reduce the amount of 
+energy consumed in non-domestic buildings due to th e cost of purchasing carbon credits 
+for consumption. Its final year of reporting is Jul y 2019 for the financial year of 2018/19.  
+This will now be replaced by an additional charge w ithin the Climate Change Levy, 
+continuing the aim to reduce consumption and improv e energy efficiency. 
+ 
+The Climate Change Plan (2018) is the 3 rd  report on proposals and policies from the 
+Climate Change (Scotland) Act 2009.  The report ide ntifies how Scotland intends to deliver 
+a low carbon economy. Aligning with the EU 2030 fra mework it looks to increase use of 
+low carbon technologies (including heat) and the co ntinued and enhanced improvements 
+to buildings.  It also identifies further emission reductions in: 
+ 
+• Transport (37%); 
+• Industry (21%); and 
+• Waste (52%). 
+ 
+The EES Route Map has two key policy areas to deliv er: fuel poverty and climate change. 
+It sets out a timelines with incremental targets ai med to improving both domestic and non-
+domestic buildings.  For the first time it sets out  targets for both the private rented sector 
+and owner occupation as well as setting a specific target for homes with fuel poor 
+households. 
+ 
+As a local authority, there are other key pieces of  regulation and legislation that contribute 
+to reducing carbon emissions: 
+ 
+• The Assessment of Energy Performance of Non-Domest ic Buildings (Scotland) 
+Regulations 2016; 
+• Planning (Scotland) Act 2006; 
+• Waste (Scotland) Regulations 2012. 
+• Environmental Act 1995; 
+• Air Quality Standards (Scotland) Regulations. 
+ 
+The Plan for North Lanarkshire is the main strategi c document for the council and its 
+partners (see Figure 2) and focuses on 5 priorities  with outcomes driven by clear aims and 
+supported by clear actions. The Carbon Management P lan 2019-2022 contributes to the 
+delivery of The Plan for North Lanarkshire and enab les the council to act: 
+ 
+• in the way best calculated to contribute to delive ry of the Climate Change (Scotland) 
+Act's emissions reduction targets; Carbon Management Plan 2019-2022 
+8 • in the way best calculated to deliver any statutor y adaptation 3 programme; and 
+• in a way that it considers most sustainable. 
+ 
+Figure 2 – Local Strategic Context 
+ 
+ 
+ 
+(*Pilot project) 
+ 
+North Lanarkshire Council is committed to high stan dards of governance and has an 
+integrated framework that brings together legislati ve requirements, governance principles, 
+and management processes.  Arrangements are based o n key aspects of: 
+ 
+• Openness in decision making, management arrangement s, and in dealing with the 
+public. 
+• Integrity in ensuring high standards of conduct, pr opriety, and probity in running the 
+council’s business and managing public funds. 
+• Accountability in ensuring that the council, its me mbers and officers are responsible 
+for their decisions and actions, and are subject to  appropriate external scrutiny. 
+• Inclusiveness in communicating and engaging with al l sections of the community and 
+encouraging active participation. 
+ 
+The council’s corporate governance arrangements are  designed to ensure that business is 
+conducted in accordance with the law and that publi c money is safeguarded, properly 
+accounted for, and used efficiently and effectively .  Elected Members and senior officers 
+are responsible for implementing the governance arr angements and the framework is 
+assessed on an annual basis to ensure ongoing effec tiveness and compliance. 
+                                                           
+3 climate change 
+Carbon Management Plan 2019-2022 
+9  
+The council’s governance framework comprises the sy stems, processes, cultures and 
+values by which the council is directed and control led.  It enables the council to monitor the 
+achievement of its objectives and consider whether those objectives have led to the 
+delivery of appropriate and cost-effective services .  The council is responsible for 
+reviewing and monitoring each element of the framew ork and providing evidence of 
+compliance. 
+ 
+The council’s wider governance arrangements include : 
+• identifying and setting out the council’s prioritie s in The Plan for North Lanarkshire  
+and in other policy statements agreed by the counci l; 
+• monitoring of the achievement of objectives by the council and senior officers; 
+• a systematic approach to monitoring service perform ance at both officer and elected 
+member levels including targets against which finan cial and operational performance 
+can be assessed and regular reporting on performanc e to council committees; 
+• clearly setting out the remits, functions and power s of committees and sub 
+committees in a scheme of administration and alloca ting delegated powers to officers; 
+• Financial Regulations that specify relevant procedu res and controls over budgeting, 
+income, expenditure and financial performance; 
+• comprehensive budget and expenditure monitoring sys tems; 
+• clearly defined capital expenditure guidelines 
+• a Monitoring Officer to ensure compliance with laws  and regulations; 
+• an Audit and Governance Panel whose activities and core functions comply with 
+relevant CIPFA standards for audit committees; and 
+• highlighting expected standards of behaviour in Cod es of Conduct for elected 
+members, chief officers and employees. 
+ 
+An additional element of the governance framework a nd a key part of the system of 
+internal control is the council’s risk management a rrangements which are designed to 
+identify, assess, prioritise and mitigate risks to the achievement of the council’s priorities. 
+[Extract from Annual Governance Statement]. 
+ 
+Carbon Management Group 
+ 
+The Carbon Management Group was formed in June 2016  and its role is to co-ordinate the 
+delivery of sustainable actions and reduce the emis sion of greenhouse gases.  The group 
+utilises a multi-service approach to improving the council’s response to climate change, 
+operating within the council’s governance framework .  
+ 
+The group is comprised of officers from across the council and ensures that the carbon 
+reduction agenda is embedded throughout the organis ation. The group mainly has a 
+strategic role, while individual services are respo nsible for policy and project delivery.  
+Meeting on a quarterly basis, the group’s strategy is to ensure that the council’s services 
+engage and contribute to the delivery of the Carbon  Management Plan. 
+ Carbon Management Plan 2019-2022 
+10 The group also has the responsibility for the annua l Public Sector Climate Change Duties 
+Report submission and this includes: 
+ 
+• data collection from stakeholder services; 
+• a data audit carried out annually which includes t he identification of good practice 
+and recommendations for services to consider for ac tion; 
+• compilation and submission of the final report. 
+ 
+ 
+Figure 3 – Carbon Management Governance Structure 
+ 
+ 
+ 
+ 
+ 
+Section 2 – Targets 
+ 
+Organisational boundaries 
+ 
+For the purposes of this plan, the council’s carbon  footprint is calculated using information 
+about energy used by corporate buildings from which  the council and its trusts i.e. North 
+Lanarkshire Leisure and CultureNL, deliver services  from.  The footprint also includes the 
+Carbon Management Plan 2019-2022 
+11 corporate fleet and private car use for business tr avel (grey fleet), all municipal waste 
+(domestic and non-domestic) and water (supply and t reatment).  The organisational 
+boundary does not include North Lanarkshire Propert ies commercial and industrial 
+properties customers’ consumption. 
+ 
+Housing is not considered when calculating the foot print of the council as this is an area 
+where the council does not have direct control on e nergy usage. Within this plan however 
+you will find a section on housing as it is evident  that domestic consumption savings can 
+make a significant contribution to achieving the na tional carbon reduction targets. The 
+council’s participation in the Scottish Governments  Local Heat and Energy Efficiency 
+Strategy pilot will enable us to continue to develo p a response to addressing aspects of 
+fuel poverty in order to achieve the 2040 target wh ilst reducing carbon emissions. 
+ 
+North Lanarkshire Council’s organisational boundary  for scoping the extent of its carbon 
+footprint includes: 
+ 
+• energy consumption relating to buildings used by b oth the council and its trusts for 
+non-domestic purposes, street lighting; 
+• the council’s own fleet and business travel (grey fleet); 
+• all municipal (household and commercial) waste. 
+ 
+The figure below provides an overview of the organi sational boundary and exclusions. 
+ 
+Figure 4 – North Lanarkshire Council Carbon Boundar ies  
+ 
+ 
+Carbon Management Plan 2019-2022 
+12 Historic Targets 
+ 
+In February 2010, the council’s first carbon manage ment plan was presented to 
+Environmental Services Committee. The plan was deli vered until 31 March 2014 and set a 
+reduction target of 25% against the 2006/07 baselin e for the duration of the plan. From 
+2006/07-2015/16 the council reduced its carbon foot print by 26%. 
+ 
+In 2015/16 a new baseline was identified with a tar geted reduction of 9,987 carbon tonnes 
+to be achieved by 31 March 2019.  Progress against the carbon reduction target has been 
+monitored on an annual basis via the Public Sector Climate Change Duties Report.  The 
+final position will be reported via this mechanism and thereafter to committee following its 
+November 2019 submission date. 
+ 
+Table 1 - Carbon Footprint 2015/16 (Baseline) 
+ 2015/16 
+ Carbon Emissions 
+(tCO2e) 
+Stationary  74,509  
+Waste   35,759  
+Transport 6,806  
+Total   117,075  
+Carbon Indicator: Carbon emissions per FTE employee s 9.1  
+ 
+ 
+Current Footprint  
+ 
+The council’s estate is under continuous change as the council looks to improve the 
+efficiency and use of its buildings, whilst improvi ng the efficiency of its service delivery. 
+This has led to reductions in emission by specific sites or service areas within the council. 
+ 
+The table below shows that the council’s stationary  emissions which include electricity and 
+natural gas consumption account for over half (52.5 %) of the council’s emissions.   Over 
+the past two years the emission source has reduced by 9,793 tCO2e, achieving 98% of 
+the overall targeted carbon reduction. This has bee n achieved by energy projects 
+delivered via the Non Domestic Energy Efficiency Fr amework and improvements to the 
+authority’s street lighting infrastructure.  Improv ements in the council’s fleet has also 
+provided a reduction in transport emissions. 
+ 
+Table 2 - Carbon Footprint 2017/18 
+ 2017/18 
+ Carbon Footprint 
+(tCO2e) 
+Stationary 63,955  
+Waste 51,234  
+Transport 6,535  
+Total  121,725  
+Carbon Indicator: Carbon emissions per FTE employee s 9.5  
+ 
+In 2017 the council introduced an improved domestic  waste collection regime to facilitate 
+the achievement of the Scottish Government’s 2020 ( 60%) and 2025 (70%) recycling 
+targets whilst achieving the limit of 5% waste to l andfill by 2025.  It was anticipated that Carbon Management Plan 2019-2022 
+13 additional resources at the beginning of the new re gime would be required to ensure that 
+households had ‘clean bins’ i.e. their bins did not  contain any materials that they should 
+not.  This timed amnesty approach to the domestic w aste collection led to a notable 
+increase in waste emissions (15,475 tCO2e) from the  baseline. 
+ 
+Performance against the council’s 2019 carbon reduc tion target will be reported via the 
+Public Sector Climate Change Duties Report November  2019 submission. Projections to 
+date indicate that the 2019 carbon reduction target  will be comfortably achieved. This can 
+be attributed to significant reductions in waste to  landfill during the course of the year 
+coupled with reductions achieved through other sign ificant council projects. 
+ 
+Figure 6 provides a summary of the council’s emissi ons.  The council’s sources of 
+stationary emissions are electricity, natural gas, gas oil, Kerosene burning oil and, the 
+supply and treatment of water. In 2017/18, stationa ry emissions accounted for 63,955 
+tonnes of carbon. In planning its future carbon red uction projects, a significant focus will be 
+on those that can reduce the council’s use of gas a nd electricity. 
+ 
+Figure 5 – North Lanarkshire Council’s Carbon Footp rint by Emission Source (2017/18)  
+ 
+ 
+Waste includes all waste to landfill, waste to comb ustion, composting and recycling. 
+Emissions resulting from waste to landfill are sign ificantly higher than recycled waste, 
+accounting for 97% of total waste emissions.  
+ 
+The council’s own fleet account for the majority of  transport emissions however the ‘grey 
+fleet’ i.e. business travel accounts for 18% of thi s emission source and has the potential to 
+be reduced in future years with improved use of pub lic transport and the council’s pool 
+cars. 
+ 
+ 
+Target for 2022  
+ 
+Figure 7 provides a comparison of the baseline year  with subsequent and future years. For 
+2018/19 a projected carbon footprint has been calcu lated and this is based on the 
+realisation of current project savings.  The BAU fo otprint shows that if the council do not 
+continue to investigate in carbon reduction project s, the most likely outcome is that the 
+footprint will remain the same. 
+ 
+ 
+  
+Carbon Management Plan 2019-2022 
+14 Figure 6 – North Lanarkshire Council’s Historic, Cu rrent & Business As Usual Footprints  
+ 
+ 
+The figure below compares the BAU footprints with t hose where the expected project 
+savings are realised in future years. It should be noted that at time of writing detail of 
+projects for 2020/21 were not available and therefo re further anticipated savings may be 
+achieved in the final year of this plan. 
+ 
+Figure 7 – Value at Stake (Forecast Project Savings  2017-2022)  
+ 
+ 
+Taking into account carbon reduction projects alrea dy in progress combined with 
+anticipated further project delivery in 2020/21 has  informed target setting resulting in a 
+further targeted carbon footprint of 91,665 tCO2e.  This is equivalent to a 21% reduction 
+from the baseline year and 14% reduction from 2019 target of 107,088 tCO2e. Based on 
+current staffing levels, this will also result in a  reduced ‘carbon tonnes emissions per 
+employee (FTE)’ of 7.2. 
+ 
+ 
+  
+Carbon Management Plan 2019-2022 
+15 Section 3 – Projects and Activities 
+ 
+Historic energy efficiency projects 
+ 
+With the launch of the Central Energy Efficiency Fu nd (CEEF) in 2004, the council utilised 
+its award of £929,539 to enable delivery of carbon reduction projects to the value of 
+£2,861,149 in key areas within its estate until 201 6 when the fund closed.  
+ 
+Early 2017, the council decided to utilise the Non Domestic Energy Efficiency Framework 
+to assist the delivery of its carbon saving project s.  The NDEE framework was developed 
+by the Scottish Government to provide a framework t o deliver the retrofit of energy 
+efficiency works to existing non−domestic public bu ildings or grounds. 
+ 
+Each NDEEF project is eligible for Scottish Governm ent funding (up to £50K) to pay for the 
+assistance provided by the project support unit (PS U), delivered by a singular contractor 
+framework, Mott MacDonald. The PSU brings added val ue to utilisation of the framework 
+for the council as they identify additional energy saving measures above the council’s 
+original project requirements: provide a range of a ssistance including business case 
+development as well as process and contractor manag ement support. 
+ 
+A rolling fund was set up in 2017/18 utilising £500 k of Salix funding which was matched 
+with the council’s capital monies. The rolling fund  is used to deliver carbon saving energy 
+efficiency projects which are mainly delivered via the NDEEF. It is anticipated that through 
+the reinvestment of project savings, the fund will become self-sustaining. Projects are 
+subject to further review by Salix, ensuring they c omply with the requirements of the fund 
+i.e. payback no more than 8 years and to a maximum cost of £250 per tonne of carbon 
+dioxide saved. 
+ 
+Planned and future projects  
+ 
+Table 3 - Carbon Savings Projects 2019-2021 
+Project Amount 
+of 
+Savings 
+(kWh, 
+Tonnes) Carbon 
+Savings 
+(tCO2e)  
+Clyde Valley Residual Waste Project 33,202  19,474  
+NDEE Phase 1- boiler upgrades and solar thermal ins tall 604,957  186  
+NDEE Phase 1- CHP install 497,882  92  
+NDEE Phase 1- LED lighting upgrades 1,333,508  410  
+LED (Street Lighting) - other 58,000  18  
+LED (Street Lighting) 1,117,260  343  
+NDEE Phase 2 Lighting upgrade 800,973  246  
+NDEE Phase 2 Boiler upgrade 339,834  61  
+NDEE Phase 2 CHP Install 476,235  88  
+Average savings used to project for 2021/22 savings  
+(kWh) 9,014,650  2,769  
+Total    23,687  
+ Carbon Management Plan 2019-2022 
+16 The table above provides an overview of the planned  projects with their respective source 
+savings and potential first full year carbon saving s.  Savings will be realised from 2019/20 
+through to 2020/21, with an estimated savings for 2 021/22 based on current and future 
+project expectations. The projects delivered in 201 9/20 will achieve a reduction of 1,030 
+tCO2e primarily in electricity savings.  Further sa vings of 122 and 2,769 (tCO2e) in the two 
+successive years will be due to realised consumptio n savings in both gas and electricity. 
+ 
+Figure 8 – Carbon Savings Projects by Source (2019- 2021)  
+ 
+ 
+The project list (table 3) is not exhaustive as it does not include projects where the detail 
+has either not been confirmed or the output result is difficult to quantify. Examples of this 
+would be: 
+ 
+‘FuelGood Driver Training’ and the Council’s Fleet:   
+ 
+The council participates in the Energy Savings Trus ts ‘FuelGood Driver Training’ as it 
+contributes to a reduction in the council’s transpo rt emissions through a reduced fuel 
+consumption within the fleet.  Below is some highli ghts of improvements within the 
+council’s fleet: 
+ 
+• Replaced 24 bin lorries with Euro6 compliant vehic les increasing the council’s 
+compliance to 75%. 
+• In 2019 there will an additional 5 new fuel effici ent Euro6 bin lorries. 
+• Switched on Fleets 2017/18 grant funding was used to procure an additional 7 
+Nissan Leaf electric cars for the pool car fleet an d further funding in funding will see 
+4 fully electric Renault Master vans joining the fl eet in 2019. These vehicles will be 
+used to deliver school meals. 
+• The low emissions vehicle fleet stands at 31 (5 hy brids and 26 fully electric 
+vehicles). 
+ 
+Efficient and Cleaner Operations (ECO) Stars – Flee t Recognition Scheme 
+ 
+This scheme, delivered locally by the council, aims  to assist organisations who are making 
+changes to their fleet (buses, coaches and goods ve hicles) in order to improve their 
+efficiency and emissions by reducing fuel consumpti on.  Scheme members’ participation 
+contributes to improvements in air quality, a reduc tion in overall emissions and to the 
+climate change agenda. 
+Carbon Management Plan 2019-2022 
+17  
+Waste: 
+ 
+In 2017, 3.83 million tonnes of waste in Scotland w ent to landfill, of which 32% was 
+household and similar type waste.  The national rec ycle rate for household waste in the 
+same year was 45.6%.  In 2017 North Lanarkshire: 
+ 
+• generated 156,813 tonnes of household rubbish; 
+• 39.6% of rubbish was recycled; 
+• had a whole-life  carbon impact of 406,737 tCO2e (household waste). 
+ 
+The Clyde Valley Residual Waste Project is a multi- authority (East Renfrewshire Council, 
+East Dunbartonshire Council, North Ayrshire Council , North Lanarkshire Council and 
+Renfrewshire Council) initiative for the treatment and disposal of residual waste where the 
+council’s participation will realise an initial sav ing of 19,474 tCO2e in 2020/21.  The project 
+is for 25 years and will commence December 2019.  T he project will be delivered by 
+Viridor Clyde Valley Limited and significantly cont ribute to the councils reduction in waste 
+to landfill.  
+ 
+Biodiversity: 
+ 
+The Nature Conservation (Scotland) Act 2004 require s the council to advance the 
+conservation of biodiversity. The Act states ‘ It is the duty of every public body and office 
+holder in exercising any functions, to further the conservation of biodiversity so far as it is 
+consistent with the Property exercise of those func tions ’.  In complying with the Act the 
+council also looks to promote the survival of speci es that have been impacted by climate 
+change. 
+ 
+Healthy peatlands can absorb carbon and trap and st ore it, thus preventing it going into 
+the atmosphere. Bogs that are degraded emit carbon dioxide and other greenhouse 
+gases. Restoring peatlands ensures that they will c ontinue to contribute to the reduction of 
+Scotland’s carbon emissions. There are a significan t number of peatlands/bogs in North 
+Lanarkshire of which: 
+ 
+• 6 are Sites of Special Scientific interests (SSIs)  of which 3 are special areas of 
+conservations (SACs); 
+• 70 are designated, at least in part, as Sites of I mportance for Nature Conservation 
+(SINCs); 
+• 3 are Local Nature Reserves. 
+ 
+In line with the Wildlife and Natural Environment ( Scotland) Act 2011, the council produces 
+a report every 3 years evidencing its application o f the 2004 Act and subsequent 
+regulations (1994 and 2010).  The Biodiversity Duty  Report 2015-18 highlighted the 
+following: 
+• Woodland In and Around Towns (WIAT) project (Thorn wood Woods, Tannochside 
+and Newarthill Woods, Motherwell); 
+• Improvements or community events at the 9 Local Na ture Reserves:- 
+o Water vole improvements (Brownsburn Community Natu re Park); 
+o Wildflower meadow planting (Braedale Hill and King shill); 
+o Bog restoration (Greenhead Moss); 
+o Woodland management (Cambusnethan); Carbon Management Plan 2019-2022 
+18 o New great crested newt habitat (Gartcosh); 
+o Improved entrance features (Ravenswood); 
+o Community event (Mosswater); and 
+o River restoration (Drumbeck). 
+ 
+BS EN ISO 14001 : 2015 - Environmental Management S ystems 
+ 
+A number key services within the council are indepe ndently certified to this standard.  It 
+covers the following operational areas:- 
+ 
+• Environmental Health 
+• Fleet Operations 
+• Trading Standards 
+• Waste solutions 
+• Environmental Facility Management 
+• Environmental Asset Maintenance 
+ 
+The standard encourages organisations such as the c ouncil to: 
+ 
+• minimise the negative impact on the environment ca used by its activities; 
+• comply with legislation and regulation and other e nvironmental standards; 
+• continuously improve to achieve the above. 
+ 
+Culture NL and NL Leisure: 
+ 
+The council’s arm’s length organisations, CultureNL  and NL Leisure both benefit from 
+energy efficiency improvements such as lighting upg rades delivered by the corporate 
+energy team (NDEE phase 1 and phase 2 projects).  T here is also a great deal of other 
+positive activity that contributes to the reduction  in carbon emissions: 
+ 
+• Council food and drink outlets have changed drinki ng straws from plastic to paper.  
+They also encourage the use of reusable cups rather  than disposable through a 
+price incentive. 
+• All water fountains are now mains fed. 
+• Plastic dog waste bags and also food waste bags ar e available at local libraries. 
+• Both the libraries and museums donate items no lon ger safe or suitable to use to a 
+charity who train ex-offenders in woodwork and meta lwork. 
+• Via NL Industries, furniture such as computer chai rs are recovered, rather than 
+buying replacements. 
+• Summerlee removed ‘personal’ wastepaper baskets an d replaced these with ‘bin 
+stations’ to encourage less waste, correct waste di sposal 
+• Curatorial Services reuses and recycles exhibition  materials where possible and 
+tries to limit what is sent to landfill.  
+• Lunch clubs operated within community facilities a re provided with food waste bins. 
+• CultureNL operate 68 community facilities and thei r use is continually reviewed to 
+ensure their operation matches demand. 
+ 
+  Carbon Management Plan 2019-2022 
+19 Communication and Campaigns: 
+ 
+Earth Hour occurs each year on the last Saturday in  March.  This is a 
+global event which North Lanarkshire participates i n through the 
+‘switch off’ event and awareness raising via ‘Pass the Panda’. 
+ 
+In 2018 the council was awarded ‘Super Local Author ity’ status by the 
+World Wildlife Fund (WWF) Scotland for demonstratin g its commitment 
+to action on climate change. 
+ 
+The council also takes part in the 
+Scottish Government’s Climate 
+Week. The council’s campaign promotes individual 
+behavioural change such as domestic energy use 
+and personal travel to show how carbon savings and 
+changing the way we do things can help our planet.  
+ 
+ 
+Climate Ready Clyde: 
+ 
+The council participates in the Climate Ready Clyde  initiative which looks to develop a 
+Climate Adaptation Strategy with supporting action plan for Glasgow City Region. In 
+November 2018, ‘Towards a Climate Ready Clyde: Clim ate Risks and Opportunities for 
+Glasgow City Region’ was published. It follows a co llaboration of partners and 
+stakeholders, and identified key priorities and are as that need to be progress whilst 
+sustaining existing levels of activity in areas suc h as flood risk prevention and air quality. 
+ 
+Other council activity 
+ 
+The council has introduced an environmental impact section within its committee reports to 
+evidence that both carbon and environmental effects  of decision making have been 
+considered.   
+ 
+Resources 
+ 
+The council through using its own monies, and maxim ising its use of external funding, will 
+continue to improve the sustainability and energy e fficiency of its assets to the benefit of its 
+carbon footprint.  
+ 
+ 
+ 
+  
+Carbon Management Plan 2019-2022 
+20 Section 4 – Action Plan & The Plan for North Lanark shire  
+ 
+The following table summarises the council’s ‘addre ss, adapt and act’ areas of work.  This 
+section will be updated with revisions during the c ourse of this plan. 
+ 
+Table 4 - Climate Related Actions 2019-2023 
+Action  Timescale  Action Origin  Responsibility  
+Investigate different communication tools 
+with a view to designing and implementing a 
+council wide engaging communication plan to 
+target and encourage potential areas of 
+carbon savings. 
+ 
+2019-2022  Carbon 
+Management 
+Plan Carbon Management 
+Group To continue to develop the councils asset 
+information to inform and underpin future 
+project development and carbon savings. 
+To continue to evaluate further use of 
+technologies to continually improve the 
+council’s energy efficiency, resulting in the 
+reduction of the council’s carbon footprint 
+and improvement in source data. 
+To support the pilot Local Heat and Energy 
+Efficiency Strategy project. 
+To support the review of the use of ‘grey 
+fleet’ for business travel. 
+‘Sites of Special Scientific Interest’ sites to be 
+in a local bogs management scheme 
+2020 North 
+Lanarkshire 
+Biodiversity 
+Action Plan Head of Integrated Street 
+and Community Services Refuse new applications for extraction 
+consents on all European, national and 
+locally designated peatlands. 
+Promote awareness of the biological and 
+cultural importance of mosses to local 
+communities adjacent to lowland 
+raised/intermediate bogs 
+Undertake favourable management works to 
+improve council owned bog sites 
+Collate information on council owned bogs 
+regarding their condition and management 
+The Council will strive to reduce car journeys 
+for work purposes e.g. by teleconferencing. 
+For instances where work travel is necessary 
+the Council’s pool car fleet will be utilised 
+with electric/hybrid vehicles provided where 
+possible. 2021 Air Quality 
+Action Plan 
+2018-2021 Head of Regulatory 
+Services & Waste 
+Solutions Carbon Management Plan 2019-2022 
+21 Action  Timescale  Action Origin  Responsibility  
+Further consideration will be given to 
+reducing the number of private vehicles used 
+for Council business, introducing 
+bus/sustainable transport where possible. 
+Tracking devices will continue to be fitted to 
+NLC fleet vehicles in order to provide 
+information on managing idling/speeding and 
+unnecessary journeys. 
+Driver Certificate of Professional 
+Competence training will be provided for all 
+Council drivers, including modules on safe 
+and efficient driving. 
+The Council will continue to increase the 
+provision of electric vehicle (EV) charging 
+points, where possible ensuring these are 
+accessible to both council staff and the 
+general public. The Council will engage with 
+other public sector agencies (e.g. NHS 
+Lanarkshire) to encourage similar provision 
+to ensure adequate coverage of EV charge 
+points across NLC area. Head of Integrated Street 
+and Community Services 
+The Council will abide by their statutory duty 
+of sustainable procurement and include 
+vehicle standards in the sustainability section 
+of the sourcing methodology documentation, 
+which will consequently feed through into the 
+specification/award criteria where 
+appropriate. Head of Assets and 
+Procurement 
+The Council will continue to progress their 
+Workplace Travel Plan especially in view of 
+other relevant NLC policies, such as property 
+rationalisation, home working policy etc. Head of Environmental 
+Assets 
+Implementation of new Clyde Valley Residual 
+Waste Project - waste management facility 
+shared with peer councils by 2019. 
+2020 
+/ ongoing 
+Risk Register Executive Director, 
+(Enterprise and 
+Communities) Maximising external funding opportunities 
+and other resources to facilitate energy 
+savings projects through teams across the 
+Council. 
+LED street lighting investment programme 
+completion  Head of Integrated Street 
+and Community Services 
+Implementation of Monitoring & Targeting 
+software – Energy Management 
+Head of Assets and 
+Procurement Development of Local Heat and Energy 
+Efficiency Strategy 
+Enhance reporting process (both internal and 
+external) as identified at the “Gaps in 
+Assurances” section 2019 Carbon Management Plan 2019-2022 
+22 Action  Timescale  Action Origin  Responsibility  
+Energy Efficiency project delivery via the Non 
+Domestic Energy Efficiency Framework. 2023 
+Ensuring that most appropriate stakeholders 
+participate at relevant stage of initiatives and 
+projects using Corporate Project 
+Management methodology and through 
+Carbon Management Working Group Ongoing 
+ 
+The Programme of Work which supports The Plan for N orth Lanarkshire contains activities 
+that will impact on the council’s climate and carbo n agenda.  The following table contains a 
+high level extract of this programme of work activi ty. 
+ 
+Table 5 – Programme of Work (The Plan for North Lan arkshire) 
+Ref  Description  Ambition 
+Statement 
+Reference 4 
+P002 Asset review and rationalisation 22,24 
+P005 Inclusive growth (tackling poverty) 11 
+P007 Communication Strategy 4 
+P009 Strategic Policy Framework 24,25 
+P011 Three year revenue budget strategy 21 
+P013 New Supply Programme 1 
+P014 Tower Strategy 1 
+P015 Housing Investment Programme 1 
+P017 Fuel Poverty 11,12 
+P019 Finalise updated Local Development Plan 3 
+P020 Town centre and community regeneration 2,3 
+P021 City Deal / infrastructure 3 
+P023 Marketing and tourism 4 
+P025 Parks master planning 16,17, 22 
+P026 Co-ordination of environmental assets 16,17, 22 
+P028 Shared services 22 
+P029 Energy and carbon management 22 
+P047 Schools new build programme 22, 24 
+                                                           
+4 The North Lanarkshire Ambition Statements can be f ound at the end of this document Carbon Management Plan 2019-2022 
+23 Ref  Description  Ambition 
+Statement 
+Reference 4 
+P055 Community asset mapping 19, 20, 21 
+P059 Improve procurement capability 5 
+P061 Employee learning and development programmes – Lear n NL 23 
+  Carbon Management Plan 2019-2022 
+24 Section 5 – Housing & Energy Efficiency  
+ 
+As the council does not control individual househol ds’ energy consumption and resulting 
+carbon emissions, it does not include this when cal culating its own carbon footprint.  
+Carbon emissions from domestic energy use however a ccounts for 30.9% 5 of all 
+emissions reported by the Department for Business, Energy & Industrial Strategy within 
+North Lanarkshire.   
+ 
+Although our population is predicted to marginally increase over the next 10 years 6, there 
+will be a significant increase in the number of sin gle person households resulting in more 
+dwellings.  Many of these households will be older people who require a warmer heating 
+regime than younger households, and as they are at home more frequently they use more 
+energy.  It therefore can be assumed that domestic carbon emissions in North Lanarkshire 
+will continue to increase if energy efficient solut ions are not implemented. 
+ 
+The targeted reduction of domestic emissions is a n ational priority which is achieved 
+through the delivery of more energy efficient homes  as well as tackling household 
+behaviour.  The council, as a local authority and a  social landlord, has a strategic 
+responsibility to domestic energy efficiency, fuel poverty and climate change. 
+ 
+New Build Council Housing 
+ 
+All council housing developments through the Afford able Housing Supply Programme 
+meet the Building Standards Sustainability Level of  Silver (Aspects 1 & 2) in order to 
+maximise on available Scottish Government funding. 
+   
+As part of the site planning/brief development proc ess, renewable energy sources are 
+assessed in terms of site suitability, costs and be nefits. The council new build to date have 
+achieved on average a ‘B’ rating (SAP rating 80+).  Since March 2016 EPC documents 
+have indicated SAP ratings between 86(B) and 91(B) being achieved for council 
+developments with corresponding Environmental (CO2)  ratings ranging from 89(B) and 
+95(A).  This high level of energy efficiency should  result in lower fuel bills than experienced 
+by residents in their former homes. 
+ 
+The council is seeking to develop wider opportuniti es for sustainable housing by 
+examining, piloting and introducing innovative appr oaches to: 
+ 
+• renewable energy provision 
+• consideration of district heating systems for fut ure larger developments 
+• options for properties where they are currently o ff the mains gas network. 
+ 
+Council’s Historic Stock 
+ 
+North Lanarkshire Council, like other social landlo rds, is required to continue to ensure 
+their housing stock meets the Scottish Housing Qual ity Standard (SHQS) beyond 31 
+March 2015, requiring further investment in mainten ance and improvements. The Energy 
+Efficiency Standard for Social Housing (EESSH) repl aced one of the five energy efficiency 
+                                                           
+5 UK local authority and regional carbon dioxide emi ssions national statistics: 2005-2016 (2018) 
+6 1% from 2016-2026 (National Records of Scotland Po pulation Projections for Scottish Areas (2016-based )) Carbon Management Plan 2019-2022 
+25 elements within SHQS. It introduced a minimum energ y rating for stock and is informed by 
+stock type and heating. 
+ 
+Table 6 - Summary of Energy Rating Targets for EESS H 
+ SAP 2009 SAP 2012 
+House Type Gas Electric Gas Electric 
+Detached 60 D 60 D 60 D 57 D 
+Terraced, semi-
+detached 69 C 65 D 69 C 62 D 
+Four-in-a-block flat 65 D 65 D 65 D 62 D 
+All other flats 69 C 65 D 69 C 63 D 
+ 
+ 
+Excluding housing stock built in the last ten years , the council’s historic stock accounts for 
+35,799 dwellings with a number of areas with no nat ural gas supply. A considerable 
+amount of money has been spent on improvements incl uding: insulation, heating and 
+window replacement.  In areas with no natural gas, it is the council’s intention to upgrade 
+the heating system using air source heat pumps. The  focus on EESSH will positively 
+impact on the carbon emissions of social housing (3 4% 7 of the homes) in North 
+Lanarkshire. 
+ 
+The RPP3 led to an unprecedented level of consultat ion on key areas within the climate 
+change agenda in Scotland.  Two of these areas are EESSH beyond 2020 and fuel 
+poverty.  
+ 
+EESSH 2 follows the EES route map and looks to deli ver key targets by 2040 with all 
+Scottish homes to achieve C rating where possible. It goes however a step further in terms 
+of homes where the household is fuel poor i.e. requ iring a B rating by 2040. 
+ 
+Table 3 - Summary of Energy Rating Targets for EESS H 2 (EPC Banding)  
+House Type Gas Electric Biomass Other Fuel 
+Detached C C C C 
+Terraced, semi-
+detached B B B C 
+Four-in-a-block flat B B B C 
+All other flats B B B C 
+ 
+ 
+Home Energy Efficiency Programmes Scotland – Area B ased Schemes (HEEPS 
+ABS): 
+ 
+This funding is primarily targeted at fuel poverty (see below). Local authorities are 
+expected to devise their schemes based on a number of factors such as deprivation, child 
+                                                           
+7Scottish House Condition Survey 2014-16 (2018) Carbon Management Plan 2019-2022 
+26 poverty, stock condition and heat mapping. Local au thority projects are expected to be all 
+tenure and deliver subsidised measures to private o wners. The funding is to be used 
+solely to assist privately owned homes.  
+ 
+The funding allocation is comprised of two elements  – the Core Allocation Programme 
+(CAP) and Proposals for Additional Funding (PAF). T he scheme has a number of specific 
+criteria which must be met in terms of the targetin g and delivery of the council’s projects 
+and is expected to be complemented by the use of En ergy Company Obligation monies. 
+The council has successfully accessed this and othe r funding over past few years however 
+as the private sector accounts for 65% 8 of all housing in North Lanarkshire, further 
+investment is required in order to significantly re duce carbon emissions. 
+ 
+Table 3 - Summary of Domestic Energy Funding in Nor th Lanarkshire (2013-19) 
+Year Grant Funding Element (£) 
+Scottish Government 
+Energy 
+Company 
+Obligation 
+(ECO) Total Home Energy 
+Efficiency 
+Programmes 
+for Scotland: 
+Area Based 
+Schemes 
+(HEEPS: ABS)  Green Homes 
+Cashback (GHCB)  Capital 
+Acceleration 
+Programme  
+2013/14 3,298,730  513,750    2,569,153  6,381,633  
+2014/15 2,907,100      372,582  3,279,682  
+2015/16 2,986,443      221,200  3,207,643  
+2016/17 3,105,042    51,000    3,156,042  
+2017/18 2,136,824        2,136,824  
+2018/19 2,214,082     2,214,082  
+      20,372,906  
+ 
+ 
+Fuel Poverty 
+ 
+The current definition of fuel poverty is: A household is in fuel poverty if, in order to 
+maintain a satisfactory heating regime, it would be  required to spend more than 10% of its 
+income, including Housing Benefit and Income Suppor t for Mortgage Interest, on 
+household fuel use.  
+ 
+There are 3 main causes of fuel poverty and these a re: 
+ 
+• Energy inefficiency (housing and/or household beha viour) 
+• The cost of energy 
+• Household income. 
+ 
+It is estimated that 36,000 households are in some form of fuel poverty in North 
+Lanarkshire and with 23,200 workless households, th e increasing challenges faced by 
+many within our communities is evident.  
+ 
+                                                           
+8 Scottish House Condition Survey 2015-17 (Feb 2019)  Carbon Management Plan 2019-2022 
+27 The Fuel Poverty (Target, Definition and Strategy) (Scotland) Bill when enacted will amend 
+the definition to: Households should be able to afford the heating and  electricity needed for 
+a decent quality of life. Once a household has paid  for its housing, it is in fuel poverty if it 
+needs more than 10% of its remaining income to pay for its energy needs, and if this then 
+leaves the household in poverty 9. 
+ 
+With the 2016 target to eradicate fuel poverty in S cotland missed, a new ambition has 
+been set to reduce fuel poverty in Scotland by 2040  so that no more than 5% of 
+households are fuel poor. 
+ 
+The council continues to try to address fuel povert y through a number of projects and 
+campaigns beyond its responsibilities as a social l andlord. 
+ 
+Pilot Local Heat and Energy Efficiency Strategy Pro ject:  
+ 
+The council received funding to participate in a pi lot Local Heat and Energy Strategy 
+project. Phase 1 of the project has been completed,  with the second phase to commence 
+in 2019 which will be in the form of a socio-econom ic study. 
+ 
+It Pays to Switch: 
+ 
+The aim of the campaign is to contribute to reducin g fuel poverty within North Lanarkshire 
+by saving residents money, enabling them to heat th eir homes to a comfortable level. It 
+looks to encourage and empower householders to swit ch energy provider to access 
+cheaper energy rates.  A refreshed relaunch of the campaign is expected in 2019 with a 
+wider ambition to contribute to the council’s Tackl ing Poverty Strategy. 
+ 
+Saving Energy, Saving Money:  
+ 
+This section of the council’s website provides info rmation on current energy-related 
+projects and assistance that is available to North Lanarkshire residents. It also provides 
+energy advice to help residents to heat their home at a reasonable cost. 
+                                                           
+9 Simplified definition Carbon Management Plan 2019-2022 
+28  
+Section 6 – Green Risk Register 
+ The full detail of the ‘green risks’ is held within  the corporate and individual services risk registe rs. 
+ 
+Risk Statement  Inherent risk  Key Controls  Residual 
+risk Key Further Actions  
+L9 - Carbon Management 12  
+9  
+As a public body we do not comply with our legal obligations under the duties Climate Change (Scotland) Act 2009 and related regulatory and legislative requirements.   • Carbon Management Working Group with 
+evolving scope and plan , engaging 
+relevant stakeholders and co-ordinating activities 
+• Oversight and sponsorship by 
+responsible Executive Director 
+• Carbon Management agenda is an 
+integral part in key strategic and operational activities: Asset & Procurement Solutions activities; Education and SC21; Waste management; Clyde Valley Residual Waste Project; Housing Property & Projects; Council owned electric vehicles; Street Lighting LED programme. 
+• Liaison with other local authorities and 
+external bodies through Scottish Energy Officers Network and SSN, includes benchmarking opportunities.  Scottish  Government through LHEES 
+• Dedicated budget for Energy 
+Management projects that will reduce consumption and improve the council’s ability o manage its energy consumption going forward 
+• LED project - the contractor will have a 
+dedicated project manager and monthly progress updates will be provided to 
+maximise energy and carbon savings.  
+Fortnightly operational and monthly  • Enhance reporting process (both internal 
+and external)  
+• Implementation of new Clyde Valley 
+Residual Waste Project – waste management facility shared with peer councils by 2019. 
+• LED street lighting investment programme 
+completion 
+• Energy Efficiency programme delivery via 
+the Non Domestic Energy Efficiency Framework – Ongoing annual programme 
+• Ensuring that most appropriate 
+stakeholders participate at relevant stage of initiatives and projects using Corporate Project Management methodology and through Carbon Management Working Group 
+• Maximising external funding opportunities 
+and other resources to facilitate energy savings projects through teams across the Council. 
+• Implementation of Monitoring & Targeting 
+software – Energy Management 
+• Development of Local Heat and Energy 
+Efficiency Strategy We fail to identify and access other opportunities including grants that can maximise the benefit for the council and people of North Lanarkshire.   Carbon Management Plan 2019-2022 
+29 Risk Statement  Inherent risk  Key Controls  Residual 
+risk Key Further Actions  
+performance meetings are held as part of the existing contract arrangements. KPIs are applied through the Contract and can lead to financial deductions being imposed and / or performance 
+failure points being imposed which may           
+result in contractor default. The contractor has provided a programme for completing phase one however should they fail to meet the forecast productivity this will have an impact of carbon savings identified against the project.  This will be monitored and mitigated by having robust contract and supplier management arrangements in place that will work alongside embedded Project Management activities.  The first phase of the project has been ongoing for 3 months and the contractor is working to programme with in excess of 5000 lanterns already in place. 
+• In addition to the waste stream covered 
+by the Clyde Valley Residual Waste Project, the Council will ensure, through procurement of suitable contracts, that smaller waste streams, such as those from the recycling centres, are treated in such a manner as to provide for the provisions of the proposed biodegradable municipal waste landfill ban from January 2020 
+• Through the continued review of the 
+Council’s Fleet, we will ensure that all vehicles purchased are in compliance with the most efficient vehicle emission standards and will also continue to increase the number of electric vehicles. Glossary  
+ 
+Adaptation A planned or implemented change which lo oks to lower the 
+arising risks of climate change 
+Atmosphere Surrounds the earth and is made up of a number of gases 
+Biomass Materials that originate from living or dea d organisms such as 
+trees, animal waste 
+Carbon dioxide A naturally occurring gas however ca n be produced by the 
+burning of fossil fuels and biomass, and other acti vities.  It is 
+CO 2 generated by human activities that is the main dri ver for 
+climate change 
+Carbon footprint The total of the greenhouse gases emitted into the 
+atmosphere.  For the purposes of this document, the  carbon 
+footprint referred to is solely that of North Lanar kshire Council 
+Climate change Any notable change in the measures o f climate such as 
+temperature, rainfall, wind patterns that occur ove r a period of 
+time 
+Emissions For the purpose of this document, this re fers to gases that are 
+released into the atmosphere 
+Energy efficiency To use less energy to do the same  thing such as using heating 
+controls to reduce your energy consumption 
+Global warming The global increase in the temperatu re near the earth’s 
+surface 
+Greenhouse gas A gas that absorbs infrared radiatio n in the atmosphere 
+Landfill A site where waste is taken to be disposed , and thereafter is 
+covered by soil 
+Mitigation A deliberate act taken to reduce the hum an impact on the 
+climate (To do no further harm to our planet) 
+Natural gas Gases that occur underground such as me thane, propane and 
+butane 
+Recycling The collection and reprocessing of a reso urce to enable it to 
+be reused 
+Renewable 
+Energy Energy resources that by their nature reoccur such as wind, 
+solar, hydro, geothermal etc. 
+Statutory Something that is required by regulation or law and can be 
+subject to a penalty Carbon Management Plan 2019-2022 
+1 Whole-life Carbon 
+Impact This is the emission journey of waste: from the ext raction of 
+the raw materials, manufacturing of the product thr ough to its 
+disposal. 
+ 
+  Carbon Management Plan 2019-2022 
+2 North Lanarkshire Ambition Statements 
+ 
+1. Ensure a housing mix that supports social inclus ion and economic growth. 
+2. Refocus our town centres and communities to be m ulti-functional connected 
+places which maximise social, economic, and environ mental opportunities. 
+3. Maximise the use of our marketable land and asse ts through improved 
+development in business and industrial infrastructu re. 
+4. Market and promote North Lanarkshire as the plac e to live, learn, work, invest, 
+and visit. 
+5. Grow and improve the sustainability and diversit y of North Lanarkshire’s 
+economy. 
+6. Raise attainment and skills for learning, life, and work to enhance opportunities 
+and choices. 
+7. Enhance collaborative working to maximise suppor t and ensure all our children 
+and young people are included, supported, and safe.  
+8. Engage children and families in early learning a nd childcare programmes and 
+making positive transitions to school. 
+9. Invest in early interventions, positive transiti ons, and preventative approaches 
+to improve outcomes for children and young people. 
+10. Engage with children, young people, parents, ca rers, and families to help all 
+children and young people reach their full potentia l. 
+11. Increase economic opportunities for adults by u nderstanding, identifying, and 
+addressing the causes of poverty and deprivation an d barriers to financial 
+inclusion. 
+12. Ensure our residents are able to achieve, maint ain, and recover their 
+independence through appropriate supports at home a nd in their communities. 
+13. Improve preventative approaches including self- management and giving people 
+information and choice over supports and services. 
+14. Ensure the highest standards of public protecti on. 
+15. Encourage the health and wellbeing of people th rough a range of social, 
+cultural, and leisure activities. 
+16. Transform our natural environment to support we llbeing and inward investment 
+and enhance it for current and future generations. 
+17. Ensure we keep our environment clean, safe, and  attractive. 
+18. Ensure our digital transformation is responsive  to all people’s needs and 
+enables access to the services they need. 
+19. Improve engagement with communities and develop  their capacity to help 
+themselves. 
+20. Improve the involvement of communities in the d ecisions, and development of 
+services and supports, that affect them. Carbon Management Plan 2019-2022 
+3 21. Continue to identify and access opportunities t o leverage additional resources 
+to support our ambitions. 
+22. Facilitate a North Lanarkshire wide approach to  asset rationalisation, including 
+with communities and partners. 
+23. Build a workforce for the future capable of del ivering on our priorities and 
+shared ambition. 
+24. Review and design services around people, commu nities, and shared 
+resources. 
+25. Ensure intelligent use of data and information to support fully evidence based 
+decision making and future planning. 
+  
+ 
+  Carbon Management Plan 2019-2022 
+4 If you require any further information on the conte nt of this document or the work of 
+the Team, then please contact us: 
+Carbon Management Group: Lynda Stevenson  
+ 
+Phone: 01698 524969 
+Email: Stevensonly@northlan.gov.uk 
+Web: www.northlanarkshire.gov.uk  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 

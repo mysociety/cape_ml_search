@@ -1,0 +1,181 @@
+Revision Revision Description Date Author
+0 Wood Issue 17 May 2018 Jennie Topham
+1 Environment Team Update 29 May 2018 James O'Brien
+2 Environment Team Update 13 January 2020 James O'Brien
+3 Minor change to introduction 15 April 2020 Vicky Cormie
+4 Web version update 25 March 2021 James O'Brien
+5 Web version update 24 August 2021 James O'BrienLeicestershire County Council Environment Strategy Action Plan
+2020-2024
+This document suppo rts the Leicestershire County Council Envir onment Strategy 2018-2030: 
+Delivering a better future.
+Introduction
+This Action Plan is a living document which is being added to and chanaged as new projects and new information becomes available. 
+It is reviewed at least once a year as part of an annual refresh.
+The Action plan contains all currently known active and planned actions being carried out by LCC and or partners that contrib uteto 
+the delivery of the aims and objectives of the Environment Strategy 2018 -2030.
+The Scope column refers to where the source of the environmental aspect lies and / or where the benefit of the action will si t. For 
+example in the case of carbon emissions 'internal' refers to LCC's emissions and 'external' refers to Leicestershire's emissi ons. In the 
+case of waste, household waste is treated as' external' while LCC's office waste is treated as 'internal'. Where there is bot h an 
+internal and external aspect or benefit it is categorised as 'both'.
+The Action Plan sets out the project lead for each action and the key partners in supporting delivery of the action.
+The currently known timescales are set out and also which of the objectives of the Envrionment Strategy the action is expecte d to 
+mainly support, as referenced in the Environment Policy section of the Environment Strategy 2018 -2030.
+The actions and timescales will be reviewed and updated as necessary to take account of the Coronavirus pandemic. 
+This high level Action Plan is supported by more detailed project plans as appropriate.Scope
+Internal / 
+External / BothStart End
+Continue to undertake premises LED lighting upgrades Internal Property Procurement Apr-20 Mar-24 A1
+Develop and agree a programme of building insultation improvements Internal Property Procurement Apr-22 Mar-24 A1
+Propose and deliver improvements to premises heating controls and Building 
+Management Systems Internal PropertyAll Depts Apr-21 Mar-24 A1
+Review of direct tenant utilities and inclusion within scope Internal Property Env Team, TU Apr-20 Mar-21 A1
+Agree and implement a programme of low level streetlighting improvements Internal HighwaysTU Apr-20 Mar-22 A1
+Assess options for possible future traffic light LED upgrades Internal Highways TU Apr-22 Mar-24 A1
+Assess feasibility of town centre floodlight LED upgrades and install if agreedInternal HighwaysTU Apr-22 Mar-23 A1
+Deliver Quorn Solar Farm project Both Property Env Team Apr-20 Mar-22 A2
+Propose, design and deliver other solar and renewable energy projects Both Property Env Team Apr-20 Mar-24 A2
+Carry out an assessment of unmeasured LCC carbon emission sources Internal Env Team TU, All Depts Apr-20 Mar-21 A1
+Assess carbon reduction opportunities within Procurement Both Procurement Env Team Apr-20 Mar-21 A1,A2
+Support delivery of the Green BELLE project External Env Team LCityC / LLEP Apr-20 Mar-22 A2
+Support Park & Ride Solar PV / EV charging LLEP bid External Property Transport, Env Team, LCityC Apr-20 Jul-20 A2
+Continue to deliver Council's Energy Strategy 2017-2020 Internal Property All Depts Apr-20 Mar-21 A1, A2, E1, E1
+Review and deliver LCC Energy Strategy Internal Property Env Team Apr-20 Mar-24 A1, A2, E1, E2
+Maintain and review the Council's Climate Change Risk Register Internal Env Team All Depts Apr-20 Mar-24 B1
+Undertake carbon insetting research project Both Env Team Other Las Apr-21 Mar-22 A1, A2
+Review of Leicestershire Muni cipal Waste Mana gement Strat egy External Waste Team Districts Apr-20 Mar-21 C3, D4
+Expansion of RHWS Reuse Schemes External Waste Team Contractors, Procurement Apr-20 C3, D4
+Reduce use of single use plastics in LCC Internal Env Team Property, Catering Apr-20 Mar-24 C1, C2, C3
+Deliver Council's Water Strategy 2017-2020 Internal Property All Depts Apr-20 Mar-21 C2
+Deliver in-house, waste management, recycling and composting services Internal Property Env Team, All Depts Apr-20 Mar-24 C2, D1, D2
+Maximise opportunities to increase the use of recycled aggregates for highways 
+works.Both Highways Contractors, Procurement Apr-18 Mar-21 C1, C2, D1
+Explore opportunity for a Solar Together project External Env Team Districts Sep-21 Mar-22 A2. E222-23Environment Strategy Action Plan 2020 - 2024
+Theme / Action Lead PartnersTimescale
+21-22 23-24
+Resource Use & Renewable Energy20-21Objectives 
+Supported
+Carbon & Climate Change Impacts
+Revised Env Strat egy 2018  Action Plan Aug 21 - FINAL - Web version 1.1Action Plan
+24/08/2021 3 of 7Scope
+Internal / 
+External / BothStart End22-23Environment Strategy Action Plan 2020 - 2024
+Theme / Action Lead PartnersTimescale
+21-22 23-24 20-21Objectives 
+Supported
+Propose and implement improvements to fuel use and fleet data utilisation Internal Transport Relevant Departments Apr-20 Mar-22 A1, A2, F4
+Agree and implement partial fleet EV replacement Internal Transport Procurement Apr-20 Mar-24 A1, A2, F4
+Consider broader fleet EV replacement project when the technology is available Internal Transport Procurement Apr-23 Mar-24 A1, A2, F4
+Explore options for automated business mileage calculation system Internal Workplace ICT Apr-20 Mar-22 A1, A2, F4
+Develop a proposal for an expanded EV Pool Car Scheme and new Usage Policy Internal Workplace Transport, Procurement Apr-20 Mar-22 A1, A2, F4
+Encourage and promote sustainable travel options for council staff commuting to 
+workExternal Sus Travel Team All Depts Apr-20 Mar-24 F3, F4
+EV promotion and public charging infrastructure Both Env TeamTransport, Highways, Property, 
+DistrictsSep-21 Mar-24A1, A2, F2, F3, 
+F4
+Develop strategic approach to natural capital and biodiversity Both Env TeamPlanning, Highways, Districts, 
+LRWT, NF, EA, NEApr-20 Dec-20G1, G2, G3, 
+G4
+Deliver Action for Nature Delivery Plan Both Env Team All Depts, External Partners Aug-21 Mar-24G1, G2, G3, 
+G4, G5, H1, 
+H2, J1, J2
+Develop Natural Capital Investment Plan with the LLEP Both LLEPEnv Team, Economic Team, 
+External PartnersApr-20 Oct-20G1, G2, G3, 
+G4
+Deliver Ash Dieback Action Plan Both Env Team Forestry, Highways, Comms Apr-20 Mar-24 G1, G4
+Implement Tree Management Strategy Both Forestry Apr-20 Mar-24 G1, G4
+Trial and review different approaches to management of roadside verges Both HighwaysEnv Team, Planning, Parish 
+Councils, ContractorsApr-20 Mar-21 G1, G2, G4
+Explore opportunities to demonstrate and support environmentally sustainable 
+farming practices on county farmsBoth Env TeamCounty Farms Team, CFE, FWAG, 
+NFUApr-20 Mar-22 G1, G2, J1
+Protect local trees by continuing to deliver Council's TPO function. Both Env Team Planning, Districts Apr-20 Mar-24 G1, G2
+Protect and enhance the Leicestershire landscape by providing technical 
+landscape design and advice.Both Env TeamPlanning, Highways, Districts, 
+EMPF, Woodland Trust, Other 
+DeptsApr-20 Mar-24 G4, H2, J2
+Participate in a range of Green Infrastructure Partnerships to support biodiversity 
+improvement and sustainable green infrastructure projects in Leicestershire.Both Env Team CFRP, RSGUCP, RSCP, GIP, Apr-20 Mar-24 H1, H2
+Work with local groups and volunteers on projects that support biodiversity 
+improvements and sustainable green infrastructureBoth Env TeamParish Councils, Districts, Tree 
+CouncilApr-20 Mar-24G4, H2, J2, K2, 
+L2
+Support the inclusion of natural capital and net gain into the work of the East 
+Midlands Development CorporationExternalEconomic Growth 
+TeamNCC, NCityC DCC, NWT, EA Apr-20 Mar-24G1, G2, G3, 
+G4, H2, J2, O2
+Undertake biodiversity and opportunity mapping exercise Both Env TeamPlanning, Districts, NFC, LRWT, 
+EA. NEApr-20 Mar-24G1, G2, G3, 
+G4, J1, J2Transport & Travel
+Biodiversity, Habitats & Local Environment
+Revised Env Strat egy 2018  Action Plan Aug 21 - FINAL - Web version 1.1Action Plan
+24/08/2021 4 of 7Scope
+Internal / 
+External / BothStart End22-23Environment Strategy Action Plan 2020 - 2024
+Theme / Action Lead PartnersTimescale
+21-22 23-24 20-21Objectives 
+Supported
+Deliver Air Quality & Health Action Plan Both Public Health Transport, Env Team F4, K1, K2
+Deliver Food Plan Both Public Health Env Team, All Depts Apr-20 Mar-24 B1, B2
+Work with Public Heath to identify the co-benefits of action on the environment External Public Health Env Team Apr-21 Mar-24K1, K2, K3, K4, 
+M1Community & Wellbeing
+Revised Env Strat egy 2018  Action Plan Aug 21 - FINAL - Web version 1.1Action Plan
+24/08/2021 5 of 7Scope
+Internal / 
+External / BothStart End22-23Environment Strategy Action Plan 2020 - 2024
+Theme / Action Lead PartnersTimescale
+21-22 23-24 20-21Objectives 
+Supported
+Engage with LLEP in the development and delivery of the Local Recovery Strategy Both Economic TeamEnvironment Team, Growth Unit, 
+LCityCApr-20 Mar-24 N2, O2
+Identify opportunities to support a low carbon circular economy through the 
+delivery and procurement of council goods and servicesBoth Procurement All Depts Apr-20 Mar-24 N1
+Identify key partners and available mechanisms for advancing opportunities that 
+support a low carbon circular economy and support sustainable development and 
+growthBoth Env Team Economic Development, LLEP Apr-20 Mar-22 N2, O2
+Embed carbon and environmental aspects into Lutterworth East Development Both Growth UnitProperty, Env Team, Consultants, 
+DevelopersApr-20 Mar-24A2, B2, C3, 
+D3, D4, F4, 
+G4, H2, J2, K2, 
+L2, N2, O2
+Deliver Shire Environment Grant Scheme External Env Team Community Groups Apr-20 Mar-24 A1, A2, B1, B2
+Deliver Environment Action Volunteer Scheme External Env Team Local Residents Apr-20 Mar-24A2, B2, C3, 
+D3, D4, F4, 
+G4, H2, J2, K2, 
+L2, M2
+Develop and deliver programme of carbon and environmental awareness training Both Env TeamLearning & Development, External 
+ProvidersApr-20 Mar-24 All
+Deliver internal Go Green Scheme Internal Env Team Waste Team Apr-20 Mar-24 D1, D2
+Continue to maintain and review the Council's Environment Risk Register Internal Env Team All Depts Apr-20 Mar-24 M1
+Maintain and operate the Council's EMS Internal Env Team All Depts Apr-20 Mar-24 M1
+Support services to maintain or achieve ISO14001 accreditation Internal Env Team All Depts Apr-20 Mar-24 M1
+Identify, seek and secure additional funding opportunities to develop and deliver 
+the vision, aims and objectives of the Environment StrategyBoth Env Team All Depts Apr-20 Mar-24 All
+Maintain and improve the environmental performance management system Both Env Team All Depts Apr-20 Mar-24 M1
+Produce environmental performance dashboards Both Env Team All Depts Apr-20 Mar-24 M1, M2
+Carry out a regular review of Environment Strategy KPIs Both Env Team All Depts Apr-20 Mar-24 M1, M2
+Update and add new targets and KPIs as new evidence is gathered and agreement 
+is reached with action ownersBoth Env Team All Depts Apr-20 Mar-24 M1, M2Local Economy
+Crosscutting
+Performance Monitoring
+Revised Env Strat egy 2018  Action Plan Aug 21 - FINAL - Web version 1.1Action Plan
+24/08/2021 6 of 7Scope
+Internal / 
+External / BothStart End22-23Environment Strategy Action Plan 2020 - 2024
+Theme / Action Lead PartnersTimescale
+21-22 23-24 20-21Objectives 
+Supported
+Produce and publish annual Environmental Performance and Greenhouse Gas 
+ReportsBoth Env Team All Depts Apr-20 Mar-24 M2
+Produce quarterly Environmental Performance Reports Both Env Team All Depts Apr-20 Mar-24 M2
+Provide reports as required to internal governance and oversight bodies Both Env Team ESDB, CMT, ETOSC, LM Jul-18 Mar-20 M2
+Complete a review of Greenhouse Gas reporting Internal Env Team External expert Apr-21 Mar-22 M2
+Review and update of Environment Strategy Action Plan Both Env Team All Depts, External Partners Apr-20 Mar-24 All
+Approval of Tranche 1 Carbon Reduction Roadmap Internal TU Env Team, Property, Highways Apr-20 May-20 All
+Development of Tranche 2 Carbon Reduction Roadmap Both TUEnv Team, All Depts, External 
+PartnersApr-20 Oct-20 All
+Development of Communications & Engagement Plan Both Comms Env Team, TU Apr-20 Mar-21 All
+Stakeholder and Opportunity Mapping Both Env Team All Depts, External Partners Apr-20 Oct-20 All
+Develop revised Environmental Implications Tool Both Env Team All Depts Apr-20 Mar-21 All
+Support the work of the Environment Group (DC, LCC and LLEP) Both HDC All districts, LLEP, Env Team Jul-20 Mar-24 AllStrategic and GovernanceReporting
+Revised Env Strat egy 2018  Action Plan Aug 21 - FINAL - Web version 1.1Action Plan
+24/08/2021 7 of 7

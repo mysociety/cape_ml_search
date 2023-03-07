@@ -1,0 +1,1019 @@
+Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+1 | Page  
+ 
+Classification: OFFICIAL   
+ 
+ 
+The Carbon Plan 2020 -2025 
+ 
+ 
+ 
+Reading Borough Council –  our pathway to net zero Carbon  
+  
+Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+2 | Page  
+ 
+Classification: OFFICIAL  Table of Contents  
+ 
+1. Introduction  
+ 
+2. Our Vision and Ambition  
+ 
+3. Managing our resources –  progress to date  
+ 
+4. The Council’s route to net zero Carbon  
+ 
+4.1 Reduce 
+4.1.1.  The pathway to reduce  
+4.1.2.  Action plan  
+ 
+4.2. Decarbonise  
+4.2.1.  The pathway to electrification  
+4.2.2.  Action plan  
+ 
+4.3. Generate  
+4.3.1.  The pathway to renewable energy generation  
+4.3.2.  Action plan  
+ 
+4.4. Smart  
+4.4.1.  Planning for the future  
+4.4.2.  Action plan  
+ 
+5. Conclusions 
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+3 | Page  
+ 
+Classification: OFFICIAL  1. Introduction  
+The use of energy, water and other natural resources is essential to the operation 
+of Reading Borough Council and in providing services to the community. Whilst 
+vital to the functioning of the organisation, it is crucial that our use of energy and 
+water is  managed and minimised to reduce our impact on the environment, limit 
+our expenditure and mitigate our exposure to insecure energy supplies and limited 
+water resources.  
+The use of certain types of energy directly, or indirectly, produces greenhouse gas 
+emissions, typically in the form of carbon dioxide, such as from the combustion of 
+natural gas in boilers, or from combustion of gas in power stations generating 
+electricity for the National Grid. Greenhouse gases are a main factor is causing 
+man-made climate change, which is having , and will in the future have , a 
+significant impact on our way of life and the world around us. By limiting our 
+energy and water use and thereby restricting our carbon emissions we are helping 
+to safeguard our world for future gener ations. The urgency and importance of 
+doing so was underlined by the Council’s declaration of a climate emergency in 
+February 2019, committing to the ambitious goal of a net zero carbon Reading by 
+2030.  
+The Council’s Carbon Plan sets out our policy and tar gets on corporate energy and 
+water management, and identifies actions to achieve these within the time period 
+2020- 2025. The plan includes actions to ensure the authority is compliant with 
+relevant legislation (such as Energy Performance in Buildings legis lation) and 
+national reporting requirements ( such as Green house Gas Protocol s). The Plan will 
+assist the council in making energy and water management an integral part of its 
+decision -making  processes, to ensure efficient use of these resources today and in 
+the future.  
+Crucially, the implementation of the Plan will:  
+• Contribute to the Corporate Plan aim to ‘Build a Council fit for the future’ 
+by improving the efficiency of our operations and minimising costs  
+• Deliver many of the Council’s commitments as set out in the Reading 
+Climate Emergency Strategy 2020 -25 
+• Enable the Council to lead by example as we encourage Reading businesses, 
+organisations and residents to reduce their own environmental impacts.  
+An assessment of ‘value at stake’ show ed that b y basing our  carbon reduction  
+investments on robust business cases, the council has avoided energy costs of 
+around £11 million since 2008/09, including some £1.5m in 2018/19 alone.  
+Looking ahead, the estimated ‘value at stake’  by 2025/26 is £1.5m  for buildings 
+alone  – this is summarised in figure 1.1 below . 
+ Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+4 | Page  
+ 
+Classification: OFFICIAL   
+Figure 1:1 –  value at stake (£) over the course of 2020 -25 Carbon Plan  (buildings 
+only)  
+  
+Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+5 | Page  
+ 
+Classification: OFFICIAL   
+2. Our Vision and Ambition  
+In February 2019, Reading Borough Council declared a Climate Emergency and set 
+out on a journey to achieve a carbon neutral borough by 2030.   
+A key element of this vision was the that the Council would lead by example to 
+bring about the changes needed. It  is therefore important that the Council shows 
+that it can make meaningful progress towards being zero carbon in its operations 
+by 2025.  Our vision for the Council in this Carbon Plan is therefore to :  
+‘lead by example and work in partnership towards achieving net zero 
+carbon operations  by 2030’ . 
+Setting ambitious yet realistic targets for carbon reduction and renewable energy 
+generation by 2025 will be important to  keep us on track to the ultimate goal of  
+becoming a  net zero organisation by 2030.  
+The Carbon Plan 2020- 25 will work towards four  headline targets as follows - by 
+2025 we will:  
+• Reduce the organisation’s carbon emissions by 85%, against a 2008/9 
+baseline1  
+• Generate equivalent to 50% of our energy from renewable sources by 20252 
+• Reduce our use of fossil fuels by 5 0%, against a 2008/09 baseline3 
+• Achieve a 5% p.a. reduction  in water use  against a 2019/20 baseline.  
+By achieving these targets Reading Borough Council will be on track to meet its 
+challenging ambition of becoming a net zero carbon organisation by 2030.  
+  
+                                                           
+1 By 2018/19 RBC had achieved a 63% reduction in carbon emissions against a 2008/09 baseline –  to reach 85% 
+by 2025 will involve almost halving our current energy use  
+ 
+2 By 2018- 19 RBC was generating c.10% of its energy needs from renewable sources so while a 50% target is 
+ambitious this will be 50% of a much smaller total energy demand in light of the demand reduction measures 
+set out within the Plan  
+ 
+3 A Policy Committ ee resolution [ reference]  requires inclusion of a fossil fuel reduction target in this Carbon 
+Plan - the ability to achieve the proposed fossil fuel reduction target of 50% is, however,  heavily dependent on 
+switching the Refuse Collection Vehicle Fleet to EV, which is currently the subject of ongoing feasibility study. 
+In the event that a switch to EV proves impossible during the period of this plan (e.g.  for technical reasons), it 
+is unlikely that this target will be met. While this would also make the ach ievement of the headline 85% carbon 
+reduction in the Plan target more challenging, it would remain within reach assuming that the shortfall could 
+be made up from other areas of our corporate carbon footprint.  
+ Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+6 | Page  
+ 
+Classification: OFFICIAL  3. Managing our resources –  progress to date  
+Since Reading Borough Council signed the Nottingham Declaration on Climate 
+Change in 2006 the authority has undertaken a wide range of work to address 
+energy, water and carbon management, focusing on reducing costs, limiting its 
+impact on the environment, decarbonising our energy supply and integrating these 
+approaches across the organisation. In the last five years, the organisation has 
+been working on the actions set out in the Carbon Plan 2015 -20 to achieve a 
+carbon emission reduction target of 50% by 2020, against the 2008/9 baseline.  
+Reading has a strong track record on carbon emission s reduction, being amongst 
+the top ten boroughs in the Country for reductions since 2005, totalling 228kT CO 2 
+or 52% of Reading ’s total reductions.  In the latest year for which data is available 
+(2018/19), Reading was 4th out of all the English local authorities by this metric.  
+During the same period Read ing Borough Council has reduced its own emissions 
+faster than the borough with reductions of 63% in the decade from 2008 to 2018, 
+achieving the 50% reduction target in the Carbon Plan 2015 -20 three years early . 
+Reading Borough Council’s current corporate e nergy use is principally through 
+electricity and gas, for buildings and street lighting, with a small volume of fuel oil 
+for heating buildings, with the cost in 2018/19 totalling over  £1.8m .  
+Figure 3.1: Breakdown of Reading Borough Council carbon footprint, 2018/19  
+The carbon emissions from energy used in buildings accounted for 68% of the 
+Council’s carbon footprint in 2018/19, as shown  in Figure 3. 1 above . Carbon 
+emissions from street lighting have reduced as a proportion of the total since 
+2008/09 . Other energy is used to fuel cars for the RBC fleet and business travel, 
+Building elec 
+32%
+Building gas 
+34%
+ Building oil 
+1%
+Buildingfugitive 
+2%
+street lighting 
+13%
+Fleet diesel 
+16%
+Fleet petrol 
+0%
+car club
+0%
+ business mileage 
+2%2018/19  Building elec
+ Building gas
+ Building oil
+ Buildingfugitive
+ street lighting
+ Fleet diesel
+ Fleet petrol
+car club
+ business mileageClassification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+7 | Page  
+ 
+Classification: OFFICIAL  which now account s for a higher proportion of the carbon footprint  as emissions 
+from other sectors have been reduced -  up from 10% in 2008/9 to 18% in 2018/19.  
+Unit prices for ene rgy have gradually increased over the last six years, so although 
+energy use in kWh has decreased by nearly 50% since 2008/9, spend on energy has 
+remained relatively stable.  
+Carbon emissions reductio n over the last 10 years has  mainly been achieved 
+throug h reductions across the building and street lighting estate. Reduction in 
+building energy use has accounted for nearly three quarters of the total emissions 
+reduction, whilst street lighting changes are credited with 20% of the total 
+emissions savings, as illustrated in Figures 3.2 & 3. 3 below.  
+ 
+Figure 3.2: breakdown of RBC emissions reduction achieved over the last decade  
+ 
+Figure 3.3: change in RBC emissions by source since 2008 /09 Building elec 
+55%Building gas 
+19%Building oil 
+<1%Buildingfugitive 
+-1%street lighting 
+20%Fleet diesel 
+3%Fleet petrol 
+<1car club
+<1%business mileage 
+2%
+% of total reduction
+ - 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 9,000 10,000Carbon emissions per sector
+2008/9 2015/16 2018/19Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+8 | Page  
+ 
+Classification: OFFICIAL  Areas where the most significant progress in reducing emissions has been made, 
+and a summary of how these have been achieved, are summarised below:  
+Street lighting  
+The entire street lighting estate, totalling over 13,000 units, across Reading 
+Borough has been upgraded to LED, resulting in over 50% reduction in electricity 
+consumption, and the ability to have greater remote control of the lighting.  
+Buildings 
+The carbo n reductions within buildings can be attributed to numerous projects. 
+The Building Rationalisation strategy followed over the last 7 years, resulting in 
+the disposal of assets, relocation and co -location of services into buildings with a 
+higher intensity o f use, has reduced the overall demand for energy across the 
+organisation. The key buildings to account for this include the (old) Civic Offices, 
+Central Pool, Arthur Hills Baths and smaller libraries and community centres.  
+Building refurbishment has been k ey in the Building Rationalisation programme, 
+where services are brought together in a new hub. Significant investment in energy 
+efficiency measures, principally through Salix funding, has been made in a ‘whole 
+building’ approach to the refurbishment of the Civic Offices, Reading Town Hall, 
+and 19 Bennet Road depot building. Energy saving measures include insulation, LED 
+lighting and controls, heating upgrades, electrification of heat and solar pv.  
+Additional Salix funds have been invested in smaller build ing projects across the 
+council estate, totalling  101 pr ojects, and £1.4m investment . 
+Renewable energy  
+To date the Council has installed over 7,500 solar panels on 40+ council, 
+community and school buildings, and 457 houses. In 201 8/19 the systems 
+generate d 1.6 MWh of electricity, the equivalent to powering over 400 houses with 
+100% of their electricity needs. The Civic Offices now hosts the Council’s largest 
+solar panel system with 572 solar panels, generating an estimated 10% of the 
+building’s electricity . Most recently, a roof mounted solar P.V.  system was 
+installed at 19 Bennet Road. This represents the first phase of renewable onsite 
+generation at the depot.  
+Travel & transport  
+Within the last 5 years, the Council has invested in nine electric vehicles w ith 
+associated charging points. Investigations are ongoing to establish the best route 
+for full electrification of the vehicle fleet.  
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+9 | Page  
+ 
+Classification: OFFICIAL  4. The Council’s route to net zero c arbon  
+In pursuing a successful carbon reduction strategy to date, t he Council has focused 
+on schemes offering the best return on investment. W hile this will continue, it is 
+inevitable that additional carbon reductions and the associated returns will be 
+more challenging  to achieve as we approach net zero  – the ‘low -hanging fruit’ has 
+been harvested requiring us to reach higher for future reductions.  
+To guide us we ha ve structured this Carbon Plan around t he actions set out by the 
+Committee for Climate Change  in its July 2019 report ‘Reducing UK emissions : 
+Progress Report to Parliament’ . This identifie s four key themes over the next five 
+years to drive further and deep er carbon emissions reductions, and by adopting 
+these we can position the organisation to achieve net zero carbon by 2030 through 
+innovation in demand side management, renewable generation and energy storage 
+solutions.  
+Policy statement  
+Reading Borough Council is committed to working to reduce its energy use, 
+Greenhouse Gas emissions and water use across its estate and operations, and to 
+make energy, carbon an d water savings an integral part of the everyday decision -
+making process. Reading Borough Council is dedicated to substantially reduce its 
+dependence on fossil fuels to reach net zero carbon by 2030 and diversify its range 
+of energy supplies, thereby reduc ing the organisation’s exposure to the volatility 
+of the energy markets, limited water resource availability and the financial risks 
+from price fluctuations. We are committed to invest in the generation of 
+renewable energy, to supply energy to both our cou ncil operations and our 
+surrounding community. We will ensure that the necessary systems and processes 
+are in place to allow continuous improvement in the council’s operations, through 
+effective monitoring and management of energy and water use.  
+Targets  
+We will reduce RBC’s carbon footprint by 85 % by 2025, and aim for 100 % by 2030, 
+against a 2008/9 baseline, to include provision of sufficient renewable energy to 
+meet net zero carbon emissions by 2030.  
+To meet these 2025 targets, on an annual basis we will need to  reduce RBC’s 
+energy use by an average of 4.4 % per year , and double our renewable energy 
+generation every t wo years such that we are generating 50% of our energy from 
+renewable sources by 2025.   
+We will also  adopt  a fossil fuel target to reduce our diesel and petrol consumption 
+by 50% by 2025.   
+In addition , we will seek to reduce our water consumption by 5 % per annum 
+against a 201 9/20 baseline.  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+10 | Page  
+ 
+Classification: OFFICIAL  Measuring progress  
+The Council measures its emissions using the internationally accepted annual 
+reporting process known as the Green House Gas (GHG) emissions reporting 
+protocol. This is carried out in respect of the emissions for which we have control 
+(known as Scope 1&2), but also for managed services, emissions from which are 
+not in our direct control  (known as Scope 3). We also monitor the emissions of 
+community schools. The Council will continue to monitor and manage its carbon 
+emissions through the GHG reporting protoco l. 
+We will review progress against our aims and targets annually, review ing the Policy 
+& Strategy after 3 years and develop ing a new strategy for the 2025 -2030 period  as 
+we approach this phase of our journey towards net zero carbon . 
+Pathway towards net z ero carbon – our four key a ims 
+Led by the priorities set out by the national Committee on Climate Change, t his 
+Carbon Plan is structured around the  following four aims : 
+i) REDUC E - we will reduce our energy demand through energy efficiency 
+measures, asset dis posal  and other measures to reduce demand  
+ 
+ii) DECARBONISE – we will reduce emissions from ongoing activities via 
+electrification  of heat ing and vehicle fleets  
+ 
+iii) GENERATE – we will install further renewable energy capacity to meet a 
+higher proportion of our own needs  
+ 
+iv) SMART – we will align consumption with generation, adopting new 
+technologies to help balance changing patterns of supply and demand  
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+11 | Page  
+ 
+Classification: OFFICIAL   
+4.1 REDUCE  
+ 
+4.1.1  The pathway to reduce  energy demand  
+The first stage of an  energy management and carbon reduction strategy is  to 
+reduce demand for energy and to make the use of energy as  efficient as possible. 
+The biggest reductions to date have been following these principles. Further 
+focussed action needs to happen across the Council’s building, street lighting and 
+vehicle estate.   
+Ensuring that we keep our  building, street lighting and vehicles estate under 
+constant review, a nd rationalis ing it to ensure that we retain only those  assets 
+needed for the operation  of services, will help limit our energy demand . Energy 
+efficiency technologies can  then be installed  in retained assets; including, for 
+example, LED  lighting and controls, insulation, heating controls, improved glazing, 
+reduced solar gain and ‘ A’-rated electrical equipment.  
+All full building refurbishments and new builds need to be to a high standard  of 
+energy efficiency , to ensure long term energy inefficiencies are not engrained 
+from the outset and to avoid the cost of any future retrofit. More efficient 
+technologies are always being produced and where possible we will make 
+investments to ensure that we operate the most energy efficient equipment and 
+plant whilst ensuring that we procure at the right times to avoid unsustainable 
+waste. Additional ly, cross- organisation awareness -raising  and training will help to 
+make the use of buildings and equipment as  efficient  as possible.  
+The following section summarises  the principal actions which the council will take 
+to ‘Reduce’ carbon emissions by  2,987 tCO2, or 15. 1% against the 2008/09 
+baseline. Figure s 4.1 and 4.2 below illustrates these savings graphically . 
+• Rationalisation  of building estate: based on the known or likely building 
+disposals, carbon emissions savings  are predicted to be 878 tCO 2, or a further 
+4.4 % against the  2008/09 baseline. There are significant additional 
+opportunities to make savings within this area , ensuring that the organisation is 
+maximising the use of the most efficient facilities  and disposing of inefficient 
+assets.  Energy efficiency needs to be a central consideration for development 
+of our  asset st rategy.   
+• Dimming & trimming , and inventory update of street lighting: by updating and 
+correcting the street lighting inventory,  upgrading remaining assets,  along with 
+instituting a ‘ dimming and trimming’  regime across specific areas in Reading, it 
+is esti mated that 459 tCO 2 can be saved,  or 2.3 % against the 2008/09 baseline.   
+• Building light ing: within  the retained estate,  building energy use needs to be 
+addressed. LED technology has developed significantly since the Council first 
+installed it over 10 years ago. All buildings should have the lighting upgraded, 
+and controls installed where appropriate. Typical energy savings  from LED 
+lighting range from 40 -80%, which in combination with reduced maintenance Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+12 | Page  
+ 
+Classification: OFFICIAL  costs and longer lamp life can bring significant saving s. By upgrading the 
+remaining lighting across all buildings by 2025, it is estimated that 249 tCO 2 
+saving will be mad e, or a further 1.3% against the 2008/09 baseline . 
+• Building small power improvements: e lectrical equipment , such as monitors, 
+printers, fridges and phone chargers,  within buildings  when at end of life should 
+be upgraded to the most energy efficient version s possible. Energy ratings 
+should be a central point of consideration when electrical equipment is being 
+procured. By making these improvements across the entire building estate, it is 
+estimated 115 tCO 2, or 0.6% savings are made by 2025.  
+• Heating demand reduction through building envelope improvements  and 
+building cooling and heating improvements : ageing buildings built and/or 
+refurbished when standards were lower than today  tend to have high heat loss 
+and therefore higher demand for heat than necessary. By improving the 
+building envelope , heat losse s and gains can be significantly reduced  thereby 
+reducing the energy needed  for heating or  cooling. This can be achieved b y 
+installing building insulation, improving glazing, insulating pipework and 
+draught sealing buildings. In combination with upgrades to heating and cooling 
+systems and their associated controls, reductions to the carbon footprint will 
+total 526 tCO 2, or a furthe r 2.7% against the 2008/09 baseline.  
+• Awareness raising : ensuring every member of staff is aware of the need for 
+efficient use of energy, and understands the  actions they can take as an 
+individual to reduce their consumption, is predicted to result in 267tCO 2, or a 
+further 1.4% sa vings against the 2008/09 baseline . 
+• Rationalisation and downsizing of fleet : a recent Green Fleet Review  (GFR)  in 
+2020 analysed the composition and usage of the organisation’s vehicle fleet. 
+Based on the size and mileage, the review has recommended that consideration 
+should be given to downsizing the fleet, in particular in the Heavy Commercial 
+Vehicle (HCV) sector . HCVs have high fuel consumption per mile, so should be 
+limited to work which specifically requires such vehicles. The GFR recommends 
+that replacement of HCV with smaller vehicles should be done in combination 
+with electrification. If any HCVs can be down sized  and electrified, it is 
+estimated  393 tCO 2 can be saved, or 2 % against the 2008/09 baseline , as 
+illustrated in Figure 4.3 below . 
+• Efficient driving training : driver training to encourage safe and fuel -efficient 
+driving is estimated to help contribute to 100.5 tCO 2, or 0.5 % of saving, as set 
+out in the GFR (2020) , and illustrated in Figure 4.3 below . Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+13 | Page  
+ 
+Classification: OFFICIAL   
+Figure 4.1 : kWh electricity savings from different actions across the building 
+and street lighting estate  
+ 
+ 
+Figure 4.2 : kWh gas savings from different actions across the building estate   - 2,000,000 4,000,000 6,000,000 8,000,000 10,000,000 12,000,000 14,000,000 16,000,000 18,000,000 20,000,000Modelled electricity reductions per activity
+ Street lighting  Building electricity Lighting Cooling/heating/Air Handling Small power
+ - 2,000,000 4,000,000 6,000,000 8,000,000 10,000,000 12,000,000 14,000,000 16,000,000
+2018/19 Buidling
+DisposalsOutsourcing
+(leisure
+centre)Catering
+equipment
+improvementDemand
+reduction 10%
+through
+building
+improvement
+(40 buildings)Demand
+reduction 5%
+through
+awareness
+raising top 50
+sitesBoiler
+efficiency
+improvementsModelled gas reductions per activity
+ Cremation  Catering  Heating Oil heatingClassification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+14 | Page  
+ 
+Classification: OFFICIAL   
+Figure 4.3 : potential carbon savings from  transport  
+ 
+4.1.2  Action plan  
+Sector  Action  Predicted 
+saving tCO 2 
+(% 
+reduction)  Timing  
+Building 
+estate  Rationalise building estate – disposal of most 
+inefficient assets. Energy efficiency key 
+factor in decision- making  878  
+(4.4%)  TBC 
+Building energy 
+efficiency 
+improvements; 
+Through who le 
+building approach, or 
+individual upgrades  Lighting 
+improvements  249  
+(1.3%)  2020-25 via 
+Salix 
+pipeline  Building fabric 
+improvements and 
+heating upgrades  526 
+(2.7%)  
+Small power 
+equipment and 
+catering equipment –  
+replacement with A* 
+rated models  115 
+(0.6%)  
+Deep retrofit and new builds to meet or go 
+beyond Planning and Building Regulations 
+requirements To be 
+established   
+Awareness raising – Carbon literacy 
+programme  267  
+(1.4%)  2021 0.0200.0400.0600.0800.01000.01200.01400.01600.0
+tCO2 per sector 2018/19 Driver training Downsizing larger vehiclesModelled tCO2 savings from actions to make savings 
+across transport
+RCV Rigid >7.5t Rigid <7.5t
+LCV large LCV medium LCV small
+Fleet Cars Plant, mowers Business mileageClassification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+15 | Page  
+ 
+Classification: OFFICIAL  Street 
+lighting 
+estate  Rationalise street lighting portfolio – 
+inventory review and corrections 459  
+(2.3%)  2021  
+ Dimming & trimming scenarios  (reducing 
+lighting levels)  2021/2022  
+Fleet  Rationalise fleet and appropriate sizing of 
+vehicle – downsizing HCV and LCV. Refer to 
+Green Fleet Review 2020 for detail  393 
+(2%) 2024/25  
+ Driver training – safe & efficient driving  100.5 
+(0.5%)  TBC  
+ 
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+16 | Page  
+ 
+Classification: OFFICIAL   
+4.2 DECARBONSE  
+ 
+4.2.1  The pathway to electrification  
+Buildings  
+In addition to reducing our energy demand as far as possible, to meet our targets 
+we also need to reduce direct fossil fuel consumption such as our gas and vehicle 
+fuel consumption. This means that we nee d to change how we heat buildings and 
+how we fuel or power vehicles.  
+Gas boilers are the most prevalent means of heating buildings and up until 
+recently, provided among the lowest carbon intensity heating technology for 
+delivering space heating in the winter. The reason for this was that electricity 
+generated remotely in power stations was traditionally produced using fossil fuels, 
+and in particular carbon intensive coal fired power stations. This process of 
+generating electricity is only about 30% effi cient with much of the energy from 
+burning the fossil fuels being lost as heat through the generation process , typically 
+visible in  the clouds of steam emitted from cooling towers at power stations. 
+Electricity consumed in buildings in 2010 therefore had a  67% higher carbon  
+footprint than the combustion process itself (2010 carbon intensity figures: 
+540gCO 2 for electricity compared to gas at 180gCO 2). Gas boilers on the other hand 
+directly combust the gas supplied to the site via the gas network  and are typ ically 
+85-90% efficient.   
+As electricity generation has shifted away from coal to gas and now renewable 
+sources such as biomass, wind and solar, the carbon intensity of electricity from 
+the National Grid has decreased significantly. With  more renewable sou rces coming 
+online, the carbon intensity of electricity is predicted to half by 2030, whilst 
+natural gas carbon intensity is due to rise, as illustrated in Figure 4. 4 below. 
+ 2008    2020  2030  Heat 
+pump/gas 
+boiler  
+  
+ 
+    25g CO 2/ 
+kWh 
+ 
+      
+ 
+    186g 
+CO 2/kWh  
+Figure 4.4: Relative Carbon footprint projections for gas vs electricity powered heat  
+Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+17 | Page  
+ 
+Classification: OFFICIAL  The government, in line with  the recent Committee on Climate Change report 
+‘Reducing UK emissions Progress Report to Parliament’  (2019), now advocate a 
+move away from gas heating and towards heating by electrical means. Heat pump s 
+are seen as the best technology to fill this gap, as they efficiently use the 
+renewable heat from the natural environment (ground, air or water) for space and 
+water h eating. Electricity is used by the heat pump to transfer and compress heat 
+from the natural resource and transfer it to where it is needed. Heat pumps are 
+considered highly efficient, when designed and sized appropriately, as they can be 
+300-500% efficient  (3-5 units of energy are produced for every 1 unit of energy put 
+in), compared to a 90% efficient boiler.  
+To meet the net zero target, the authority must therefore  shift its heating from 
+fossil fuel to electrical, and principally heat pumps. This technolo gy does  prove a 
+challenge for retrofitting given that existing heating systems are designed and 
+sized for a very different heat generation technology (gas boilers). It is therefore 
+essential that building heat losses are reduced to a minimum and that the h eat 
+delivery system is designed appropriately. Electrical capacity of the building and 
+local infrastructure needs to be considered. The organisation needs to ensure that 
+there is sufficient capacity and capability  within the m echanical and electrical 
+engin eering professions to manage this transition . 
+To deploy this technology across the authority, it is proposed that it is introduced 
+in phases, with a small number of  key buildings in the first few years, and installed 
+across a significant proportion of the estate by 2025 , as illustrated in Figure 4. 5 
+below.   
+ 
+Figure 4.5: planned shift in fuel use, in kWh, following electrification of building heating  
+ 
+  - 1,000,000 2,000,000 3,000,000 4,000,000 5,000,000 6,000,000 7,000,000 8,000,000
+2018/19 0-3 years 4-5 years 5-10 years 10+ yearsDecarbonise building heat
+Gas heating Electricity heatingClassification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+18 | Page  
+ 
+Classification: OFFICIAL  Electric vehicles  
+Electric vehicle technology has advanced rapidly in recent years. With no tailpipe 
+emissions, their carbon emissions are indirect and are associated with the fuel 
+used to generate the electricity for the powering and manufacture of the vehicles. 
+Electric v ehicles are significantly more energy efficient than internal combustion 
+engine (ICE) vehicles and the Green Fleet Review (2020) has estimated that the 
+energy use of an all -electric fleet would be at least 75% less than the equivalent 
+ICE fleet.    
+The Green Fleet Review (2020), on the basis of t hese more efficient vehicles, in 
+combination with falling carbon intensity  of the grid , demonstrat es that a phased 
+electrification of the fleet would bring significant contributions to meeting the net 
+zero carbon targets.  It is estimated that an all- electric fleet would reduce energy 
+use (kWh) by 75%, and carbon emissions by 90% , as illustrated by Table 4. 1 below 
+(GFR 2020) . Furthermore, if solar electricity generation is co -located with the 
+electric vehicle charge points, there would be the opportunity to achieve net zero 
+by 2030.  
+Table 4.1: Impact of electrification of the RBC Fleet on carbon  emissions and energy use, based on 
+2020 prices.  Green Fleet Review 2020  
+Factor  ICE - 2019 BEV - 
+2030 Change  Reduction  
+Energy (MWh)  3,667  917 -2,750  -75% 
+Energy Cost (£)  £378,783  £108,768  -
+£270,016  -71% 
+GHG Emissions 
+(t) 897 92 805 -90% 
+ 
+We are already approaching the point where Battery Electric Vehicles (BEVs)  up to 
+3.5 tonnes should be less expensive to buy and run than their ICE equivalent 
+because they will not need expensive emission control and “light -weighting” 
+technology to meet challenging new air quality emission regulations. Over the next 
+5 years  the c ost of batteries will continue to fall and their energy density (kWh per 
+kg) will increase. Affordable battery electric cars and vans with a single- charge 
+range of 300 miles or more will become the norm.   
+BEVs have many fewer moving parts  (under 80 moving parts in the drive train of a 
+BEV and over 2,000 in a typical ICE vehicl e, giving much lower  service costs 
+(experience to date in car and van fleets suggests 30% to 40% lower but some 
+operators suggest 60% to 80% lower for some vehicle categories) and higher 
+reliability.  BEVs already have lower energy (fuel) costs; a typical electric car or 
+small van, charged overnight on a standard tariff, costs no more than £0.04/mile 
+or about one third the comparable ICE cost. Using off -peak tariffs BEV energy co sts 
+can be as low as £0.02/mile and private users on some tariffs (e.g. Octopus Agile) 
+can occasionally be paid to charge their cars.  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+19 | Page  
+ 
+Classification: OFFICIAL  With the Refuse Collection Vehicles (RCV) fleet, consisting of 13 vehicles, making 
+up over 37% of the organisation’s trans port carbon emissions, action in this sector 
+of the fleet  is a high priority . The Green Fleet Review has run initial analysis  on 
+electrifying the RCV fleet, with results showing that that the reduction in carbon 
+emissions from using eRCVs is substantial ev en when charged from the UK grid. In 
+the first phase of change over it should be at least 70% but by 2029/30 the 
+decarbonisation of the UK grid is expected to have increased the annual reduction 
+in GHG emissions to at least 90%.  
+Further detailed analysis o f the fleet and the financial implications of the 
+electrification of the fleet is needed, but initial results indicate that there would 
+be a strong business case for the organisation to  have an all- electric fleet by 2030  – 
+and this may in any case be driven by national policy which is rumoured to be 
+bringing forward the ban on sales of new petrol/diesel vehicles to 2030 . The move 
+to electric vehicles has significant implications for the electrical charging 
+infrastructure at depots, offices and at employees’  homes where vans may be 
+parked overnight , and this needs to be considered when planning the fleet change 
+over. 
+ 
+4.2.2  Action plan  
+Sector  Action  Predicted saving 
+tCO 2 (% 
+reduction)  Timing  
+Building 
+estate  Electrify heating - Install heat pumps  
+ 
+Phase 1 –  installation of first four heat 
+pumps in buildings  
+Phase 2 Installation of further 5 heat 
+pumps 
+ 
+ 
+Phase 3 Installation of further 8 heat 
+pumps 
+ 
+ 
+Phase 4 Remaining buildings  568 (Phase 1 
+and 2)  Phase 1 2020-
+22 
+ 
+Phase 2 2023 -
+25 
+ 
+Phase 3 2025 -
+2030 
+ 
+Phase 4 
+beyond 2030  
+ Reducing use of flouracarbon and 
+other GHG gases by substituting with 
+lower GHG equivalents and or 
+reducing size of H eating Ventilation 
+and Air Conditioning  systems  n/a (achieved 
+via 
+procur ement)  TBC 
+Fleet  Electrify LCV fleet (small van fleet) 
+Installation of 4X6 load balancing 
+charging banks at Depot  
+Procu rement of remaining van fleets  
+As recommendations of GFR 2020  n/a  
+2022 
+2022 
+By 2025  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+20 | Page  
+ 
+Classification: OFFICIAL   Procurement of further EV vans (x 24)  
+Procurement of remaining LCV van 
+fleets (x93)  
+As recommendations of GFR 2020  64  
+ 
+193  
+(totals 1.3%)  2021/22  
+ 
+By 2025  
+ Electrify fleet cars  TBC  
+ Electrify HGV and/or consider 
+biomethane or other options or 
+conversions 
+As recommendations of GFR 2020  Requires further investigation  
+ Electrify RCVs – Refuse Freighters  
+(eRCVs)  – Phased replacement  
+Phase 1  (trial eRCV vehicle)  Totals 396  
+(2 %) 
+ 2020/21  
+ Phase 2  (5 eRCVs)  
+Phase 3 (remaining 7 eRCVs)  2021/22  
+2022//23  
+ 
+ 
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+21 | Page  
+ 
+Classification: OFFICIAL   
+4.3 GENERATE 
+ 
+4.3.1  The pathway to renewable energy generation  
+Clean low carbon energy supply must be at the heart of a zero carbon Council  
+strategy . The Council has installed around 7500 solar panels across its building estate 
+to date, including social housing , and  Reading’s Civic Offices , which has  the largest 
+multi solar array system in Reading, with seven arrays mounted on the roof and a 
+total of >5 00 solar panels. However,  in order to supply the equivalent amount of 
+energy to the electricity being used  by the organisation, it must not only cover the 
+electricity we use to power lighting and buildings , but also the energy needed for 
+newly electrified heat and vehicle use, which currently is  predominantly fuelled by  
+fossil fuels such as gas , petrol and diesel.  
+This section  is primarily concerned with the plan to increase the provision of 
+renewable electricity. Whilst a key aspect of the renewable energy  available locally 
+is the heat stored in the ground, rivers and aquifers, this is dealt with in the 
+decarbonisation section as electricity is used to run the heat pumps  which rely on 
+these sources. However, u nless this electricity is from a renewable source this is not 
+‘pure’ renewable energy.  
+Since the Feed in Tariff subsidy was introduced in 2010 , the cost of solar panel  
+installations has reduced to around a quarter of their original price. Whilst the 
+subsidy has been discontinued for new connections , solar panels are now cost 
+effective without it.   
+In current financial modelling, solar pv systems need to be sized so that the majority 
+of the renewably generated electricity is supplied to and used onsite, rather than 
+being exported to the National Grid. In practice this means that solar pv system sizes 
+are limited in capacity size to just above the electrical baseload of the building  on 
+which they are sited . When taking this into consideration with the seasonality of 
+generation  (the majority of electricity generated from solar pv systems occur ring in 
+the summer months ), a problem exists in the sense that  there is space available for 
+systems which generate ‘too much’ electricity for use at a given  site, yet this 
+renewable ele ctricity generation is essential for reducing the carbon emissions of 
+the organisation and the borough. To resolve this issue, we need to work out how to 
+shift excess electricity generation to times when it is needed  such as winter 
+evenings, when lighting and heat demands peak, yet solar electricity generation is 
+very low or zero. There is the potential for this problem to be resolved with onsite 
+battery storage.  
+Wind energy in the national network has increased dramatically due to offshore wind 
+development  and it is expected that there will be periods when very low carbon 
+energy is available from the grid.  Reading is not generally considered to be a good 
+location for wind generation and indeed the wind turbine at Green Park is not 
+considered to be a high ‘y ield’ turbine. That said , wind remains a good resource in Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+22 | Page  
+ 
+Classification: OFFICIAL  the UK and the turbine is profitable , providing  the largest single contribution of 
+clean renewably generated energy in Reading.  
+Local community energy organisations in recent years have installed r enewable 
+energy assets across the county . Reading Community Energy Society (RCES) has been 
+active within Reading, installing numerous solar pv systems across the borough. 
+Whilst Reading Borough Council does not directly own the renewable energy assets 
+installed by RCES , we have been involved in establishing and supporting the 
+development of RCES and Reading Hydro. Currently the Council owns shares in both 
+and this remains a mutually beneficial way of investing in renewable energy locally.  
+Shares in community energy cost a very similar amount in terms of investment per 
+tonne of carbon but offer wider benefits to the community .  
+Carbon  dioxide  emissions  are defined  by the Greenhouse  Gas protocol  which  defines  
+the emissions  as direct  and indirect.   A host of offsetting  products  and ‘green  power’  
+options  are available  on the market  and these  are varied  in their approach. For the 
+latter,  the Council  procures  100% 'green'  electric ity through Renewable  Energy  
+Guarantees  of Origin  (REGOs).  Unfortunately  these  cannot  be guaranteed  to supply  
+additional  renewable energy  and may utilise  current  renewable  electricity  on the 
+grid, which  has been provided through subsidy  or obligation.  The Council  accepts  
+the Energy  Saving  Trust  advice on this matter  and therefore  does not include  the 
+notional  emissions  saved  from this approach  in its carbon  accounting.   
+ 
+In respect  of offsetting  strategies,  the Council  takes  the view that local schemes  
+that supply  communities  within the borough  of Reading  with renewable  energy  
+and/or  carbon  reduction  through shareholding  held by the Council  or through other  
+mechanisms  could  be acceptable,  and may have a part to play in our strategy  as we 
+approach  'net zero' and have to tackle  the most difficult  residual  emissions  in the 
+period beyond  2025.  However,  offsets which  lead to reductions in carbon  emissions  
+in other  parts of the country  or internationally  are not currently  considered  
+appropriate  due to the complexit y of interactions  with the national  grid and other  
+government  policies,  international  conventions  and Ofgem  provisions,  hence  them  
+not featuring  in our plan for 2020- 25. 
+ 
+To achieve net zero carbon  by 2030, the organisation needs to have a generation 
+capacity of at least 14 MWp. Currently the Council has a 2 MWp capacity. With an 
+additional 5  MWp, the total generation output is predicted to be 5.6 MWh by 2025, 
+which is equivalent to 48% of the organisation’ s total kWh energy use.  
+Over the next five years, t he council therefore intends to follow a hierarchy o f 
+sourcing electricity generation , as illustrated in Figure 4. 6 below. Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+23 | Page  
+ 
+Classification: OFFICIAL   
+Figure 4.6 : Hierarchy of renewable energy generation, with onsite, RBC owned 
+and supplied being the optimal option  
+  Onsite generation –RBC owned & 
+supplied
+Local generation –RBC owned & sleeved to RBC
+Onsite generation –non- RBC owned, supplied to RBC
+Local generation –non- RBC owned, supplied to RBC
+Outside RBC boundary –RBC owned & sleeved to RBC
+Local/outside RBC boundary –RBC owned, supplied to others
+National sources REGOsClassification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+24 | Page  
+ 
+Classification: OFFICIAL  4.3.2  Action plan  
+Sector  Action  Tonnes 
+p.a. of 
+CO2 Timing  
+Solar pv  Solar array – Bennet Road depot   228kWp  34  2021 
+ Solar farm Smallmead (location TBC)  119  2022 
+ Investment in off -site generation – 
+Reading Bus Depot  17  2021/ 2022 
+ Install solar onto Council housing 1000 
+houses  332 2022/ 2023 
+Wind  Investigate land holdings with Reading 
+Community Energy Society for wind 
+options  TBC  2021/ 2022 
+Ground/rivers  Reading Hydro – consider further shares 
+and/or PPA with Reading hydro project  TBC 2022 
+ Ground Source heat pumps – see 
+decarbonise section   
+ Consider  further shares purchases in 
+Reading Community Energy Society  TBC   
+ REGOs & REGO+ (Rene wable Energy 
+Guarantee of Origin)   N/A  REGO for 
+100% 
+electricity – 
+completed 
+2019  
+ 
+REGO+ - 
+timing TBC  
+Total   502 
+tonnes  
+  
+ 
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+25 | Page  
+ 
+Classification: OFFICIAL   
+4.4 SMART  
+ 
+4.4.1  Planning for the future  
+As we go forwards local and national energy networks  will become more diverse with 
+local renewable energy generation forming a much greater proportion of the energy 
+mix. Alongside this, the capability to store electricity in batteries and heat in 
+buildings gives us more flexibility on when this energy is used. T his is crucial when 
+considering the intermittent nature of renewable energy generation.  
+Whilst a Smart Council is crucial, it is mainly an enabling function to allow the other 
+projects to work effectively and to strengthen business cases. For this reason n o 
+incremental carbon savings are shown in this section. But the actions below will give 
+us an increased utilisation of local renewable energy and help to reduce the carbon 
+emissions associated with electricity supplied through the national grid.  
+The Counci l will work with the University and other bodies on projects to increasingly 
+align the Councils energy consumption with times when low or zero carbon energy 
+are available. We will also look for ways to supply our communities with renewable 
+energy when we d o not need it. As the Council will always need to be connected to 
+the national grid via the local electricity network, we must, in the future, supply 
+more renewable energy than we use to compensate for the carbon emissions of the 
+energy we consume.  
+Many of the technologies and services that we will need in this new era of nearly 
+and net zero carbon operations are being developed and/or at trial stage and 
+therefore the ‘Smart Council’ work during the 2020 to 2025 period will seek to 
+establish a series  of projects and trials that can lead to reductions in carbon 
+emissions but also establish further RBC owned renewable generation infrastructure 
+that can help to supply our communities, as we already do for our Council tenants.  
+4.4.2  Action plan  
+Sector  Action  Timing 
+Demand side 
+response  Implement fast frequency response demand for 
+largest council loads  2023  
+Battery storage  Install batteries at Council site – Subject to Reading 
+Zero Carbon Accelerator funding  (bid submitted, 
+result awaited)  2022 to 2023  
+Vehicl e to Grid 
+(V2G)  Initial purchase of V2G compatible vehicles  2022 
+Real time 
+carbon 
+emissions  Through the Reading Zero Carbon accelerator project  
+(subject to successful bid)  2021 to 2023  
+Machine 
+learning  Smart City Clusters Project  2020  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+26 | Page  
+ 
+Classification: OFFICIAL  Real time 
+carbon 
+utilisation  Reading Zero Carbon Accelerator Project (subject to 
+successful bid)  2021 to 2023  
+Power Purchase 
+Agreement s 
+(PPAs) , sleeving 
+and REGO+  Work with West Mercia Energy (RBCs energy supplier) 
+to align local generation with consumption.  Also 
+work jointly with University and Reading Community 
+Energy Society to establish PPAs for our own 
+consumption with local renewable energy suppliers 2020 to 2025  
+Agile Tariffs  Explore agile tariffs with energy supplier ( to align 
+consumption with cheaper , lower carbon periods)  When 
+available  
+Private wire 
+contract for 
+solar farm  Establish a PPA contract with a local off -taker from 
+solar farm installed at Smallmead facility  2022 
+ 
+  Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+27 | Page  
+ 
+Classification: OFFICIAL   
+5. CONCLUSIONS  
+Taken as a whole the strategy to reduce, decarbonise, generate and get smart have 
+helped to inform the  action plan, which over the period of the strategy has the 
+potential to reduce emissions by 85% compared to the  2008/9 baseline. This would 
+leave us with carbon emissions of no greater than 3000 tonnes, less than hal f of our 
+existing emissions  (see figures 5.1, 5.2 and 5.3 below) , a level which would be in 
+line with the expectations set in the Climate Emergency Declaration to achieve net 
+zero carbon by 2030.  
+A large number of variables remain in play -  the nature of our business and size of 
+our estate going forwards in the light of the pandemic , the challenge of  forecas ting 
+energy costs and network carbon intensity , the size of our capital programme and 
+priorities within that. In view of these uncertainties, we cannot guarantee that this 
+will be our precise trajectory  but we will retain the  ability to flex our plans in line 
+with research and national developments . But we will also  have significant 
+opportunities to use our low carbon investment to leverage in funding from national 
+and other sources , and to ensure that this  investment drive the Council’s wider aim 
+for a ‘green recovery’ from the impacts of COVID -19. 
+The actions set out in this plan  will make good business sense as well as 
+environmental sense, r educing future  revenue pressures and ensuring that the 
+Council  is fit for the future and on track to a net zero carbon Reading, at the 
+forefront of the UK and city governments worldwide in tackling climate change.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+28 | Page  
+ 
+Classification: OFFICIAL       
+Figure 5.1: Breakdown of RBC carbon footprint for 2008/09      Figure 5.2: Breakdown  of RBC carbon footprint for 2018/19  Street lighting , 
+3540, 18%
+Building 
+electric , 9264, 
+47%Building 
+heating gas, 
+4888, 25%Building 
+heating oil , 81, 
+0%Fleet fuel , 
+1625, 8%Business 
+mileage , 364, 
+2%2008/09
+19,761 tCO2Street 
+lighting , 
+996.64 , 13%
+Building 
+electric , 
+2,381.59 , 
+31%
+crematorium 
+gas, 231.09 , 
+3%catering gas, 
+102.76 , 1%Building 
+heating gas, 
+2,466.30 , 
+33%Building 
+heating oil , 
+48, 1%Fleet fuel , 
+1133, 15%Business 
+mileage , 215, 
+3%2018/19
+7,409 tCO2Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+29 | Page  
+ 
+Classification: OFFICIAL   
+Figure 5. 3: Breakdown  of RBC carbon  footprint for  2025/26   Street lighting , 
+437.98 , 15%
+Building 
+electric , 
+869.86 , 30% crematorium 
+gas, 215.31 , 
+8%catering gas, 
+95.74 , 3%Building 
+heating gas, 
+929.81 , 32%Building 
+heating oil , 0, 
+0%Fleet fuel , 147, 
+5%Business 
+mileage , 198, 
+7%2025/26 (predicted emissions factors)
+2,983 tCO2Classification: OFFICIAL   
+Appendix 3: DRAFT RBC CORPORATE CARBON PLAN 2020 -25 
+30 | Page  
+ 
+Classification: OFFICIAL   
+ 
+ 

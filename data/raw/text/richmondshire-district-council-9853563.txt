@@ -1,0 +1,444 @@
+Climate Change Action Plan 
+July 2021                                       
+ 
+       
+ 
+                         
+                 
+               
+                       
+           
+                                   
+                                                                                                         Contents 
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+Tackling climate change: 
+what the Council has committed to doing, and why . . . . . 3 
+What do the Council’s carbon emissions look like now? . . 5 
+What this Action Plan covers . . . . . . . . . . . . . . . . . . . . . . . 6 
+Overall aim and objectives of the Plan . . . . . . . . . . . . . . . 7 
+The Climate Change Actions and Projects . . . . . . . . . . . . . 8 
+Resourcing the Action Plan . . . . . . . . . . . . . . . . . . . . . . . . 11 
+Monitoring progress and reviewing the Plan . . . . . . . . . 11 
+Appendix 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+Appendix 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+Appendix 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+Appendix 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+2 Introduction 
+Richmondshire District Council’s Climate Change Action Plan sets out the actions the Council 
+is taking over the next few years to tackle climate change. It is primarily concerned with taking action to reduce the greenhouse gas emissions that arise from its own estate, operations and activities, but it also includes actions that reflect its role as a leader and influencer in the local community. 
+The Plan was agreed at a meeting of the Council in July 2021, and it is backed up by over 
+£500,000 of committed funding, across several workstreams. 
+Tackling climate change: what the Council 
+has committed to doing, and why 
+Climate change is undeniable. It is being 
+driven globally and locally by the large scale greenhouse gas emissions that arise mostly from human activity, and which are responsible for helping the atmosphere to absorb and retain heat. Greenhouse gas is predominantly carbon dioxide (CO2) which comes from burning fossil fuels for heat, power, fuel and industrial processes. Other greenhouse gases include methane, which comes from rearing animals for food and from decomposing waste in landfill. 
+Greenhouse gases are commonly referred to as 
+carbon emissions. They are measured in tonnes of carbon dioxide equivalent, CO2(e). One tonne of CO2(e) can be visualised as a cube that is about the height of a three storey building. Reducing carbon emissions from human activity to net zero is the internationally recognised way to slow down or stop climate change. 
+As well as greenhouse gas emissions, there are natural and man-made processes that take 
+carbon dioxide out of the atmosphere. These are important as they can effectively offset some of the carbon emissions. Tree planting is the most well known of these, but in Richmondshire, the restoration of areas of upland peat, taking place under programmes such as the Tees Swale Project, is also significant in capturing and storing carbon dioxide. The generation of renewable energy, such as from solar photovoltaics (PV) or wind turbines can also help to offset some of the carbon emissions, where the amount generated locally exceeds the amount consumed locally. 
+By working to reduce carbon emissions, we can help achieve the reduction in global carbon 
+emissions that is needed to keep the global temperature rise to 1.5C or less. This is the level that is needed to prevent catastrophic global climate change and to help avoid more extreme weather events and higher average temperatures across the District. The Met Office projects that if carbon emissions are not reduced significantly and global temperatures rise by 4C, the volume of rain on a single winter’s day could increase by 21% at Hawes and the hottest summer day in both the Hawes and Richmond areas will be at least as hot as the hottest day recorded in the UK in 2019 at Cambridge, 35.7C. 
+The Council’s action on climate change fits 
+into a matrix of action, activity and ambition at the regional and sub-regional level through organisations like the York and North Yorkshire Local Enterprise Partnership and the Yorkshire and Humber Climate Change Commission, and at the local level through other influential organisations operating within the District, such as the Ministry of Defence (MOD), the Yorkshire Dales National Park Authority (YDNPA) and North Yorkshire County Council (the County Council). 
+3 The Plan aligns with the ambition of the York and North Yorkshire Local Enterprise Partnership 
+(LEP) to achieve net zero carbon across its area by 2034 by ‘accelerating the transition to renewable energy sources, making the most of all our materials and assets in the region and enhancing our natural capital’. The Action Plan also aligns with three of the four aims of the recently formed Yorkshire and Humber Climate Commission, namely to support rapid progress towards net zero carbon emissions, to encourage a just and inclusive transition and climate actions that leave no-one and nowhere behind and to promote sustainability and climate actions that also protect nature and biodiversity. This Plan does not align with the fourth aim, to foster climate resilience and adaptation to climate risks and impacts, as it excludes climate change adaption. 
+The MOD published its ‘Climate Change and Sustainability Strategic Approach’ in March 
+2021, which includes general and sectoral organisational targets for 2025 as stepping stones towards achieving its 2050 net zero carbon ambition. As yet, there are no published ambitions or targets for Catterick Garrison specifically. The Yorkshire Dales National Park has declared a climate emergency and it is focusing on supporting the transition to a sustainable, low carbon, approach to farming and land management, supporting nature-based solutions that can help develop resilience to climate change at a landscape scale, promoting sustainable tourism, and demonstrating the benefit of “low carbon” holiday destinations. It has set a target to reduce its own carbon emissions from their current (2021) level of 74% less than the 2005 emissions, to at least 95% less by 2030, and by 2030, to achieve annual carbon savings of at least 30 times their annual emissions from woodland planting that they have directly funded. The County Council are developing a carbon reduction plan to reach its target of net-zero neutrality for the Council by 2030, or as near to that date as possible. 
+The Council’s climate emergency declaration 
+In response to the evidence before it, the Council declared a climate emergency in July 2019, and highlighted the commitment to tackling climate change in its Council Plan 2019-2023. Through its climate emergency declaration, the Council has committed to tackling climate change, including achieving net zero carbon emissions from its own operations and activities by 2030. The emergency declaration included a range of specific and general commitments (see Figure 2.1) which together with other appropriate projects and activities, have been brought together in this Action Plan. 
+Since the Council declared a climate 
+emergency, momentum for taking action has built. For example, by the end of June 2021, the Government will have set in law a UK target to reduce carbon emissions by 78% from their 1990 levels by 2035, and later in 2021, the Government will host COP26, the international conference on climate change. At the sub -
+regional level, the York and North Yorkshire Local Enterprise Partnership has set out its ambition for the area to be carbon neutral by 2034, and organisations active within the District, such as the Yorkshire Dales National Park and Yorkshire Water have made their own declarations and action plans. Also, with the Council’s involvement, a new Richmondshire Climate Action Partnership Group has been formed, comprising volunteers from across the District with a range of knowledge, expertise and enthusiasm for tackling climate change. 
+4  
+   
+ 
+ 
+ 
+ 
+ Figure 2.1: The Richmondshire Climate Emergency declaration at a glance* 
+• There is a climate emergency that requires urgent action 
+• The Council will make its own activities net-zero carbon by 2030 
+• The Council will achieve 100% clean energy across all its functions by 2030 
+• The Council will support and work with all other relevant agencies to ensure 
+that the whole of Richmondshire achieves net-zero carbon (production and consumption) by 2034, to align with the wider target for York and North Yorkshire 
+• The Council’s own strategic decisions, budget setting and local planning policies will ensure protection of the environment and achievement of net-zero carbon in the district by 2030 
+• The Council will influence and inspire partners across the district, county and region to contribute to achieving the Council’s environment and climate goals; 
+• A Climate Change Partnership Group (CCPG) (involving Councillors, residents, young citizens, climate science and solutions experts, businesses, and other relevant parties) will be convened to develop a Climate Change Action Plan to help the Council achieve its environment and climate goals; 
+• The Council will call on the UK Government to provide the powers and financial resources required to address the emergency. 
+What do the Council’s carbon emissions look 
+like now? 
+Data collected for the years 2019-20 and 2020-21 indicate that the Council’s own measured 
+carbon emissions are at least 1000t CO2(e). The main sources are set out in Table 3.1, and account for over 80% of all the Council’s measured emissions. The Council also generates a small amount of electricity from solar panels, and using this energy has reduced the Council’s carbon emissions by an average of 6.8 tonnes CO2(e) per year for the last two years. 
+Table 3.1: 
+Main Sources of Carbon Emissions from the Council’s activities and operations 
+Site or source of greenhouse gas emissions tonnes carbon 
+dioxide 
+(equivalent) tonnes carbon 
+dioxide 
+(equivalent) 
+2019/20 2020/21 
+Richmond Swimming Pool 378.5 330.8 
+HGV fleet vehicles 216 214.6 
+Non HGV fleet vehicles 130.5 122.9 
+RDC Street Lighting 108.2 101.7 
+Sheltered housing - Queens Court* 81.5 81.3 
+Mercury House, Richmond 95.5 77.9 
+Sheltered housing - Oak Tree Court* 71.2 69.3 
+Sheltered housing - Quaker Close, Reeth* 78 68.3 
+Sheltered housing - Thornborough Hall, Leyburn* 59.9 63.8 
+Sheltered housing - Noels Court, Catterick* 51.8 43.3 
+Gallowfields depot, stores, etc., Richmond 26.1 42.9 
+Council housing - general lighting and heating - public, communal and landlord areas 25.9 35.6 
+Total of top 12 emission sources 1323.1 1252.4 
+Total of all emissions (as above and all others measured) 1424.7 1342.9 
+*includes occupants’ power supply. 
+5  
+ 
+ 
+ There are other carbon emissions that can be 
+attributed to the Council’s activities, but for these, there is either no data and/or there is no recognised or time efficient way of measuring them. A recent Sustainable Procurement Study commissioned by the York and North Yorkshire Local Enterprise Partnership indicated that these other emissions can amount to at least as much as the measured carbon emissions. 
+The data collected for 2019-20 and 2020-21 also 
+gives some insight into the carbon emissions impact of the changes to the Council’s own operations and activities that were made as a result of the Covid-19 pandemic. Despite significant changes that may otherwise have taken several years to implement, such as the shift to home working, the figures indicate that this has had an impact of less than 1% on the Council’s overall measurable carbon emissions. 
+In comparison, the latest Government statistics (for 
+2019) estimate that the net carbon emissions that can be attributed to all sources within Richmondshire District amounts to 408,000t CO2(e). The Council’s emissions are less than 1% of the total for the district. 
+What this Action Plan covers 
+This Action Plan primarily covers the Council’s own estate, operations and activities. It only covers activities that will contribute to the reduction of wider carbon emissions across the district of Richmondshire where the Council is directly delivering a service or where it can support or influence the activities of others to do so. These latter actions are likely to be included in the climate action plan for Richmondshire which, with the support of the Council, is being prepared by the Richmondshire Climate Action Partnership and is expected to be completed by the end of October 2021. 
+Tackling the climate change agenda can also mean taking action to reduce the impact of 
+climate change, known as climate change adaptation. This important work is a partnership effort across a variety of agencies including but not exclusively the District Council, and plans to tackle it can only be done collaboratively. Because of this, climate change adaptation is not addressed by this Action Plan, except through an action to participate in partnership working to progress it. 
+This Action Plan is for the period up to 2030, but primarily focuses on actions for Year 1 and 
+Year 2, with longer term and follow on projects only identified indicatively after that. This is because: 
+a) the Council needs to collect more information in a number of areas in order to understand what the most effective action to reduce carbon emissions is, and what the costs of doing so will be 
+b) the solutions to and costs of reducing carbon emissions is a rapidly evolving area. This brings with it significant risks of getting ‘locked in’ to costly solutions which may not deliver all the emissions reductions needed in some areas if commitments are made now to action that will not take place for a few years 
+c) the plan will be reviewed and rolled forward on an annual basis, taking account of up to date emissions data, the previous years activity, latest best practice, policy and advice and available budget 
+d) the Government recently announced that from 1st April 2023, there will be a single unitary authority across North Yorkshire. This will replace the existing two tier local government structure of Richmondshire District Council and North Yorkshire County Council in our area. 
+6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall aim and objectives of the Plan 
+The fundamental aim of the Council’s climate emergency declaration and the overall aim of 
+this Plan is: 
+“to achieve a net zero carbon Council by 2030 and to work with, influence, 
+support and encourage others so that this can be achieved for the wider 
+Richmondshire by 2034” 
+To achieve a net zero carbon Council by 2030, the Council will reduce the carbon emissions from its own estate, operations and activities to almost zero by 2030 by: 
+a) Reducing the use of energy for heating, lighting and water at all Council owned and managed commercial and residential properties 
+b) Replacing existing lighting and heating systems with energy efficient low carbon or renewable energy alternatives. 
+c) Replacing fleet vehicles with low carbon or renewable energy alternatives wherever it is feasible and viable. 
+d) Further reducing the amount of miles travelled for business purposes in fleet, staff and Councillors vehicles. 
+e) Accelerating the replacement of street lighting with low or renewable energy alternatives and implementing part-night lighting across all areas. 
+f) Undertaking a programme of business improvement projects that will reduce carbon emissions from the materials, products, machinery, business machines and ICT equipment that it uses, alongside securing customer service and business efficiency gains. 
+g) Adjusting its procurement processes to use as few new resources as possible and to use low or no carbon alternatives wherever possible. 
+h) Implementing new systems to reduce the amount of residual waste collected and increase the proportion of waste collected that is recycled. 
+i) Making the most of Council owned land and buildings to generate renewable energy, increase tree planting and enhance biodiversity. 
+j) Accelerating organisational culture change so that carbon reduction considerations are integrated and embedded into all the Council’s processes, operations, activities and ways of working. 
+k) Requiring all those we transact with to consider and where possible align their activities to the Council’s net zero carbon objectives. 
+l) Encourage all those we interact with to adopt behaviours that align with the vision for a net zero carbon Council by 2030 and for a net zero Richmondshire by 2034. 
+m) Encouraging and supporting staff to make behaviour changes that reduce their carbon emissions. 
+n) Applying for and managing the spending of external funding and other resources to accelerate or extend projects that will deliver against the other objectives of this Plan. 
+o) Regularly monitoring and publicly reporting on its performance in delivering this Action Plan. 
+p) Reviewing the Plan annually every summer to take account of any new information, contextual changes, new opportunities, technological advances and best practice. 
+To achieve net zero overall, the Council will also capture and store any residual amount of carbon emissions that cannot be achieved by the delivery of this Action Plan and any of its successors. 
+7  
+ 
+ 
+ 
+ 
+ To fulfil its commitment to work with, influence, support and encourage others to achieve net zero 
+carbon emissions across Richmondshire by 2034 , the Council will: 
+a) bring in and help others to bring in external funding and expertise that will deliver projects in the wider community that complement the Council’s own commitment to climate change action, either on its own or in partnership with others. 
+b) give a high priority to reducing carbon emissions in carrying out its town planning, private sector housing and business support functions whose outcomes impact directly on the wider community. 
+c) support and champion community groups taking local action on climate change, in particular the Richmondshire Climate Action Partnership Group. 
+d) provide limited grant support to projects tackling the main sources of carbon emissions in Richmondshire. 
+e) influence and inspire partners across the district, county and region to contribute to achieving the Council’s environment and climate goals. 
+f) lobby the UK Government either on its own or in collaboration with others to provide the financial resources and powers required to tackle the barriers to achieving this Plan’s overall aim. 
+The Climate Change Actions and Projects 
+What’s included and why? 
+The actions and projects included in this section are reflective both of the Council’s commitment to addressing the climate emergency and of the budgetary and staff resources available to deliver it. As such, it is a realistically deliverable plan, rather than a list of aspirational projects. It includes some flexibility to allow the Council to secure external funding for carbon emission reduction projects that would otherwise have been unachievable. 
+The actions and projects reflect the Council’s role as an influencer and leader as well as being an 
+organisation that can take action to tackle its own carbon emissions. The projects are set out in four tables in Appendices 1-4, organised into the following categories: 
+Appendix 1: Carbon reduction priority 
+(CRP) projects 
+These are the top priority projects for the Council 
+overall, reflecting their importance in achieving the target of a net zero Council by 2030. The Council will focus its available budget and staff resources on these projects. 
+Appendix 2: Influencing, supporting 
+and acting in the wider community (COM) 
+These are projects where the Council is either delivering 
+projects to reduce the carbon emissions of its own estate (which extends to areas across much of the District), or it is influencing or supporting others to make changes that will reduce carbon emissions in the wider Richmondshire. A smaller proportion of the Council’s available budget and staff resources is available for these projects. 
+8 Appendix 3: Organisation and culture 
+change (OBC) projects 
+These are projects and actions that require the Council 
+to do some different things and to do differently some of the things it already does. These projects and actions will effect change across many if not all of the Council’s service areas, and can mostly be achieved with existing staff resources and available budget. 
+Appendix 4: Business and operational change (BOC) projects 
+Most of these projects can be delivered without any additional staff resources or budget, but the existing work commitments of staff mean that these need to be programmed over more than one year. 
+The actions and projects identified for Years one and two demonstrate early action around the 
+things the Council can affect now, commensurate with the declaration of an emergency. However, the planned creation of a single unitary Council for North Yorkshire from 1 April 2023 means that some actions are concerned with establishing the conditions that will ensure that the successor authority is clear exactly what it needs to do achieve net zero carbon in the Richmondshire part of its estate, operations and activities. 
+The key priorities for the Action Plan are evidence led. Effectively tackling the top 10 sources 
+of carbon emissions would be taking action on over 80% of the Council’s currently measured emissions. 
+The actions identified for reducing these sources 
+of emissions reflect the energy hierarchy: energy saving is the priority action, then energy efficiency, generating renewable energy, using renewable or low carbon energy sources, and only using fossil fuels where it is unavoidable. 
+Whilst not readily measured, the Action 
+Plan also includes projects to tackle Scope 3 emissions. These are sources of carbon emissions that are not owned or directly controlled by the Council but are related to its activities, e.g. employee travel and commuting, and the services and products it purchases. 
+As well as including commitments to tackle the Council’s own carbon emissions, the climate 
+emergency declaration includes commitments to support and work with others to help achieve net zero carbon in the district. There are Council services, such as planning and waste and recycling, whose purpose is intrinsically linked to reducing carbon emissions in the wider Richmondshire District and further afield, and where planned action will help to strengthen and accelerate the carbon emissions reduction element of them. For example, developing best practice climate change planning policies in the emerging Local Plan will help to ensure that new housing development permitted once the plan is adopted has low or zero carbon considerations built into its design, layout and construction. 
+There are also Council services that deliver facilities and services directly into the wider 
+Richmondshire community, and where adjustments and slightly different priorities for investment will help to accelerate progress to net zero carbon. For example, the Council has about 1500 social rented houses, where there are projects to improve energy efficiency, install low carbon heating and generate renewable energy, and through its communications with its tenants, e.g. the Grapevine newsletter, it will be providing information to residents about how to save energy and reduce carbon emissions. 
+The Action Plan includes a number of projects to collect the information and advice that is needed 
+to identify what the most cost effective actions are to reduce carbon emissions and how much money will be needed to deliver them. For example, comprehensive surveys are proposed for a range of council owned buildings, to ensure that the possibilities for energy efficiency, renewable energy generation and swapping heating systems to low carbon alternatives are all looked at in a holistic way. 
+9  
+ 
+ Because this Action Plan is to deliver on the commitments of the climate emergency declaration, it 
+includes some actions that have already been taken since July 2019. Of particular note are some of the actions taken in response to the Covid-19 public health emergency, for example, shifting to staff home working wherever possible and holding Council meetings remotely. This Plan includes actions that embed these changes wherever possible and where permitted by regulatory requirements. 
+Whilst many of the projects require an up-front capital investment, many of them are expected to 
+result in ongoing energy cost savings thereafter. For example, LED lighting generally uses a fraction of the power of traditional lighting, and electric vehicles are much cheaper to run per mile than equivalent diesel or petrol vehicles. Where solar power can be generated, such as is included in the proposals for Richmond Swimming Pool, the savings can be even greater because the energy generated is free and there is a cash credit paid by the Government for an assumed amount of energy fed into the grid by the installation. 
+Finally, many of the projects in this plan have benefits beyond just their contribution to reducing 
+carbon emissions. For example, a scheme to install solar PV on the roofs of some council bungalows will help to reduce the energy bills for those elderly and often vulnerable and low income residents, whilst swapping in some electric vehicles into the Council’s fleet will help to reduce their daily contribution to local noise and pollution levels. The project to roll out part night-lighting in the remaining areas of the District is also expected to benefit wildlife, whose activity patterns are otherwise disturbed by street lighting, and will help to extend the ‘dark sky’ areas of the District that are relatively unaffected by light pollution. 
+What things are limiting the projects that can be included in this Plan? 
+The projects and actions in this Plan are what is realistically deliverable, taking into account the available budget, staff resources and other considerations. 
+Details of the staff and budgetary resources to support delivery of the plan are set out below. The 
+other considerations include: 
+a) things that affect the timing of when action can be taken, e.g. break points in medium-long term contracts, the need to get data or expertise first to understand exactly what action should be taken, and avoiding replacing items that have only recently had significant investment. 
+b) the starting point of this Plan. There has been little corporate focus on tackling climate change since a climate action plan was last prepared in 2010, and the officer post with responsibility to prepare this action plan was not filled until November 2020. Staff and elected members alike are in the early stages of developing their knowledge and awareness about what can be done to tackle climate change and this initial action plan is part of that process. Future plans or updates are expected to reflect an advancement on this. 
+c) the statutory requirements and Government policy in place at the time of plan preparation. For example, whilst desirable from a carbon emissions reduction viewpoint, there are laws that prevent some services such as elections going entirely paperless, and virtual council meetings are no longer allowed following expiry of the relevant Covid-19 regulations. 
+10 Resourcing the Action Plan 
+Staff 
+The Council’s small size and budget means that there is very little capacity within existing staff 
+resources to support the Climate Change Officer. It is a key objective of the Action Plan to change the culture of the organisation so that wherever possible, climate change projects are not new projects, but are existing or proposed projects re-imagined. As such, they will be part of everyday staff activity, rather than seen as an add-on. There are also many projects that require relatively little one-off staff time and do not need new money to deliver. 
+Some further funding for more staff time could be secured from some external funding streams, such 
+as the £32,000 of development funding recently made available from the Government’s Green Homes Grant Local Authority Delivery 2 (LAD2) programme. Staff resources can also be provided by other organisations through joint working, e.g. contributions of time from others for projects to be delivered in Richmondshire are included in current bids for Community Renewal Funding. 
+It is envisaged that some of the small scale low or no cost projects that are relevant to multiple 
+service areas can be delivered by members of the Climate Change Officer Working Group. 
+Budgets 
+Two dedicated budgets will support delivering of this Action Plan - the £100,000 climate change budget which was agreed in 2019 and a £80,000 green initiatives budget which is to be formally agreed alongside the agreement of this Action Plan. The Council has also committed an additional £35,000 to ensure that the purchase of an electric vehicle and a plan to move to more environmentally friendly and low carbon ways of using, managing and maintaining open space can be delivered. These budgets are in addition to spending committed elsewhere for net zero carbon projects, such as the £50,000 Council contribution to the Tees Swale project that is regenerating upland peat in the District so that it can sequester more carbon emissions, £220,000 for electric vehicle charging points in the Council’s car parks. and the recent £1.26 million commitment to investing in Richmond Swimming Pool, which will include roof mounted solar panels and thermally efficient roofing, walling and glazing. 
+The Council has also been successful in attracting some external grant funding to support carbon 
+reduction projects, and accessing further funding opportunities will be crucial in accelerating and maintaining momentum in delivering this initial Action Plan and any updates to it. 
+Monitoring progress and reviewing the Plan 
+Progress in delivering the actions identified in this Plan will be monitored by the Council’s Climate Change Officer Working Group, in the first instance, with the results of that monitoring being reported quarterly to the Council’s Climate Change Working Group, and actions identified to address the areas where progress is not being made as the Plan envisaged. There will also be quarterly reporting by Management Team to Corporate Board, through the existing arrangements. 
+An annual monitoring report will be prepared and published every summer. This will set out the 
+progress that has been made on projects identified in the Plan and where possible, the carbon emission reductions that have been achieved as a result. The monitoring report will also include updated data about the carbon emissions arising from the Council’s own estate, operations and activities, and will report on any changes to the national, regional and local context for undertaking climate action. The monitoring report will also include consideration of any issues that have arisen in delivering the projects in the Plan. 
+The Council will also roll forward this Action Plan on an annual basis, having had regard to the 
+information contained in the annual monitoring report. In this way, there will always be an agreed programme of specific actions for the coming and subsequent year, and an indication of future actions and longer term projects that extend beyond that. 
+Both the annual monitoring report and the roll forward of the Action Plan will be published on the 
+climate change pages of richmondshire.gov.uk 
+11  Appendix 1: 
+Carbon Reduction Priority Projects 
+Reducing fossil fuel energy use from street lighting. 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP1 Part-night street lighting. Implement part-night lighting across remainder of RDC lamps, except where police/local community identify ‘not spots’ for motion sensor lighting. Mar-22 Open Spaces and Amenities Manager £45k allocation from the green initiatives budget. 
+CRP2 Energy efficient street lamps. Accelerate programme to replace all remaining street lamps with more energy efficient LEDs. Mar-22 Open Spaces and Amenities Manager £45k allocation from the green initiatives budget. 
+CRP3 Solar powered street lamp pilot. Identify and install one or more solar powered street lamps where suitable, practical and feasible, as part of programme to provide up to 30 new lamps in response to community requests. Mar-22 Open Spaces and Amenities Manager Within existing. 
+Reducing carbon emissions from the Council’s fleet 
+Reducing miles travelled. 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP4 Review frequency and bin size of residual bin collections In service review with recommended action, as part of ongoing wider review of waste collection service to reflect reduction in residual household waste expected as Government initiatives bite. Mar-23 Waste and Street Scene Manager Within existing. 
+12 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP5 Review green waste options for outlying areas. To consider options such as request only collection and community composting, where there are few or no green waste bins to collect. Mar-23 Waste and Street Scene Manager Within existing. 
+CRP6 Follow on project to CRP4. Decisions on frequency of residual waste collection and size of bins Beyond 2023 Waste and Street Scene Manager Depends on outcome of waste service review. 
+Transitioning the Council’s fleet to no or low carbon vehicles. 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+CRP7 Option appraisal for electric small vehicles and Depot charging points. Review to be supported by the Energy Savings Trust, and to include investigation of any cost saving sponsorship opportunities. Dec-21 Waste and Street Scene Manager/ Climate Change Officer Within existing. 
+CRP8 Purchase and operate at least one small electric vehicle. Procure electric vehicle(s) and procure and install appropriate EV charging infrastructure at Depot. Sep-22 Waste and Street Scene Manager Allocation already in capital programme. £15K from green initiatives for EV charging point at depot. 
+CRP9 Review the low or no carbon options for replacement residual waste collection vehicles. Review and report on options and costs to replace vehicles, having regard to outcome of current waste and recycling review and align with the procurement of heavy fleet, due to begin in 2022. Beyond 2023 Waste and Street Scene Manager Within existing. 
+13  Reducing fossil fuel energy use in Council owned sheltered housing 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP10 Survey and report on whole building energy efficiency, low carbon heating and renewable energy generation options for Council owned sheltered housing. Consultancy survey of Queens Court, Oak Tree Court, Quaker Close and St. Cuthbert’s Green, Thornborough Hall and Noel’s Court to report on and cost options and priorites for investment to reduce carbon emissions. Mar-22 Facilities Management Officer Could be £3,000 per scheme. Depends entirely on external funding, e.g. forthcoming social housing decarbonisation fund, if eligible. 
+CRP11 Pilot project: Generating solar energy from panels on roofs of sheltered housing. Site to be identified from the outcome of the CRP10 report. Beyond 2023 Supported Housing and Improvement Manager None. Depends on 100% external grant funding, due to limited HIP resources. 
+CRP12 Implementing low cost recommendations from CRP10. See left. Mar-23 Supported Housing and Improvement Manager Housing Investment Programme. Depends on 100% external grant funding, due to limited HIP resources. 
+CRP13 Larger scale follow on project from CRP12. Depends on the findings of CRP10 - may include installation of renewable energy technology and replacement of existing boilers with low carbon heating systems. Beyond Mar-23 Supported Housing and Improvement Manager Could be earlier if 100% external grant funding is secured. 
+Reducing fossil fuel energy use across the Council’s housing estate. 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+CRP14 Pilot project to install solar PV on Council bungalows. Solar PV and top up roof insulation for about 35 EPC C or lower rated Council bungalows. Dec-21 Supported Housing and Improvement Manager Up to £110k from 2020/21 HIP brings in up to £220k from the BEIS’s LAD2 delivery programme. 
+CRP15 George Nickling House - energy efficient and low carbon renovations and refurbishment Pivot existing project proposal to include exemplar energy efficiency/use of renewables. Mar-22 Housing Options and Environmental Health Manager Within Homelessness Grants awarded. 
+14 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP16 Energy efficient and motion activated lighting in the communal areas of the Council housing estate. Undertake a rolling programme to replace all lighting with LEDs/and or solar powered lighting, activated by motion sensors wherever appropriate. Multi-year rolling programme Supported Housing and Improvement Manager As other priorites for HIP permit. 
+CRP17 Retrofit all Council owned homes to EPC C or above. Ongoing and beyond Mar-23 Supported Housing and Improvement Manager Can be accelerated if 100% external funding can be sourced. 
+Reducing the fossil fuel energy use from Mercury House 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+CRP18 Whole site energy use, energy efficiency, low carbon heating and renewable energy optimisation study Consultancy study to survey, cost and make recommendations on energy use, renewable energy generation, low carbon heating and energy efficiency options. Apr-22 Facilities Management Officer £3,500 from green initiatives budget. 
+CRP19 Delivery of low cost ‘easy wins’ identified by CRP18. Energy efficiency and other measures as identified in findings of CRP18. Jun-22 Facilities Management Officer . 
+CRP20 Larger scale investment programme Depends on the findings of CRP18 to deliver priorities for carbon reduction. Beyond 2023 Facilities Management Officer Budget allocation to be considered as part of annual capital programme review and opportunities for external funding to be explored. 
+15 Reducing the fossil fuel energy use at other Council owned buildings and estate. 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP21 Richmond Swimming Pool Improvements Replacing existing fabric with thermally efficient windows, curtain walling and roofing and installing solar panels on the roof. Mar-23 Corporate Director (Operations) Part of the overall estimated £1.44 million cost is for energy efficiency and renewable energy generation works. Funded by early use of capital receipts and business rates growth funding, as per the reserves and capital plan update report. 
+CRP22 Energy efficiency improvements at Gallowfields Depot Replacement of existing roof, windows and wall cladding of the stores and main building with more thermally efficient materials. Mar-22 Facilities Management Officer £150,000 in capital programme - depot repairs and improvements project. 
+CRP23 Investigate potential for renewable energy generation on Council owned land. Work with partners on existing North Yorkshire and York Local Energy Asset Energy (LEA) Representation project and planned LEA Plan to establish areas and technologies for further investigation. Mar-22 Climate Change Officer £2,700 already committed to LEAR from green initiatives budget. Completion dependent on resources; a bid for funding for the LEAP has been made to the Community Renewal Fund. 
+CRP24 Review open space management, maintenance and machinery use across the Council’s estate. Review regimes and machinery use to identlfy low carbon alternatives, biodiversity/ rewilding and tree planting opportunities, and recommend costed actions for delivery 2022 onwards. Dec-21 Open Spaces and Amenities Manager £3,500 funding available for consultancy support and/or a phased review by area. 
+16 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+CRP25 Switch to a genuinely green energy supplier. Investigate options and procure energy from a supplier using only energy from renewable or low carbon rather than fossil fuel energy plants. Dec-21 (subj. any existing contract restrictions) Facilities Management Officer/ Climate Change Officer Any additional costs to be offset by savings on electricity consumption costs achieved as a by -
+product of actions elsewhere in this Plan. 
+CRP26 Council House Improvement Programme. Replace 54 back boilers with more energy efficient combi or heat ones. Replace 19 electric heating systems with new high heat retention electric heaters plus top up loft insualtion to 300mm. Install LED lighting as part of 52 planned bathroom upgrades. Old items recycled where possible. Mar-22 Supported Housing and Improvement Manager Existing HIP . 
+CRP27 Pilot project - low carbon heating for social rented housing. Pilot scheme with a housing association for a range of types and specifications of technology and types of homes. Beyond Mar -
+23 Supported Housing and Improvement Manager Earlier if 100% external funding secured, e.g. through a future Social Housing Decarbonisation Fund. 
+CRP28 Investigate replacing gas boilers with Air Source Heat Pumps (ASHPs). Investigate the suitability and additional costs of ASHPs for properties due to get gas boiler replacements. Dec-21 Supported Housing and Improvement Manager Share of £32,000 LAD2 development funding 
+17  Appendix 2: Influencing, supporting and acting in 
+the wider community 
+Travel and transport 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM1 Electric Vehicle Charging Points - Council car parks Installation and commissioning of 20 affordable electric vehicle charging points in Council car parks across the District, and an extension to scheme (into 22/23) to include Depot charging point. Mar-22 Corporate Director (Operations) £200,000 capital programme, £20,000 green initiatives budget. 
+COM2 Electric Taxi Incentive Scheme Design and deliver limited one-off incentive scheme to increase electric taxi numbers. Mar-22 Housing Options and Environmental Health Manager New allocation - £5000 from green initiatives budget. 
+COM3 Encouraging commercial/ retail premesis to install electric vehicle charging points Contact and provide grant/ advice signposting to 25 site owners/ operators. If Year 1 successful, roll out to further 25 in Year 2. Mar-22, Mar-23 Climate Change Officer Within existing. 
+COM4 Community Renewal Fund - local e-motion Investigate demand and options for personal e-transport schemes and hubs in Richmondshire and Scarborough. Business case ready report and findings by end March 2022. Provisional locations in Richmondshire are Leyburn and Hawes. Mar-22 Climate Change Officer. Led by RDC. Depends on successful CRF bid. RDC contributon from overall £2K towards CRF projects in green initiatives budget. 
+COM5 Catterick Local Walking and Cycling Infrastructure Plan Work with NYCC on walking and cycling infrastructure plan for Catterick Garrison/Richmond area - to underpin future funding bids. Mar-22 Planning Manager £3,500 allocated from climate change budget. Funding to contribute to project extension to Richmond. 
+18  Decarbonising the environment 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM6 Community Renewal Fund - Farm Carbon Toolkit project Supporting multi-agency Food & Farming Programme project. Builds on an existing pilot in YDNP . Project will work with 10 farms in Richmondshire. From Aug-21 Climate Change Officer. Led by Grow Yorkshire. Dependent on successful CRF bid. 
+COM7 Community tree planting Support RCAP to deliver tree planting projects in Parishes across the District. Mar-22 Climate Change Officer £2000 for 500 trees in Year 1 from climate change budget. Cost thereafter depends on scale of opportunities identified. 
+COM8 Tree planting at appropriate locations on Council owned land. Identify and survey suitable sites across the Council’s estate and plant native species trees on a rolling programme - XX no. trees/year. Mar-23 and annually thereafter Open Spaces and Amenities Manager Reserve project - to spend any underspend on projects identified in this plan and/or attract external funding. 
+COM9 Rewilding appropriate areas of open space across the District. Pilot areas at community request until project CRP27 has concluded, such as Middleham closed churchyard and land around and below Mercury House. Dec-21/ ongoing Open Spaces and Amenities Manager Likely cost neutral -additional costs of any wildflower planting offset by reduced management/ maintenance cost. 
+Supporting carbon reduction initiatives in the wider community 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+COM10 Low Carbon Community Award Scheme In partnership with the Richmondshire Climate Action Partnership. Mar-23 Climate Change Officer £500 climate change budget allocation, or within existing if sponsorship can be secured. 
+COM11 Convening a Climate Action Partnership Group. Group launched in March 2021. Completed Mar-21 Within existing. 
+19 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM12 Support the Richmondshire Climate Action Partnership Group. Provide limited officer support and initial seed funding for the group to establish itself, cover day to day administration costs and fund some early quick win activities. Ongoing until review in June 2022. Climate Change Officer/ Communications Officer £5,000 award from climate change budget by December 2021. 
+COM13 Area Partnership Community Project Grants 2021-22. Applications to include consideration of enviromental impact of project. Assessment will be weighted towards projects that are or include reducing net carbon emissions. Ongoing to 01/03/2022 Business and Communities Manager By particularly inviting applications for carbon reduction projects, more of the £50K available across the five Area Partnerships will be spent on this. 
+COM14 Community Renewal Fund - Decarbonising community buildings A share of 30 feasiblity assessments, 20 site surveys of community buildings and the creation of a joint business case to deliver schemes across Scarborough and Richmondshire. Mar-22 Climate Change Officer. Project to be led by LEP . Depends on successful CRF bid. RDC contributon from overall £2K towards CRF projects in green initiatives budget. 
+COM15 Community Renewal Fund Local Area Energy Plans. One of 3 Local Area Energy Plans for North Yorkshire will cover an aera which combines Richmondshire, Harrogate and Craven Districts. Will identify where new technology and infrastructure is needed to achieve a carbon negative energy system. Mar-22 Climate Change Officer. Project to be led by LEP . Depends on successful CRF bid. RDC contributon from overall £2K towards CRF projects in green initiatives budget. 
+Promoting behaviour change in the wider community 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+COM16 Climate Change business event @ Richmondshire Business Week Business week scheduled for November. Dec-21 Climate Change Officer/ Business and Communities Manager £500 to cover any event costs -climate change budget. 
+20 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM17 Green Business Awards Scheme Promotion of best practice in reducing business carbon emissions Dec-22 Climate Change Officer/ Business and Communities Manager £500 Climate change budget allocation or within existing if sponsorship can be attracted. 
+COM18 Carbon reduction communications campaigns Regular communications and social media releases to promote low carbon living, e.g. repairing bulky waste, reducing food waste, etc. to align with national campaigns where possible. From Oct -
+21 and ongoing thereafter Climate Change Officer/ Communications Officer Within existing. 
+COM19 Maintain and develop content on website Signposting, data, annual report on greenhouse gas emissions for the Council and the District, etc. Links from business pages to resources to help businesses decarbonise. July-21 and ongoing thereafter Climate Change Officer Within existing. 
+COM20 Promote low carbon living and sector specific advice through existing service communications. To include via Council tax bill, email footer, tenants newsletter, agents/developers newsletter, planning decision notices, premises inspection notices, business and communitiy newsletters. Ongoing and various Several/Climate Change Officer Working Group Within existing. 
+COM21 Providing cost saving low carbon actions and signposting as part of household budgeting advice Increased customer knowledge about household cost savings that can be achieved by changing to low carbon behaviours. Mar-22 Revenue, Benefits and Customer Services Manager Within existing. 
+COM22 Community Renewal Fund: Community Climate Action and Engagement - what works where? Four pilot community engagment projects across North Yorkshire. The one in Richmondshire will be a six week interactive carbon literacy course aimed at parent groups in a town location, such as Catterick with creche support. Mar-22 Climate Change Officer. Led by Yorkshire Dales Millennium Trust. Depends on securing CRF funding. Green initiatives budget - from £2000 CRF contribution. 
+21 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM23 Community Renewal Fund Circular Communities Testbed Piloting innovative circular economy approaches at a community scale to create thriving carbon negative places. Focuses on Wensleydale and Coverdale in Richmondshire. Mar-22 Climate Change Officer. Led by Community First Yorkshire for RDC area part. Depends on securing CRF funding. Green initiatives budget - from £2000 CRF contribution. 
+Decarbonising homes 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+COM24 Decarbonising energy inefficient private sector homes occupied by low income households. Continue existing energy efficiency and low carbon heating grant schemes for low income households with privately owned or rented low EPC rated homes - Ecoflex, North Yorkshire Heat Pumps, Warm Homes Fund Ongoing - different end dates for each scheme. Supported Housing and Improvement Manager/ Environmental Health and Housing Options Manager A further £70,000 funding from Service Improvement Reserve for Ecoflex top up agreed at Corporate Board 15th June. 
+COM25 Green Homes Grant LAD2 low carbon and energy efficiency scheme - private sector housing element Publicise and support project management of LAD2 delivery for up to 100% grant funded energy efficiency and low carbon heating improvements to low income/low EPC rated private homes. Dec-21 Housing Options and Environmental Health Manager About £110K available, as a share of LAD2 delivery funding. 
+COM26 Future housing retrofits data collection and awareness raising Data collection, surveys, reseach and advice about the energy efficiency and low carbon heating of existing housing stock. Dec-21 Housing Options and Environmental Health Manager/ Supported Housing and Improvement Manager £32K LAD2 development funding. 
+COM27 Exemplar low carbon/ zero carbon development Identify and agree candidate project and level of support to be offered to enable it, e.g. Shute Road, Council owned land site. Dec-21 Planning Manager/B&C Manager Possible LEP/ Homes England Funding to be explored following completion of feasibility. 
+22 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM28 Community Renewal Fund Hitting Hard Creating a plan to tackle hard-todecarbonise stone homes (Richmondshire part of project) Mar-22 Climate Change Officer. Project to be led by Scarborough Council. Depends on successful CRF bid. RDC contributon from overall £2K towards CRF projects in green initiatives budget. 
+Waste and recycling 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+COM29 Increase household recycling rates Investigate and report on options to increase recycling rates, including comingling, to achieve the York and North Yorkshire Waste Partnership recycling target of 50%, and to reduce residual waste and respond positively to the Government’s forthcoming Waste Strategy, including the consideration of the kerbside collection of food waste. From Apr-22 Waste and Street Scene Manager Within existing. 
+COM30 Public recycling bins Explore the wider introduction of litter bins with recyclable material compartments as part of a programme of upgrading litter bins throughout the district Apr-23 Waste and Street Scene Manager Within existing. 
+COM31 Review potential efficiency improvements around kerbsite recycling and ‘bring sites’ Investigate and report with recommendations on options to reduce duplication of ‘bring sites’ and kerbside recycling. Apr-23 Waste and Street Scene Manager Within existing. 
+23 Planning 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+COM32 Devising and implementing effective planning policies for the reduction of carbon emissions associted with new development Review draft Local Plan policies to identify policy changes needed to deliver best practice carbon reduction outcomes, especially low carbon heating and renewable energy generation. Includes consideration of need for a climate change SPD. Including higher minimum EPC rating and reducing the need for car ownership, and identifying areas for renewable energy generation. Sep-21 Climate Change Officer Within existing. 
+COM33 Developer contributions to carbon reduction projects. Needs to await Government policy update on developer contributions. To fund carbon reduction initiatives across the District Mar-23 Planning Manager Within existing. 
+COM34 Planning decisions review - carbon impact of built out permissions. To baseline carbon impact of a sample of new developments so as to subsequently measure effect of expected new local plan policies. Mar-23 Planning Manager Within existing. 
+Other 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+COM35 Proactively engage on a regular and ongoing basis with relevant MOD personnel to support decarbonising the Catterick Garrison area and other MOD sites. Through Catterick Garrison Improvement and Development Group. September 21 and ongoing thereafter. Corporate Director (Stat and Reg Services) Within existing. 
+24  Appendix 3: 
+Organisation and culture change projects 
+Accountability 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+OCC1 Political responsibility for tackling climate change. Ensure Climate Change Action features as a priority in the RDC Council Plan and an internal meetings structure is maintained for focussed polictial debate on Climate Change issues. Ongoing Senior Management Team Within existing. 
+OCC2 Establish Climate Change Officer Working Group. Director led, to progress climate change work and monitor progress. Completed Feb-21. Bi-monthly meetings. Corporate Director (Strategy & Regulatory) Within existing. 
+OCC3 Quarterly consideration by Senior Management Team. Director performance reporting and consideration. From Oct -
+21 and continuing. Corporate Director (Strategy & Regulatory) Within existing. 
+OCC4 Annual reporting of the Council’s greenhouse gas emissions. Collect energy and fuel use data and publish an annual report on the carbon emissions from all Council sites and operations. Jun-22 and annually thereafter Climate Change Officer Within existing. 
+OC5 Carbon Impact reported in all Council reports. Refresh ‘environment and sustainability’ impact section of Council reports, update staff guidance, publicise and monitor. Sep-21 Climate Change Officer/Senior Management Team Within existing. 
+OCC6 Reporting climate change considerations in all planning reports. Amend report template and draft guidance for Planning Officers to use. Dec-21 Climate Change Officer/ Planning Manager Within existing. 
+25 Capacity and knowledge building 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+OCC7 Recruit a climate change officer Create and fill new 2 year post. Completed Nov-20. Planning Manager £84K from climate change budget 
+OCC8 Carbon Literacy Training - key staff and Councllors. Completed Mar-21. Climate Change Officer Within existing. 
+OCC9 Climate change introductory training module - new & existing staff. York & North Yorks wide online training module with RDC specific content. Dec-21 HR Manager NY Directors of Devt. business rates pool + within existing. 
+OCC10 Planning Committee and Planning Officers ‘Climate Change & Planning’ Training. One 1.5 hr virtual training session each for commttee members and Planning Officers Dec-21 Climate Change Officer Within existing. 
+OCC11 ICT software training to ease transition to paperless. Proactively and reactively provide training modules and/ or advice via monthly staff newsletter and Members Bulletin, e.g. Teams/Zoom operation, ONEnote, iPad tips. Every quarter from Oct-21 ICT, Business Change and Business Support Manager Within existing. 
+OCC12 Monthly staff e-newsletter items. Items on climate change and carbon emissions reductions to take at work. From Apr -
+21 and ongoing. Climate Change Officer Within existing. 
+Embedding climate change considerations 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+OCC13 Greening the annual capital projects programme. Establish process and guidance to ensure carbon impact of potential capital projects is considered in annual budget setting. Oct-21 Climate Change Officer/ Finance and improvement Manager Within existing. 
+OCC14 Integrating low carbon considerations into all capital projects. Amend project management documentation to include low carbon impact, publicise and provide guidance/training on implementing changes. Sep-21 Climate Change Officer/ICT Business Change and Business Support Manager Within existing. 
+26 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+OCC15 As above but for all service reviews/C£sh projects. Develop and roll out guidance for use by managers and business Improvement team Mar-22 Climate Change Officer/ICT Business Change and Business Support Manager Within existing. 
+OCC16 As above but for all policy reviews. Develop and roll out checklist and guidance for all managers Mar-22 Climate Change Officer/ Managers Group Within existing. 
+OCC17 Integrating low carbon considerations into all service plans and individual annual performance review and objective setting. Review all service plans to assess current consideration. Prepare guidance/training to improve, so that all service plans include consideration of carbon impact and every individual has at least one carbon reduction objective/ action. Dec-21 Climate Change Officer/ Managers Group Within existing. 
+Increasing opportunities for progress to net zero carbon 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+OCC18 Applying for and managing more external funding. Allocating more staff time to project development, bid submission, project delivery and funding management, e.g. LAD2, Community Renewal Fund. None -ongoing Senior Management Team A contribution from LAD2 development funding for part time agency post in environmental health team until Dec-21 to support decarbonising housing. Extend the duration of the CC Officer Post. 
+27  Appendix 4: 
+Other business and operational change projects 
+Staff business travel 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+BOC1 Eliminating unnecessary site visits/home visits/business meetings using remote technology and other means. To build on step change achieved in response to Covid-19. e.g in housing management, planning (site notices), environmental health (data collection), business engagement and stakeholder/ partner meetings. Further opportunties in some services, e.g. supported housing. Ongoing. Climate Change Officer Working Group Within existing. 
+BOC2 Reducing the need for staff to attend remote offices and Mercury House for customer contact. Implemented 2020 with reintroduction on a ‘by appointment’ basis’. Monitoring of post Covid-19 customer demand. Dec-21 Revenues, Benefits and Customer Services Manager Within existing. 
+BOC3 Facilitating mobile working of repairs and maintenance team, and housing management staff. Improvements to enable remote completion of forms and inspection reports, and remote access to rent statements and other data. Step change in 2020. Further action ongoing. Landlord Services Manager Within existing. 
+BOC4 Co-ordinating site/home/ property visits across services. Investigate opportunities for corporate co -
+ordination of visits and sharing of data, e.g. collecting property data/planning enforcement/council tax, national land and property gazeteer. Mar-23 Climate Change Office Working Group Within existing. 
+BOC5 Electric Vehicles for Periodic and all Day Staff Business Use. Investigate and report on delivery options and costs of making electric vehicles available for staff work journeys - e.g. environmental health, planning, Council tax, etc. Mar-22 Climate Change Officer Within existing. 
+28 Staff commuting 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+BOC6 Staff home working. Agree and implement post Covid arrangements to embed home working and virtual staff training, as needs of services permit. Dec-21 Senior Management Team Within existing. 
+BOC7 Encourage or Incentivise car sharing. Where staff cannot work from home. Beyond Mar -
+23 None identified. Not known. 
+BOC8 Encourage or incentivise more cycling and walking to work. Improve bike storage, changing facilities, bike to work scheme Beyond Mar -
+23 None identified. Not known. 
+BOC9 Low carbon staff travel behaviour change. Identify and review any national/best practice examples for salary sacrifice schemes such as electric vehicles, e.g. like NHS’s, and understand likely uptake of a scheme for EVs and/or bikes and incentives to walk to work/disincentive to drive. Incentivising uptake of EVs,e.g. through mileage and/ or free charging. Report findings. Beyond Mar -
+23 HR Manager Not known. 
+Councillor travel 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+BOC10 Virtual Councillor meetings and training. In place and ongoing, within regulatory requirements, including hybrids - no commitment to do this. Completed and ongoing. Democratic Services Manager Within existing. 
+Fleet mileage 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+BOC11 Reduce missed bin collections. Implement service changes to reduce missed bins by 10% so as to reduce fuel emissions arising from a repeat visit. Mar-22 Waste and Street Scene Manager Within existing. 
+BOC12 Low carbon street cleaning. Trial replacement of part of vehicular street cleaning round in Richmond with manual barrow operation. Mar-22 Waste and Street Scene Manager Within existing. 
+29 Low Carbon Procurement 
+Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+BOC13 Add carbon emissions impact to assessment of all procurements. Develop and roll out appropriate working and weighting for different value procurements - pilot project in Year 1, process for larger procurements in place in Yr 2 and over £50k following that. Mar-22, Mar-23 and beyond Mar 23 Finance and Improvement Manager/ Climate Change Officer Effect may be to increase some costs of procurement. 
+BOC14 Supporting and encouraging supplier/ contractor commitments to carbon reduction. Amend procurement documents to ask about low carbon policy, prior to future action (beyond Mar -
+23) to require suppliers to demonstrate low carbon credentials. Mar-22 Finance and Improvement Manager/ Climate Change Officer As above. 
+Reducing paper use 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+BOC15 Introduce an ‘opt in’ system for dispatch of Council papers. Printing and posting only on demand by agenda item. To reduce paper use by 90%. Dec-21 Democratic Services Manager Within existing. 
+BOC16 Digitising Electoral Services. Use electronic means to send out a proportion of the annual electoral canvass forms digitally. Dec-21 Democratic Services Manager Within existing. 
+BOC17 Customer opt-ins for online ebilling, account management, invoices, statements and payment methods, job application and grant submissions. Embedding and extending the reach of a range of virtual service changes made in response to Covid-19, e.g. rent and council tax, business & community support grants, job applications. Ongoing Several Within existing. 
+30 Ref. Project Name Description Completion 
+Date Responsible Officer(s) Resources 
+BOC18 Opt-in for service communications via email. Initiate and step up efforts to encourage service users to opt in to receiving RDC communications via email. E.g. tenants newsletter, housing annual report, rent arrears letters, tenant queries, planning neighbour notifications, payees, business & community newsletters. Throughout plan period. Planning Manager, Landlord Services Manager, Finance Manager, Business and Communities Within existing. 
+BOC19 Service based process changes to reduce paper use. Service-led reviews, process changes and ICT investment to reduce paper use. e.g mobile and resident wardens, choice based lettings, environmental health, licencing, pest control, HR, finance, contract work orders, planning neighbour notifications. Throughout plan period. ICT, Business Change and Business Support Manager/ several Within existing. 
+BOC20 Energy Efficient Printing. Review on-site and outsourced printing options to identify and roll out most energy efficient and effective balance. Mar-22 ICT, Business Change and Business Support Manager Within existing. 
+Reducing water use in Council Housing 
+Ref. Project Name Description Completion Date Responsible Officer(s) Resources 
+BOC21 Water saving in Council housing. Install water saving devices in Council housing when repairs/ replacement fittings are needed. Mar-23 Supported Housing and Improvement Manager HIP . 
+31   This information is available in 
+alternative formats and languages 
+Richmondshire District Council 
+Mercury House, Station Road, Richmond DL10 4JX 
+01748 829100 
+enquiries@richmondshire.gov.uk 
+richmondshire.gov.uk 
+© Communications Unit RDC 2021 

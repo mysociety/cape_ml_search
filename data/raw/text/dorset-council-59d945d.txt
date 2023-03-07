@@ -1,0 +1,3010 @@
+Insert picture  
+DRAFT for consultation | 15 JULY 2020  
+Figure1  © Owen Vachell  
+CLIMATE & ECOLOGICAL 
+EMERGENCY STRATEGY  / i CONTENTS  
+ 
+ 
+ 
+ 
+ 
+ FOREWORD  1  BUILDINGS  29 
+GLOSSARY  3  FOOD & DRINK  33 
+INTRODUCTION  4  ECONOMY  37 
+OUR APPROACH  5  WASTE  41 
+THE CLIMATE EMERGENCY  11  WATER  45 
+THE ECOLOGICAL EMERGENCY  13  NATURAL ASSETS  49 
+ACTION AGAINST CLIMATE CHANGE  16  TRANSPORT  53 
+CARBON EMISSIONS & ACHIEIVNG 
+NET ZERO  18  MAKING IT HAPPEN  57 
+CARBON BUDGETS: PATHWAYS & 
+TRAJECTORIES  21  YOUR IDEAS  61 
+AREAS FOR ACTION  23  NEXT STEPS  65 
+RENEWABLE ENERGY  25  REFERENCES  67 
+     FOREWORD  
+Back in May 2019, one of the first actions of the newly formed Dorset 
+Council was to declare a Climate Emergency, acknowledging that the 
+Council needs to act on the causes and impacts of climate change. In 
+November 2019, this was updated to a Climate and Ecological Emer-
+gency so that the protection and enhancement of Dorset ’s natural en-
+vironment and wildlife biodiversity is also considered in our climate 
+emergency mitigation work.  
+To monitor and strategically guide this work, Dorset Council formed 
+the Climate Change and Ecological Emergency Executive Advisory 
+Panel. Made up of elected members from different political parties, the 
+Panel is responsible for gathering information and working with offic-
+ers to make recommendations to Dorset Council ’s Cabinet on actions 
+that will help mitigate against climate change. They have also met with 
+various organisations to hear their evidence and ideas on how Dorset 
+Council can help reduce the environmental impact of its own services, 
+as well as support Dorset communities to do the same.  
+Since the Climate Emergency declaration was made, Dorset Council 
+has recruited and employed full -time Corporate Sustainability Officers 
+to lead and coordinate our response. They have also distributed 
+somewhere in the region of £1.8m in Low Carbon Dorset Grants and 
+secured around £10.5m from the Transforming Cities fund to create 
+new active travel walking and cycling routes over the next 3 years. As 
+well as securing a certified ‘green ’ renewable energy tariff for electrici-
+ty supply from September 2020.  
+As I’ve stated before, while other councils around the country may 
+have chosen to set deadlines for carbon reduction and then work out  how they ’ll achieve them, I ’ve always wanted us to do the investigation 
+and information -gathering first before setting out our strategy.  
+This ensures that our action plan and timetable is both realistic and 
+achievable, as well as ambitious.  
+This strategy brings together a considerable amount of work, made 
+more challenging due to a lack of comparable data as a result of Local 
+Government Reorganisation and recommends areas for action that 
+will deliver a realistic and achievable approach to ensuring Dorset 
+Council is carbon -neutral by 2040, ahead of the UK government tar-
+get. Carbon reduction targets towards this are presented in the strate-
+gy as an approach to ongoing monitoring and annual evaluation of 
+progress to ensure the pathway to carbon neutrality stays on track 
+whilst also being adaptable to benefit from future funding opportunities 
+and technologies  
+This strategy was finalised during the COVID -19 lockdown era when 
+we have seen just what can be achieved when society pulls together 
+behind an emergency situation and what positive change can occur 
+when unilateral effort is focused on a shared outcome. The positive 
+impacts on climate and ecological change brought about by the lock-
+down period,   global CO 2 emissions dropped by approx. 17% to levels 
+not seen since 2006. In Dorset, the significant drop in road traffic 
+brought about an estimated 27% reduction in carbon emissions. This 
+shows us as a society what is possible in a short time when “business 
+as usual ” is adjusted. We must not lose some of these gains and rush 
+back to how things were before the pandemic.    
+/ 01  FOREWORD  
+The ambitions and actions set out in this strategy must be viewed 
+alongside the financial pressures that are facing not just Dorset Coun-
+cil but all Local Authorities, exacerbated at the current time by the ad-
+ditional pressures brought about by Dorset Council ’s response to the 
+COVID -19 pandemic. Whilst this strategy illustrates it will be possible 
+to tackle the low hanging fruit and combine carbon -reducing actions 
+with other priorities - placing climate change response at the front and 
+centre of our wider priorities - there will still be a need for imaginative 
+and innovative solutions working in partnership with central govern-
+ment and the private sector.  
+ 
+Councillor Ray Bryan  
+Cabinet Portfolio Holder  
+Highways, Travel and Environment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/ 02 GLOSSARY  
+ Business as usual 
+(BAU)  Future emissions trend if the current state of affairs 
+continue as they are today.  
+Carbon budget  The cumulative amount of carbon dioxide (CO 2) that 
+can be emitted over a period of time to keep within a 
+certain threshold  
+Carbon dioxide  
+equivalent (CO 2e) CO 2e, or carbon dioxide equivalent, is a standard 
+unit used to measure  carbon footprints. It presents 
+the impact of different  greenhouse gases  in terms of 
+the amount of  CO 2 that would create the same 
+amount of warming, thus allowing one figure to be 
+used. CO 2 is used as this is the most prevalent 
+greenhouse gas.  
+Carbon neutral  Having no net release of carbon dioxide into the at-
+mosphere.  
+Climate change  The long -term change of climate typically measured 
+over decades or longer. This is different to weather, 
+which is short -timescale variations.  
+Carbon Offsetting  Practices and technologies to neutralise remaining 
+emissions that cannot be stopped entirely at source.  
+Mitigation  Preventing climate change from getting worse by 
+reducing our carbon dioxide emissions.  
+EAP  Executive Advisory Panel  Greenhouse gas  
+(GHG)  The Earth can maintain a regular average temperature 
+(about 15°C), despite heat leaving the planet ’s surface. 
+This is because a layer of gases in the atmosphere ab-
+sorb and release heat – a process known as the green-
+house effect. Greenhouse gases are those that have 
+this effect, each with differing lifetimes and abilities to 
+capture heat (infrared radiation).  
+Resilience  The ability of a system and its component parts to an-
+ticipate, absorb, accommodate, or recover from the 
+effects of a hazardous event in a timely and efficient 
+manner - through ensuring the preservation, restora-
+tion, or improvement of its essential basic structures 
+and functions.  
+Carbon  
+sequestration  A natural or artificial process by which carbon dioxide 
+is removed from the atmosphere and held in solid or 
+liquid form.  
+Natural assets / 
+capital  The stocks of environmental resources that are vital for 
+the physical wellbeing of the population - such as clean 
+air and water, biodiversity, natural flood protection, and 
+healthy soils.  
+LEP Local Enterprise Partnership  
+AONB  Area of Outstanding Natural Beauty  
+LNP  Local Nature Partnership  
+CCC  Committee on Climate Change  
+/ 03 INTRODUCTION  
+Over recent years, scientific consensus has been building on the 
+causes and scale of climate change. It now recognises that there is a 
+rise in global temperatures caused by manmade sources of green-
+house gases. Recent reports note that we must act swiftly to cut emis-
+sions if we are to avoid the worst impacts of climate change, caused 
+by global temperatures rising above 1.5 degrees. In addition, public 
+concern about climate change and the future impact it may have on 
+our communities, and furthermore the ecosystems upon which we re-
+ly, is rising. There is an urgent need to take decisive action in the lim-
+ited time we have left to make a difference.  The average Dorset residents ’ carbon footprint is 4.6 tonnes of CO 2e 
+per year, some of the lowest in the region. However, this will need to 
+reduce to near zero by 2050, if not sooner. Therefore, we all need to 
+think about how we travel, use energy, and water, and how we create 
+waste and what we eat to achieve a carbon -neutral future.  
+The benefits of our actions will be great. We can stimulate Dorset ’s 
+local economy through growth in green jobs and buying local goods 
+and services. In addition, we can work towards significantly improving 
+our health and wellbeing as a result of more active travel, better diets, 
+cleaner air, a greater connection with the natural world, and healthier, 
+more affordable homes. This is as well as being more connected and 
+vibrant local communities.    
+We are not starting from scratch. All the former Councils, which now 
+form Dorset Council, had been working for many years to tackle cli-
+mate change, improve the resilience of communities, and protect and 
+enhance the biodiversity in Dorset in partnership with many organisa-
+tions and communities. However, we recognise that we need a huge 
+step-change in the scale.  
+This strategy builds upon this work and sets out some of the key chal-
+lenges and issues we face and some of the important areas where we 
+need to act. There is much we still do not know and changes in gov-
+ernment policy and technology over the coming years will greatly af-
+fect what we all do. Therefore, this document needs to be dynamic 
+and regularly reviewed. However, it is an initial road map that sets the 
+direction and urgency of travel. With this strategy, we will consult resi-
+dents, organisations, and partners, in order to further develop our 
+plans and initiatives to achieve a carbon neutral Dorset.  
+/ 04 “Right now, we are facing a man -made disaster of 
+global scale. Our greatest threat in thousands of 
+years … Climate Change ”  
+Sir David Attenborough  
+This is a national and global issue. However, Dorset will need to play 
+our part. In response, Dorset Council declared a Climate and Ecologi-
+cal Emergency and have committed to becoming a carbon -neutral 
+Council by 2040, and work with organisations and residents to help 
+Dorset become a carbon -neutral County by 2050.  
+This is a mammoth task and the scale of the challenge should not be 
+underestimated. It will require enormous investment to drive the fun-
+damental changes required. Dorset Council recognises it has a key 
+role to play in facilitating this change but, if we are to make this a reali-
+ty, organisations and individuals will all have to play their part and 
+work together to collaborate, share best practice, and take decisive 
+action.  The Strategy  
+This document sets out the framework for action to become a carbon -
+neutral Council and the direction of travel needed for a County -wide 
+approach. There will be many ways in which we can meet our goals 
+and many technological and policy developments along the way. We 
+will, therefore, need to remain flexible and review our strategy regular-
+ly to ensure we take account of the latest developments.  
+This document explores sev-
+eral topics where we know 
+action needs to be taken. 
+These include Transport, 
+Buildings, Waste, Water, 
+Natural Assets, Economy, 
+and Food and Drink. A sec-
+tion on each of these topics 
+sets out the key challenges 
+and some suggested priority 
+areas for action. From this 
+strategy, we will be able to 
+develop our own more de-
+tailed action plan and engage with partners, organisations, and indi-
+viduals to encourage wider action beyond Dorset Council. Each sec-
+tion is supported by a separate more detailed background paper, 
+providing some of the wider context and rationale.  
+We will monitor and report progress annually against both our action  
+ OUR APPROACH  
+plan and carbon budgets and those of the wider County to ensure 
+enough progress is being made or where greater focus is required to 
+keep us on track. The strategy itself will be reviewed, either if it be-
+comes clear that enough progress is not being made against the tar-
+gets, or when the actions are largely complete and new ones need to 
+be established.  
+/ 05 
+Figure 3  Figure 2  Take INDIRECT  action to facilitate 
+change by ensuring the range of ser-
+vices we provide across the County are 
+delivered in a way that supports our 
+journey towards a Carbon Neutral 
+County.  Indirect (through services)  
+/ 06 Take DIRECT  action to reduce our own 
+carbon footprint in order to become a 
+carbon -neutral Council by 2040, show-
+ing leadership as a large public sector 
+organisation.  Direct  Influence & Partnership  
+As a large organisation, we directly ac-
+count for at least 1% of Dorset ’s foot-
+print from our use of energy and water 
+in our buildings and assets, staff travel, 
+and the waste we produce.  Dorset Council is responsible for the 
+delivery of many key services, such as 
+planning, housing, economic develop-
+ment, waste and transport, etc.  Work in PARTNERSHIP  with other or-
+ganisations and communities to drive 
+change across the County and put in 
+place larger programmes and projects 
+to support fundamental change re-
+quired.  
+For example - Working with towns and 
+parishes, community engagement, be-
+haviour change, regional transport poli-
+cy. This is as well as working with key 
+partners and existing partnerships 
+(LNP, LEP, AONB, Coast Forum etc.), 
+therefore influencing key and sustaina-
+ble energy strategies.  OUR APPROACH  
+Dorset Council ’s role  
+We are committed to achieving a carbon -neutral Council by 2040 and must help facilitate the changes required to work towards the  whole of Dorset 
+becoming carbon -neutral by 2050.  
+However, we recognise that Dorset Council has only limited powers and responsibilities in many of the areas where action is r equired. Therefore, 
+Dorset organisations and individuals will all need to act collectively to achieve this wider ambition.  
+The Council has three key roles in facilitating the change required and the strategy document is framed into these three key areas... 
+Lobbying  
+Critically, much of what is required will need to be led by national gov-
+ernment through clear policy and support programmes (including fi-
+nancial incentives). At present, the Climate Change Act sets a clear 
+target for net zero by 2050. However, the Committee on Climate 
+Change has highlighted that many areas of government policy do not 
+yet align to achieve this, or set out a clear long -term approach, and in 
+some cases act as barriers to action. Therefore, the policy will need to 
+be aligned in several key areas to include housing standards, plan-
+ning, building control, transport, waste, and energy.  which leads to greenhouse gas emissions, is having an impact on the 
+natural world, effecting ecosystems around the globe. By addressing 
+one of these emergencies, we also address the other and we would 
+wish to strive for integrated solutions.  
+We must also recognise that climate change is already happening 
+and, even if we are successful in drastically curbing carbon emissions 
+in Dorset, nationally and across the world, climate change will contin-
+ue to impact on our lives. We therefore need to build resilience to cur-
+rent and future climate change as an integral part of our overall ap-
+proach. Throughout this strategy, we highlight many of these issues 
+and key areas of action that are required to adapt to climate change.  
+Our approach to achieving carbon neutrality must also be integrated 
+within wider sustainability goals. Many of the actions required to tackle 
+carbon emissions will have wider co -benefits, which will help to sup-
+port and strengthen Dorset ’s local economy and address social is-
+sues, such as fuel poverty. This is in addition to having wider benefits 
+for health and mental wellbeing, such as improving air quality, encour-
+aging active travel, and encouraging healthy diets.  
+/ 07 The Council has a key role in lobbying government for 
+clear policy and financial support required for the transi-
+tion to a zero -carbon future and to actively participate in 
+national forums and consultations on policy develop-
+ment.  
+An integrated approach  
+Both the climate and ecological emergency are intrinsically interlinked, 
+and both are crucial to our health and wellbeing. Changes in either will 
+have knock -on effects on our physical health, sense of wellbeing, and 
+safety. We rely on the natural systems for our very survival, such as  
+food and energy, clean air, and water. However, our use of fossil fuels,  “Only by addressing both ecosystems and climate 
+do we stand a chance of safeguarding a stable 
+planet for humanity ’s future on Earth. ”  
+ 
+Prof Johan Rockström  
+Potsdam Institute for Climate Impact Research in Germany  OUR APPROACH  
+OUR APPROACH  
+Health & Wellbeing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Climate change poses numerous risks to health and wellbeing. The 
+World Health Organisation estimates an increase of 250,000 excess 
+deaths per year between 2030 and 2050, due to the impacts of cli-
+mate change. These impacts include heat -related mortality, increases 
+in diseases, such as dengue fever and malaria, increased respiratory 
+illness, and mortality due to extreme weather events. Indirect health 
+impacts include illness relating to food and water safety, under -
+nutrition related to food insecurity, skin cancer, and chronic kidney 
+disease from dehydration.  
+The lesser -known and often overlooked effects of climate change in-
+clude the impacts on mental health. Mental health refers not just to 
+mental illness, but also includes states of emotional resilience and 
+feelings of wellbeing. There is increasing evidence that extreme 
+weather events, which are more frequent, intense, and complex under  a changing climate, can trigger mental health disorders. These disor-
+ders include post -traumatic stress disorder (PTSD), major depressive 
+disorder (MDD), anxiety, depression, survivor guilt, substance abuse, 
+and suicidal thoughts.  
+Incremental climate changes, such as rising temperatures, rising sea 
+levels, and increased drought can disrupt food and water resources, 
+weaken infrastructure, and give rise to financial and relationship 
+stress. This is as well as increased risks of violence, aggression, and 
+the displacement of entire communities.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paradoxically, these same disastrous implications may also inspire al-
+truism, compassion, and optimism. In addition, it may also foster a 
+sense of meaning and personal growth (otherwise referred to as post -
+traumatic growth), as people band together to salvage, rebuild, and 
+console amongst the chaos and loss of a changing climate.  
+/ 08 Impact of Climate Change on Physical, Mental, and Community Health  
+Medical & Physical Health  
+- Changes in fitness & activity level  
+- Heat-related illness  
+- Allergies  
+- Increased exposure to waterborne &  
+      vector - borne illness  
+Mental Health  
+- Stress, anxiety, depression, grief, sense  
+      of loss  
+- Strains on social relationships  
+- Substance abuse  
+- Post-traumatic stress disorder  
+Community Health  
+- Increased interpersonal aggression  
+- Increased violence & crime  
+- Increased social instability  
+- Decreased community cohesion  
+Figure 5  
+Figure 4  OUR APPROACH  
+Health and wellbeing benefits are some of the largest potential gains from tackling the climate and ecological emergency.  
+ 
+/ 09 Figure 6  OUR APPROACH  
+Good quality natural landscapes, which have a high ecological value, 
+have also been shown to reduce stress and sadness, lift poor mood, 
+and make us feel better, with the relationship being strongest for anxi-
+ety disorder and depression. People living in greener urban areas 
+have significantly higher life satisfaction scores than those that live in 
+less green areas. Exercising in green spaces is also associated with 
+higher levels of mental health and wellbeing compared to indoor phys-
+ical activity. Moreover, older people who engage in walking as a physi-
+cal activity are less likely to develop dementia. Therefore, there is un-
+doubtedly a positive relationship between improving biodiversity, qual-
+ity of greenspace, and accessibility for health and wellbeing. 
+/ 10 Figure 8  
+Figure 7  
+In terms of physical health, our use of our natural world, particularly 
+greenspace, is associated with lower rates of disease, reduced risk of 
+developing type 2 diabetes, and cardiovascular disease.  People who 
+frequently visit high quality green space are more likely to be physical-
+ly active and less likely to be overweight or obese. From the ancient 
+Japanese practice of shinrin -yoku (forest walking) to the Yorkshire in-
+dustrialist Titus Salt ’s factory placement, the health benefits of green 
+spaces have been known across the world for time immemorial.   Climate change is a large -scale, long -term shift in the planet's weather 
+patterns and average temperatures. It can happen naturally due to a 
+variety of factors, such as changes in the Earth's orbit around the sun, 
+the output of solar radiation, and geological activity. However, it is 
+now acknowledged that human sources of emissions are partly re-
+sponsible for the levels of greenhouse gases currently in the atmos-
+phere. These concentrations are “extremely likely ” to have been the 
+dominant cause of the observed warming since the mid -20th century.  
+We are already experiencing a 1°C rise in average global tempera-
+tures since pre -industrial levels. In 2015, countries around the world 
+signed the Paris Agreement with the aim of rapidly cutting greenhouse 
+gas emissions in order to keep global warming below 2°C, while pur-
+suing efforts to keep it below 1.5°C.  
+Every degree matters – Small changes in average global tempera-
+ture will have a very large effect. The Intergovernmental Panel on Cli-
+mate Change (IPCC) has since advised that, whilst a global warming 
+of 1.5°C would lead to catastrophic impacts to health, livelihoods, food 
+security, water supply, human security, and economic growth, these 
+would be even worse at 2°C.  THE CLIMATE  
+EMERGENCY  
+Within the UK, the government advisory panel on climate change, the 
+Committee on Climate Change (CCC), has highlighted that the 
+world ’s current emissions trajectory is likely to lead to a 4°C rise of 
+global temperatures and that deep and rapid action is required. A 4°C 
+rise would see significantly worse impacts and scientists are con-
+cerned that rising temperatures could lead to further releases of 
+greenhouse gas emissions from natural sources. This, in addition to a 
+reduction in polar ice caps may lead to ‘run away ’ climate change.  
+Time is short – We (the world) are emitting 55 billion tonnes of car-
+bon dioxide equivalent per year. Scientists estimate that if we emitted 
+no more than 580 billion tonnes, this would give us just a 50% chance 
+of keeping within 1.5°C (420 billion tonnes would give us a 66% 
+chance). Therefore, we have only 8 -10 years at the current rate, with-
+in which serious action is required to avert this crisis and avoid the 
+worst impacts.  
+/ 11 “If we don ’t take climate action, the collapse of 
+our civilisations and the extinction of much of 
+the world is on the horizon. ”  
+Sir David Attenborough  
+Figure 9  / 12 THE CLIMATE EMERGENCY  
+The impacts of climate change  
+Anthropogenic climate change is already happening. We are already 
+seeing impacts, such as warmer temperatures with more heatwaves 
+and less frost days, increased rainfall and flooding, and increased 
+wind and storm intensities. This is as well as rising sea levels and tem-
+peratures, changes in biodiversity, increased range of pests and dis-
+eases, and changing seasons.  
+The Met Office has modelled the possible future climate in the UK, 
+based on different patterns of emissions, between a scenario where 
+we achieve rapid emission reduction to a business -as-usual scenario 
+where we see continued increase in emissions. The scale of climate 
+change impacts will depend on how successful the world is at curbing 
+greenhouse gas emissions, but overall, the models predict -   important, due to their magnitude now and in the future.  
+AVERAGE TEMPERATURES WILL RISE by between 
+1-7 degrees – with increased intensity and frequency of heat 
+waves and hotter summers.  
+RAIN FALL PATTERNS W ILL CHANGE with warmer 
+wetter winters and hotter drier summers. When it rains in summer, 
+there will be more intense storms.  
+AVERAGE SEA LEVEL WI LL RISE by between 27 -
+115cm in the Southwest by 2100 (with more later), significantly 
+increasing risk to coastal communities and greater danger from 
+storm surge or high tides.   FLOODING & COASTAL C HANGE RISKS TO COM-
+MUNITIES, BUSINESSES , & INFRASTRUCTURE - 
+affecting property values, business revenues, and, in extreme 
+cases, the viability of communities.   
+RISKS TO HEALTH, WEL LBEING, AND PRODUC-
+TIVITY FROM HIGH TEMPERATURES – tripling prema-
+ture heat -related deaths by the 2050s within an aging popula-
+tion  
+RISK OF SHORTAGES IN THE PUBLIC WATER 
+SUPPLY, AND FOR AGRICULTURE, ENERGY GEN-
+ERATION, AND INDUSTRY – putting increasing pressure 
+and competition on industry, farming, and the public water sup-
+ply, and the ecological status of rivers, lakes, estuaries, and 
+groundwater.  
+RISKS TO NATURAL CAP ITAL, INCLUDING TER-
+RESTRIAL, COASTAL, MARINE, AND FRESHWA-
+TER ECOSYSTEMS, SOILS AND BIODIVERSITY – 
+Impacting the UK ’s native wildlife and availability of the vital 
+goods and services provided by natural capital, including food, 
+timber and fibre, clean water, carbon storage, and the cultural 
+benefits derived from landscapes.  
+RISKS TO DOMESTIC AN D INTERNATIONAL FOOD  
+PRODUCTION AND TRADE  – supply chains, leading to 
+volatile food prices, and increasing the need for effective stew-
+ardship of natural resources here and overseas to maintain the 
+resilience of the UK food system in the long -term. 
+NEW AND EMERGING PES TS AND DISEASES, AND  
+INVASIVE NON -NATIVE SPECIES, AFFECTING 
+PEOPLE, PLANTS, AND ANIMALS - having widespread 
+impacts on communities and economies, and are very expen-
+sive to manage once established.  1 
+The Committee on Climate Change identified the following six key are-
+as of inter -related climate change risks for the UK as the most  2 
+3 
+4 
+5 
+6 Summary  
+Humans are part of nature and rely on natural systems, processes, 
+and materials for existence. Most of nature ’s contributions to people 
+are not fully replaceable, and some are irreplaceable. Nature plays a 
+critical role in providing food and feed, energy, medicines, and genetic 
+resources, as well as a variety of materials fundamental for people ’s 
+physical wellbeing and for maintaining our culture.  
+The terminology of natural capital helps to describe our relationship 
+with nature, our part within a natural world, and their inseparability. 
+Natural assets are a way of describing the ‘hardware ’ of nature. From 
+these assets flow various ecosystem services that are essential to life 
+and wellbeing.   The ecological and climate emergencies are intertwined. Burning fos-
+silised carbon is placing stress on the regulatory services provided by 
+the ecosystem on the climate. Significant carbon dioxide released into 
+the atmosphere is caused by land use change, which is also a key 
+driver for ecological loss. Climate change is causing additional stress 
+for many organisms which cannot adapt or migrate due to fragmented 
+landscapes, which acts as a driver for further ecological loss.  
+We are entering a period of mass extinction, with a significant loss of 
+species and a reduction in species diversity. The extinction rate has 
+been rising steadily over the last few centuries (see Fig 11), which re-
+flects the expansion of human settlement and land use change since 
+the Industrial Revolution. There has been a sharp acceleration in the 
+degradation of nature since the 1970s.  This is in addition to a huge 
+loss in abundance. In the 
+UK, the total abundance 
+of widespread butterfly 
+species declined by 
+58% on farmed land be-
+tween 2000 and 2009, 
+despite a doubling in 
+conservation spending. 
+Clouds of certain butter-
+flies, widely reported in 
+living memory, are now 
+reduced to small num-
+bers.  
+/ 13 THE ECOLOGICAL  
+EMERGENCY  
+“Ever since we arrived on this planet as a spe-
+cies, we ’ve cut them down, dug them up, burnt 
+them, and poisoned them. Today we ’re doing 
+so on a greater scale than ever .”  
+Sir David Attenborough  
+Species loss (from Ceballos et al 2015)  
+Figure 10  Figure 11  / 14 THE ECOLOGICAL EMERGENCY  
+Dorset is a relatively wildlife -rich county, albeit in one of the most na-
+ture-depleted countries on earth.  Complacency is easy when sur-
+rounded by apparent natural beauty, but this belies the scale of loss 
+over the last 70 years. We have a responsibility to conserve that rela-
+tive richness and enhance it, not only for the fabric of the natural envi-
+ronment, but for the health of our future economy. Bournemouth Uni-
+versity studies have shown that of four future scenarios, ranging from 
+high investment in nature recovery to high agricultural intensification, 
+the highest economic returns are found by investing in nature.  
+Insert image  
+Insert image  
+Key causes  
+Land use change is the prime driver. A huge loss of undisturbed eco-
+systems or wildlands occurred in this country in the Neolithic and 
+Bronze Ages, as agricultural land use spreads to feed growing popula-
+tions. This process is still occurring across the world, most significant-
+ly in tropical rainforests.  Another significant loss of semi -natural habi-
+tats occurred in this country during the Second World War and the 
+decades which followed. For example, Dorset lost 71% of its chalk 
+grassland and rough grazing between 1946 and 2002, largely due to 
+agricultural intensification. As habitats are lost, key ecosystem ser-
+vices are compromised.  
+Ecosystems are also damaged by pollution from industry, agriculture, 
+transport, and households.  This ranges from the poorly understood 
+effects of microplastics, which are now present at every place on 
+Earth, to the toxicity of some agrochemicals.  
+Climate change, itself caused by a sort of pollution (excess atmos-
+pheric CO 2), is also a driver of species loss, as migration across a 
+landscape is hindered by fragmented ecological networks.  Figure 12  
+Figure 13  / 15 THE ECOLOGICAL EMERGENCY  
+The impacts of ecological decline  
+Biodiversity loss and ecosystem degradation causes impacts to the 
+UK’s native wildlife and availability of the vital goods and services pro-
+vided by natural capital, including food, timber, and fibre, as well as 
+clean water, carbon storage, and the cultural benefits derived from 
+landscapes.  Such losses exacerbate and amplify other observed 
+risks, as regulatory and provisioning services become less effective. 
+For instance:  
+NOVEL PESTS & DISEASES  Four major UK crops are reliant on insect pollination (oil 
+seed rape, field beans, apples, and strawberries). The first 
+three are important in Dorset. On a national scale, wild polli-
+nator contribution to these crops is valued at £690M/yr. 
+This value and the food crops that it represents are at 
+threat from rapidly falling insect populations  
+Urban, arable, and even pastureland cover commonly al-
+lows less rainfall to percolate into the soil, from where it 
+would travel very slowly into streams, rivers, and the sea. 
+This factor, combined with modified and canalised water-
+courses, causes water from intense rainfall events to end 
+up in low -lying areas at speed, exacerbating flooding  
+Rising base temperatures and the global movement of peo-
+ple, animals, and commodities are increasing the likelihood 
+of novel pests and diseases appearing.  Depleted local nat-
+ural systems are less resilient and can suffer disproportion-
+ately. As an example, ash trees in diverse landscapes ap-
+pear more resistant to ash dieback  FLOODING  REDUCTION IN POLLINATING INSECTS  
+REDUCTION IN PEOPLE ’S EMOTIONAL 
+CONNECTION TO NATURE  
+Nature depletion is also making it harder for people to con-
+nect with nature. Forming an emotional connection with na-
+ture and retaining memories of the enjoyment of nature are 
+important factors in maintaining mental health. It is also an 
+important determinant in forming pro -environmental behav-
+iour, essential for the wellbeing of future generations.  
+Figure 14  ACTION AGAINST  
+CLIMATE CHANGE  
+International Action  
+As climate change is a global issue, international action is needed. In 
+1992, the United Nations Framework Convention on Climate Change 
+was signed by 189 countries at the Earth Summit in Rio. However, it 
+failed to set binding targets and has therefore had limited effect.  
+As a result of the Kyoto Protocol, developed in 1997, 37 countries re-
+duced global emissions by over 10% (the UK achieved a 12% reduc-
+tion). However, this was not enough to offset the increasing emissions 
+from other industrialising countries, which meant global emissions 
+grew over the same period.   
+In 2015, every country in the world signed the Paris Agreement, the 
+first truly global effort to reduce carbon emissions, which aims to rap-
+idly cut greenhouse gas emissions, particularly carbon dioxide, to 
+keep global warming below 2oC.  
+In 2018, the Intergovernmental Panel on Climate Change published a 
+report which suggested that we could limit global warming to 1.5°C, 
+and that the previous target of 2°C would have catastrophic impacts 
+to health, livelihoods, food security, water supply, human security, and 
+economic growth. It warned that the world could potentially hit the 
+1.5°C warming by 2030 if emissions carry on as they are (though this 
+date could be as late as 2052) and that serious, large -scale action is 
+urgently needed in the short term if we are to have any chance of 
+avoiding a 1.5°C rise.  
+ 
+ How is the UK tackling climate change?  
+The UK was the first country to set legally binding carbon -reduction 
+targets in the 2008 Climate Change Act, to cut greenhouse gas emis-
+sions by at least 80% by 2050 (from 1990 levels) and agree interim 
+five-year ‘carbon budgets ’ that take the country progressively towards 
+that 80% target.  
+/ 16 Insert image  
+Figure 15  
+In May 2019, the Committee on Climate Change produced a report 
+called Net Zero, recommending a new target for the UK to be net zero 
+greenhouse gases by 2050, which could be achieved with known 
+technologies and behavioural changes within the same budget allowed 
+for the previous target. In June 2019, the updated target was legislat-
+ed by the UK Government.  ACTION AGAINST CLIMATE CHANGE  
+Reaching net zero emissions requires an annual reduction of emis-
+sions that is 50% higher than under the UK ’s previous 2050 target 
+and 30% higher than achieved on average since 1990. This is an indi-
+cation of how substantial the step up in action must be to cut emis-
+sions in every sector.  
+Such a step -change is only possible if clear, stable, and well -designed 
+policies are introduced without delay. Currently, the policy framework 
+is incomplete and contradictory. For example, the government says it 
+wants people to cycle. However, councils can ’t afford to fill potholes. 
+Meanwhile, trunk roads are getting a £30bn upgrade. Emissions from 
+air travel are a significant contributor to GHG emissions. However, the 
+government is expanding capacity at airports.   
+Similarly, there is a need to increase renewable energy generation, 
+but policy virtually bans all new onshore wind farms which supply the 
+UK’s most cost -effective clean energy. Furthermore, incentives to in-
+stall renewable technologies have been removed or greatly reduced 
+and disincentives, such as increased Business Rates for companies 
+installing solar PV, have been added.  
+The Committee on Climate Change predict that the UK is on course to 
+miss the next two carbon budgets due to a lack of clear policies 
+(especially regarding heat), and regularly criticise the lack of action by 
+the UK government.  
+/ 17 Insert image  
+ 
+ 
+Figure 16  CARBON EMISSIONS & 
+ACHIEVING NET -ZERO  
+UK Carbon Emissions  
+In 2017, UK emissions were estimated to be 460.2 million tonnes of 
+carbon dioxide equivalent (MtCO 2e) , a decrease of 2.7% compared 
+to 2016. This decrease was mainly caused by:  
+/ 18 A reduction in emissions from the energy sector of 
+7.6%, due to a switch in fuel mix for electricity gen-
+eration from coal and gas to renewables.  
+A decrease of 4.2% in the residential sector, driven 
+by a reduction in the use of natural gas for heating, 
+due to warmer weather in the first half of 2017.  
+When broken down by end user, transport accounts for 31% of all 
+emissions, with Business accounting for 27% and Residential for 22%. 
+Agriculture, Waste Management, Exports and Other make up the re-
+mainder.  
+County Wide Carbon Emissions  
+Emissions in Dorset follow a similar pattern to those of the UK, drop-
+ping from 2,500 ktCO 2e in 2005 to 1,725 ktCO 2e by 2017 (the most 
+recent national data).  
+By sector, the emissions profile is like the national picture but with a 
+smaller proportion of emissions from industry. Notably, emissions from 
+heating are down 26% and electricity down 56%, which reduces the 
+overall contribution from the industry and domestic sectors. These 
+emissions have particularly fallen due to a major rise in renewable en-
+ergy capacity in the UK over recent years and reduced use of coal, 
+both contributing to a decarbonisation of the national grid.  
+In contrast, emissions from transport have only marginally decreased. 
+Despite large gains in vehicle efficiency and clean technology, these 
+gains have been offset by the increase in road traffic.  
+Emissions from agriculture in Dorset have also remained steady but 
+the carbon sequestration effect of land use changes has grown effec-
+tively, balancing out these agricultural emissions. However, it is 
+strongly suspected that this national data set is incomplete and that 
+emissions from the agricultural sector are largely under -represented. 
+Other areas in the South West have undertaken more detailed studies 
+and discovered agriculture can account for over 10% of emissions of 
+the area. Further work is required to estimate this for Dorset.  Figure 17  CARBON EMISSIONS & ACHIEVING NET ZERO  
+Dorset Council Emissions  
+As a new unitary Council (only in existence since April 2019), no his-
+toric data is available to directly compare progress. However, each of 
+the former local authorities now forming Dorset Council had carbon 
+management programmes, which had recorded savings in the region 
+of 10 -15% since 2009. Major carbon reductions had been made in 
+the areas of streetlighting, staff business travel, and fleet vehicle full 
+use.  
+Scope of baseline data  
+The baseline for measuring future progress will be financial year April 
+2019 – March 2020.  
+Dorset Council is one of the largest organisations in Dorset responsi-
+ble for a wide range of services across the County and approximately 
+1% of Dorset ’s carbon footprint. We own over 1,200 built assets, from 
+office buildings, car parks and hotels. This is as well as running a fleet 
+of over 400 vehicles, from cars to heavy goods vehicles, and manage 
+40,000 streetlights and 4,000 signs. Many of our 9,000 staff would 
+normally commute to and from work and use their cars for business, 
+typically travelling over 5 million business miles a year. In addition, we 
+work with partners and contractors to deliver key services, such as 
+education and adult and social care.    
+All these activities create greenhouse gas emissions from our use of 
+energy to power and heat our buildings, as well as fuel used in fleet 
+vehicles. This is in addition to our use of water, the disposal of our 
+waste, the electricity to power streetlights and our staff's emissions 
+outside of work.  
+/ 19 Transport  
+39%  (765 KtCO 2e) 
+ 
+down 5%  
+since 2005  Business  
+22%  (433 KtCO 2e) 
+ 
+down 40%  
+since 2005  Residential  
+29%  (568 KtCO 2e) 
+ 
+down 35%  
+since 2005  Agriculture  
+4% (84kt)  
+Land use  
+-4% (105kt)  
+Waste  
+(unknown)  Proportion of net greenhouse gas emissions in each end user ( source BIES21)  
+Each person in Dorset has an average carbon footprint of 4.6 tCO 2  . 
+This is less than comparator councils and the UK average of 5.3 
+tCO 2  / person.  Figure 18  
+Figure 19  CARBON EMISSIONS & ACHIEVING NET ZERO  
+/ 20 
+We have included in our carbon footprint all the carbon emissions that 
+we have influence over. This includes:  
+DIRECT CONTROL - emissions from our own op-
+erational buildings, business travel, fleet vehicles, 
+and Dorset streetlights and road signs.  
+ 
+INDIRECT INFLUENCE - emissions from the deliv-
+ery of services, such as Adult Care buildings oper-
+ated by Tricuro, Local Authority Schools, Leisure 
+centres, and contracted out services, such as 
+school transport and staff commuting.  
+ Dorset Council baseline emissions profile, initial breakdown 2019 -2020  
+Figure 20  As a new authority we don ’t yet have enough data to give an accu-
+rate figure. But we can say that the footprint for 2019/20 was at least 
+33,704 tCO 2e/yr. More data is needed on the Council ’s fleet fuel con-
+sumption and commuting figures to give a more complete represen-
+tation.  
+In 2016 the County Council ’s footprint was recorded as 45,727 
+tCO 2e/yr.  But a direct comparison between this figure and today ’s 
+footprint will not be very useful as what we are counting has changed 
+- emissions from academies are no longer included, but school 
+transport and highway maintenance are.   
+In all likelihood, our footprint will have dropped from the 2016 figure. 
+Mainly because of the exclusion of academies and the reduction in 
+the carbon intensity of the electricity grid. These factors are likely to 
+have outweighed the additional emissions from an increase in Council 
+staff and buildings during this period. We will have a clearer picture 
+once more data has been gathered and sufficiently analysed.  Dorset Council ’s TOTAL Carbon footprint for 2019 -2020 is 
+estimated at 40,000 to 45,000 tCO 2e.  CARBON BUDGETS  
+PATHWAYS & TRAJECTORIES  
+Global & National Carbon Budget  
+The International 
+Panel of Climate 
+Change (IPCC) has 
+noted that we would 
+have only a 66% 
+chance of keeping 
+global warming under 
+1.5°C, if the world 
+kept to a global car-
+bon budget of about 420 giga (i.e. billion) tonnes of greenhouse gases 
+(tCO 2e).  
+The world is currently emitting at around 55 billion tCO 2e per year, 
+which means that this budget of 420 billion tonnes would be used up 
+in under eight years if nothing changes.  
+In 2008, the UK was the first country in the world to adopt legally bind-
+ing emissions reduction targets of 80% by 2050 (compared to 1990 
+levels) and led to a series of five carbon budgets to 2032.  
+The target was upgraded to be net zero emissions by 2050, with a 
+100% reduction instead of 80%. In September 2020, the Committee 
+on Climate Change will be advising on the 6th Carbon Budget (2033 -
+37), which will be the first Carbon Budget set in line with this new net 
+zero target. However, the Committee on Climate Change have 
+warned that the UK is not on track to meet the fourth (2023 -27) or fifth 
+(2028 -32) carbon budgets.   Global & National Carbon Budget  
+Based on the global carbon budget and scaling this by the population 
+of Dorset gives us a budget of 21,000,000 tCO 2e. In 2017, Dorset 
+emitted a total of 1,745,000 tCO 2e. Therefore, if Dorset continued to 
+emit at the 2017 rate, we will have used our carbon budget up by 
+2030.   
+There are various pathways that could be followed.  
+Emissions have been reducing in recent years and are likely to have 
+reduced in 2018, 2019, and 2020.  
+Given our historic per-
+formance, it does not 
+appear overly chal-
+lenging to follow the 
+orange 1.5°C per -
+capita budget line 
+(figure 21) to achieve 
+a Carbon Neutral Dor-
+set by 2050.  
+However, the chal-
+lenge is more obvious 
+when the current best -guess projection for the UK's emissions is 
+scaled to Dorset and added (yellow line). This accounts for the UK 
+having already picked low hanging fruit, such as reducing coal burn-
+ing, investing in cheap efficiency measures, and adding renewable 
+energy generation. Importantly, if Dorset continues to follow the UK's 
+projected path, our emissions will have to follow the green trajectory in  
+/ 21 
+Figure 21  CARBON BUDGETS  
+PATHWAYS & TRAJECTORIES  
+Climate Change Act and remaining within its per -capita budget for a 
+1.5°C temperature rise suggests a minimum path Dorset Council 
+could follow (shown by the blue line). We have chosen to set an earlier 
+target by achieving a carbon neutral Council by 2040, this is shown by 
+the black line. This will be our target trajectory against which we will 
+monitor progress.    
+/ 22 order to stay within our per -capita portion of the 1.5°C budget.  
+A considerable effort is going to be needed to stay on the orange 1.5°
+C per -capital budget pathway. This is going to require enormous 
+changes to heat and transport, as well as accelerated changes to 
+electricity generation. The county wide interim carbon budgets for this 
+trajectory would need to be:  
+BY 2025 – (1,396,000 tCO 2e) - 20% reduction  
+BY 2030 – (872, 500 tCO 2e) - 50% reduction  
+BY 2040 – (349,000 tCO 2e) - 80% reduction  
+BY 2050 – (Zero tCO 2e) - 100% reduction  
+Dorset Council ’s Carbon  Budget  
+Dorset Council only has control over the carbon emissions 
+produced from its operations and this will be a key focus of 
+our initial programme.  
+To achieve this Dorset Council will need to meet interim Carbon budg-
+ets of:  We have no historic data for Dorset Council. However, by using the 
+historic emissions of the Councils which combined to form Dorset 
+Council, our best guess is in the region of 40,000 to 45,000 tonnes 
+per year in the early part of the decade. Applying the UK predictions 
+of future emissions (discussed above) to these figures, we can esti-
+mate the future ‘Business as Usual ’ trajectory (yellow in figure 22), is 
+the line we are most likely to follow if action remains at current lev-
+els. If we follow this trajectory the green line shows we will have used 
+up our carbon budget by about 2030!  
+Scaling the emission pathway from the UK's 2050 target from the  
+ 2025  40% reduction  
+2030  71% reduction  
+2035  90% reduction  
+2040  100% Carbon neutral  
+It should be noted that each of these Dorset Council emission path-
+ways starts with estimated data. Once the full 2019/20 baseline has 
+been determined more accurately, Dorset Council will be able to pub-
+lish annual budget figures for each pathway, against which progress 
+can be monitored.  
+Figure 22  AREAS FOR ACTION  
+The member -led EAP required thorough investigation and information -
+gathering to ensure that the strategy produced by Dorset Council was 
+factual and realistic. The primary actions were:  
+ 
+Collate and analyse information from preceding Councils to es-
+tablish baseline data on Dorset Council and the wider Dorset 
+Area regarding carbon emissions to establish an accurate as 
+possible carbon footprint and identify areas for action  
+ 
+Establishing an accurate baseline figure of current emissions of GHG 
+and mitigation measures has been uniquely challenging for Dorset 
+Council as a result of 2019 Local Government Re -Organisation. The 6 
+proceeding Councils recorded and retained information relating to 
+carbon emissions and sustainability management in a variety of differ-
+ent ways to varying degrees of accuracy leading to considerable diffi-
+culties in forming an accurate current picture.  
+ 
+Engage with partners, individual teams and the community to 
+explore key issues, opportunities, identify progress and collate 
+examples of national best practice.  
+ 
+• A Dorset Council staff workshop was held in October 2019 to 
+facilitate discussion of key issues, identify what was already un-
+derway and gather suggestions and ideas for further action    
+ • Two Inquiry Days were held in February & March (2020) to ena-
+ble organisations, community groups, individuals, school chil-
+dren and Dorset Youth Parliament to present their ideas to the 
+Dorset Council Executive advisory Panel.  
+• Engagement with consultants, developers and energy suppliers 
+to explore opportunities for renewable energy in Dorset  
+• Input into major projects with aim of securing low -carbon design 
+and develop policy (e.g Weymouth peninsula & building better 
+lives programme)  
+• Engaged with Town and Parish Councils through a workshop in 
+November 2019  and provided some guidance and ongoing sup-
+port through Low Carbon Dorset programme  
+• Sought views from young people through direct representation 
+to the Executive Advisory Panel in December 2019.  
+• Sought views from Dorset residents, via an online ‘Call for 
+Ideas ’ (December 19 to February 20) leading to nearly 800 re-
+sponses  
+ 
+A summary of the ideas generated through engagement with local 
+schools and communities through the ‘call for ideas ’ process is de-
+tailed in the Your Ideas  section at the end of this strategy.  
+ 
+/ 23 AREAS FOR ACTION  
+As a result of this evidence gathering eight key themes were identified 
+and internal Task and Finish groups established to bring together tech-
+nical experts and wider stakeholders.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The theme -based Task and Finish groups were able to explore in more 
+detail the national approach, scientific guidance, the relevance to Dorset 
+Council and the Dorset area, and guide the creation of background tech-
+nical papers to set out the information gathered and identify and contex-
+tualise areas for action.  
+Each technical paper briefly sets out not only the context but also the key 
+issues and opportunities for action in each of the eight areas. Identifying 
+objectives and areas where Dorset Council will seek to take action or 
+work with wider partners.  
+Summary versions of these papers are detailed in the following sections, 
+each with a link to the background technical paper. In addition to setting 
+the background, they identify a number of actions which Dorset Council 
+intends to progress and will form the basis for development of more de-
+tailed actions plans (see Next Steps  section later in the document)...  
+/ 24 Insert image  
+Figure 23  
+Figure 24  RENEWABLE ENERGY  
+Scale of the challenge...  
+To address the climate emergency all energy currently provided by 
+fossil fuels for heating, transport and electricity will need to come from 
+a low -carbon source. This will need to be through electricity or hydro-
+gen generated from renewable energy (solar, wind, hydro, biomass) 
+or nuclear.   
+This will mean switching all heating to low -carbon alternatives such as 
+biomass, heat pumps or hydrogen, and switching all transport to elec-
+tric batteries or hydrogen. It will then require an enormous increase in 
+renewable electricity generation and low -carbon hydrogen generation 
+to meet the demand.  
+It will also be essential that we can store energy locally and manage 
+our energy in a smarter way in order to meet peak energy demand 
+and make the most of the renewable energy we produce.  
+Given the uncertainty about heating and hydrogen in national policy; it 
+is difficult to estimate how much renewable energy will be needed to 
+meet the challenge in Dorset. Under the greenest scenario energy de-
+mand in the Dorset Council area will be around 4 billion kWh/yr .  So, 
+for Dorset to play its fair share and generate 100% of its own energy 
+demand we will need around 4GW of solar (around 19,000 acres) or 
+2GW of wind (around 700 big turbines), or a combination of the two. 
+Bournemouth, Christchurch and Poole Council will need as much 
+again, if not more, and is unlikely to be able to fit it within its own 
+boundaries.  
+For Dorset Council alone it is estimated that we will need 60MW of  Dorset ’s progress so far … 
+• Significant increase in installed renewable energy capacity in 
+Dorset between 2010 to 2016 to 480 MW  (around 10% of all 
+Dorset Council area ’s energy demand)  
+• 1MW of renewable energy capacity installed on Dorset Coun-
+cil’s estate and schools  
+• The Dorset -Council -run ERDF -funded Low Carbon Dorset pro-
+gramme is currently encouraging (through advice and grants) 
+the installation of 4 MW of renew  able energy capacity across 
+the Dorset Council and BCP areas  
+• Bridport is currently hosting a volunteer -run pilot project, the 
+first in England, to allow local trading of renewable energy  
+Hear more about the challenge 
+we are facing in Dorset from 
+Low Carbon Dorset ’s  
+Renewable Energy  
+Technical Officer...  
+/ 25 solar PV (or 30MW of wind) to cover our own energy demand once 
+efficiency measures have been taken.  To ensure this demand is kept 
+to a minimum improving the efficiency of our buildings will be critical.   RENEWABLE ENERGY  
+Key Issues...  
+Uncertainty at national level around key strategic decision 
+& direction  
+Nationally  In Dorset  
+Electricity grid limited in its ability to support deployment of 
+renewable energy at scale needed  
+Technology is still developing in some areas  (like EV in-
+frastructure) to enable mass deployment  
+Current policy framework does not support the journey to 
+a low carbon future  
+Delivery at scale is required, every opportunity to utilise 
+renewable energy to meet current demand needs to be taken 
+& large -scale deployment projects need to be developed  
+Dorset Council ’s renewable energy capacity needs to 
+increase by a factor of 60 to meet demands  
+Dorset county ’s renewable energy capacity needs to 
+increase by a factor of at least 8 to meet its own demands  Existing planning system does not actively encourage re-
+newable energy installations  
+Deployment of onshore renewable energy stagnated 
+since 2016 due to planning restrictions imposed & removal of 
+all subsidies   
+Lack of financial incentives in place to encourage invest-
+ment in renewable energy  Decision makers within many organisations are not al-
+ways aware of renewable energy opportunities  
+Cases where small -scale renewable energy can offer 
+good returns  need to be identified & promoted to local busi-
+nesses  Financial benefits to transitioning Dorset Council ’s entire 
+estate and operations to zero carbon  
+Key Opportunities...  
+Increased energy security  possible through local low -carbon 
+generation  
+Income stream  from generating our own renewable energy  
+Potential to attract investment into Dorset ’s sustainable in-
+frastructure  
+Potential reduction in energy costs for local businesses & 
+communities  
+Dorset Council ’s county farms could be exemplar test 
+sites for renewable energy generation  
+Biomass identified as a significant opportunity for Dorset 
+in Bournemouth Dorset & Poole Renewable Energy Strategy 
+2012  
+Opportunity for DC to show leadership and set an example  
+Largely untapped resource of solar, onshore wind, offshore 
+wind and tidal in Dorset  
+/ 26 Figure 25  RENEWABLE ENERGY  
+Areas for Action...  
+Dorset Council cannot itself deploy the GigaWatts of renewable energy required at a Dorset -area level, and does not have control  of national plan-
+ning policy or the economics of renewable energy.  But there are many things that the Council can do to facilitate the transi tion from the current state 
+to a situation where Dorset supplies its own energy demands with renewable energy.   
+Direct  Indirect (through services)  Influence & Partnership  
+Maximise renewable energy oppor-
+tunities of all DC buildings; convert 
+all off -grid buildings to heat pumps 
+or biomass, convert heating of all on
+-grid buildings to hydrogen -ready 
+hybrid heat pumps, install max ca-
+pacity solar arrays on every building  
+Construct large renewable energy 
+installation (around 60 MW of solar 
+PV or 30 MW of wind turbines) on 
+Council owned land to meet Coun-
+cil’s demand  As Local Planning Authority – ac-
+tively encourage renewable energy 
+deployment  
+Work with renewable energy devel-
+opers in Dorset to secure new re-
+newable energy generation to meet 
+(and exceed) needs of the Council  Commission study to identify oppor-
+tunities for renewable energy in 
+County Farms and Council carparks  Undertake detailed resource map-
+ping to confirm Dorset has the tech-
+nical resources to be self -sufficient. 
+Potential sites can then be identified 
+in the Local Plan  
+Establish a positive planning policy 
+framework and toolkit for maximis-
+ing the use of renewable energy 
+within new developments  Lobby central government over the 
+major hurdles to renewable energy 
+deployment, the Navitus Bay deci-
+sion, investment needed on grid infra-
+structure, and future of heat  
+Work in partnership with BCP to plan 
+a zero -carbon energy system for Dor-
+set 
+Dedicated resources to promote re-
+newable heat in cases where it is fi-
+nancially viable  
+Extend Low Carbon Dorset pro-
+gramme  
+Dedicated resources to assisting with 
+the expansion and awareness build-
+ing of the Energy Local project in Dor-
+set 
+A review of whether Council run fuel -
+poverty schemes could install low -
+carbon heating systems over gas 
+boilers  
+/ 27 Read full discussion paper on Renewable Energy   
+View detailed action plan  RENEWABLE ENERGY  
+/ 28 Stewarts  is a family run business in Dorset with three garden 
+centres, a nursery and a landscaping division.  
+With support from Dor-
+set Council ’s Low Car-
+bon Dorset programme, 
+in 2019 -20 Stewarts 
+spent over £800k on low
+-carbon initiatives to 
+drastically reduce their 
+carbon footprint. Part of 
+this project to become 
+more environmentally 
+and financially sustainable included installing 179kWp of solar 
+PV on the rooftops of their two Dorset garden centres.  And 
+investing in a ground -source heat pump in their new 8,000 sq 
+m glasshouse.  
+These installations, combined with energy efficiency 
+measures, reduced their footprint by 449 tonnes of CO 2  
+(40%) and will save around £50k in electricity costs each year. 
+These savings will be re -invested in to the business and will 
+help support clean growth.  Case Study: Dorset  
+Community Energy  
+Dorset Community Energy 
+(DCE) is a not -for-profit Commu-
+nity Benefit Society which facili-
+tates community ownership of 
+renewable energy production.  
+It was established in 2013 with support from the BIG Lottery.  
+Its 152 members have invested £490,000 in the last 7 years, 
+this has paid for the installation of solar PV panels on 12 
+schools and four community buildings in Dorset - resulting in 
+420kW of installed capacity.  
+Electricity is provided to the community buildings at little or no 
+cost, and any electricity not used on site is exported to the na-
+tional electricity grid. Revenue is generated from the sale of 
+electricity and from the government ’s feed -in-tariff. The in-
+come covers the operational cost of the Society and provides 
+a return on investment to member shareholders.   
+In 2019 DCE launched its third share offer and as of May 
+2020, 245kW has been installed at three sites at a total ca-
+pacity of 665kW.   
+Read more about DCE here.  
+Case Study: Stewarts Garden Centre  / 29 BUILDINGS & ASSETS  
+Scale of the challenge...  
+Carbon emissions from Dorset ’s buildings currently account for about 
+60% of the county ’s footprint; with around 1 million tonnes of CO 2e 
+emitted every year to heat and power Dorset ’s residential, commercial 
+and public -sector properties.  
+To reach national carbon -reduction targets these emissions will need 
+to be eliminated and all energy used to maintain a comfortable indoor 
+environment will need to be generated from renewable sources.   
+This will require a significant switch away from existing gas and oil 
+central heating systems (which currently make up 82% of all Dorset ’s 
+domestic heating systems) to heat pumps, biomass or hydrogen 
+(when available). As well as substantial improvements to the energy 
+efficiency of buildings to reduce overall energy demand.  
+To achieve this in Dorset a huge retrofit programme will be needed to 
+address all of the county ’s building stock, on top of a sizeable increase 
+in renewable energy generation to meet the residual demand.  
+The high proportion of properties in Dorset connected to mains gas 
+will pose a particular challenge, and decisions on whether to wait for 
+developing hydrogen technologies or risk not meeting peak electricity 
+demand through over adoption of heat -pumps will be very hard.  
+In addition, it is predicted that a further 18,000 houses will be built in 
+Dorset in the next decade.  These will need to be zero -carbon in de-
+sign and build if they are to avoid adding to the county ’s emissions fur-
+ther.  
+Dorset Council ’s own buildings and assets currently account for 
+around 70% of its footprint.  In order to reach net zero the council will 
+need to focus on improving energy efficiency, transitioning away from  
+ Dorset ’s progress so far … 
+• 40% reduction in Dorset ’s building emissions since 2005 (in line 
+with national figures, and mostly due to grid decarbonisation)  
+• 150 homes a year benefitting from improved heating systems and 
+reduced fuel poverty through Dorset Council ’s Healthy Homes 
+Scheme  
+• Over 100 organisations have benefited from £2.5m of grant fund-
+ing and free technical support for energy efficiency and renewa-
+ble energy projects through Dorset Council ’s Low Carbon Dorset 
+programme  
+• 47% reduction in electricity used for streetlighting since 2008 as 
+a result of energy efficiency measures  
+Hear more about Dorset Coun-
+cil’s buildings and assets and the 
+role they have to play in tackling 
+the climate emergency from our 
+Technical Services Manager 
+for Assets & Property...  
+fossil fuels and sourcing energy from renewable sources.   
+An asset review of the new unitary authority is currently underway and 
+an Asset Management Plan is in development.   
+Significant new building projects led by Dorset Council, including the 
+Weymouth Peninsula and Building Better Lives programme, will provide 
+an opportunity to create true net zero carbon homes and commercial 
+properties.  If this opportunity is not taken now, or in the near future, 
+these developments will increase Dorset ’s footprint further.   
+BUILDINGS & ASSETS  
+Key Issues...  
+Nationally  In Dorset  
+Lack of national strategy for heat resulting in uncertainty 
+for investment decisions  
+Current standards & potential future homes standards 
+for new developments are not high enough to deliver on 
+national carbon -reduction targets  
+Retrofitting current housing stock is a very significant 
+challenge and will require action from different organisa-
+tions, government and individuals  
+Dorset Council is currently undertaking an asset review 
+and therefore it is unclear which buildings will be retained  
+Rural nature of Dorset results in a relatively high proportion 
+of older, detached, hard -to-treat and off -gas-grid buildings  Lack of legal requirement to retrofit buildings , combined 
+with the relative cost of retrofit measures and average energy 
+costs  
+/ 30 
+Higher build specifications to address the climate 
+emergency may increase build costs and conflict with the 
+need for more affordable housing  Lack of renewable energy capacity in Dorset means the 
+demand of buildings cannot be met from local renewable en-
+ergy sources  Key Opportunities...  
+Upgrading the quality of Dorset ’s housing stock  to make 
+homes healthier, more comfortable and safer from impacts of 
+climate change  
+Reducing energy bills for residents  and helping tackle fuel 
+poverty in Dorset  
+Improving quality of commercial premises - creating better 
+working environments, reduced energy bills, and increased 
+productivity and competitiveness for businesses   
+Chance to design out energy use and design in climate 
+resilience in Dorset ’s new builds  
+Opportunity for Dorset Council to lead by example by de-
+carbonising own estate  
+Scope to expand Dorset Council ’s proven energy effi-
+ciency and behaviour change programmes to provide addi-
+tional support and funding to residents (Dorset Healthy Homes) 
+and organisations (Low Carbon Dorset)  
+Fitting gas boilers is currently the most cost -effective 
+way of addressing fuel poverty but maintains reliance on 
+fossil fuels  
+Commercial and industrial emissions are less depend-
+ant on gas  - with a higher proportion of this sector ’s emis-
+sions coming from electricity and other fuels  Lack of historic emissions data for Dorset Council as the 
+new authority only formed in 2019  
+Air source heat pumps part funded by Low Carbon Dorset at  
+Riversmeet leisure centre , Gillingham  
+Figure 26  BUILDINGS & ASSETS  
+Areas for Action...  
+Dorset Council is extremely limited in the powers it has to achieve the aforementioned objectives. However, we do have contro l of our own current 
+buildings and any future buildings that are constructed on our land. We are also able to influence and stimulate action with partners to facilitate 
+change.  
+Direct  Indirect (through services)  Influence & Partnership  
+Lead by example by ensuring Dor-
+set Council ’s estate becomes zero 
+carbon by 2040  
+Ensure climate change is a central 
+consideration throughout the asset 
+review, and in the development of 
+Dorset Council ’s Asset Manage-
+ment plan  Encourage designs and layouts 
+which lend themselves to low -
+carbon energy solutions, and pro-
+vide guidance and advice for devel-
+opers to achieve zero carbon 
+standards  
+Establish policies to ensure that any 
+of the Council ’s new build projects 
+are designed to be zero carbon 
+from the outset.   Develop and promote case studies 
+and examples of best practice on 
+our own estate to encourage repli-
+cation by others  Ensure the Dorset Housing Strategy 
+incorporates the reduction of car-
+bon emissions and increased risk to 
+climate impacts  
+Develop local plan policies to en-
+sure climate risks are identified and 
+avoided in new developments, such 
+as flood risks and overheating  Lobby government for clarity on na-
+tional strategy for heat and national 
+policy framework  
+Work in partnership to deliver pro-
+grammes to improve energy efficien-
+cy of housing stock (e.g further ex-
+pand Healthy Homes Scheme)  
+Decarbonise heating by investigating 
+largescale installation of low carbon 
+heating and undertaking heat map-
+ping to identify opportunities  
+Educate residential and non -
+residential sectors on low carbon 
+technologies, energy efficiency, and 
+sources of funding to encourage be-
+haviour change & greater uptake of 
+low-carbon technology  
+Secure funding to expand and ex-
+tend the Low Carbon Dorset Pro-
+gramme. If this is successful, seek 
+funding to extend it further, both in 
+time and scope  
+Work with partners to increase cli-
+mate change resilience of communi-
+ties & buildings by understanding the 
+future climate risks within Dorset  
+/ 31 Continue upgrade of all Dorset 
+streetlights to LEDs  
+View detailed action plan  Read full discussion paper on Buildings & Assets   BUILDINGS & ASSETS  
+/ 32 Dorset History Centre is the archives service and local 
+studies library for Bournemouth, Christchurch, Dorset and 
+Poole.   
+In 2019 the History Centre was awarded a grant of £75k from 
+Dorset Council ’s Low Carbon Dorset programme to help 
+them become one of the first institutions of their kind to move 
+to a largely passive air -handling system for its historic ar-
+chives.    
+This project will facilitate near passive control by improving 
+the air tightness of the structure of the building and by replac-
+ing existing air handling and 
+heating systems with much 
+simpler smaller scale sys-
+tems better suited to minimal 
+heating and humidity con-
+trol.   
+It is expected that this pro-
+ject will save the centre 
+around 90 tonnes of CO 2 
+and £20k in energy costs 
+each year, reducing their 
+overall energy consumption by 55%.   
+Riversmeet  is a community run leisure centre in Gillingham.  
+And like most leisure centres re-
+quires a lot of energy to run. As a 
+not-for-profit social enterprise the 
+centre were keen to reduce their 
+energy demand, and the associat-
+ed costs, as much as possible.  
+Leaving a much more environ-
+mentally friendly, sustainable 
+community asset to be enjoyed by 
+generations to come.   
+With help from Low Carbon Dorset, they completely rede-
+signed their pool heating and ventilation to be much more en-
+ergy efficient using a novel heat pump system. And installed 
+LED lights and water and energy saving aerated shower 
+heads.   Combined these measures will save around 195 
+tonnes of CO 2 a year and reduce their electricity costs by 
+over 50%, saving around £48k a year.  
+This is only the second site in Dorset where this novel ap-
+proach to energy management is being trialled, and hopefully 
+these centres will demonstrate the savings that can be made 
+both in carbon and in costs.  
+Case Study: Dorset History Centre  Case Study: Riversmeet  / 33 FOOD & DRINK  
+Scale of the challenge...  
+The production of food is the fourth highest greenhouse gas emitting 
+sector in the World.  In the UK agriculture alone accounts for 10% of all 
+carbon emissions.  When you then take into account emissions from 
+food processing, transport and food waste as well it is estimated that 
+the total carbon footprint of food and drink consumed in Britain is 130 
+million tonnes CO 2e a year.  
+To reduce the environmental impacts of food production, but still meet 
+the rising demands, more food will need to be produced using less land 
+and emitting fewer greenhouse gases. This will mean farming practices, 
+both nationally and within Dorset, will need to change.  
+For Dorset, where approximately 75% of the land is used for agricul-
+ture, we will need a county -wide shift to less carbon -intensive, more 
+sustainable food production methods.  Where possible the wider adop-
+tion of regenerative farming practices will be needed.   
+This will include making changes to the Council ’s own county farm es-
+tate which comprises 46 farms spread over 2,600 hectares.  
+The sector will also need to work on adapting to the changing climate.  
+A warmer and wetter environment in Dorset will mean a change in 
+planting and harvesting dates, crop varieties and suitable livestock 
+breeds. This may consequently affect food choice through price and 
+availability.  
+As well as changes to food production and farming practices a signifi-
+cant shift in consumer behaviour is required.  There will need to be less 
+demand for carbon -intensive foods like meat and dairy, and an increase  Dorset ’s progress so far … 
+Hear more about the chal-
+lenges and opportunities in 
+Dorset from the manager 
+of the Dorset AONB 
+team ... 
+Dorset Farmers ’ Market was established in 2004, and short-
+ens the chain between food producer and purchaser, reduc-
+ing food miles travelled  
+Creation of Dorset Food & Drink  a not -for-profit, community 
+interest company who support and promote local food & drink 
+businesses  
+Collaborative campaigns with Dorset Food & Drink and Litter 
+Free Coast & Sea are helping to tackle the issue of packaging 
+waste  
+All of Dorset ’s household food waste is now treated within the 
+county using anaerobic digestion (see Waste ) in the sourcing of food and drink locally.  A drastic reduction in food 
+waste, which is currently equivalent to around a fifth of all food pur-
+chased, will also be needed.  
+/ 34 FOOD & DRINK  
+Key Issues...  
+Nationally  In Dorset  
+Food with high energy density & increased carbon 
+emissions is often cheaper than its less energy dense 
+counterparts - usually evident in more processed foods with 
+high sugar and fat contents  
+Key Opportunities...  
+County Farm Estate can play an important demonstrative 
+role for low -carbon, ecologically friendly farming techniques  
+Dorset County Farm Estate is currently focussed on 
+carbon -intensive practices providing little additional eco-
+logical or carbon sequestration gain  
+Locally produced, organic foods carry a price premium 
+which limits its accessibility to low -income families  
+Food poverty in Dorset – recent studies showed that Wey-
+mouth ’s foodbank is the busiest in the county  
+The percentage and volume of food and drink sold at 
+local producers ’ markets and farm shops is very low in 
+comparison to the amount of food and drink consumed  High volumes of food waste generated in UK  equivalent 
+to between a fifth and a quarter of that purchased by con-
+sumers for in home and out of home consumption (22%)  Increases in extreme weather events are likely to have 
+negative impacts on the availability of food nationally & 
+globally - resulting in price increases  
+Land made available to increase biodiversity will reduce 
+the amount of land available for food production  Developing a vibrant and diverse sustainable food econo-
+my in Dorset , which includes exotic food previously not grown 
+in UK  
+Change in land use to deliver climate change mitigation 
+and adaptation where farm business restructuring allows  
+Reduced air pollution due to reduced transportation of food  
+Improve local diets and reduce weight and health problems 
+as a result of a healthier eating  
+Tackle food poverty through food waste reduction activities  
+Provide a basis for secure livelihoods by aligning food pro-
+duction to agroecological or regenerative principles  
+Food production in Dorset directly employs 5,974 peo-
+ple, which is 9.8% of the total employed in the sector in the 
+southwest  
+Figure 28  Figure 27   
+ FOOD & DRINK  
+Areas for Action...  
+Dorset Council must work towards reducing our carbon emissions output, food poverty and the level of waste produced, all whil e meeting the in-
+creasing demand for food. To do so, we must facilitate change by establishing the following direct, indirect and influential initiatives...  
+Direct  Indirect (through services)  Influence & Partnership  
+Work with Council tenants and con-
+cessions to reduce food waste and 
+promote less packaging  
+Continued adoption of the Council ’s 
+single use plastic policy throughout 
+its estate, operations, tenants and 
+concessions  Work with partners to reduce meat 
+and increase plant -based meals in 
+care homes and schools  
+Reduce use of fertilizers on Council 
+land by increased use of locally pro-
+duced compost  Increase range of edible fruits, flow-
+ers, and vegetables in Council 
+owned parks, rooftops, and open 
+spaces  Work with Council tenants and con-
+cessionaires to reduce the sale of 
+products with high GHG emissions  
+Develop funding scheme to improve 
+the efficiency of Council (Tricuro 
+sites / other care homes) and 
+schools ’ catering equipment, and 
+switch to electric sources to allow 
+for carbon neutral catering  Continue to work with producers and 
+partners to promote 'local food' and 
+reduce food miles  
+Promote home growing and allot-
+ments to Dorset residents  
+Explore the adoption of tools to help 
+engage school staff (and potentially 
+students) to create low -carbon 
+meals, with consideration of ingredi-
+ents, food miles, and cooking meth-
+ods  
+Work with partners to help food and 
+drink suppliers within Dorset to be 
+resilient to climate change  Promote Green Kitchen Standard &  
+Food for Life to Dorset businesses  
+Work with partners to promote low -
+carbon affordable food options to 
+Dorset residents  
+Work with County Farm tenants to 
+encourage the adoption of more 
+climate and wildlife friendly practic-
+es Work to develop opportunities for 
+enhancing Dorset ’s ecological net-
+works   
+/ 35 
+ View detailed action plan  Read full discussion paper on Food & Drink   FOOD & DRINK  
+/ 36 In 2018 South West based insurance company Cornish Mu-
+tual launched their Real Food Heroes campaign , celebrat-
+ing the people behind the produce.  
+The campaign puts the spot-
+light on farms (large and 
+small) and rural businesses 
+across the South West that 
+are behind the high quality 
+food and drink that comes 
+out of the region.  Real Food 
+Heroes came about after in-
+dependent market research, commissioned by Cornish Mutu-
+al, found that many consumers in the South West wanted lo-
+cal farmers and producers to be recognised.  
+One in three South West consumers said they were buying 
+more local produce than in previous years and the top reason 
+given was wanting to support local farmers.  
+Since its launch, Cornish Mutual continues to celebrate and 
+share stories of its Real Food Heroes - the individuals who 
+strive to produce and provide quality food and drink for their 
+local communities.  #RealFoodHeroes  Local Food Links Ltd  is a social enterprise based in 
+Bridport. The organisation was  established in 2006 and sup-
+plies freshly prepared school meals, using local ingredients 
+and employing local people.   School meals were absent from 
+Dorset primary schools for around 20 years and many 
+schools no longer had kitchens.   In 2005, when the govern-
+ment announced that all schools must provide hot meals, 
+Dorset as a county had the task of re -introducing hot 
+meals.   Local Food Links was able to offer schools without 
+kitchens a more sustainable alternative to trucking meals 200 
+miles down from Nottingham – hub kitchens were formed and 
+meals were freshly produced 
+each day and driven a short dis-
+tance to local schools.  
+There are now four hub kitchens 
+supplying 56 schools across Dor-
+set with around 4,200 meals a 
+day.  LFL works in partnership 
+with schools and has a bespoke 
+online ordering service that works 
+for schools and parents.   78% of ingredients are purchased 
+from Dorset suppliers and 95% from the South West.    
+Case Study: Cornish Mutual ’s Real  
+Food Heroes  Case Study: Local Food Links  Scale of the challenge...  
+The commercial and industrial sector is a significant contributor to cli-
+mate change and accounts for just under a quarter of the county ’s 
+emissions.   
+In order to transition to net -zero we will need to create a zero -carbon 
+economy  here in Dorset. This means that emissions from the county ’s 
+commercial & industrial sector, which in 2017 amounted to 433 kilo-
+tons of CO 2e, will need to be eliminated whilst making sure the coun-
+ty’s economy still thrives.   
+To do this Dorset businesses will need to reduce their energy con-
+sumption and increase their self -supply of renewable energy.  All com-
+mercial buildings will need to become net -zero, all water use will need 
+to be reduced, and all emissions from travel will need to decrease.  
+Businesses will also have their role to play in the development of a cir-
+cular economy in Dorset,  by making products and materials more effi-
+ciently. This will also require making sure that waste is designed out 
+and re -use is designed in.  
+Support and growth for Dorset ’s low -carbon sector will be essential.  It 
+is predicted that the low carbon economy has the potential to grow by 
+11% a year in the lead up to 2030, four times faster than the rest of the 
+economy. The national drive to reduce emissions offers a significant 
+economic opportunity for the development of low -carbon goods and 
+services, and Dorset will need to take full advantage of it.  
+Furthermore, whilst economic activities have an impact on climate 
+change, it also works the other way around.  Climate change poses a  
+/ 37 ECONOMY  
+significant threat to the economy, particularly through flooding and dis-
+ruption of supply chains and infrastructure.  Businesses in Dorset will 
+need to be fully supported to become more resilient to these risks.   
+Dorset ’s progress so far … 
+Dorset ’s commercial and industrial emissions decreased by 46% 
+between 2005 and 2017, mostly due to grid decarbonisation  
+Since 2017 Dorset Council ’s Low Carbon Dorset  programme 
+has supported 80 businesses to invest over £4.8m in low -carbon 
+projects, saving 3,719 tCO 2e a year & increasing renewable en-
+ergy capacity by 3.4 MW p. 
+Dorset LEP ’s vision for economy already outlines objectives to 
+deliver the UK Government ’s ‘Clean Growth Grand Challenge ’ 
+Dorset Innovation Park developments offers local firms the 
+chance to expand and relocate in Dorset  
+Get a full overview of Dorset ’s economy and the businesses operating 
+within it in Dorset Council ’s Local Economic Assessment...  
+Hear more about Dorset ’s 
+economy and the challenges 
+and opportunities we are fac-
+ing from Dorset Council ’s 
+Economic Growth and  
+Regeneration Manager...  / 38 ECONOMY  
+Key Issues...  Key Opportunities...  
+Nationally  In Dorset  
+Low carbon & renewable energy economy (LCREE) is 
+growing slowly and has been affected over recent years by 
+changing legislation and incentive schemes  
+Circular economy at early stages of development and is 
+heavily influenced by national policy and regulation  
+Many businesses operate from leased buildings,  where 
+there is often not a benefit to landlords to invest in building 
+fabric or renewable energy technologies  
+Low Carbon Dorset (DC ’s current business support pro-
+gramme) set to finish in 2021 if additional funds are not 
+secured  Business investment models often seek short term re-
+turn on investment making many carbon -reduction activi-
+ties cost prohibitive due to long ROIs  
+Lack of understanding and awareness of low -carbon 
+options and technologies amongst businesses & they often 
+don’t have resource to investigate and implement them  
+Additional Business Rates levy introduced by govern-
+ment increases business rate for those that install re-
+newable energy on their premises – this acts as a signifi-
+cant barrier to investment  
+Dorset ’s predominantly rural nature leads to extensive 
+reliance on private transport  mainly cars  
+Dorset ’s lack of transport infrastructure, location, and 
+protected high quality landscape lends itself to high value 
+low-volume manufacture and service industries  
+Dorset ’s protected landscape designations add to the 
+regulatory issues involved in installing renewable energy  
+Increase in jobs & skill development opportunities within 
+Low Carbon Renewable Energy Economy (LCREE) needed  
+to respond to the scale of action required  
+Responding to climate emergency will open up / expand 
+markets for Dorset businesses in the low carbon econo-
+my and offer major opportunities for green economy growth  
+Opportunity to scale up the successful Low Carbon Dor-
+set programme and use proven case studies of energy effi-
+ciency and renewable energy projects to accelerate replication 
+across county  
+Opportunity to encourage low -carbon builds and renewa-
+ble energy infrastructure at Dorset Innovation Park as 
+Dorset Council is both land owner of site and planning authority  
+Dorset has a strong high -tech sector which can take ad-
+vantage of clean growth  through diversification and skills  
+Potential to attract more skilled, higher paid jobs and 
+tackle social deprivation through low -carbon sector growth  
+Dorset Council can use its procurement function to prior-
+itise social and environmental wellbeing as well as eco-
+nomic value  
+Dorset Broadband programme can help to strengthen 
+Dorset ’s digital infrastructure & enable development of in-
+novative ICT solutions to reduce travel  
+Opportunity to make sure tourism facilities are devel-
+oped in areas accessible without the need for a car  
+through DC ’s planning function  
+COVID 19 recovery programmes could lead to injections 
+of finance, these could be invested in low -carbon tech-
+nologies  for long -term business cost reduction and to support 
+key sectors in Dorset  
+ ECONOMY  
+Areas for Action...  
+Dorset Council cannot singlehandedly eliminate the emissions from the county's economic activities, but it can work with part ners, influence ser-
+vices, and develop existing programmes to drive the step -change needed to transition to a zero -carbon -economy in Dorset.  
+Direct  Indirect (through services)  Influence & Partnership  
+Ensure Dorset Council procurement 
+supports sustainable development 
+by prioritising social & environmen-
+tal wellbeing as well as economic 
+value  
+Build renewable energy infrastruc-
+ture at Dorset Innovation Park  Support the expansion of the Dor-
+set Innovation Park to become a 
+centre of excellence in clean growth  
+Support greater deployment and 
+strengthen high -speed broadband 
+and ICT infrastructure in the county 
+through Dorset ’s Broadband pro-
+gramme.  And enable businesses to 
+increase home working and reduce 
+travel  
+Promote the low -carbon economy 
+and encourage investment in green 
+jobs and businesses in Dorset  Maximise opportunities for clean 
+growth in Dorset by working with busi-
+nesses & partners to put at centre of 
+local economic development plans  
+Support Dorset ’s strong high -tech 
+sector to diversify & take advantage of 
+growth in low carbon sector  
+Work with partners to attract green 
+sector businesses with highly skilled 
+workforces to Dorset  
+Help businesses be more resilient to 
+climate change through our planning 
+& flood risk management functions  
+Work with the tourism sector to devel-
+op specific programmes of support for 
+sustainable tourism & make Dorset a 
+low-carbon tourism destination  
+Read Dorset Council ’s full discussion paper on Economy here  
+Support businesses to become 
+more energy and resource efficient 
+and to install renewable energy by 
+working with partners to expand 
+Low Carbon Dorset programme  
+Use potential COVID -19 recovery 
+funds to provide investment in low -
+carbon technologies for key sectors  
+/ 39 Figure 29  
+View detailed action plan  Read full discussion paper on Economy   ECONOMY  
+/ 40 Low Carbon Dorset  is a three -year pro-
+gramme of activities to help stimulate 
+growth in Dorset ’s low carbon economy 
+and reduce its carbon footprint.  The pro-
+gramme offers free technical support and 
+grant funding for energy efficiency and re-
+newable energy projects to businesses, 
+public -sector and community organisa-
+tions in Dorset.  
+The programme is led by Dorset Council 
+and the Dorset Area of Outstanding Natu-
+ral Beauty (AONB) and funded by the European Regional De-
+velopment Fund (ERDF).   
+Since its launch in 2019 the programme has given out 91 
+grants worth over £2m.  And has provided free advice to over 
+100 Dorset based organisations.  This support has helped 
+save just under 4,000 tonnes of CO 2 a year.  
+The programme has recently submitted a bid for an additional 
+£4.26m of funding from the ERDF which, if awarded, will 
+bring Low Carbon Dorset ’s value to £14.9m.   If successful in 
+this bid the programme will be extended until June 2023.    
+Read more on the Low Carbon Dorset website . 
+In 2019, English Oak Vineyard were crowned Dorset Envi-
+ronmental Business Of The Year.  This award recognises 
+businesses who are leading the way to improve their environ-
+mental performance and value Dorset ’s natural assets in their 
+operations.  
+English Oak Vineyard won the award as a result of their sus-
+tainable approach to winemaking.  This was demonstrated 
+through their efforts to drastically reduce their carbon foot-
+print and their focus on environmental protection.    
+As an organisation they actively 
+market to local businesses in order 
+to reduce the miles their products 
+travel. Their electricity is generated 
+by on -site solar panels which also 
+charge their 100% electric vehicle 
+fleet.  The vineyard also uses 
+‘recycle spraying ’ equipment and sources organic feeds to 
+ensure responsible vineyard management.  In addition all 
+their water is sourced from an on -site well.  
+Care of wildlife is also a key focus for the vineyard with bee -
+hives dotted around the site, and their minimal fencing allows 
+wildlife to roam freely amongst the rows of vines.   
+Case Study: Low Carbon Dorset  Case Study: English Oak Vineyard  / 41  
+ WASTE  
+Dorset ’s progress so far … 
+Hear more about the challenge we are facing, 
+and our current activities from our  
+Head of Commercial Waste & Strategy...  
+As a newly formed Council we are currently gathering data on our own 
+waste and associated emissions. But to get an idea of scale, in 2019 
+the county council alone generated 1,201 tonnes of waste.  We need to 
+reduce this amount as much as possible, and implement a robust and 
+consistent approach to managing and monitoring waste across all of 
+our operations and sites, recycling and reusing as much as possible.  
+Scale of the challenge...  
+To reduce the carbon impact from our waste activities, Dorset must 
+work towards creating a more sustainable and efficient circular econo-
+my. This means reducing the amount of waste we produce by keeping 
+resources in use for as long as possible and recovering and reusing 
+products and materials wherever we can.  
+At present, Dorset (including Bournemouth, Christchurch and Poole) 
+generates 1.6 million tonnes of waste each year . Estimated trajecto-
+ries in the Dorset Waste Plan predict this figure will continue to grow.  
+Nearly half of Dorset ’s waste is categorised as either construction, 
+demolition, excavation or hazardous. And the remaining 52% (around 
+840,000 tonnes) is split between household waste and commercial & 
+industrial waste.  
+As Dorset Council has key statutory functions for household waste we 
+have an opportunity to further drive the development of a circular econ-
+omy here. And encourage and support the reduction, reuse and recy-
+cling of waste across the county. The Council has made good progress 
+by harmonising collection services, increasing the recycling rate year 
+on year and curbing waste growth through waste -reduction initiatives, 
+but the scale of this challenge remains significant. Last year Dorset 
+households produced 174,002 tonnes of waste resulting in the emis-
+sion of 18,768 tonnes of CO 2e.  
+Commercial & industrial waste figures are harder to estimate as most 
+of this waste is collected and managed by private companies, making 
+access to accurate data more difficult. But it is estimated that it ac-
+counts for around half of all waste produced in Dorset.  The recycling rate in Dorset is 59.6%, putting Dorset in the top 
+3 comparable authorities in England  
+70% reduction in household waste sent to landfill in last 10 
+years, saving around £3.3m each year  
+Top performing Council in England, Wales & Northern Ireland 
+for Eunmia ’s Local Authority Recycling Carbon Index  
+Targeted campaigns delivered by Dorset Waste Service to help 
+households reduce their waste  
+Incentives placed in waste disposal contracts to encourage 
+waste to be treated rather than landfilled  
+All of Dorset ’s household organic waste is now treated within 
+the county using anaerobic digestion  Find out more about Dorset Council ’s current approach to waste in our 
+Joint Municipal Waste Strategy 2008 -2033  (last reviewed in  2017)  and 
+our Local Waste Plan . 
+/ 42 WASTE  
+Key Issues...  
+Nationally  In Dorset  
+National schemes are still emerging to support the new 
+UK waste strategy and a transition to a circular economy  
+Maximising the use of the Recycle for Dorset service for 
+residents and continuing to influence behavioural change to 
+reduce waste further  
+Key Opportunities...  
+Limited oversight and influence over Commercial & In-
+dustrial waste due to a competitive market and commercial-
+ly sensitive data  Dorset Council was only formed in 2019 , meaning we are 
+currently compiling a full picture of waste streams & associat-
+ed emissions, and we do not currently have a consistent ap-
+proach to managing waste from our business activities  
+Significant level of investment required for new local 
+waste facilities  Lack of economic drivers for the commercial and industrial 
+sectors to recycle and reuse waste  
+Lack of effective tools to stop littering and create sustained 
+behavioural change  
+Substantial cost savings could be achieved if fly-tipping in-
+cidents reduced  Opportunities for change in shorter time frame  as a result 
+of collection service undertaken in -house & shorter waste con-
+tracts in place (7 years compared to typical Local Authority 
+waste contract of 20 -25 years)  
+Dorset Waste Plan provides the framework for bringing 
+forward new sites  to address the need for new local facilities  Life span of products getting shorter —despite advances 
+in technology the average life span of many products we buy 
+and use in daily life is lower than 20 years ago  
+An estimated 10 million tonnes of food & drink wasted 
+post-farm gate every year  Opportunity as a new unitary council to review our internal 
+waste management practices and implement one robust 
+scheme across all of our operations to reduce waste, reuse, 
+recycle & recover as much as possible  
+Opportunity to influence and implement the resources 
+and waste strategy for England  through extended producer 
+responsibility, consistency in recycling collections and the de-
+posit return scheme  
+Figure 30   WASTE  
+Areas for Action...  
+Dorset Council aims to reduce the amount of waste that is generated in Dorset as much as possible and move to a circular econ omy model. There 
+are direct, indirect, and influential initiatives that we can establish, that will help us to facilitate this change.  
+Direct  Indirect (through services)  Influence & Partnership  
+Carry out internal waste audits across 
+our operations & create waste reduc-
+tion plan supported by targeted cam-
+paigns  
+Continue to work towards our com-
+mitment to become single -use plastic -
+free & eliminate the use of all single 
+life products  Establish appropriate infrastructure to 
+support circular economy as part of 
+Joint Municipal Waste Management 
+Strategy for Dorset 2008 – 33.  
+Develop business plan to tackle food 
+waste within Council premises, with a 
+particular focus on schools & adult 
+services  Ensure waste is minimised through 
+procurement e.g. DC suppliers to 
+take back packaging or use reusable 
+packaging systems  Develop targeted campaigns to re-
+duce amount of waste produced and 
+increase reuse & recycling  
+Trial a ‘not sure ’ box and use results 
+to inform residents what can or can-
+not be recycled  Respond to second round of consul-
+tations relating to the resources & 
+waste strategy for England  
+Investigate how Dorset Waste Ser-
+vices can work with partners to facili-
+tate reduction of commercial and in-
+dustrial waste  
+Continue to engage with public, com-
+munities, schools & businesses to 
+increase understanding of waste is-
+sues & best practices  
+Develop further campaigns to reduce 
+the amount of waste generated & 
+stimulate further reuse, recycling & 
+composting  
+Work with Waste manager to reduce 
+emissions from waste collection vehi-
+cles  Trial provision of free/subsidised food
+-waste caddy liners in specific areas  
+Explore opportunity for increased 
+commercial waste services  
+Develop a contract & infrastructure 
+strategy to enable the most efficient 
+and cost -effective solution for Dorset  
+Introduce a pilot project in partner-
+ship with Keep Britain Tidy to reduce 
+food waste  
+/ 43 Read Dorset Council ’s full discussion paper on Waste here  Ensure sufficient contracts are in 
+place to reuse, recycle & recover as 
+much Council waste as possible  
+Continue to work with the Police, EA 
+& community groups to reduce litter-
+ing & fly tipping  
+View detailed action plan  Read full discussion paper on Waste   WASTE  
+/ 44 Dorset Council ’s Recycling Team works tirelessly to help 
+the public reduce, reuse and recycle their waste correctly. 
+And recently won ‘Team of the Year ’ at the Local Authority 
+Recycling Advisory Committee Awards.     
+Through good team 
+working, excellent 
+internal and exter-
+nal partnerships, 
+great communica-
+tions, focus on 
+schools, proven 
+projects and campaigns, the kerbside recycling rate has con-
+tinued to increase to one of the highest in the country at 59%, 
+generating estimated savings of over £90k in the last year.     
+Each Recycling Officer is linked with an operations depot and 
+identifies areas requiring improvement, using limited re-
+sources to produce significant benefits to the environment, 
+council budgets.  
+Successful campaigns and activities have included ‘Right 
+Stuff Right Bin ’, ’Love Food Hate Waste ’, ’Slim Your Bin ’ com-
+munal container improvements, recycling hangers on wheelie 
+bins and food waste stickering and tagging.   Highways waste is the largest of our waste streams with high 
+embedded carbon. In order to reduce these emissions, our 
+Highways team is working on an exciting project with supply 
+chain partner,  Allasso  Recycling, based at Corfe Mullen.   
+Allasso  re-process our asphalt waste into sustainable surfac-
+ing and recycled materials, which are fed back as a raw mate-
+rial into our resurfacing 
+schemes and sold to the 
+community for use in local 
+projects. This cuts down on 
+the use of raw materials, 
+and their associated emis-
+sions, and by making the 
+surfacing locally we reduce 
+emissions from transport.     
+The sustainable surfacing 
+has the same performance 
+as conventional material and 
+is a lower cost.   So this part-
+nership will significantly re-
+duce the cost and emissions from the large improvement 
+schemes planned for this year.  
+Case Study: Recycling Team Award  Case Study: Using Recycled  
+Materials for Highways  / 45  WATER  
+Scale of the challenge...  
+When it comes to contributing to emissions water plays a relatively 
+small role (only 0.8% of the UK ’s footprint). But the effects that climate 
+change will have on it will be extensive, affecting the availability of wa-
+ter resources and significantly increasing risk to water quality.   
+By 2050 steps will need to be taken, led by the water industry, to sig-
+nificantly reduce demand for water, reduce wastage and manage wa-
+ter resources in ways that eliminate emissions and protect them for 
+the future.  
+Data shows that Dorset residents each use around 131 litres of wa-
+ter every day .  To reduce this demand we will need to change the 
+way we use water, making use of the latest technologies and improv-
+ing the county ’s water efficiency. There will also need to be a greater 
+awareness amongst households and businesses of water issues.  
+The Council will need to take action to reduce its own water demand, 
+which last year amounted to around 261,644 m3 of water resulting in 
+the emission of 275 tonnes of CO 2e. 
+Along with our daily consumption of water we also need to take into 
+account the vast amounts of water used to produce consumer goods 
+- 1kg of beef uses 15,415 litres!  Our total water footprint is therefore 
+much greater than simply the water we use at home and work, and to 
+reduce this we will need to carefully consider our purchasing options.   
+Another challenge for Dorset will be the significant effect on local flood 
+risks as a result of increases in rainfall.  As Lead Local Flood Authority 
+and Coastal Management Authority, Dorset Council will have a  Dorset ’s progress so far … 
+A series of flood investigations & flood alleviation interventions 
+have been developed over last decade. The most notable a 
+£750k scheme installing resilience measures to 94 homes  
+A Local Flood Risk Management Strategy developed which 
+sets the direction of Council ’s work  
+Substantial work is being done by water companies in Dorset 
+to reduce leakage  
+Water companies have been supporting Dorset customers to 
+reduce water use through services such as Wessex Water ’s 
+‘home check service ’.  
+Around 3/4 of Dorset households have a water meter installed  
+Dorset Wild Rivers project (2015 -2020) funded by Wessex Wa-
+ter aims to achieve restoration of river habitats and enhance 
+wetlands  
+Former County Council led ongoing programme to install water 
+efficiency measures (such as waterless urinals, water saving 
+taps & rainwater harvesting)  significant role to play in flood risk management, alleviation and mitiga-
+tion work.   
+Wessex Water  South West Water  Find out more about Dorset ’s water 
+suppliers and the work they are  
+doing in the area...  
+Hear more about this work from our  
+flood management team leader   
+  
+ WATER  
+Key Issues...  
+Nationally  In Dorset  
+Lots of old buildings in Dorset that may not have drain-
+age systems that can accommodate increased rainfall 
+predicted with climate change  
+Key Opportunities...  
+Dorset Council can lead by example by reducing water us-
+age on own estate  
+Most of the action is required at an industry level  
+Less than half of the rivers of Dorset are considered 
+‘good ’ water quality under current European standards  
+Despite greatly improved waste water treatment, dif-
+fuse nutrient pollution from agriculture remains a major 
+problem in the coastal and marine environment  Many products produced by industry still use vast 
+amounts of water, including the food and farming industries  Limited powers to enforce the installation of water con-
+servation measures in new developments or higher stand-
+ards beyond Building Regulations  
+Water reduction in Dorset is heavily reliant on behav-
+iour change by residents and businesses  Use of latest water conservation technologies in new 
+builds through Council ’s Planning & Building control functions  Partnership working with water companies and the Envi-
+ronment Agency to encourage and support businesses to re-
+duce water use and wastage  
+Share best practice in water resource management, pro-
+tection and water ecology through the development and pro-
+motion of case studies  Reduced water bills for residents & businesses as a result 
+of water efficiency  
+Climate change expected to affect availability of water 
+and increase risk of water pollution and localised flood-
+ing within Dorset  Around 3 billion litres of water a day is lost through 
+leakage in UK – approx. 22% of all water put into supply  
+/ 46 Reduce future surface water flood risk from future devel-
+opments through partnership working with developers, local 
+planning authorities, highway authorities and water & sewage 
+companies, by maximising uptake of Sustainable Urban Drain-
+age (SuDS) solutions  
+Showers are biggest water user in most UK homes  Water availability is often a key controlling  factor  in  
+biodiversity  with aquatic organisms and groundwater de-
+pendent terrestrial ecosystems at risk of being directly affect-
+ed  
+Figure 31   WATER  
+Areas for Action...  
+Water is a defining characteristic for Dorset and it is critical that Dorset Council takes action through its own operations,  services and influence to 
+encourage a reduction in Dorset ’s water demand and wastage, and the management of water resources.  
+Direct  Indirect (through services)  Influence & Partnership  
+Make Dorset Council buildings 
+more water efficient, by installing 
+technologies such as flow regula-
+tors, water efficient toilets and 
+showerheads  
+Ensure procurement specification 
+favours water efficient equipment  Ensure water use is minimised and 
+reuse is optimised in new develop-
+ments  
+Carry out in -depth assessment of 
+water leaks across Council ’s estate  Reduce / replace demand on mains 
+water within Dorset Council buildings 
+by installing technologies such as 
+rainwater harvesting and grey water 
+systems  Work with County Farms and Green 
+Spaces to ensure land manage-
+ment practices protect water sup-
+plies 
+Ensure Dorset Council land man-
+agement practices prevent water 
+pollution  Liaise with water companies to en-
+sure water leaks are identified and 
+eliminated in Dorset  
+Work with Environment Agency to 
+ensure all high risk industrial and 
+farming areas in Dorset have been 
+identified and appropriate pollution 
+prevention measures are in place  
+Work with partners to promote land 
+management practices that prevent 
+polluting water courses and ensure 
+good water management  
+Work with partners to ensure climate 
+resilience is being addressed and 
+sufficient supplies of good quality 
+water will be available for Dorset res-
+idents 
+Carry out audit of all Council sites 
+holding materials hazardous to water 
+quality to ensure correct storage is 
+in place & ensure pollution preven-
+tion equipment is properly main-
+tained  
+Identify areas at risk from local 
+sources of flooding and ensure 
+these are considered in the future  
+Maintenance of ordinary water-
+courses by riparian owners to help 
+reduce the risk of flooding  
+/ 47 Read Dorset Council ’s full discussion paper on Water here  
+View detailed action plan  Read full discussion paper on Water  WATER  
+/ 48 Dorset Council is a partner in the Dorset Wild Rivers Pro-
+ject; a major river and wetland restoration project that takes a 
+collaborative  catchment based  approach.    
+It is led by Dorset Wildlife Trust and focuses on the Frome and 
+Piddle Valleys and the chalk stream tributaries of the Dorset 
+Stour Valley.  
+The project helps farmers and landowners identify opportuni-
+ties for habitat restoration or creation, whilst delivering in -river 
+habitat enhancements and water quality improvements. This 
+can benefit both aquatic plants and 
+animals and will deliver Water 
+Framework Directive targets.   
+This collaborative approach aims to 
+reduce the decline of wetland biodi-
+versity with particular attention giv-
+en to white clawed crayfish, water 
+vole, otter, salmon and brown trout.  
+Since 2015, the project has sup-
+ported the creation of 135 hectares 
+of habitat, the restoration and enhancement of 14 ponds and 
+18km of river, and 1926m of hedge work in Dorset.  Dorset Council ’s flood risk management team act as Statu-
+tory Planning Consultee in the management of surface water 
+for major development proposals.  The effects of climate 
+change on rainfall patterns will see more extreme events be-
+coming more common. And it is against this background that 
+the use of sustainable drainage systems (SuDS) techniques 
+need to be promoted, so as to 
+mimic a more natural drainage 
+system and deal with flooding 
+issues as close as possible to 
+the source. This can only be 
+achieved by early engagement with developers.  
+In support of this, we have been developing flood risk and 
+SuDS policies within the new Dorset Council Local Plan. This 
+has involved researching similar policies across the South 
+West to select the best for Dorset, setting up a SuDS working 
+group and adopting pioneering constraint mapping to help 
+inform decision making on development allocations / pro-
+posals.  
+SuDS techniques are generally more cost effective than be-
+low the ground traditional drainage systems and have a lower 
+construction carbon footprint.  
+Case Study: Dorset Wild Rivers  
+Project  Case Study: Promotion of Sustaina-
+ble Drainage Systems (SuDS) for 
+new developments  
+/ 49 NATURAL ASSETS  
+Scale of the challenge...  
+Natural Assets, which can be described collectively as Natural Capi-
+tal, play a critical role in providing services that are vital for the physi-
+cal wellbeing of the population, such as clean air, water, and healthy 
+soils. This is as well as the natural regulation of hazards, such as 
+flooding.  
+The productive capacity of our Natural Assets underpins the whole 
+economy. And how we manage the demands on our Natural Capital is 
+key to ensuring the quality and diversity of our ecology.  
+Biodiversity – the diversity within species, between species and of 
+ecosystems – is declining globally. The world ’s 7.6 billion people rep-
+resent just 0.01% of all living things by weight, but humanity has 
+caused the loss of 83% of all wild mammals and half of all plants.  
+The significant proportion of Dorset (53%) has been designated for 
+conservation as an Area of Outstanding Natural Beauty. Dorset is one 
+of the most important counties for wildlife, with 141 Sites of Special 
+Scientific Interest, covering an area of 199.45 km2, 11 National Na-
+ture Reserves (NNRs), and 1,254 Sites of Nature Conservation Inter-
+est (SNCIs).  
+In addition, 23 sites are recognised to be of international or European 
+importance (SACs, SPAs, and RAMSAR sites) and there are also 63 
+Regionally Important Geological Sites (RIGS) and 45 Local Nature Re-
+serves (LNRs).  
+Therefore, in order to protect our Natural Assets, Dorset Council must 
+work towards meeting several objectives, which include raising funds  Dorset ’s progress so far … 
+Hear more about Dorset Council ’s changes to 
+verge management from our Greenspaces 
+Team Manager...  
+AONB & Natural Environment teams within the Council are lead-
+ing on a variety of projects to protect & enhance biodiversity  
+Natural England has developed Accessible Natural Greenspace 
+Standard (ANGSt), providing local authorities with a detailed 
+guide as to what constitutes accessible green space  
+Dorset AONB team are currently looking at how future agricul-
+tural support from government can help deliver their ambitions  
+Dorset Council currently meeting mitigation requirements by off-
+setting impact of residential development  
+Biodiversity Appraisal Protocol (BAP) set up to ensure there is 
+an integrated approach to planning & development  
+In 2016 Dorset County Council adopted Pollinators Action Plan 
+to reduce the decline in pollinating insects —which DC now op-
+erate  
+New ecologically beneficial approach to verge management ap-
+proved by Dorset County Council in 2014 & has been progres-
+sively rolled out across the County  to facilitate habitat gain and furthermore improve the quality and pro-
+tection its species.  
+This is as well as increasing sequestration, using land to increase resili-
+ence to climate change, and ensuring that future management and 
+maintenance are financially sustainable.  
+/ 50 NATURAL ASSETS  
+Key Issues...  
+Nationally  Biodiversity (the diversity within species, between spe-
+cies and of ecosystems)  is declining globally , faster than 
+at any other time in human history  
+Intensive agriculture reduces the flows of most ecosys-
+tem services , including flood protection, water quality, car-
+bon storage, soil quality, and provision of habitat for wildlife  
+Key Opportunities...  
+Increase use of non -intervention management/rewilding 
+techniques on Council land to improve connectivity of high 
+ecological value areas  
+Overall, 47% of local Dorset businesses stated that they 
+were dependent on ecosystem service flows in some 
+way Carbon storage by changes in land use has increased 
+by 98% from -53 ktCO 2 in 2005 to -105 ktCO 2 in 2017, re-
+sulting in net sequestration of carbon  The use of land for more intensive agriculture, urbani-
+sation, and afforestation resulted in the loss and fragmen-
+tation of many semi -natural habitats  
+Climate change, combined with other social, economic, 
+and environmental pressures, will present significant 
+risks to the services provided by the land  
+The UK population is predicted to increase by nine mil-
+lion by 2050 , increasing the area of land required for settle-
+ments  Increase area of land owned and managed for ecological 
+and carbon sequestration outcomes using various planning 
+gains  
+Ensure ecological quality is considered in flood manage-
+ment & highway schemes  - e.g. Weymouth Relief  Road  
+Work with tenants of County Farms to promote and ensure 
+best environmental practices are upheld  
+Promote the Health and Wellbeing benefits of publicly ac-
+cessible high ecological value land  
+Prioritise ecological & carbon sequestration value in the 
+design of the built environment through planning process  In Dorset  Insert Picture  
+Figure 32  
+Figure 33  To ensure community tree planting initiatives are ecolog-
+ically robust and sensitive to the local landscape ‘right tree in 
+the right place ’  
+Increased tree planting where suitable to avoid detrimental 
+effects on other habitat types or landscape  
+NATURAL ASSETS  
+Areas for Action...  
+Natural Assets play a critical role in providing services that are vital for the physical wellbeing of the population, such a s clean air, water, and healthy 
+soils, as well as the natural regulation of hazards, such as flooding. Therefore, Dorset Council must towards meeting several  direct, indirect, and in-
+fluential objectives to protect these Natural Assets.   
+Direct  Indirect (through services)  Influence & Partnership  
+Identify opportunities to use Dorset 
+Council land to increase resilience to 
+climate change  
+Increase biodiversity on identified ar-
+eas of Council land  
+Increase area of Council owned or 
+managed land for ecological & car-
+bon sequestration outcomes  Develop / adopt biodiversity, green & 
+open spaces supplementary planning 
+document to ensure a consistent ap-
+proach for developers to take up pro-
+tection & enhancement measures of 
+key biodiverse areas  Communicate to residents, business, 
+& landowners good practice  
+Creation of wildlife friendly areas on 
+council land (incl. bee -friendly zones)  
+Increase hedge & woodland planting 
+through Dormouse District Licence 
+project  
+Use the financial contributions from 
+development raised through Nitrates 
+Supplementary Planning Document to 
+buy land for rewilding / tree planting / 
+creation of rough grassland and scrub  
+/ 51 Promote tree planting through part-
+nership working & use of Council tree 
+planting checklist  
+Promote the health & wellbeing bene-
+fits of publicly accessible high ecologi-
+cal value land  
+Review all chemical use to ensure no 
+harm to unintended species  
+Expand cut & collect verge manage-
+ment  
+Ensure all decision making around 
+use of natural assets is based upon 
+ecological value  
+Increase tree planting where suitable 
+to avoid detrimental effects on other 
+habitat types or landscape  
+Work in partnership with Children ’s & 
+Adult Services to ensure natural envi-
+ronment is fully utilised in social care 
+offer 
+Work with partners to connect frag-
+mented habitats across county  
+Manage heathlands SPD – SANGS in -
+house to provide additional areas for 
+ecological & carbon sequestration 
+purposes  
+Work with tenants of County Farms to 
+promote and ensure best environmen-
+tal practices are upheld  Develop guidance to ensure commu-
+nity tree planting initiatives are ecolog-
+ically robust & sensitive to local land-
+scape (‘right tree in the right place ’) 
+Work with town & parish councils to 
+promote best practice within their 
+greenspace & communities  
+View detailed action plan  Read full discussion paper on Natural Assets   NATURAL ASSETS  
+/ 52 Since the 1930s the UK has seen a 97% reduction in wild-
+flower meadows.  The management of verges offers a huge 
+opportunity to help compensate for this loss.   
+Over the last few years, Dorset Council has significantly 
+changed the way we manage our verges to do more to pro-
+tect, conserve and enhance the verges in Dorset for biodiver-
+sity.  One of these changes is the increase in ‘cut and col-
+lect’ mowing - where we collect grass clippings instead of 
+letting them rot down into the soil. Collecting clippings reduc-
+es the soil fertility, resulting in lower growth rates, longer peri-
+ods between cutting and a far better environment for wild-
+flowers to establish and 
+thrive; in some examples 
+a reduction from 7 cuts a 
+year to just 2 has been 
+achieved within towns 
+and verges full of wild-
+flowers. This reduction in 
+cutting allows wildflowers 
+the time to complete their 
+life cycles which benefits bees and other pollinators.  It also 
+reduces emissions from mowers and vehicles transporting 
+clippings.  Read more here  Dorset Local Nature Partnership (LNP) works to maximise 
+the benefits of Dorset ’s environment for wildlife, people and 
+the economy.   Developed by Dorset Environmental Record 
+Centre, Dorset LNP has published an update to its Ecological 
+Network Maps.   These 
+maps show the existing 
+network of known sites of 
+wildlife importance, habi-
+tats that are valuable for 
+wildlife and areas that 
+are not currently of high 
+nature value but offer the 
+highest potential to be 
+managed or enhanced.     
+These maps will be used to support work on both nature -
+based climate solutions and nature recovery to address the 
+climate and ecological emergencies.   They will inform plan-
+ning decisions to ensure we enhance our environment and 
+guide action to restore nature within the county, such as 
+large -scale restoration projects or improved connectivity with 
+existing sites.   
+Read more here  
+Case Study: Verge Management  Case Study: Dorset LNP - Ecological 
+Network Map  / 53 TRANSPORT  
+Scale of the challenge...  
+Due to its dependency on fossil fuels the transport sector is a major 
+contributor to our nation ’s carbon footprint.  Decarbonising this sector 
+will be a key challenge in moving towards a zero -carbon future.   
+Here in Dorset transport alone is responsible for an estimated 765 kil-
+otons of CO 2e each year, making it the single biggest contributor to 
+our county ’s footprint. To reach zero carbon, fossil fuel use in the 
+transport sector will need to be eliminated. This will not be as simple 
+as just switching to different fuels or energy sources. It will require sig-
+nificant changes in attitudes, planning and infrastructure, economic 
+incentives and political and institutional changes.  
+In rural areas like Dorset, car ownership is amongst the highest in the 
+country. And in 2018 just over 2,500 million vehicle miles were trav-
+elled in Dorset Council area.  A significant shift will be needed to make 
+active travel and public transport the first transport mode of choice.  
+This will be a significant challenge, in 2018 only 1% of UK passenger 
+journeys were made on public transport.  
+Transport will also need to be a key focus for Dorset Council in its own 
+ambitions to eliminate emissions from its activities and services. 
+Change will be required in the way staff commute to work, workplace 
+practices, fleet operations and business travel.  
+Over 9,000 Dorset Council employees currently commute to work.  
+Changing commuter travel behaviour and achieving a shift from cars 
+to more sustainable modes of transport will be required.  
+Mileage undertaken by council staff on work business will also need to  Dorset ’s progress so far … 
+Hear more about the challenges we are 
+facing here in Dorset from Dorset Council ’s 
+Transport Planning Manager...  
+UK ban on the sale of new petrol and diesel cars by 2040, 
+government consulting on earlier 2035 ban  
+Dorset ’s Local Transport Plan already demonstrates a strong 
+commitment to sustainable transport policies and carbon re-
+duction  
+662 tonnes of CO 2e have been saved since 2015 as a result 
+of CarshareDorset.com car sharing scheme  
+BCP Council & Dorset Council awarded £79 million in 2020 
+by DfT ’s Transforming Cities fund to deliver large sustainable 
+transport network  
+be significantly reduced, last year this amounted to 5.3million miles, 
+costing the council £1.6m and emitting 1,496 tonnes of CO 2e. 
+The council ’s fleet vehicle emissions will also need to be eliminated, 
+this will require a staged renewal programme to replace the existing 
+fleet with electric or best possible alternative.   
+To support the move to electric vehicles in both the Council fleet and 
+the county there will need to be an increase in the provision of electric 
+vehicle charging points.  This will require significant action from both 
+public and private sectors in Dorset.  
+/ 54  TRANSPORT  
+Key Issues...  
+Nationally  In Dorset  
+Lack of national direction and strategy , although this will 
+improve with the publication of the decarbonisation plan and 
+bus strategy  
+Inherited infrastructure network built around private 
+vehicle usage which has led to the car being the first choice 
+of travel  
+Key Opportunities...  
+Additional funding available from central government for 
+buses funding, EV charging, active travel  
+Culture of commuting to work with car being the default 
+mode of travel  
+Rural nature of parts of Dorset means that accessing em-
+ployment, training and other essential services requires in-
+creased travel  
+Quality of digital infrastructure in rural areas to support 
+home working, online learning and e -commerce  
+Low carbon active travel infrastructure not sufficiently 
+developed to complete area -wide networks  
+Lack of funding to upgrade bus infrastructure and sup-
+port rural services  
+Lack of service frequency on some rail corridors , not 
+suitable for commuting  Transport networks are closely interlinked so climate 
+related disruption affecting one form of transport can have 
+knock -on effects on others  
+Relatively little overall change in the level of greenhouse 
+gas emissions from the transport sector in last 20 years  Embed zero -carbon transition into statutory planning 
+documents including the Local Plan & LTP  
+Capitalise on private sector investment to expand public 
+electric vehicle charging network  
+Encourage continuation of behaviour & organisational 
+changes that have resulted from COVID -19, including in-
+creased active travel and home working  Greening of the council fleet utilising replacement pro-
+gramme to transition to ULEVs  Reduced air pollution from transport  Increased health benefits from active travel with resulting 
+impacts on wellbeing  
+School choice contributes to transport issues  Creation of jobs in Dorset ’s green economy as a result of 
+investment in zero carbon  
+Figure 34  TRANSPORT  
+Areas for Action...  
+Decarbonising Dorset ’s transport sector will be a major step towards a net zero future, and significant action will be required from the Council t o 
+eliminate associated emissions from its own activities & services, as well as working with partners and using its influence t o facilitate change on a 
+county -wide level...  
+Direct  Indirect (through services)  Influence & Partnership  
+Maximise ultra -low-carbon vehicle 
+replacement within Council fleet  
+Provide EV charging points & other 
+ultra-low-emission fuel alternatives 
+across the Council property estate  Improve low -carbon transport infra-
+structure by embedding it in the Local 
+Plan and Transport Plan  
+Encourage behavioural change in  
+way staff travel to and for work  Reduce emissions from transport in-
+frastructure construction and mainte-
+nance  
+Encourage decarbonisation of road 
+transport through development of EV 
+charging network & promotion of low 
+emissions transport vehicles  Lobby government - e.g. for Rail im-
+provements  
+Respond to government calls and 
+submit high quality grant applications  
+Redirect investment from strategic 
+road schemes to low -carbon 
+transport (Work with Subnational 
+Transport Body and Local Enterprise 
+Partnership)  
+Reduce the need for staff to travel to 
+and for work  
+Understand key risks and potential 
+costs posed by climate change to 
+transport & travel in Dorset  
+Mainstream climate resilience in fu-
+ture strategies and policies  
+Increase investment in walking, cy-
+cling & public transport infrastructure 
+- secured through LTP, developer 
+contributions, and other available 
+funding streams  
+Encourage behaviour change through 
+active & sustainable travel campaigns 
+and initiatives.  Improve quality & availability of public 
+transport to make services more at-
+tractive to the travelling public  Work with Dorset Business Travel 
+Network & Digital Dorset to promote 
+use of ICT to individuals and busi-
+nesses to avoid travel & encourage 
+working from home  
+Ensure access to sustainable 
+transport is considered in planning 
+applications  
+Work with schools, parents and part-
+ners to reduce the carbon foot print 
+of the daily school commute  
+/ 55 
+ View detailed action plan  Read full discussion paper on Transport  TRANSPORT  
+/ 56 For the first time, this year will see Dorset Council using low 
+energy asphalt (LEA) on all resurfacing schemes and as a 
+surface course on new construction projects such as cy-
+cleways.   
+The material is produced 30 to 40 degrees lower than con-
+ventional material, which is usually produced at 180 degrees. 
+This reduced heat results in 15% less carbon emissions dur-
+ing the production process.   
+Although widely used in America 
+and France, low energy asphalt is 
+much less common in the UK.   
+Councillor Ray Bryan, Portfolio 
+Holder for Highways, Travel and 
+Environment, said:  “Following two successful resurfacing 
+schemes trialling LEA here in Dorset, we ’ve been very keen 
+for mass -production of the material at the regional quarry, 
+Whatley. Working closely with our private sector partner Han-
+son UK this has become a reality. The quality of the lower en-
+ergy material is not affected, it helps reduce our carbon foot-
+print and it ’s actually easier to keep at temperature during 
+transport due to the lower production temperature ”.  On average Dorset Council  pool-cars travel about five to six 
+thousand miles each year. And it ’s estimated that each 
+standard diesel pool -car produces between 1.4 and 1.7 
+tonnes of CO 2 per year.   In 2013, Dorset Council introduced 
+three electric cars into its pool -car fleet to reduce these emis-
+sions.  
+Electric vehicles produce no carbon emis-
+sions in use, but do still have some associat-
+ed emissions unless the electricity to re-
+charge them comes from renewable 
+sources.   
+Compared to a standard diesel pool car that 
+travels 5 -6k miles annually, its estimated that 
+an electric equivalent travelling the same dis-
+tance produces between 0.5 to 0.6 tonnes of 
+CO 2 a year.  Since introducing the three elec-
+tric pool -cars its estimated that the Council 
+has saved around 10.5 tonnes of CO 2. There are opportuni-
+ties to reduce emissions further by using only renewably 
+sourced electricity and by increasing the number of electric 
+pool-cars within the fleet.   
+  
+Case Study: Greener Highways  Case Study: Electric Pool Cars  MAKING IT HAPPEN  
+Taking action to address the Climate and Ecological Emergency can-
+not be done solely by officers working from the centre. It will need a 
+multi -disciplinary approach, drawing on skills and resources from 
+across the organisation and with wider partners. It will need to be part 
+of the way we do things and embedded in the way we deliver our ser-
+vices.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dorset Council have placed the Climate and Ecological Emergency at 
+the heart of our Corporate Plan. This strategy document provides a 
+framework for services to integrate our response to the climate emer-
+gency into their planning. We will be using this paper as a driving force 
+to move our approach to the climate emergency forward at pace.  
+To make the strategy happen, there are several key things we need to 
+put in place.  Leadership & Governance  
+We will lobby government for additional resources and the national 
+policy framework to support climate action in Dorset. In addition, we 
+will actively input into national forums and consultations to encourage 
+policy development in this area.  
+We will ensure organisational structures are in place to take forward 
+action across the Council. We will review our structures currently in 
+place to develop this plan to ensure governance at the highest level, 
+involving key decision -makers with a clear mandate for action. This is 
+as well as ensuring all staff are aware of their responsibilities in the de-
+livery of actions, and that departments are linked at a strategic level 
+(e.g. waste and planning).  
+We will ensure enough human resource is in place to drive forward 
+action either through Council departments or involvement of wider 
+partners.  
+We will develop tools to undertake robust impact and policy appraisal 
+to ensure climate change priorities and targets are considered in all 
+key corporate projects, programmes, and strategies, and will utilise 
+whole -life costing when assessing all capital projects.  
+We will ensure climate emergency is embedded in our key strategies 
+and plans, such as the developing Dorset Local Plan and our asset 
+management plans.  
+We will ensure we fully understand the risks of climate change on our 
+business and that it is appropriately addressed within our risk man-
+agement and business continuity processes.  
+  
+ / 57 
+Figure 35  MAKING IT HAPPEN  
+Funding the response  
+Tackling the climate emergency will require significant investment at 
+all levels of society. Dorset Council alone will need to invest many mil-
+lions of pounds (over £100m) over the next 20 - 30 years just to be-
+come a Carbon Neutral Council. Many measures will have a financial 
+return on investment, but many may not. However, many will have 
+wider health and economic benefits which can be realised. As further 
+work is done to draw up detailed implementation plans for our build-
+ings, vehicles, and energy infrastructure, we will need to develop a 
+detailed financial strategy. It is a challenging, financial time for us all, 
+especially Local Authorities.  
+ 
+ 
+Wider action across the County is likely to require several billion 
+pounds of investment from the government, organisations, and indi-
+viduals. It is anticipated that further funding and incentives will be 
+forthcoming from central government to support the shift to a low -
+carbon future.  
+/ 58  
+We will work with partners and lobby government to seek additional 
+support and external funding and to maximise opportunities for exter-
+nal funding from government and others, making sure Dorset gets its 
+fair share. This is in addition to securing innovative financial arrange-
+ments for climate change projects and programmes and giving signifi-
+cant weight to climate change in the procurement process.  
+ 
+ 
+Engagement & communications  
+We all need to take action to address the climate emergency and sup-
+port the transition to a low -carbon future. Many organisations and indi-
+viduals in Dorset are already actively involved in addressing the cli-
+mate emergency. With the highest proportion of town and parish 
+councils in the UK declaring a climate emergency, we know there are 
+many knowledgeable individuals and organisations in Dorset, with 
+good practice examples that others can follow.  
+Through our initial call for ideas, Dorset residents told us they wanted 
+Dorset Council to help with understanding climate change and the 
+steps that can be taken to tackle it. The key audiences for this support 
+identified as residents, businesses, farms, and schools. Our staff are 
+also key to our success and have told us they wish to be more in-
+volved.  
+We already undertake many awareness and behaviour change activi-
+ties in areas related to tackling carbon emissions and improving ecolo-
+gy, such as active travel, household waste, and school recycling. In 
+order to tackle this emergency head on, we need to put  the climate at  We will develop a finance strategy to enable us to deliver this cli-
+mate emergency response by identifying and implementing ways for 
+our finance department to actively support climate change action. 
+This includes establishing invest -to-save schemes, such as our 
+transformation fund, capital receipts through asset rationalisation, 
+and building into our capital programme. We will also explore options 
+to raise additional funds, such as through borrowing or council tax.  MAKING IT HAPPEN  
+the forefront of our communications. We will do this by:  
+Developing a comprehensive communications strategy for our ap-
+proach to the climate and ecological emergency. This strategy will 
+draw upon a variety of media and approaches to deliver key messag-
+es on climate change issues and help drive change in Dorset, with a 
+focus on raising awareness, supporting community action, and engag-
+ing stakeholders in the decision -making.  
+Some of the key actions we will take are -  
+ 
+RAISING AWARENESS We will look to provide more ac-
+cessible and digestible information on climate change and ecology 
+and the actions we can all take through a range of channels. These 
+will include upgrading our climate change website, developing an 
+online information hub for sharing information, and best practice. This 
+is as well as directing information to residents through Council litera-
+ture and encouraging an open and ongoing dialogue between the 
+Council and Dorset residents.  
+We will improve the awareness, engagement, and knowledge of our 
+staff and service providers through staff awareness campaigns, with a 
+focus on how employees can reduce their carbon emissions. This is in 
+addition to increasing their climate resilience in the workplace and at 
+home and integrating key climate change messages into induction 
+programmes. Furthermore, we will organise targeted briefings and 
+training sessions for officers, members, and decision makers on the 
+benefits and opportunities of tackling climate change, highlighting this 
+contribution to other Council priorities. We will also establish an inter-
+nal climate change champions programme.   
+SUPPORTING COMMUNITY ACTION We will sup-
+port Town and Parish Councils to develop and implement their organi-
+sation and area wide climate action plans. This is as well as helping 
+them engage with residents to encourage community action and drive 
+change at a grassroots community level.  
+We will help to facilitate and support new and existing community -led 
+projects and community organisations active in this area. Further-
+more, we will work with these groups to signpost and communicate 
+shared messages.  
+ 
+ENGAGEMENT WITH KEY STAKEHOLDERS 
+We will consult with residents and organisations on this strategy and 
+plans as they develop, using existing and new consultation processes.  
+We will build support from stakeholders and the wider public by in-
+forming and educating on the benefits and opportunities of acting on 
+climate change and creating, maintaining, and developing partnership 
+working on all aspects of climate change action. We will seek to de-
+velop a Dorset Climate Emergency partnership group.  
+We will facilitate the development of a Dorset -wide partnership with 
+other key public, private, and third sector partners in order to develop 
+a partnership approach to driving forward some of the fundamental 
+changes that will be required to deliver a carbon neutral county.  
+/ 59 MAKING IT HAPPEN  
+Monitoring and progress reporting  
+ 
+To ensure we are on track to meet our targets and not exceed our 
+carbon budgets, we need a robust baseline and regular progress 
+monitoring of both carbon emissions and ecological indicators. Our 
+current baseline is currently incomplete.  
+/ 60 Figure 36    
+We will develop a robust baseline for Council and County carbon 
+emissions and ecology; developing in -house data collection systems 
+to draw data from all the former Councils now forming Dorset Council.  
+This is as well as considering wider emissions from Council activities 
+(Scope 3) such as procurement.  
+ 
+ 
+We will further explore the Dorset County footprint, beyond the data 
+provided by Central Government, to provide a wider understanding of 
+Dorset ’s emissions e.g. agriculture.  
+This strategy sets out the key areas for action and will be supported 
+by more detailed plans, which will develop over time. A separate de-
+tailed action plan will be published, which will be a live document and 
+updated as work develops in this area.  
+ 
+We will monitor and report on actions and progress in achieving car-
+bon reduction by producing an annual report of progress on climate 
+change targets, budgets, and actions.  
+View detailed MAKING IT HAPPEN action plan  YOUR IDEAS  
+Call for Ideas  
+In December 2019, we asked members of the public to submit ideas 
+on how Dorset Council might be able to help tackle climate and ecolo-
+gy concerns. The Call for Ideas was open to everyone through the 
+Council ’s website and was promoted widely through the local media 
+and the Council ’s social media channels.   
+ 
+ 
+ 
+ 
+ 
+ 
+Of the 783 ideas received in the Council ’s Call for Ideas, 32 were 
+invited to present at one of the two Inquiry Day sessions which took 
+place at South Walks House, Dorchester on Friday 21 February and 
+Tuesday 3 March respectively.  
+Key Findings  
+When submitting ideas, individuals and organisations were asked to 
+choose a category (Buildings, Natural Environment, Waste and Ener-
+gy, Transport, Leadership and Influence).   
+The most commonly selected was Transport, with 26% of all ideas 
+submitted falling within this category. The category with the fewest 
+submissions was leadership with just 8% of the ideas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transport & Travel... was the most common topic, with many 
+people mentioning the need to develop Dorset ’s transport links, spe-
+cifically calling for improvements to be made to the County ’s footpaths 
+and cycleways, and investment in bus and rail services.   
+An increase in EV charging points, and increased traffic control 
+measures were also mentioned frequently. This is in addition to other 
+common suggestions, including increasing park and ride schemes, 
+introducing car -free days in towns, using parking charges to  
+ 
+ / 61 Insert image  
+Figure 37  Figure 38  YOUR IDEAS  
+discourage unnecessary car journeys, and introducing no -idling 
+zones.  
+Renewable Energy Generation...  
+107 of all the ideas submitted mentioned renewable energy genera-
+tion. Ideas focusing on solar power in Dorset were the most common. 
+Examples of these ideas include installing solar PV on the roofs of all 
+Council owned buildings, the introduction of grant schemes to help 
+residents install solar PV on domestic properties and incentivising so-
+lar installation through reduced Business Rates.  
+Other renewable technologies commonly mentioned were wind, tidal, 
+heat-pumps, hydro, wave, anaerobic digestion, and multi -measure 
+approaches, with several people calling for the Navitus Bay offshore 
+wind farm plan to be re -visited.  Waste Services... Many of the ideas in this area focused on im-
+proving the waste collection and recycling services in the County. This 
+included people calling for an increase in recycling facilities, clearer 
+instructions on what and how to recycle, and the adoption of a circular 
+waste economy in Dorset.  
+Other recurring themes included initiatives to reduce litter, the intro-
+duction and enforcement of single -use-plastic policies, and waste heat 
+schemes.  
+Planning... This was the most com-
+monly mentioned theme, with 151 
+(19%) of all ideas focusing on plan-
+ning considerations and restrictions. 
+Within this theme, ideas centred 
+around three main topics:  
+ 
+Of these topics, the most commonly 
+mentioned was imposing tighter re-
+strictions on housing developers. 
+These ideas ranged from making sure 
+all new buildings are built with solar 
+panels and EV charge points, to stop-
+ping developers from felling mature trees with many between.  
+ / 62 Tighter restrictions on developers  
+Relaxation of planning restrictions 
+for listed buildings  
+Prioritisation of brownfield sites for 
+development  Insert image  
+Figure 39  
+Figure 40  YOUR IDEAS  
+Leading the way...  
+A high proportion of the ideas submitted focused on the leadership 
+role of the Council, and key changes it can make to its own operations 
+and behaviours to set an example for the rest of the County. Recur-
+ring themes under this heading included:  Communication and support... Many of the ideas called on 
+the Council to provide more information and support on understand-
+ing climate change and the steps that can be taken to tackle it. The 
+key audiences for this support were identified as residents, business-
+es, farms, and schools. Furthermore, ideas included the development 
+of a support platform or hub, increased communication and educa-
+tion, and the sharing of best practice.  
+Support for community action was another recurring theme under this 
+heading. Many people suggested that the Council should help facili-
+tate and support new and existing community -led projects.  
+Natural Environment... Tree planting schemes featured heavily 
+in the ideas submitted, with many people wanting the Council to plant 
+more trees and support others to do the same. People also suggested 
+re-wilding schemes that could be introduced in the County and the 
+need for this approach to be reflected in wider policy making and 
+planning decisions.  People also asked for an increase in environmen-
+tal protections, changes in greenspace management, and a reduction 
+in the use of harmful pesticides and herbicides.  
+Several people suggested adopting a less impactful approach to 
+verge side management, something that Dorset Council pioneered.   
+Barriers... The top three barriers to implementing ideas identified 
+by people were:  
+/ 63 Investment in electric or biofuel vehicles  
+Following examples of others  
+Implementing stricter laws  
+Reducing the footprint of the Council ’s build-
+ings 
+Making changes to the Council ’s operations  
+Working with partners  
+Lobbying central government  
+Developing and publishing plans  
+Making changes to street lighting  
+Divesting from fossil fuel investments  
+Public consultation  
+Monitoring, recording, and publishing data  
+YOUR IDEAS  
+Engaging with Dorset ’s Youth  
+It was also key that we heard from Dorset ’s young people on the issue 
+of Climate Change and what it meant to them. Representatives from 
+schools across Dorset and Kingston Mauward College came to speak 
+to the Council ’s EAP in December. They told us about their major con-
+cerns of what climate change may mean to their futures and worries 
+about the type of world they will be inheriting in years to come. They 
+asked that we take action to reduce carbon emissions and encourage 
+everyone in Dorset to take action.  
+EAP members 
+visited Damers 
+school to learn 
+about all their eco
+-school initiatives 
+already encour-
+aging local busi-
+nesses to act by 
+removing single 
+use plastics. They 
+also presented their ideas at the Inquiry Day in March.  
+Members of Dorset Youth Council also attended the Inquiry Day ses-
+sion and updated on their actions to develop a climate pledge for Dor-
+set and their work to encourage schools to take greater action. They 
+also laid down a challenge to Councillors to reduce their personal car-
+bon footprint in the #CouncillorZeroCarbonChallenge .  
+We will make sure the youth view informs the development of our ac-
+tion to tackle climate change in Dorset.  
+/ 64 Figure 42  Using your ideas  
+We have taken account of the key findings and recurring themes 
+raised through our engagement with Dorset residents and have used 
+these to help shape this strategy and the Council ’s approach to tack-
+ling and mitigating climate change in Dorset. You will see this within 
+the relevant areas for action section within this strategy, as well as in 
+the more detailed supporting papers.  
+As we move forward to develop more detailed plans for the delivery of 
+the strategy, we will draw on the specific detail of the individual ideas 
+submitted.  Figure 41  NEXT STEPS  
+This strategy is a start at setting out the general direction of travel that 
+is required within the County. It explains some of the key challenges 
+that we all face in achieving a carbon -neutral Dorset and identifies 
+some of the areas where Dorset Council will endeavour to take action. 
+Achieving our goal will require a shared understanding of the issues 
+and action, by not only the Council, but organisations and individuals 
+across Dorset.  
+Action has already started in several areas highlighted within this 
+strategy and many initiatives are already in place to mitigate climate 
+change, improve and protect ecology and make Dorset more resilient 
+to climate change. It is clear however, that we need a massive step up 
+in our actions.   
+ 
+Consult with the public and wider stakeholders  
+Our next key step in finalising this strategy is to consult the public and 
+key stakeholders in order to gather your views on the approach set 
+out in this document. This will largely take the form of a detailed ques-
+tionnaire to find out if you think we have this strategy right, have iden-
+tified the correct areas for action, or whether any points are missing or 
+need further consideration. We intend to do this over the autumn to 
+ensure your views are reflected in the final strategy and help inform 
+our action plans.  Detailed action planning  
+We will take a project management approach to the delivery of our 
+Climate and Ecological Emergency response. The areas for action 
+within this strategy will therefore be further developed into a detailed 
+plan setting out clear actions to be undertaken by Dorset Council. We 
+will use the ‘Areas for action ’ as a basis for this but will also draw upon 
+the actions raised through our ‘Call for ideas ’. 
+Our Action Plan will set out our objectives, specific detailed actions, 
+who in Dorset Council will be responsible, timescales and perfor-
+mance measures. We will also include details of other key partners 
+required to help deliver these actions, the scale of potential carbon 
+savings and the associated co -benefits (health, economy, ecology 
+and resilience).  
+/ 65 
+It is our intention to finalise this strategy with detailed action plans for 
+approval by the Council in the new year (2021).   NEXT STEPS  
+/ 66 Ensuring we stay on track  
+As noted in ‘Making it Happen ’ we will finalise our baseline and moni-
+tor and report progress annually against our carbon budgets and eco-
+logical indicators. These will be our headline indicators.  
+We will also monitor and track progress against individual actions 
+within our plan and report progress regularly to Dorset Council ’s Cabi-
+net and senior management. Each year we will review and update our 
+action plans and provide an annual report of progress. We will make 
+sure this is widely promoted to residents and organisations in Dorset.     
+Things will change. We will be heavily reliant on policy and 
+financial support from the government as well as 
+further technological advancements particularly 
+in the field of hydrogen, battery storage and 
+smart technologies. We will keep track of these 
+rapidly changing developments and adjust our strat-
+egy and action plans accordingly.  
+We will regularly review our overall strategy and ap-
+proach to ensure it is still relevant and up to date. At a 
+minimum we will update our strategy and refocus as re-
+quired every 5 years.  
+REFERENCES  
+Figure1: © Owen Vachell, Chapmans Pool, photograph, source Dorset AONB  
+Figure 2: photograph, source Pixabay, https://pixabay.com/  
+Figure 3: © Sedat Ozkanca, Garlic Wood —Near Milton Abbas, photograph, source 
+Dorset AONB  
+Figure 4: © Dave Penman / Moonfleet Photography, photograph, Source Dorset 
+AONB  
+Figure 5: Impact of Climate Change on Physical, Mental, and Community Health, 
+table, source U.S. Global Change Research Program, 2016. The Impacts of Climate 
+Change on Human Health in the United States: A Scientific Assessment  
+Figure 6: © Dave Penman / Moonfleet Photography, Source Dorset AONB  
+Figure 7: © Dave Penman / Moonfleet Photography, Source Dorset AONB  
+Figure 8:  © Michael Brown, Flower Meadow at Durlston, photograph, source Dor-
+set AONB  
+Figure 9: Wellbeing map, Dorset AONB / Dorset Council  
+Figure 10 Wellbeing diagram  
+Figure 11: Accelerated modern human –induced species losses: Entering the sixth 
+mass extinction Ceballos et al 2015, graph, source https://
+advances.sciencemag.org/content/1/5/e1400253  (Science Advances, 19 Jun 2015: 
+Vol. 1, no. 5),  
+Figure 12: © Michael Brown, Coombe Heath, photograph, source Dorset AONB  
+Figure 13: © Rosie Mathisen, Seatown - Golden Cap Estate, photograph, source 
+Dorset AONB  
+Figure 14: © Sian Lister, Totem, photograph, source Dorset AONB  
+Figure 15: photograph, source Pixabay, https://pixabay.com/  
+Figure 16: photograph, source Pixabay, https://pixabay.com/  
+Figure 17: Table 3, Proportion of net greenhouse gas emissions in each end user 
+sector, UK 2017, Final UK greenhouse gas emissions national statistics 1990 -2017 
+Excel data tables.  
+Figure 18: Proportion of net greenhouse gas emissions in each end user, table, 
+source BIES  
+Figure 19: NI 186 - Per capita CO2 emissions in the LA area, source https://
+data.gov.uk/dataset/c0f70493 -dd62 -49a8 -8f27-befa1fa70aed/ni -186-per-capita -
+co2-emissions -in-the-la-area  Figure 20: Dorset Council baseline emissions diagram, Dorset Council  
+Figure 21: Emissions pathways, diagram, Dorset Council  
+Figure 22: Emissions pathways, diagram, Dorset Council  
+Figure 23: © Dave Penman / Moonfleet Photography, source Dorset AONB  
+Figure 24: Solar PV installation at Cerne Abbas Village Hall, source Low Carbon 
+Dorset  
+Figure 25: Clean Earth Energy, Dorset PV installation, photograph, source Low Car-
+bon Dorset  
+Figure 26: © Nick Bowring, Riversmeet, photograph, source Low Carbon Dorset  
+Figure 27 and 28: photograph, source Dorset Food & Drink  
+Figure 29: Dorset Innovation Park, photograph, source Dorset Council  
+Figure 30: Dorset waste services, photograph, source Dorset Council  
+Figure 31: © Nick Bowring, Riversmeet aerated shower heads, photograph, source 
+Low Carbon Dorset  
+Figure 32: © Rosie Mathisen, The Knowle - Looking towards Puncknowle, photo-
+graph, source Dorset AONB  
+Figure 33: © Kevin Freeman, Hambledon Hill, photograph, source Dorset AONB  
+Figure 34: photograph, source Pixabay, https://pixabay.com/  
+Figure 35: Corporate Priorities, diagram, source Dorset Council  
+Figure 36: photograph, source Pixabay, https://pixabay.com/  
+Figure 37: Climate Emergency Inquiry Day, photograph, source Dorset Council  
+Figure 38: Call for Ideas Key Theme Breakdown, diagram, source Dorset Council  
+Figure 39: Bournemouth University Solar PV installation, photograph, source Low 
+Carbon Dorset  
+Figure 40: Solar panels on roof, photograph, source Pixabay  
+Figure 41: Damers ’ Eco Crew presenting at Climate Emergency Inquiry Day, source 
+Dorset Council  
+Figure 42:  Burning ideas, source Dorset Council  
+Figure 43: © Owen Vatchell, White Knothe, photograph, source Dorset AONB  
+/ 67 REFERENCES  
+Further references:  
+Ceballos et al: Accelerated modern human –induced species losses: Entering the 
+sixth mass extinction  (Science Advances, 19 Jun 2015: Vol. 1, no. 5)  
+Gilburn, A.S. et al (2015). Are neonicotinoid insecticides driving declines of wide-
+spread butterflies?  PeerJ 3:e1402  
+RSPB The State of Nature UK Report 2016   
+Newton, A.C., Watson, S.C.L., Evans, P., Ridding, L., McCracken, M., Anger -Kraavi, 
+A., and Bullock, J. (2019). Trends in natural capital, ecosystem services and eco-
+nomic development in Dorset.  Bournemouth University  
+2006 Dorset Environmental Record Centre analysis for Pastures New, a project led 
+by Dorset AONB Partnership  
+World Economic Forum 2010: Biodiversity and business risk  (authored by PWC) for 
+the WEF Davos -Klosters Annual Meeting  
+Grosdidier M., Scordia T., Ioos, R., Marçais B (2020) Landscape epidemiology of 
+ash dieback , J. Ecol.   
+Reading University Centre for Food Security newsletter   
+Richardson, M., National Trust (2020) Noticing Nature . University of Derby  
+Committee on Climate Change, Net Zero – The UK ’s contribution to stopping global 
+warming, May 2019  
+2017 UK GREENHOUSE GAS EMISSIONS, FINAL FIGURES, ONS, 5 February 
+2019  
+NI 186 - Per capita CO2 emissions in the LA area  – MHCLG  
+Video clip photo credits in order of appearance:  
+Food & Drink video clip: images 1,7,8,9,10,11 © Lewis Webster source Dorset 
+Council, image 2 © Rosie Mathisen source Dorset AONB, images 3,5,6 source Dor-
+set Council, image 4 © Kevin Freeman source Dorset AONB, image 12 © Tony Gill 
+source Dorset AONB, images 13,14,15 source Dorset Food & Drink  
+Economy video clip: all images source Dorset Council  
+Waste video clip: all images source Dorset Council  
+Water video clip: image  7 source susdrain, all other images source Dorset Council  
+/ 68 Natural Assets video clip: all images source Dorset Council  
+Food & Drink video clip: images 1,7,8,9,10,11 © Lewis Webster source Dorset 
+Council, image 2 © Rosie Mathisen source Dorset AONB, images 3,5,6 source Dor-
+set Council, image 4 © Kevin Freeman source Dorset AONB, image 12 © Tony Gill 
+source Dorset AONB, images 13,14,15 source Dorset Food & Drink  
+ 
+ 
+ / 69 
+Figure 43  

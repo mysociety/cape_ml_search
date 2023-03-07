@@ -1,0 +1,2089 @@
+1 |  LBTH Net Zero Carbon  |  March 20  |  Rev A
+London Borough of Tower Hamlets
+March 2020| Rev ANet Zero Carbon PlanNet Zero Carbon
+Council District
+by 2025 by 2050
+2 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Net Zero Carbon Tower Hamlets  | Executive summary
+The science is clear
+Climate change is happening and needs to be urgently slowed down 
+to avoid terrible consequences. Business as usual is not an option to 
+solve this crisis.
+A Net Zero Carbon Council by 2025
+In March 2019, Tower Hamlets Council declared a climate emergency. 
+The Council is now aiming to be Net Zero Carbon by 2025. This report 
+shows that it is possible but that it will require decisive action starting 
+now to reduce direct emissions by 75%. The residual emissions will 
+have to be offset.
+A Net Zero Carbon Borough by 2050
+This report also recommends that Tower Hamlets Council uses its 
+powers, influence and leadership to put the Borough on the right track 
+to achieve Net Zero Carbon by 2050 (or earlier if possible). 
+Net Zero Carbon is possible
+This report demonstrates that it is technically possible to achieve Net 
+Zero Carbon. This would require decisive strategic decisions from 
+Tower Hamlets Council in 8 key areas shown on the adjacent diagram.
+This would also require significant investments, although there is a huge 
+potential to combined them with regular maintenance and replacement 
+cycles.
+The Council should also develop an approach to offset the residual 
+emissions. Some solutions (e.g. social housing retrofit, investment in 
+additional renewable energy capacity) are possible in 2025 but not 
+acceptable in the long term. By 2050, residual emissions in the UK will 
+have to be less than 10% of what they are now, leaving only a 
+marginal role for offsetting by increasing plant cover, for example 
+tree planting.
+Our approach for real emission reductions
+To allow the council to see how to effect emissions this report 
+categorises emissions by use type. This means emissions are assigned 
+based on the ability to affect change.
+All calculations show total greenhouse gas emissions (CO2e) and all 
+reductions refer to this, however for accessibility and simplification we 
+refer to ‘carbon’ throughout the report. By this we mean carbon 
+dioxide which contributes by far the majority of greenhouse gas 
+emissions in the borough.
+Breakdown of borough carbon emissions by use type, showing the 
+categorisation and proportion of emissions from each source, and the 
+control the Council has over each sector.3 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+-400-20002004006008001000120014001600Total annual greenhouse gas emissions from LBTH (ktCO2e)Offset
+F-gases*
+Aviation*
+Industry
+Forestry and land use
+Transport
+Waste*
+Other metered energy
+Buildings and towns
+-4-2024681012Annual greenhouse gas emissions (ktCO2e/yr)Required offset
+Transport
+Street lighting and other small
+external uses
+Buildings & Landlord areasZero Carbon Tower Hamlets  | Executive summary
+Net Zero Carbon Council by 2025
+The current total carbon emissions under the Council’s direct control are 
+10 ktCO2e/year and are dominated by buildings. External energy 
+use (e.g. street lighting) and transport also represent significant 
+sources of emissions. 
+There is considerable potential to reduce emissions very significantly 
+by 2025: a target of 75% carbon reduction should be set, bringing 
+the estimated annual emissions to 2.5 ktCO2e/year.
+The residual emissions will need to be offset, and suitable offset 
+mechanisms are discussed in the report. 
+Key actions include:
+Power
+Install 20,000 sqm PVs on the Council’s non-domestic buildings
+Start with the largest roof areas. The targeted installed capacity should be at least 4.2MW.
+Renewable power
+Ensure that electricity supply to all the Council’s assets is on a 100% renewable tariff or Power Purchase Agreement
+Buildings
+Start retrofitting existing buildings owned and operated by the Council (e.g. Council’s offices) 
+Retrofit heat pumps, use energy management to reduce energy use, improve building energy efficiency: insulation, improved 
+airtightness and better windows, install Mechanical Ventilation with Heat Recovery (MVHR) wherever possible, install PVs. An 80%
+carbon reduction on-site should be achieved for full retrofit projects, or a plan put in place to achieve this.
+Transport
+Replace the Council’s diesel and petrol cars with electric cars and vans
+Accelerate the replacement cycle so that 95% of the Council’s cars and vans are electric by 2025
+Replace the Council’s lorries with cleaner options when they become available
+The aim is to have 30% of the Council’s lorries as low emissions by 2025.
+Install electric charging points for the Council’s fleet
+Waste
+Target a 70% recycling rate for waste from all Council buildings by 2021
+Forestry, land use and agriculture
+Change diets
+Reduce the meat content and increase vegetarian choices of food served on Council owned premises.Net Zero Carbon Borough by 2050
+The current carbon emissions from the whole borough are 1,600 
+ktCO2e/year.
+The ‘Net Zero’ report by the Committee on Climate Change articulates 
+what the UK will need to do to achieve Net Zero Carbon by 2050. The 
+London Borough of Tower Hamlets would need to implement these 
+solutions. We estimate that a minimum 90% reduction in carbon 
+emissions should be achieved (ideally lower). The total residual 
+emissions would need to be lower than 150 ktCO2e/year.
+Key actions include:
+Power
+Achieve a total PVs capacity across the whole of the borough of 430 MW (equivalent to 1,500,000-1,900,000 sqm)
+Buildings
+Phase out gas boilers and gas-fired CHP
+Stop the installation of any new gas boilers from 2020. Stop the installation of new gas-fired CHP immediately. Switch to low 
+carbon heat (e.g. heat pumps). Gradually phase out gas for heating and cooking in the borough. 
+Net Zero Carbon new buildings from 2025
+Mandate ultra-low levels of energy use in new buildings. This is through setting a kWh/m2total energy target, and a space heating 
+demand target in line with Passivhaus (15 kWh/m2). Buildings should also use low carbon heat and have on-site renewable energy 
+(e.g. PVs). 
+Major retrofit programme with ambitious energy objectives
+90% of existing homes and buildings should have benefited from low energy retrofit by 2050 (by 2030 for Tower Hamlets homes, 
+schools leisure centres). An average heating energy demand of 40kWh/m2/yr should be achieved for retrofit homes. Low carbon 
+heat should replace gas boilers.
+Transport
+99% carbon reduction from cars and vans
+All domestic and light goods mileage should be completed by electric vehicles or equivalent by 2050.
+80% carbon reduction from lorries
+HGV emissions reduced by 50% through reduced journeys, switch to rail, and developing hydrogen or electric drivetrain 
+technologies.
+Reduce air travel 
+To meet zero carbon ambition the number of flights from the UK should reduce by more than 80% unless alternative technologies can 
+be found.
+Waste
+Waste reduction and circular economy
+64% reduction in emissions from waste in line with ‘further ambition’ recommendations by the CCC.Current Current 2025 2050
+Total annual greenhouse gas emissions from the London Borough of Tower Hamlets 
+as a whole LBTH for the last reported year (2018) and the required emissions for 
+Net Zero Carbon in 2050Total annual carbon emissions from Tower Hamlets Council for the last reported 
+year (2018) and the required emissions in 20254 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Listening to the voices of experts
+The Committee on Climate Change
+The Committee on Climate Change is an independent, statutory body 
+established under the Climate Change Act 2008. Its purpose is to 
+advise the UK Government and devolved administrations on emissions 
+targets and report to Parliament on progress made in reducing 
+greenhouse gas emissions and preparing for climate change. 
+The Committee on Climate Change published its report “ Net Zero: The 
+UK’s contribution to stopping global warming ” in May 2019.  Some 
+of the key recommendations of the report include:
+•A Net Zero greenhouse gas emission target is not credible unless 
+policy is ramped up significantly.
+•Delivery must progress with much greater urgency.
+•Clear leadership is needed, right across Government, with delivery 
+in partnership with businesses and communities. 
+The National Grid
+Each year the National Grid issues its Future Energy Scenarios. Its 
+analysis aligns with the Committee on Climate Change.  It concludes 
+that strong policy actions [to wholly decarbonise electricity supply and 
+improve energy efficiency of new and existing homes] must be taken 
+and there is no room for delay.
+World Health Organisation
+The World Health Organisation published “COP24 special report: 
+health and climate change” in 2018.  It states that the severity of the 
+impact of climate change on health is becoming increasingly clear and 
+that the drivers of climate change – principally fossil fuel combustion –
+pose a heavy burden of disease. The costs of this ill health and 
+disease represent in turn a heavy economic burden.  The report states 
+that “the most recent evidence indicates that the health gains from energy 
+scenarios to meet the Paris climate goals would more than meet the 
+financial cost of mitigation at global level ”.
+Extinction Rebellion
+Extinction Rebellion is a movement that uses non-violent civil 
+disobedience to highlight the urgency of the climate change crisis. 
+Their key demands are: 
+1. Tell the truth about the climate and ecological emergency
+2. Act Now 
+3. Hold a citizen’s assembly on climate and ecological justice“Reaching net zero carbon emissions 
+by 2050 is achievable . However, 
+this requires i mmediate action 
+across all key technologies and 
+policy areas.”  
+National Grid
+Future Energy Scenarios, 2019“Delivery of greenhouse gas emission 
+reductions must progress with far 
+greater urgency ”
+Committee on Climate Change
+“Net Zero” Report, 2019
+“If we don't take action, the 
+collapse of our civilisations and 
+the extinction of much of the 
+natural world is on the horizon”
+David Attenborough
+at the UN Climate Summit, 
+Poland, 2018
+“Economic valuation of health gains 
+would tip the balance decisively in 
+favour of more aggressive climate 
+mitigation.”
+World Health Organisation , 
+“COP24 special report: health and 
+climate change”, 2018
+5 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+•The climate emergency
+•Energy and the electricity revolution
+•Understanding the Council’s emissions
+•Understanding the Borough’s emissions
+•What will happen if no action is taken
+•The case for acting nowWhere are we now?
+6 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan The climate emergency and Zero Carbon
+The science is clear
+Climate change is happening and needs to be urgently slowed down 
+to avoid terrible consequences.
+The most recent international negotiations on Climate Change 
+concluded with the Paris Agreement in December 2015. This 
+Agreement reaffirms global ambition to limit temperature rises to 
+below 2°C and binds every country to produce national plans to 
+reduce emissions. The agreement also contains a further collective 
+aspirational goal to reduce emissions in line with keeping the 
+temperature increase to 1.5°C. 
+The Special Report on Global Warming of 1.5°C (SR15) was 
+published by the Intergovernmental Panel on Climate Change (IPCC) in 
+October 2018. It highlighted the urgency of the situation and the need 
+for decisive action in the next 10 years.
+National commitment
+In May 2019, the Committee on Climate Change published its ‘Net 
+Zero report’ and set out the ambitious aim of phasing out carbon 
+emissions in the UK by 2050. The Government adopted the 
+recommendation of this report and the Climate Change Act was 
+amended in June 2019 to reflect this ambition: achieving net zero 
+emissions by 2050.
+In addition, the Department for Business, Energy and Industrial 
+Strategy (BEIS) has set the Buildings Energy Mission, with the objective 
+of halving the energy use of new buildings by 2030.
+Tower Hamlets declaration of climate emergency
+In March 2019, Tower Hamlets became one of the first councils in the 
+country to declare a climate emergency. One of the associated 
+commitments is for Tower Hamlets to aim to become a zero carbon or 
+carbon neutral Council by 2025. 
+Public calls for action
+Since October 2018, there has been a surge in civil society’s interest 
+and action on climate change. The Schools strike movement started by 
+Greta Thunberg and civil disobedience from Extinction Rebellion are 
+requesting action and truth from those in a position to act. We have to do everything we can to reduce global warming to less than 1.5ºC
+In March 2019, Tower Hamlets became one of the first councils in the 
+country to declare a climate emergency
+The UK Government has committed in June 2019 to 
+Net Zero emissions by 2050
+Greta Thunberg, the Schools strike movement and Extinction Rebellion 
+are calling for action now7 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Energy and the electricity revolution
+The decarbonisation of the grid
+Electricity used to have a very high carbon content: more than 1,000 
+gCO2e/kWh in the early 1970’s. It has become steadily ‘greener’ 
+since, although it reached a plateau of approximately 500 
+gCO2e/kWh during the 2000’s. At that time, heating systems using 
+gas such as boilers and especially CHP were seen as environmentally 
+friendly options.
+This has now changed completely: the de-commissioning of coal-fired 
+power stations and the rise of renewable energy (particularly wind 
+and solar) have meant the annual average carbon content of 
+electricity is now around 150-200 gCO2e/kWh and predicted to 
+reduce more in the next decade (see adjacent graph).
+The National Grid’s Future Energy Scenarios
+The National Grid produces a set of future energy scenarios every 
+year. These are used to facilitate the understanding of how the UK’s 
+electricity generation mix could develop. 
+We focused on the two scenarios which can meet (or be close to 
+meeting) the UK climate change targets: the ‘Two Degrees’ and the 
+‘Community Renewables’ scenarios. 
+As the ‘Two Degrees’ scenario relies on a large proportion of new 
+nuclear energy plants and as there is a significant degree of 
+uncertainty for new nuclear plant financing, our recommendation is to 
+consider the ‘Community Renewables’ scenario as the most likely.
+This scenario assumes that around 70% of annual electricity demand in 
+2050 will be met by wind and solar power. 
+BEIS and HM Treasury projections
+BEIS and HM Treasury have also published their projections for the 
+future carbon content of electricity, which show good agreement with 
+the ‘Community Renewables’ scenario.
+What it means in practice
+We have used these sources to predict the future carbon content of 
+electricity over the next 30 years, e.g. 
+136 gCO2e/kWh in 2020
+108 gCO2e/kWh in 2025
+27 gCO2e/kWh in 2050. 
+Our calculations have taken into account the changing carbon content 
+of electricity, while gas was assumed constant at 216 gCO2e/kWh.The carbon content of electricity has fallen in the last few years and will continue to decrease.
+Unfortunately, the carbon content used in Part L 2013 of the Building Regulations has not been updated.The four National Grid Future Energy Scenarios (© National Grid)
+High level assessment of the four National Grid scenarios Community Renewables: what it means in terms of power generation in the UK over the period 
+2020-2050: the rise of renewable energy‘Consumer Evolution’ Discounted
+Not compliant with avoiding 1.5˚C warming
+‘Steady Progression’ Discounted
+Not compliant with avoiding 1.5˚C warming
+‘Two Degrees’ Discounted
+Relies on nuclear capacity increasing from 9GW in 
+2018 to 17GW in 2050. Not considered realistic as 
+three of six proposed new nuclear projects have been 
+cancelled, nuclear has consistently failed to attract 
+private investment and electricity prices are higher than 
+those for onshore wind, offshore wind and solar 
+photovoltaics.
+‘Community Renewables’ Considered
+Etude assume this scenario offers the most plausible 
+1.5˚C compliant UK electricity generation mix pathway. 
+This scenario was developed to achieve the UK’s now 
+outdated Climate Change Act target of an 80% 
+reduction in emissions by 2050.010020030040050060070080090010001100
+1970 1980 1990 2000 2010 2020 2030 2040 2050Grid Emission Factor (gCO2e/kWh)MTP (2010)
+UK CCC (2013)
+Drax Electric Insights (2019)
+National Grid (2019) 'Community Renewables'
+National Grid (2019) 'Two Degrees'
+National Grid (2019) 'Steady Progression'
+National Grid (2019) 'Consumer Evolution'
+Natural Gas
+050100150200250300350400450500
+2020 2025 2030 2035 2040 2045 2050Electricity Generation (TWh)
+Interconnectors Waste Biomass Coal
+Gas Nuclear Hydro Marine
+Offshore Wind Onshore Wind Solar Other Renewables8 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+A breakdown of the influence the Council has over sources of emissions in the borough. Note: diagram not to scaleCouncil and borough emissions: the Council’s power and influence
+Direct Council emissions
+Tower Hamlets Council’s direct control emissions only cover the 
+following sources: 
+1. The buildings the Council occupies (owned or rented)
+2. Landlord areas in rented buildings e.g. Tower Hamlets Homes 
+communal lighting, building-based pumping for communal heating
+3. The Council’s fleet and business travel
+4. Street lighting and other external public uses e.g. CCTV, markets, 
+parks. 
+The Council’s ability to influence
+The Council has however significant power and influence to be able to 
+affect greenhouse has (GHG) emissions beyond its own operations to 
+the borough as a whole. 
+Responsibility
+These include schools and leisure centres in Tower Hamlets (also 
+including a small number of nurseries) and all dwellings managed by 
+Tower Hamlets Homes (excluding landlord areas).
+Policy
+Well crafted policy is a key change driver. It has significant ability to 
+reduce carbon emissions from new developments, limit the destruction 
+of natural habitats and increase nature and biodiversity within the 
+borough.
+Leadership
+Tower Hamlets Council is in a position of leadership.  It holds great 
+power to drive change through the procurement processes it is 
+involved in, through activities it will and will not allow to take place 
+within its jurisdiction, and through partnerships with other key players 
+in the borough, such as Canary Wharf, Queen Mary University, TfL 
+and the NHS.
+Facilitation
+The public and local businesses look to Tower Hamlets for leadership 
+and guidance. The Council could become a trusted advisor and leader 
+in the climate crisis through the provision of support to the public and 
+businesses in reducing their carbon footprint and engendering more 
+sustainable and ethical behaviour.
+9 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Understanding the Council’s direct emissions, and those under its responsibility 
+The Council’s ‘ direct control ’ carbon emissions are dominated by buildings; emissions from 
+landlord areas represent a non-negligible partEmissions under the Council’s ‘ direct control ’ and ‘responsibility’ (including those from Tower Hamlets 
+Homes, schools and leisure centres) are much more significant than those under its direct control only. 
+They need to be addressed as well.
+The Council’s own emissions and those under its responsibility represent approximately 3% of the 
+total Borough emissionsDirect emissions are dominated by buildings
+Buildings owned and/or occupied by the Council represent the 
+majority of its direct control emissions, followed by emissions from 
+external areas and from landlord areas (e.g. staircase lighting, 
+presumably mostly in housing blocks). 
+After buildings, the Council’s vehicle fleet is the largest source of direct 
+emissions; the majority from lorries.
+Emissions under the Council’s responsibility are 
+significant and need to be addressed
+Emissions from Tower Hamlet Homes are more than three times  higher 
+than the total of those directly controlled by the Council from buildings 
+and transport. There are approximately 11,500 THH dwellings . They 
+are mainly EPC D-rated (42%) and E-rated (32%). No THH energy 
+consumption data is available, therefore it was estimated using the 
+Ofgem national average. It should be noted that EPCs are a poor 
+indicator of actual energy consumption.
+Schools and leisure centres also represent a significant source of 
+emissions. Schools are spread over 73 sites, with 11 responsible for 
+over 50% of emissions. 
+Emissions are reported by user, inline with the CCC
+The Green House Gas reporting protocol defines a methodology for 
+organisations to report emissions arising from their activity. It defines a 
+convention to ensure that emissions are not double counted by 
+different organisations, and identifies responsibility based on the root 
+sourceof emissions. 
+Here we have taken a different approach, reporting the carbon 
+emissions that the Council is responsible for based on use. This gives a 
+more robust strategy to target reducing emissions, and is in line with 
+the Committee on Climate Change approach to national emissions 
+reporting.
+The Council can influence further savings in the 
+borough
+The Council’s direct greenhouse gas emissions account for only 1% of 
+the Borough’s emissions, and 3% when also accounting for those under 
+its responsibility e.g. emissions from THH, schools and leisure centres. 
+However, the Council also has some influence over a proportion of 
+Borough-wide emissions for example through planning and transport 
+policy, waste collection policy, and stakeholder engagement.
+The target is for the Council’s ‘direct control’ emissions to achieve Net Zero Carbon by 2025 Current 2025 205010
+ktCO2e/yr
+ZeroCurrent carbon 
+emissions for the 
+whole boroughCurrent carbon emissions 
+under the Council’s 
+responsibility (e.g. Tower 
+Hamlets Homes, Schools, 
+Leisure Centres)Current LBTH Council 
+‘direct control’ carbon 
+emissions
+ - 5 10 15 20 25 30 35 40 45 50
+Total estimated Council GHG
+emissions in 2018Annual carbon emissions (ktCO2e/yr)Transport - Unknown vehicle and/or fuel
+Transport - Fleet - Lorries
+Transport - Fleet - Vans
+Transport - Fleet - Cars
+Transport - Business Travel - Cars
+Street lighting and other small external uses
+Landlord electricity for communal heating
+Landlord uses e.g. staircase lighting
+Non-domestic Buildings
+ - 5 10 15 20 25 30 35 40 45 50
+Total estimated Council GHG emissions in
+2018: direct control + responsibilityAnnual carbon emissions (ktCO2e/yr)Transport - Unknown
+Transport - Business travel
+Transport - Fleet
+Responsibility - Leisure centres
+Responsibility - Schools
+Responsibility - THH
+Street lighting and other small external uses
+Landlord electricity for communal heating
+Landlord uses e.g. staircase lighting
+Non-domestic Buildings10 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+-4-2024681012
+Total estimated Council
+GHG emissions in 2018`Forecast 'business as usual'
+Council's emissions in 2025Total required Council GHG
+emissions in 2025 for net
+zero carbonAnnual carbon emissions (ktCO2e/yr)Required offset
+Transport
+Street lighting and other small external uses
+Buildings & Landlord areasCouncil’s direct emissions  |  Closing the Carbon Gap
+Carbon gap analysis
+The Council’s emissions are already expected to reduce between now 
+and 2025 due to a combination of factors
+•Management of assets e.g. disposal / moving out of inefficient 
+buildings, in particular Mulberry Place and the associated move 
+towards a lower carbon new Town Hall. The Council may dispose / 
+move out of other buildings but we have currently only accounted 
+for Mulberry Place.
+•Carbon policy measures from the Council (e.g.  retrofitting, 
+energy management, and tree planting) and from Government, as 
+well as market-driven changes (e.g. uptake of electric vehicles). 
+This is estimated to lead to a 10% reduction in building’s carbon 
+emissions by 2025, and a 30% reduction in emissions from cars 
+and 10% from vans (by switching to EVs and hybrid vehicles).
+•Decarbonisation of the electricity grid: as the carbon content of 
+every unit of electricity used continues to decrease, emissions 
+associated with electricity will reduce without any action from the 
+Council.
+The Council can and must do more, and faster
+Overall, under the current “business as usual” trajectory, it is 
+estimated that by 2025 the Council’s direct control emissions would be 
+approximately 40% lower than currently. 
+Unfortunately, this is more than twice higher than what they need to 
+be if the Council is to achieve a 75% carbon reduction and offset the 
+residual emissions in order for the Council to be zero carbon by 2025. 
+Actions required to deliver this objective are provided in this report.
+This analysis focuses on the Council’s direct control emissions. When also 
+accounting for emissions under the Council’s responsibility (e.g. Tower 
+Hamlets Homes, leisure centres and and schools), the gap would 
+significantly increase.
+Switching Town Hall from Mulberry Place to the new Town Hall is a large part of the expected reduction by 2025 
+(based on planning stage carbon predictions for the new Town Hall) (© AHMM)The carbon gap by 2025: estimated direct control emissions accounting for current carbon policy, stock 
+management, and electricity grid decarbonisation will be lower than current emissions… but not low 
+enough. 
+2025 Carbon GapBusiness as usual
+Net Zero Carbon target11 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+-400-20002004006008001000120014001600
+Total borough GHG
+emissions in 2016Forecast total borough GHG
+emissions in 2050Total required borough
+GHG emissions in 2050 for
+net zero carbonTotal annual carbon emissions from LBTH (ktCO2e)Offset
+F-gases*
+Aviation*
+Industry
+Forestry and land use
+Transport
+Waste*
+Other metered energy
+Buildings and townsUnderstanding greenhouse gas emissions from the borough as a whole
+Whole borough greenhouse gas emissions
+The emissions for the borough as a whole are estimated to represent 
+approximately 1,600 ktCO2e/yr. The size of the challenge to reduce 
+greenhouse gas emissions is clearly shown. Although emissions are 
+already forecast to reduce (see ‘business as usual’ bar), this drop is 
+almost entirely due to decarbonisation of electricity. As the rate of 
+national grid decarbonisation slows in the late 2020’s the borough 
+emissions are shown to level unless more actions are taken.
+Emissions are categorised by sector in a similar way to 
+national reporting by the CCC
+The categories used are the same as those used by the Committee on 
+Climate Change for national reporting. The building sector has been 
+split between known building emissions, and unknown additional 
+metered energy, mainly electricity.
+Emissions are dominated by buildings and commercial 
+electricity use
+Current emissions are dominated by heating in buildings , and 
+electricity use . As the carbon content of electricity reduces the 
+importance of reducing heating demand , switching to low carbon 
+heat (for example heat pumps) and electrifying transport become 
+increasingly important.
+The contribution from road transport has been calculated on a per 
+capita basis from the total London emissions.
+The contribution from aviation has been calculated on a per capita 
+basis from the total national emissions.
+There is a big gap between business as usual and what 
+is required for Net Zero Carbon by 2050
+With the introduction by LBTH of required improvements over Part L at 
+planning, the London Plan for larger developments (minimum 35% 
+reduction over Part L + offset payments), the Ultra Low Emission Zone 
+(ULEZ), and changes to the electricity grid there are already drivers 
+for reducing emissions. However including an estimate of the effect of 
+these changes in forecasting shows a considerable shortfall when 
+compared to a zero carbon target. A step change in ambition and 
+action is required.Latest reported emissions (2016) and forecast 2050 emissions based on a business as usual scenario 
+with no major changes in policy. Emissions are currently set to reduce by 30% over the next 30 years, 
+but are significantly higher than could be offset and so higher than what is required for net zero 
+carbon. A net zero carbon scenario is shown for comparison.Historic and forecast business as usual greenhouse gas emissions from the London Borough of Tower 
+Hamlets between 2005 and 2050 showing a target trajectory for Zero Carbon in line with a 1.5C 
+warming scenario. There is a large gap between the reduction likely due to the current rate of 
+change and trajectory, and what is required to achieve Net Zero.
+Photo of housing stock, Canary wharf, server room?
+1. MHCLG, Ministry of Housing Communities and Local Government; EPCs, Energy Performance Certificate database gives 
+building attributes such as floor area and a modelled energy consumption; DECs, Display Energy Certificates give actual 
+metered energy consumption for a sample of non-domestic buildings; VOA, Valuation Office Agency issue a periodic 
+database of non-domestic buildings and energy consumption.
+2. Net Zero: The UK’s contribution to stopping global warming (2019) Committee on Climate Change
+The large additional electrical consumption metered in Tower Hamlets is likely to be from server 
+rooms and trading floors in Canary Wharf. These are not reported on building Display Energy 
+Certificates (DECs). Image courtesy Green CoolingEtude carbon emissions forecast
+Etude have developed a tool to forecast local emissions based on bottom up analysis for 
+buildings and transport to show what effect current policy and potential policy changes for 
+each building or vehicle type could have on the total emissions. 
+The bottom up analysis has been calibrated using building stock information from MHCLG 
+housing stock, EPCs, DECs, and VOA information1. Reduction from other categories is 
+estimated using the national CCC ‘core’ reduction estimates and local considerations2. 
+The estimates for buildings can be compared to the total electricity use from BEIS 
+subnational metered data. Etude estimates that over three quarters of electrical consumption 
+in Tower Hamlets is likely to be from uses not related to buildings. This is significantly larger 
+than other London boroughs and therefore may be linked to intensive commercial office use 
+such as server rooms. The estimated split has been shown as ‘Other metered energy’. Business as usual
+Net Zero Carbon target
+05001,0001,5002,0002,5003,000
+2005 2010 2015 2020 2025 2030 2035 2040 2045 2050Green house gas emissions (ktCO2e)
+Potential policy gap
+Historic emissions
+Baseline emissions including growth
+Target trajectory
+Business as usual12 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Electrification of vehicles 
+and heat
+Reduced emissions
+PM 2.5
+PM 10
+NO2The case for acting (now)
+The rate of change
+The climate is warming. Sea level rises, the reduction of ice sheets and 
+warming of oceans are happening at a rate faster than IPCC 
+predictions, and projections have consistently underestimated the rate 
+of climate change in each of their major reports since 1990. Urgent 
+action must be taken now. 
+Co-benefits
+Many of the solutions proposed for reducing carbon emissions in Tower 
+Hamlets have a positive effect on other important issues. For example:
+•Improved air quality – phasing out of petrol and diesel powered 
+vehicles on our roads and gas boilers in our buildings will reduce 
+local air pollution. This will result in improved health of the 
+population, a reduction in avoidable premature deaths and 
+savings for the NHS. 
+•Fuel poverty / housing health / equality – improving the energy 
+efficiency of homes also reduces fuel poverty, reduces inequality 
+and improves health.
+•Job creation – commitment to climate change mitigation and 
+adaptation will create new and sustainable jobs.
+•Green infrastructure / biodiversity – Preserving green space and 
+creating more woodlands and wetlands not only acts as a 
+significant carbon sink, it also creates habitat for animals, birds 
+and insects, and valuable leisure amenity for people.
+The solution is not to offset carbon
+To achieve the global reduction in greenhouse gas emissions required 
+to limit global temperature rises to 1.5˚C, it is not enough to simply 
+offset emissions of one area by reducing them somewhere else.  
+Where it is possible to reduce greenhouse gas emissions locally or 
+nationally this must be done. 
+Carbon offsetting, done well, can play an important short term role 
+by funding land restoration, tree planting, energy efficiency measures 
+and additional renewable energy capacity. However the focus 
+should be on eliminating reliance on fossil fuels and reducing 
+emissions in the first place .
+Carbon Capture and Storage may also have a place for mopping up 
+unavoidable emissions from very hard to treat sectors such as certain 
+industry niches. However the technology is unproven, expensive and 
+must not be relied upon to justify business as usual.
+Fuel poverty benefits of reducing emissionsThe role of offset changes over time. Initially it can be used to fund projects for carbon reduction 
+that might otherwise not have taken place. By 2040 to 2050 the only offsetting possible will be 
+actual additional carbon reduction.Health benefits of improving local air quality by reducing emissions
+“I am firmly of the view that the next 18 months will decide our 
+ability to keep climate change to survivable levels and to restore 
+nature to the equilibrium we need for our survival. “ 
+HRH Prince CharlesPoor air quality from the combustion of fossil fuels has a big impact on human health.
+The Royal College of Physicians estimates that 40,000 premature deaths are caused 
+by air pollution in the UK. 
+Public Health England estimates that between 2017 and 2035 there will be 2.5 
+million air pollution related diseases costing the NHS £18 billion to treat.
+“Confidence is very high that the window of opportunity – the period when 
+significant change can be made, for limiting climate change within tolerable 
+boundaries – is rapidly narrowing. ”
+IPCC’s Special Report on Climate Change and LandMore walking and cyclingBetter urban planning
+Less 
+respiratory 
+diseaseBetter health 
+and quality of 
+life
+Fuel poverty affects 1 in 10 households in the UK.  Solutions to fuel poverty, can also 
+be solutions to climate change. 
+Insulating homes – improving the insulation and airtightness of existing homes 
+reduces the amount of energy required to keep them warm, thereby reducing fuel 
+costs and CO2emissions at the same time. 
+Renewable energy – Renewable energy has decreased in cost year on year and is 
+predicted to continue to decrease.
+Insulating homes
+Reduction in 
+damp and 
+mouldRenewable energy
+Cheaper energy billsReduced 
+energy 
+demandCheaper energy
+Improved 
+healthCarbon offsetting can 
+be used to accelerate 
+carbon reductions 
+beyond the Council’s 
+control (e.g. social 
+housing)
+Residual emissions from hard 
+to treat sectors offset by 
+carbon sinks2050 20252019CO213 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Becoming a Zero Carbon 
+Council by 2025
+•A closer look at the Council’s direct emissions
+•Decarbonising non-domestic Council buildings
+•The electrification of the fleet
+•Action plan
+-4-2024681012Annual carbon emissions (ktCO2e/yr)Required offset
+Transport
+Street lighting and other small
+external uses
+Buildings & Landlord areas-75%
+Offset should not represent more than 25% of 
+current emissions
+Total estimated 
+‘direct control’ 
+Council greenhouse 
+gas emissions in 
+2018Required emissions 
+and offsets for a 
+Net Zero Carbon 
+Council in 202514 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan A closer look at the Council’s direct emissions
+A detailed understanding is required
+A detailed assessment is important in order to identify priority actions 
+and opportunities. We have used granular data as much as possible 
+(e.g. metered energy use reported by CRC reports, mileage). 
+Non-domestic buildings
+The largest emitters are the Council’s Town Halls and offices. Emissions 
+from landlord areas are also significant, but spread over a large 
+number of sites. While there are over 500 sites, 13 buildings are 
+responsible for over 50% of these emissions. 
+Of the known floor area, just over 75% is heated by gas. 
+Energy benchmarking indicates the potential for 
+significant energy and carbon savings 
+Where possible, average energy consumption was estimated for the 
+main Council building types. For the majority, this indicates high 
+energy consumption compared to CIBSE benchmarks, i.e. the potential 
+for significant energy consumption savings. This is taken into account in 
+the recommended actions . 
+Transport: Council’s fleet and business travel
+Transport emissions are from the Council’s fleet, in particular its lorries 
+which are mostly on diesel. There is only one hybrid and no electric 
+cars. A large proportion have unknown vehicle type and fuel.
+Current renewable energy generation
+There is currently no known renewable energy generation (e.g. solar 
+photovoltaics) on the Council’s buildings.Current breakdown of the Council’s non-domestic building-based emissions.
+The total in 2018 is estimated at 7.3 ktCO2e/year .
+(please note that Tower Hamlets Homes, schools and leisure centres are not ‘direct control’ 
+emissions. They are covered in the following section.
+Current breakdown of transport emissions per vehicle type.
+The total in 2018 is estimated at 1.4 ktCO2e/year .
+They are dominated by those from lorries, both due to miles travelled and type of fuel usedProportional representation of carbon emissions from non-domestic buildings (each block is one 
+site, except the lighter, bottom left block which groups several hundreds of the smaller ones); 13 
+buildings cover over 50% of building emissions; they include the Town Hall and many Idea stores 
+/ libraries
+Current breakdown of the Council’s emissions from external uses.
+The total in 2018 is estimated at 1.2 ktCO2e/year .
+They are dominated by street lighting.
+Town hall and Council 
+offices
+Nurseries, Children’s centres, Sure 
+starts, etc.
+Libraries,
+IDEA stores
+OthersUnknownLandlord uses (excl 
+heating)Landlord - electricity 
+for communal heating
+Street lighting Other external lighting -
+NOT streets, NOT parks -
+sport pitches, car parks 
+etcParks - excl buildings i.e. 
+lighting, pumping, toilets 
+etcPublic WCs
+CCTVMarkets (incl supply to 
+stallholders)
+Unknown / misc utilities1 = Mulberry Place Town Hall – expected to reduce once it is replaced by the new Town Hall (the resulting expected 
+reduction is shown as hashed area on the graph); 2 = John Onslow House; 3 = Albert Jacobs House; 4 = Jack Dash House
+Business travel - Cars
+Fleet - lorries
+Fleet - vansUnknown vehicle 
+and/or fuel15 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+012345678910
+Total estimated Council GHG
+emissions in 2018Total projected Council GHG
+emissions in 2025Annual carbon emissions (ktCO2e/yr)Street lighting and other small
+external uses
+Buildings & Landlord areasDecarbonisation of non-domestic buildings and other stationary uses
+Target: 80% on-site carbon reduction by 2025 
+At this initial estimate stage, we recommend targeting a 80% on-site 
+carbon reduction from buildings and external energy uses by 2025. 
+This is considered the maximum realistic on-site saving. With further 
+grid decarbonisation, this would be equivalent to 90% on-site 
+reduction by 2050. 
+Improving the energy efficiency of existing buildings
+Benchmarking indicates a significant saving potential through energy 
+management and efficiency. We recommend a target of 50% 
+reduction in energy consumption , in line with the BEIS energy mission, 
+to be achieved by 2025 for Council buildings, street lighting and most 
+other stationery sources. 
+This should be achieved by improving the building fabric (insulation, 
+airtightness), its services (ventilation, lighting, energy management) 
+and, crucially, switching away from gas heating towards low carbon 
+heat (e.g. heat pumps).
+Phasing out gas use
+The majority of buildings should switch to a low carbon supply. 
+Crucially, we have assumed that 95% of gas-heated buildings will 
+switch to a heat pump system by 2025.
+Buildings currently served by district heating schemes (assumed to be 
+on gas) should change to a low-carbon heat supply, whether Council-
+led or in partnership with energy suppliers, e.g. with TfL to utilise 
+waste heat from the tube, with Canary Wharf occupiers to utilise heat 
+from servers. 
+Installing PVs
+High-efficiency PVs should be installed on the Council’s buildings. As an 
+indication, installing PVs on 25% of the roof areas would represent 
+20,000 sqm or PVs, or 4.2MW. All roofs should be investigated, but 
+the large ones first. In addition, approx. 20,000sqm PVs (or 4.2MW) 
+should be installed over external areas (e.g. car parks or markets. 
+Standards for new buildings
+All new buildings should be Net Zero Carbon buildings .
+Different approaches for different building types 
+For smaller and simpler buildings such as community centres, landlord 
+areas etc, the Council could develop standard carbon reduction 
+packages of measures to be deployed.Estimated strategy to 2025 decarbonisation of Council buildings and other stationery uses (direct control emissions)
+Low carbon heat – We have assumed that 95% of the Council buildings will switching to heat 
+pumps by 2025PVs on all large Council buildings’ roofs – for example, the transport / depot sites have 
+significant roof areas, and potentially car park areas, which lend themselves well to large PV 
+installations: Vehicle Testing Station, Blackwall (left); Car Pound (middle); Toby Lane depot 
+(right).
+-80%
+Total estimated ‘direct 
+control’ Council GHG 
+emissions in 2018Total targeted ‘direct 
+control’ Council GHG 
+Emissions in 2025
+Gas boilers Heat pumps16 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Case study  |  IDEA Stores
+Two representative buildings
+The Idea Stores selected as case studies are located in different types 
+of building of different ages; for example, Cubitt Town Library is in a 
+Grade II Listed Building, whereas Bow Idea Store is located in the 
+ground floor of John Onslow House, a 4-storey office building of 
+relatively modern brick construction (1990s). Both were selected as, in 
+principle, all existing buildings will need significant refurbishment to 
+achieve a zero carbon borough. This may include recently completed 
+buildings.
+Each building counts
+Establishing a whole building retrofit plan for each Idea Store that 
+identifies the key changes required is recommended. This would 
+include improvements to the building fabric for all buildings, as 
+reducing heating energy use is a primary aim. The greatest 
+improvement in carbon emissions will come from changing the 
+heating system to low carbon heat sources (heat pumps). For these to 
+be cost effective in operation, it is also important that the building 
+fabric performs well, and air leakage is low .
+In some cases, some flexibility and innovation may be needed to 
+ensure that Heritage buildings can be preserved as functioning spaces 
+in a Net Zero Carbon Borough.
+Three initial surveys – an Infrared Thermography (IRT or thermal 
+image) survey to identify the main deficits in insulation, an Airtightness 
+test and a structural survey to establish whether the roof can be used 
+for Photovoltaics – will form the foundation of the plan for each 
+building.
+Investment in Council buildings is required
+These refurbishments can be carried out over an extended period of 
+time, but will be a challenging requirement for an already financially 
+constrained service. Additional funding for upgrading buildings is 
+required.
+To give an idea of the scale of investment required, 
+•Cubbit Town Library would require an investment of £200k-£410k
+•Bow Idea Store would require an investment of £200k-£1MCubitt Town Library
+Cubitt Town Library - 650m2
+Triple glazing where Heritage concerns allow –
+secondary glazing otherwise£130-250/m2GIFA
+Thermal imaging survey and airtightness test to check 
+insulation and air leakage and carry out 
+repairs/remedial works where needed.Imaging survey – low cost
+Remedial works - cost dependent on scope 
+Add insulation to all walls and insulation overlay on floor. 
+External wall insulation where possible and internally 
+elsewhere.Walls – £70-100/m2GIFA depending on 
+specifications and finish level
+Insulate the roof internally Approx. £10/m2GIFA
+Upgrade the lighting throughout to LED £20-£120/m2GIFA depending on whether relamping 
+only or new light systems
+Replace the existing boiler with a low carbon heat pump £80-£150/m2GIFA depending on heat demand and 
+on need for wider system upgrades (e.g. radiators).
+Total £330 to £630/m2GIFA (indicative) 
+Bow Idea Store – 1000m2
+Review the existing cooling system in the entire building 
+and upgrade to a heat recovery based system with 
+centralised time and temperature control. Install/improve 
+heat recovery in mechanical ventilation systems£25-30/m2GIFA for new AHU and controls
+£40-50/m2GIFA  for new high efficiency chiller
+£150-200/m2GIFA for new fan coils and ventilation 
+ducting
+Replace the existing boiler with a low carbon heat pump 
+or – preferably - integrate with the mechanical system£100-120/m2GIFA  – savings available by 
+avoiding new chiller costs (see above) 
+Triple glazing to the single glazed curtain wall £200-500/m2GIFA (depending on extent of curtain 
+walling)
+Upgrade the lighting throughout to LED £20-£120/m2GIFA depending on whether 
+relamping only or new light systems
+Carry out a thermal image survey to check insulation and 
+air leakage and carry out repairs/remedial works where 
+neededImaging survey – low cost
+Remedial works - cost dependent on scope 
+Totals £200 to +£1000/m2GIFA 
+(indicative) depending on scope
+Bow IDEA Store Bow IDEA Store – list of suggested changes to improve carbon performance
+(Total building area is 5500m2)Cubitt Town Library - list of suggested changes to improve carbon performance17 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Scope for improvement
+The ‘best practice’ benchmark energy performance for library buildings 
+in the UK is around 30% better than Cubitt Town Library and 60% better 
+than the Bow Idea Store. This shows that there is significant room for 
+improvement in terms of energy use reduction.  As a guideline, the target 
+should be to approximately halve the energy consumption in each 
+building in order to achieve the overall target of an 80% on site carbon 
+reduction.
+Cubitt Town Library
+From a brief initial visual survey, key building features include:
+•Solid wall construction with single glazing
+•Gas fired boiler – fairly recently changed from oil
+•Natural ventilation
+•Old fluorescent lighting throughout
+The priorities for carbon reduction therefore include:
+•Focus on fabric – improve insulation, airtightness and ventilation 
+strategy
+•Replace the lighting as part of routine maintenance work
+•Change the existing boiler to a heat pump within 10 years
+Bow Idea Store
+From a brief initial visual survey, key building features include:
+•Substantial single glazed curtain walling
+•Mechanical ventilation
+•Mechanical cooling. From the air conditioning inspection report 
+(dated 2017), there are/have been some issues with the system 
+controls
+•The current electrical consumption at Bow is high. Other Idea Stores 
+do not have a similar profile, so it is probable that the air 
+conditioning system and direct electric heating are the principal 
+reasons
+The priorities for carbon reduction therefore include:
+•Replacement windows with triple glazing and a draft lobby
+•Review mechanical services to ensure air handling units for 
+mechanical ventilation have heat recovery and review 
+heating/cooling controls
+•Complete lighting overhaul to include LED fittings
+•Review building insulation – is there any cavity wall insulation? 
+Retrofit full fill cavity wall injection and improve airtightness.
+Jon Onslow House is one of the highest carbon emission buildings in the 
+Tower Hamlets portfolio. Therefore, although some issues could be 
+addressed for the Idea Store in isolation, a comprehensive review of the 
+whole building may give a much better overall emissions reduction.Current energy consumption of Bow IDEA stores and Cubitt Town Library vs best UK practice Current CO2emissionsvs what the proposed actions can achieve at Cubitt Town Library
+050100150200250300
+Bow Idea Store Cubitt Town Library Best PracticekWh / m2
+Current CO2emissionsvs what the proposed actions can achieve at the Bow IDEA store0102030405060
+Bow Current Bow ProposedkgCO2e/m2/year0102030405060
+Cubitt Current Cubitt ProposedkgCO2e/m2/year
+80% reduction
+80% reduction
+Diagram showing the cost involved and the energy savings possible (© Investment Property Forum, 2017.  
+Costing Energy Efficiency Improvements in Existing Buildings, Currie & Brown)Energy use Carbon emissions
+Carbon emissionsCase study  |  IDEA Stores
+18 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Electrification of the Council’s fleet
+Image of current latest commercially available electric car © Nissan
+An electric vehicle charging point integrated with a lamp post on a UK street. Chargers that do 
+not offer debit/credit card payment should be avoided if possible, as these may be phased out by 
+legislation.Target:  a 50% carbon reduction by 2025
+a 85% carbon reduction by 2030 
+These are recommended targets for the Council’s fleet and business 
+travel vehicles, at this initial estimate stage. Electrification of transport 
+will not only bring significant carbon savings, but also important co-
+benefits including air quality, noise, and reduced contribution to the 
+urban heat island. 
+Electric vehicles
+Electric vehicles use 80-90% less energy than those powered by fossil 
+fuels, due to the efficiency of electric motors and their ability to brake 
+regeneratively. A typical electric vehicle charged in the UK currently 
+produces around 32-43g CO ₂per km; for a typical electric car this 
+would reduce to just 13-17g CO ₂per km by 2030 and 4-5g CO ₂per 
+km by 2050, thanks for further decarbonisation of electricity. This 
+compares to an EU average of 121g CO ₂per km for petrol and 
+diesel cars sold in 2018. 
+It is recommended that the Council procures pure electric vehicles 
+rather than hybrid vehicles . Where pure electric vehicles are not yet 
+available it may be better to wait rather than to purchase hybrid 
+vehicles, which are mechanically more complex and expected to be 
+made obsolete by advances in battery technology in the next few 
+years. 
+Accelerating the natural replacement cycle
+Cars and vans. All cars and van trips should be made by electric 
+vehicles by 2025, leading to 90% reduction in emissions. We have 
+assumed that the normal replacement cycle is 7 years. To limit 
+wastage it is important that the Council immediately stop purchasing 
+petrol and diesel vehicles where viable electric alternatives are 
+available
+Lorries. We recommend engaging with manufacturers early; this could 
+be done in partnership with other councils to send strong signals to the 
+market and stimulate product development. A 30% reduction in 
+carbon emissions by 2025, and a 70% reduction by 2030 are the 
+recommended target.
+Fleet management should prioritise the of electric vehicles use over the 
+others. 
+Charging infrastructure
+The Council should develop a strategy with UKPN and other 
+stakeholders to identify the most appropriate locations and types of 
+charger. It is recommended that a combination of slow (3kW) and fast 
+(7-22kW) chargers be installed.Carbon pathway for 2018-2025-2030 showing decarbonisation of the Council’s fleet and 
+business vehicles
+Efficiency of battery electric vehicles vs combustion engine and hydrogen vehicles 
+© Committee on Climate Change
+0.000.200.400.600.801.001.201.40
+2018 2025 2030Annual carbon emissions (ktCO2e/yr)Transport - Unknown
+vehicle and/or fuel
+Transport - Fleet -
+Lorries
+Transport - Fleet -
+Vans
+Transport - Fleet -
+Cars
+Transport - Business
+Travel - Cars
+19 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+-4-2024681012
+Total estimated Council
+GHG emissions in 2018Required emissions and
+offets for Net Zero Carbon
+council in 2025Annual carbon emissions (ktCO2e/yr)Required offset
+Transport
+Street lighting and other small
+external uses
+Buildings & Landlord areas-75%
+Recommended Strategy 2020 - 2030 2030 - 2040 2040 - 2050
+Reforestation or 
+afforestation   
+Housing retrofit in 
+Tower Hamlets   
+Solar photovoltaic 
+panels in Tower 
+Hamlets  
+Renewable energy 
+outside of LBTH  Residual emissions
+LBTH Council’s residual ‘direct control’ emissions and required offsets in 2025 DRAX Power Station is operating a Bioenergy with Carbon Capture and Storage pilot project, 
+capturing just 1 tonne of CO2per day.
+Reforestation and afforestation are currently the only commercially available options for 
+removing carbon emissions from the atmosphere.Quantifying the residual emissions 
+We have estimated that the Council will have to reduce its direct 
+control emissions by 75% by 2025, down to approximately 
+2.5ktCO2e/year. These residual emissions will have to be offset for 
+Tower Hamlets Council to be ‘Net Zero Carbon’.
+Residual emission allowance
+The Committee on Climate Change indicates that in a net zero 
+scenario, residual emissions in 2050 should be no more than 3% of 
+current emissions across the UK . Over 80% of residual emissions in 
+2050 are forecast to occur in the aviation, agriculture, industry and 
+waste sectors. 
+This means that acceptable residual emissions in other sectors such as 
+buildings and transport within Tower Hamlets are almost zero. 
+Strategies to address residual emissions
+Forestation offers the only practical strategy to remove atmospheric 
+carbon. Total potential is very limited, therefore emissions must be 
+reduced as much as possible first. In Tower hamlets the total potential 
+tree planting will only make up a very minor fraction of the offset 
+requirement, therefore trading with other local authorities will be 
+required.
+Housing Retrofit in Tower Hamlets to fit heat pumps and improve 
+building fabric efficiency can reduce emissions and fuel poverty, while 
+improving air quality. It cannot reduce atmospheric carbon however.
+Solar Panels fitted to buildings in Tower Hamlets use sites that have 
+already been developed to provide cheap and clean electricity that is 
+essential to power heat pumps and electric cars. It also cannot reduce 
+atmospheric carbon.
+Renewable Energy funded by LBTH but installed on greenfield sites 
+outside of the borough contributes toward decarbonisation of the 
+electricity grid. It also cannot reduce atmospheric carbon.
+Carbon Capture and Storage (CCS) . Drax power station is amongst a 
+handful of Bioenergy with Carbon Capture and Storage pilot projects 
+worldwide, which the CCC view as an essential technology. It is 
+currently capturing just 1 tonne of CO2per day however, so is not a 
+viable option at present.
+Potential strategies to offset residual emissions in LBTH and whether they should be used in the short 
+term, medium term and/or long term
+Offset should not represent more than 25% of 
+current emissions in 202520 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Becoming a Net Zero Carbon Council by 2025  |  Action plan (1/2)
+Acting now
+This page summarises the actions recommended in the following areas. 
+The Committee and Climate Change categories have been used to 
+ensure consistency with the national ‘Net Zero Carbon’ plan.
+Power
+Buildings
+Transport
+21 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Becoming a Net Zero Carbon Council by 2025  |  Action plan (2/2)
+Acting now
+This page summarises the actions recommended in the following areas. 
+The Committee and Climate Change categories have been used to 
+ensure consistency with the national ‘Net Zero Carbon’ plan.
+Waste
+Forestry, land use and agriculture
+Other sectors
+Organisational readiness and commitmentWaste
+Conduct a waste inventory to understand better where Council waste comes from, so that a recycling target for waste from all Council buildings 
+by 2021 can be set
+Once this is understood, explore ways to minimise the waste generated, look for alternatives for any non-recyclable waste.Waste team to tender for external expertise to undertake waste 
+inventory by October2020.
+Introduce food waste bins in all office areas
+Achieving a target of zero organic waste to landfill by 2025 will require a behavioural shift in the way we do  things. Food waste bins should be 
+collected daily and placed in a centralised location ready for collection.Facilities management & Waste team to review feasibility by April
+2020.
+Target exemplary levels of recycling of waste materials from Council construction projects
+A minimum target of 95% should be set and the proportion of energy recovery should be minimized over time.Housing and regeneration team to set new waste requirements by 
+March 2020. 
+Grow waste and circular economy awareness
+Take responsibility for knowing where the waste from the borough is going, and what happens to it.The Council’s waste strategy covers the circular economy and 
+should be used.
+Forestry, land use and agriculture
+Tree planting schemes
+Increase tree planting on Council owned land and parks; carry out surveys to establish where trees can be planted. It is not possible to plant enough trees 
+to meaningfully offset total emissions, so as many trees as possible should be planted.Programme to plant 1,000 new street trees (by 2021) is under 
+way. Community tree planting projects to commence in 2020.
+Other sectors
+Procurement of goods and services
+Procurement and Sustainable Development Team to review councils procurement policies and tender documentation by May 2020 to ensure carbon 
+emission requirements are incorporated as part of all relevant new contracts. Procurement and Sustainable Development Team to review councils 
+procurement policies and tender documentation by May 2020 to 
+ensure carbon emission requirements are incorporated as part of 
+all relevant new contracts. 
+Base refrigerant selection in cooling systems used by the Council on a principle of ‘lowest available Global Warming Potential (GWP) refrigerant’. Technical Services have information available  to review .
+Organisational readiness and commitment
+Create and resource a Zero Carbon team 
+The team, part of the Sustainable Development Team, will have responsibility for implementing the Zero Carbon Roadmap, collect and monitor CO2
+emissions data. Sustainable Development Team to make proposal for overall 
+ownership, leadership and delivery of Zero Carbon target by 
+February 2020. Where necessary and internal climate change 
+taskforce will be set up with the responsibility to accelerate 
+change.
+Collect data on energy and CO2from Council operations, reporting annually Zero Carbon Team to undertake assessment in October 2020.
+Develop the Carbon Reduction Action Matrix 
+Implicate and involve all services for maximum impact and reach. Adjust the Matrix of actions developed by Etude.Zero Carbon Team to update Carbon Reduction Action Matrix by 
+March 2020.
+Create internal policies on waste, procurement and travel that are aligned with overall 2050 objectives
+Internal policies guide Council staff on targets for waste, procurement and travel and give weight to initiatives developed. Each team (Waste, Procurement, Transport) to update their 
+policies to refer to Zero Carbon22 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Decarbonisation of buildings: the importance of energy management
+The important role of energy management
+In order to achieve this ambitious Net Zero Carbon target it is crucial 
+to understand current energy use consistently and track its evolution 
+over time.
+This is essential to provide a real estimate of the savings, the impact of 
+changes and budget required. Our estimate of current emissions is 
+based on energy consumption from the CRC1reports which is twice 
+that in the NI 1852and GHG reports.
+The Council should put in place a robust energy management system 
+as the foundation of its journey to zero carbon . Based on our analysis 
+of current energy data and reporting procedures, this should include:
+1. Reviewing the list of buildings / sites and their annual 
+consumption, and update it if required e.g. redundant sites, mis-
+allocated uses, missing floor areas, etc. 
+2. Floor areas must be included to allow benchmarking
+3. Attributing a unique ID to each site, alongside its address and 
+postcode, to avoid ambiguity and mis-allocation. 
+4. Reviewing metering provision and frequency of meter readings: 
+except on the very small sites, this should be monthly, and with 
+half-hourly meters on the large sites. 
+The energy management system should be linked with asset 
+management, so that carbon decisions are informed by the future life 
+of the asset, and take into account the impact of changes in building 
+use.
+Once current energy use and emissions are known with more 
+certainty, we recommend the carbon action plan should be 
+expressed in absolute terms as a carbon budget (e.g. tonnes of CO2
+until 2025, tonnes of CO2per year) rather than the current approach 
+using relative (%) targets. 
+Dedicated resources 
+This will require additional resources (staff, training and 
+soft/hardware).
+Depending on the type of sites, this would best be carried out by site 
+teams or centrally, but there should in any case be some analysis and 
+support by the central team.
+1Carbon Reduction Commitment (CRC)
+2Under National Indicator NI 185, local authorities are required to calculate the 
+carbon emissions of their buildings and services on a yearly basis and report the 
+results to DEFRA. Illustration of possible system for energy and carbon reporting and management: ideally the system would be online and as automated as possible in order to avoid errors from manual entries; it should allow the Council’s 
+carbon lead to track overall progress and to look into individual sites, with links to the responsible parties for each site and with the asset management team; it should cover all sites, both under the Council’s direct control 
+and under its responsibility. The level of information illustrated here is higher than in the current reporting systems: essentially, it combines the information provided in the NI-185 sheets and CRC reports. The experience of 
+creating this zero carbon roadmap suggests this level of information is required for effective carbon management. 
+23 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Becoming a Net Zero Carbon Council by 2025  |  Optimising cost
+Improving the ambition of the planned works represents a fantastic opportunity to minimise costs A clear trajectory
+To minimise the capital cost of achieving net zero carbon it is important 
+that a strategic approach is adopted which builds on the opportunities 
+presented by estate and asset management events. These might 
+include: 
+•Reduce- reduction in estate size through agile working 
+implementation delivering estate, energy and carbon savings 
+together with improved productivity.
+•Renew- investment in new estate and disposal / redevelopment 
+of poor quality estate. These events present a major opportunity to 
+achieve net zero carbon standards.  It should be noted that 
+improved performance is not a given though and will depend on 
+the quality of design, construction and commissioning.  Also, the 
+embodied carbon impact of the development should be considered 
+and minimised.
+•Improve- investment to improve the quality of existing assets (e.g. 
+replacing aged cladding or heating system) presents a very 
+significant opportunity to make significant performance gains for 
+little additional cost.
+•Enhance– significant savings can be achieved by addressing 
+backlog maintenance and through enhanced management regimes 
+with improved monitoring of performance and building setup
+A costed plan is required that covers each Council asset, prioritising 
+those with the greatest impact and where there is a significant 
+improvement opportunity, for example large buildings with poor 
+performance and those with forthcoming investment. Research has 
+shown that, where refurbishment is already planned, additional 
+investment of just £50/m2can achieve very carbon savings of over 
+400 kgCO2/m2 over 15 years together with significant savings in 
+running costs compared to ‘like-for-like’ renewals.
+For large poorly performing assets that are to be retained, 
+consideration should be given to bringing forward planned investment 
+cycles to energy and carbon secure savings and improved building 
+performance. Programmes such as London RE:FIT can help to enable 
+such investments by guaranteeing the associated energy savings that 
+underpin the investment case.  
+A costed investment plan should detail the timetable for improving the 
+standard and management of existing assets, together with clear 
+specifications and standards for new assets including buildings, 
+vehicles or IT systems.  This approach will leverage existing council 
+expenditure to help deliver a substantial part of the necessary 
+investment. Item Planned work Improvement opportunity
+Monitoring Limited / none other than visual 
+inspectionIRT survey to identify improvement 
+opportunities 
+Install energy monitoring and targeting 
+system to larger buildings 
+External 
+envelope None / cosmetic redecorations Sealing eaves and install draught 
+stripping to doors
+Increase loft insulation
+Additional insulation to cavity walls
+Windows Replace end of life single 
+glazing with new double glazed 
+unitsReplace single with high performance 
+glazing (triple)
+Mechanical 
+VentilationReplace end of life AHU fans 
+with similar systemInstall best in class AHU fans and add run-
+around coil
+Clean and repair ductwork
+Lighting Replace T5 bulbs like for like Use LED lamps for all replacements and 
+add daylight and presence controls in all 
+rooms
+Air conditioning Inspection and servicing of 
+terminal units and replacement 
+of any that are faultyInstall new EC drives in terminal units
+Replace refrigerant to one with GWP
+Add new controls to check performance 
+and calibration
+Heating Inspection / balancing of 
+radiators and service to boiler
+Replace boiler with new more 
+efficient plantInstall ASHP rather than new gas boiler
+Review radiators sizes, increase only were 
+needed (or use FCU’s for heating also) 
+and add TRVs where absent
+Change circulating pumps
+Renewable 
+EnergyNone Install PV arrayCOST
+Baseline Maintenance
+Maintenance for Zero Carbon 20252025Plant replacement 
+brought forward to 
+meet the 2025 DeadlineIn the medium term, the 
+lower annual cost of the 
+more robust low carbon 
+technologies recoups the 
+early capital outlay 
+required to meet the 
+2025 deadline
+Cumulative operating costs – 15 years
+Cumulative energy costs – 15 years
+2025Plant replacement brought 
+forward to meet the 2025 
+Deadline results in a sharp 
+reduction in energy costs
+Baseline Annual Energy
+Energy for Zero Carbon 202524 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Phasing out carbon 
+emissions in Tower Hamlets 
+by 2050
+•A comprehensive set of actions
+•Timeline: a long and ambitious journey
+•LBTH Zero Carbon pathway
+•Decarbonisation of domestic buildings
+•Case study: a typical existing block of flats
+•Focus on policy
+•Focus on procurement
+05001,0001,5002,0002,5003,000
+2005 2010 2015 2020 2025 2030 2035 2040 2045 2050Green house gas emissions (ktCO2e)Decarbonisation of electricity
+Energy efficiency of buildings
+Decarbonisation of heat in buildings
+Electrify transport
+Push industry and waste further, reduce flights and car use
+Offset required
+Target trajectory
+Forecast emissions reduction25 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan A comprehensive set of actions
+Wide-ranging actions
+This diagram illustrates the key areas of actions for reducing carbon 
+emissions in Tower Hamlets towards:
+1. A Net Zero Carbon Council by 2025
+2. A Net Zero Carbon Borough by 2050
+Actions are required in all key sectors:
+•Buildings 
+•Power
+•Waste
+•Transport
+•Forestry and land use
+•Industry
+•Aviation
+•F-gases
+Actions can be split up between in different categories, depending on 
+the scale of control Council has over the emissions:
+•Direct Council control (e.g. Council’s offices)
+•Responsibility (e.g. Tower Hamlets Homes, Schools), Policy(e.g. 
+local plan) and Leadership (e.g. engagement with local businesses 
+and organisations)
+•Facilitation (e.g. engagement with the public).
+Breakdown of borough carbon emissions by use type, 
+showing the categorisation and proportion of emissions 
+from each source, and the control the Council has over each 
+sector.26 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Timeline  |  A long and ambitious journey
+2020 2050 2030 2040
+2020: All new homes to 
+be Passivhaus standard2025: All new 
+buildings to be net 
+zero carbon
+2030: 25% of existing buildings to 
+be heated by low carbon sources2040: 50% of existing buildings to 
+be heated by low carbon sources2050: 100% of existing buildings to be 
+heated by low carbon sources
+2021: All new domestic and non-
+domestic buildings  to incorporate 
+PV
+2025: 20,000m2on 
+Council buildings 
+(approx. 4.2MW)
+2025: 70% recycling rate
+2025: 20% reduction in food 
+waste
+2021: All new car 
+parking spaces, 
+including homes) to 
+have electric car 
+charging points
+2025: All public car parks 
+to have electric car 
+charging points
+2025: all Council cars/vans 
+electric
+2025: Average 
+urban greening 
+factor of 0.3
+2035: Average 
+urban greening 
+factor of 0.4
+2050: Average 
+urban greening 
+factor of 0.5Buildings Power Waste TransportForestry & 
+Land-Use
+2025: zero biodegradable 
+waste to landfill (incl. food, 
+paper, card, etc)2025
+2050: Carbon content of grid 27 gCO2e 2030: Carbon content of grid 85 gCO2e 2020: Carbon content of grid 136 gCO2e2021: No gas boilers in 
+new buildings2050: 80% of all existing homes have 
+had a low energy retrofit and achieve an 
+average heating energy demand of 
+40kWh/m2/yr.
+2030: All Council buildings 
+are assumed to be off-gas 
+by 2030
+2050: 99% of 
+cars and light 
+vans are electric
+2023: 100% of 
+homes and 
+businesses to be 
+served with food 
+waste collection
+2050: 20% reduction in non-CO2
+emissions from wastewater (through 
+engagement with Thames Water).2035
+2030: 100% of all Council 
+homes have had a low energy 
+retrofit and achieve an 
+average heating energy 
+demand of 40kWh/m2/yr.2035: All existing 
+homes to be EPC C 
+or better
+2050: Gas 
+boilers are 
+phased out
+2050: 430MW PVs in 
+total across the whole of 
+Tower Hamlets
+2030: All refuse 
+lorries are electric27 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Achieving Net Zero Carbon by 2050 
+We have used the Etude tool for estimating future Borough emissions 
+and to estimate what changes are required to move towards a net 
+Zero Carbon borough. The tool shows that radical changes to all 
+sectors are required. In the borough this includes Net Zero Carbon new 
+buildings, existing building stock energy efficiency, switch from gas 
+heating to low carbon heat and the electrification of transport. 
+The cumulative emission reductions demonstrate that near zero carbon 
+emissions are possible, and these can be feasibly offset by carbon 
+reduction projects. However, it is likely that these projects will not be 
+possible within the borough, and will have to be achieved elsewhere. 
+Other local authorities are likely to have the same issue, and this is 
+something that it makes sense to assume may be dealt with at a 
+national level.
+Key features of a zero carbon future
+A summary of the assumptions used in the forecast is given. The key 
+features of this scenario are:
+•All new buildings, from now, are built to be highly energy efficient 
+and use a heat pump as the primary heat source.
+•Road transport rapidly converts to electric. Road journeys are 
+reduced.
+•Incentives and regulation result in a significant reduction in 
+commercial, industry and aviation emissions.
+The first two changes mean major investment in the electric 
+infrastructure in the borough is necessary,
+Acting quickly and achieving Net Zero Carbon earlier 
+than 2050?
+It is possible to achieve Net Zero Carbon earlier than 2050 but it is 
+very challenging. We would recommend identifying credible solutions 
+to achieve Net Zero Carbon by 2050 with a minimal amount of offset 
+first and also accelerate any actions which can be accelerated, while 
+taking the time required to deliver others.
+Key assumptions used for zero carbon forecast. Latest reported emissions (2016) and forecast 2050 emissions based on a scenario where carbon 
+emissions reduction is prioritised in policy, by businesses and by national government. The breakdown 
+matches the categories used by the CCC. Emissions would need to reduce by 90%over the next 30 
+years. Category Major assumptions for change used for net zero carbon forecast
+Decarbonisation of 
+electricityCarbon content of electricity falls rapidly in line with Government projections. 
+Carbon content of electricity is 0.085 kgCO2e/kWh in 2030 and 0.030 kgCO2e/kWh in 
+2050.
+Residential building 
+energy efficiencyAll new homes built after 2020 achieve Passivhaus or an equivalent standard. 
+15kWh/m2/yrheating energy demand achieved on average.
+90% of existing homes have a complete low energy retrofit by 2050 (by 2030 for 
+Council homes). Homes achieve an average heating energy demand of 40kWh/m2/yr.
+2% of existing buildings are demolished and replaced with new build by 2050. This is 
+approximately 2,000 homes over the whole period.
+Electrical efficiency of appliances continues to improve but is offset by increased use. A 
+net 20% improvement is achieved between 2020 and 2050.
+Non-residential 
+building energy 
+efficiencyCommercial gas consumption reduces by 90% through replacing gas heating with heat 
+pumps or equivalent, and energy efficiency measures.
+Electrical consumption increases by 10% net as a consequence, however the majority of 
+the increase from electrification is offset by improved efficiency and use of commercial 
+heat pumps. 
+Full retrofit of Council buildings to achieve a heating demand of 40kWh/m2/yrand net 
+zero carbon through the switch to low carbon heating (heat pump) and solar PV 
+installation.
+All Council owned non-domestic properties are refurbished on change of lease. Achieve 
+50% carbon emission reductions.
+Building heating Gas boilers are phased out by 2035. Residual 1% of buildings use gas. (All Council 
+buildings are assumed to be off gas by 2030).
+All building heating is provided by a heat pump, or an equivalent low carbon technology 
+(for example hydrogen fuel cell, or waste industrial heat). No buildings are heated by on-
+site combustion.
+Electrification of 
+transport10% reduction in in car use through switch to walking and cycling.
+Department for Transport emissions forecast for London is used and modified to adopt the 
+CCC further ambition. Equivalent to 99% of domestic and light goods mileage completed 
+by electric vehicles or equivalent by 2050. (All Council vehicles are electric by 2030). 
+Electric vehicles achieve an average efficiency of 30kWh/100miles.
+HGV emissions reduce by 80% through reduced journeys, change in manufacturing 
+patterns, switch to rail, and developing hydrogen or electric drivetrain technologies.
+Reducing waste 62% reduction in emissions from waste in line with ‘further ambition’ recommendations by 
+CCC1.
+Industrial efficiency 80% reduction in industrial emissions through efficiency or changes in the sector. This is 
+comparable to the ‘Further ambition’ recommendations by CCC1.
+Aviation 88% reduction in emissions . Personal air travel is reduced, particularly long haul and 
+regular flight, efficiency improves. This deviates from national aviation growth projections 
+which show a 1% increase in emissions. Aviation emissions are calculated from LBTH’s 
+population as a proportion of total UK emissions.
+Forestry & land use Significant tree planting in the borough has a very small but important impact. LBTH would 
+need further reductions in emissions from forestry in other local authorities, potentially 
+through a future national trading scheme.
+F-gases EU targets for F-gas reductions are kept as UK law and CCC further ambition scenario is 
+met.
+Historic and forecast emissions for LBTH from 2005 to 2050. Showing contribution of main sectors to 
+overall reduction.
+1. Net Zero: The UK’s contribution to stopping global warming (2019) Committee on Climate Change
+05001,0001,5002,0002,5003,000
+2005 2010 2015 2020 2025 2030 2035 2040 2045 2050Green house gas emissions (ktCO2e)Decarbonisation of electricity
+Energy efficiency of buildings
+Decarbonisation of heat in buildings
+Electrify transport
+Push industry and waste further, reduce flights and car use
+Offset required
+Target trajectory
+Forecast emissions reduction
+-400-20002004006008001000120014001600
+Total borough GHG
+emissions in 2016Total required borough
+GHG emissions in 2050 for
+net zero carbonTotal annual carbon emissions from LBTH (ktCO2e)Offset
+F-gases*
+Aviation*
+Industry
+Forestry and land use
+Transport
+Waste*
+Other metered energy
+Buildings and townsZero Carbon Pathway for the London Borough of Tower Hamlets28 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Decarbonisation of domestic emissions : Tower Hamlets Homes
+Target: achieving an 85% carbon reduction by 2030 for 
+Tower Hamlets Homes
+Tower Hamlets Homes (THH) dwellings represent the majority of 
+emissions under the Council’s responsibility, and are therefore a crucial 
+part of achieving significant carbon reductions. There are 
+approximately 11,500 dwellings managed by Tower Hamlets Homes. 
+The majority of them have an EPC energy rating of D (42%) and E 
+(32%) – although EPC ratings are not a reliable indicator of actual 
+energy use.
+Standards for new homes
+All new homes should be zero carbon (regulated and unregulated), 
+following Passivhaus or equivalent standards, and supplied from a 
+low-carbon heat source e.g. heat pump.
+Retrofit of existing homes
+The principles are similar to those recommended for non-domestic 
+buildings i.e. a combination of low carbon heat, fabric and systems 
+efficiency, and PVs. 
+Because of residential demand profile a low-carbon heat supply is 
+even more important than in non-domestic buildings, and will require 
+liaising with utilities and a careful selection of systems and contract 
+arrangements to ensure sufficient capacity and acceptable heat costs 
+for residents. Direct electric heating is generally not recommended 
+except in the most efficient dwellings with minimal thermal demand. 
+Retrofit: building up quality and capacity 
+Supply chain capacity and skills will be crucial to reduce emissions and 
+avoid unintended consequences. The Council should use the lessons of 
+existing schemes (e.g. ECO, RE:FIT) and review recent initiatives such as 
+the Retrofit Academy and TrustMark, potentially with the view to 
+develop its own system of trusted suppliers. We would recommend 
+partnering with other London Boroughs engaged on a zero carbon 
+pathway e.g. Haringey Council. 
+This will also help the Council to develop expertise and a supply chain 
+which will benefit later housing associations, landlords and residents. 
+Engaging with residents
+Deep retrofit offers significant opportunities for co-benefits, such as 
+improved health and comfort for residents, which could help engage 
+them with the Council’s Zero carbon efforts.Carbon emissions in 2018 (actual), 2025 (target) and 2030 (target) showing rapid decarbonisation of 
+Schools, Leisure Centres and THH Homes, alongside Council’s direct control emissions. As transport 
+emissions from larger vehicles will take longer to decarbonise, these have also been assumed to reduce 
+post-2025.
+Programming and scaling up: a total of 11,500 homes will need to be retrofitted. The 
+programme should be phased in order to allow the gathering of lessons and the development 
+of a trusted supply chain, while responding to the challenging timescale of deep retrofit by 
+2030. Dora?Setting the overall programme
+Phase 1: priority & pilot dwellings e.g. 250 units/yr
+Phase 2: delivery lessons from Phase 1 e.g. 500 units/yr
+Phase 3: performance lessons from Phase 1 and delivery lessons from Phase 2, 
+feeding into increased programme e.g. 1000 units/yr
+Phase 4: performance lessons from Phase 2 and delivery lessons from Phase 3, 
+feeding into peak programme e.g. 2000 units/yr
+Phase 5: ramping down, starting to allocate resources and expertise to domestic 
+retrofit wider in the Borough e.g. 1000 units/yr
+Phase 6: minimal number , allowing completion and evaluation before end 2030 
+e.g. 500 units/yr
+Retrofit & evaluation of 11,500 homes
+Expertise and supply chain ready to benefit the wider Borough
+Delivery lessonsPerformance 
+lessons05101520253035404550
+Total estimated Council GHG
+emissions in 2018Total projected Council GHG
+emissions in 2025Total projected Council GHG
+emissions in 2030Annual carbon emissions (ktCO2e/yr)Transport
+Responsibility - Leisure centres
+Responsibility - Schools
+Responsibility - THH
+Street lighting and other small
+external uses
+Buildings & Landlord areas
+Addressing the issue of energy data from homes
+The Council should work with THH and seek ways to improve its understanding of energy 
+consumption in homes, without giving rise to privacy concerns. For example, at the very 
+minimum, a service could be put in place for residents to voluntarily give access to their 
+energy consumption. This could be incentivised (e.g. vouchers for energy saving measures, 
+access to energy saving advice), and potentially reported by postcode / block without 
+identifying individual homes. 
+2020
+2020
+2021
+2023
+2025
+2028
+203029 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Case study  |  A typical existing block of flats
+A representative building
+The block of flats shown opposite is typical of residential 
+accommodation in Tower Hamlets. A typical building is four storeys 
+high, with a pitched roof. Floors are expected to be concrete, or 
+suspended timber for smaller properties. Walls are typically masonry 
+with a cavity. Buildings are generally heated with gas boilers or 
+electric heating.
+Retrofit required
+Four core strategies must be pursued to achieve net zero carbon within 
+this type of building:
+1. Fabric retrofit , usually achieved through external wall and roof 
+insulation, floor insulation, airtightness works, high performance 
+windows and mechanical ventilation with heat recovery.
+Estimated cost per flat: £11,000 - £19,500
+2. Low carbon heating , the most suitable technology is likely to be 
+either individual water source heat pumps in each apartment, 
+with an ambient temperature ground water loop supplying them, 
+or an air source heat pump. Where inefficient communal heat 
+distribution systems exist, they should be replaced.
+Estimated cost per flat: £1,500-£7,000
+3. Energy efficient services, appliances and lighting have quickly 
+become more energy efficient due to energy efficiency 
+regulations. 
+Estimated cost per flat: Generally low
+4. Solar photovoltaics (PVs) , installed to best practices they can 
+provide more than enough electricity to achieve net zero energy 
+consumption for low and mid rise buildings with good levels of 
+fabric efficiency that are heated by heat pumps. Financial 
+benefits for tenants can be maximised by the landlord 
+submetering tenants and connecting the PV system to the landlord 
+supply, so it can be used by all tenants within the building.
+Estimated cost per flat: £2,500 + submetering cost
+Reduced energy bills
+These changes would not only dramatically reduce carbon emissions 
+but also significantly reduce energy bills.
+Bar chart showing estimated energy costs for a dwelling in this apartment building now and in 
+2040, assuming a best practice retrofit takes place.Housing blocks in Tower Hamlets already include significant PV installationsBaseline block of flats: Gas boilers or electric heating, little insulation, single or poor double 
+glazing, poor airtightness and uncontrolled ventilation through gaps in the building fabric. Space 
+heat demand of around 160kWh/m²/year.Retrofitted to achieve net zero carbon: Heat pumps, 150+mm of continuous insulation to 
+floors, walls and roof, very good double or triple glazing, excellent levels of airtightness 
+and mechanical ventilation with heat recovery. Full-size photovoltaic array fitted with high 
+efficiency modules and microinverters. Space heat demand of around 40kWh/m²/year .  Net 
+producer of clean energy.
+-£100£0£100£200£300£400£500£600
+Standing
+ChargesLandlord
+electricityTenant space
+heatTenant hot
+waterTenant
+electricitySolar exportCost per Dwelling (£/yr)Baseline
+Retrofit 204030 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan The domestic housing stock in Tower Hamlets
+Parity Projects CROHM tool
+As part of this study Parity Projects have been commissioned to carry 
+out a stock assessment of the homes in Tower Hamlets using their 
+CROHM Area tool. This analyses SAP, EPC and LBTH data to give a 
+breakdown of housing stock and to help with costing and planning 
+retrofit measures at scale.
+Currently low data quality
+The database is in its infancy, and it appears that only the available 
+EPC information has been used to give information about the stock. 
+This means the confidence in the data is currently low and some 
+assumptions and cloning have been used to populate data for all the 
+properties. 
+However, the tool provides a central database that LBTH can now look 
+to improve to give them clear oversight of the energy and carbon 
+profile of their portfolio. The assumptions can be revised as surveys 
+and other intelligence-gathering improve the accuracy of data, and 
+tracked using CROHM’s in-built data quality management tool.
+Improving the stock assessment
+Improving the stock assessment requires providing more data on 
+housing to Parity Projects for integrating with the tool. This could be 
+from work carried out by LBTH, the GLA, or by private landlords 
+based on incentives provided by LBTH. Examples include:
+•Importing any data held by Tower Hamlets Homes for their 
+properties.
+•Requesting data from Registered Social Landlords in the borough.
+•Carrying out home energy surveys for parts of the borough due to 
+energy bill aggregation schemes, or fabric improvements through 
+ECO for example.Current combined data confidence for all homes in the CROHM Area tool for Tower Hamlets. 1 is 
+the lowest confidence in data, 10 is highest. Almost 2/3 or homes are at the lowest data quality 
+level.To improve this requires the quality of surveys of existing homes typically carried out for 
+EPCs to be improved, or for LBTH to pass any data they may hold on properties to Parity. Image 
+© Parity Projects CROHM Area.Estimated breakdown of housing by heating type for Tower Hamlets from CROHM Area 
+tool. This data should be used with caution due to the confidence in the data at this time, but 
+demonstrates the capability of the tool. This graph shows that 19.2% of gas boilers are 
+older than an EPC C rating and so could be due upgrading.
+Estimated distribution of housing by EPC band for Tower Hamlets from CROHM Area tool. 
+This data should be used with caution due to the confidence in the data at this time, but 
+demonstrates the capability of the tool. 
+Estimated distribution of housing by annual fuel bills for Tower Hamlets from CROHM Area 
+tool. This data should be used with caution due to the confidence in the data at this time, but 
+demonstrates the capability of the tool. 31 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Focus on policy
+The power of policy
+Policy is critical to deliver Net Zero Carbon. The potential for policy to 
+cause significant change within the borough cannot be understated . 
+New policies should be bold and reflect the urgency of the changes 
+that we need to see to avert catastrophic climate change. 
+Net Zero carbon new buildings
+LBTH would have to go further than the draft London Plan if Net Zero 
+carbon new buildings are to be required by the Tower Hamlets Local 
+Plan. These buildings must have ultra-low levels of total energy use 
+and space heating demand, have low carbon heating system and 
+maximised on-site renewable energy.
+Viability assessments are undertaken on any new planning policies. It 
+is important that the Council’s consultants who undertake these viability 
+assessments use the latest and most up to date costs, and account for 
+projected cost reductions associated with more energy efficient 
+buildings and low or zero carbon technologies as economies of scale 
+take effect. The cost of not taking action should also be considered
+Existing buildings
+Every major retrofit which does not significantly reduce a building’s 
+carbon emissions should be seen as missed opportunity. Planning policy 
+should prevent this. 
+Low carbon heat
+Phasing out all uses of gas between now and 2050 is critical if LBTH is 
+to achieve Net Zero Carbon. This change must start as soon as possible 
+and planning policy should prevent the installation of any new gas 
+heating system: gas boilers and gas CHP. 
+Electrification of transport
+Planning policy should include a vision for electrical infrastructure and 
+transport in the borough.
+Waste
+New developments must be designed to meet increasing collection and 
+recycling requirements.
+Nature and Biodiversity
+The Greater London Authority’s urban greening factor could be used 
+to ensure that individual sites contribute to the overall ‘greening’ of the 
+borough.The Towel Hamlets Draft local plan
+List of recommended changes to Policy
+Power
+Set a formal target for solar capacity in Tower Hamlets to at least 430 MW by 2050
+Buildings
+Introduce planning requirements for all future housing in line with Zero Carbon target
+This should be consistent with the recommendations of the CCC report on the future of housing 
+(i.e space heating demand < 15-20 kWh/m2.yr). Passivhaus or equivalent should be considered 
+and an assessment against Net Zero Carbon should be required.
+Introduce planning requirements for all new non-domestic buildings in line with Zero Carbon 
+target. 
+This should be consistent with BEIS energy mission to halve energy use in new buildings. 
+Passivhaus or equivalent should be considered and an assessment against Net Zero Carbon 
+should be required.
+Use policy intervention to prevent the installation of any new fossil fuel heating system (e.g. 
+gas boilers) from 2020
+Use policy intervention to prevent the installation of any gas-fired CHP system from 2019
+Transport
+Include electrical charging infrastructure in strategic plan
+Waste
+Target a 70% recycling rate for waste from all buildings by 2025. 
+The CCC has advised central government that to meet our targets of achieving zero carbon by 
+2050, a recycling rate of 70% of all solid municipal waste must be achieved by 2025.
+Target zero biodegradable waste to landfill by 2025
+As recommended by the CCC to the UK Government in May 2019.
+Introduce new planning requirements for domestic waste storage and collection
+Introduce planning requirements for construction waste on new-build projects
+Introduce a food waste collection scheme for businesses
+Forestry, land use and agriculture
+Set minimum standards for green spaces in new developments.
+Increase tree planting
+Others
+Implement Planning policies restricting use of F-gases by discouraging air conditioning and 
+prioritizing lower GWP refrigerants.Comment on Environmental Impact Assessment (EIAs)
+All major developments that require an Environmental Impact Assessment must include an 
+assessment of greenhouse gas emissions and the implications of climate change. The 
+guidance from the Institute of Environmental Management and Assessment (IEMA) ‘ Assessing 
+Greenhouse Gas Emissions and Evaluating Their Significance ’ (2017), states the following:
+‘All GHG emissions will contribute to climate change and thus might be considered significant, 
+irrespective of whether this is an increase or decrease in emissions .’
+Mitigation measures should therefore go beyond normal practice, and will need to be 
+secured within any given planning consent. Particular attention should be made to ensuring 
+emission reduction measures are integrated and delivered through the construction and 
+operation phases. 
+•For construction impacts it is noted that there will be monitoring and measuring, but LBTH 
+will require reductions. 
+•For operational impacts, the EIA should set out how the scheme will be net zero carbon 
+on-site in 2050 as required by the Climate Change Act 2008 (as amended).
+All assessments of GHG emissions should be done quantitatively and any use of professional 
+judgement to assess significance should be fully justified.  Reference in the ES should be 
+made to whether the national, regional and local policy requirements in relation to energy 
+and GHG are satisfied by the Proposed Development.  The latest UK Climate Projections 
+(Currently UKCP18) should be used to inform any such assessment..32 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Focus on procurement
+The power of procurement
+Perhaps the biggest opportunity Tower Hamlets has to influence 
+greenhouse gas emissions and sustainability performance in the 
+private sector is through the products it buys and the services it 
+procures.
+According to the Council’s Procurement Strategy 2016-2019, the 
+Council spends £340 million a year, across 3,500 different suppliers. 
+20% of these suppliers are locally based.
+A focus on procurement therefore not only potentially supports a 
+reduction in emissions from the Council’s activities, but also a reduction 
+in emissions from the borough as a whole.
+Co-benefits of sustainable procurement
+It is the Council’s responsibility as a consumer and community leader to 
+procure its goods and services responsibly, and work with suppliers to 
+improve the sustainability of their operations and supply chains.
+Sustainable procurement is a powerful driver for delivering improved 
+economic, environmental and social outcomes.
+In doing so, some of the co-benefits that can be achieved are:
+•Create markets for new services and products
+•Reduce waste and improve resource efficiency
+•Enhance image and reputation in the community
+Tower Hamlet’s Procurement Strategy 2016-2019
+The existing Procurement Strategy (2016-2019) sets out the vision, 
+strategic objectives and a working implantation and delivery plan.  A 
+large part of the delivery plan is the implementation of the 
+Stakeholder Engagement Plan.
+Sustainability is given a brief mention in the document.  Life cycle, 
+whole life costing and carbon emissions are not mentioned. 
+As this plan comes to the end of its life and is being replaced, we 
+recommend that sustainability, carbon emissions and whole life 
+costing are discussed more in depth in the new procurement 
+strategy.  Further recommendations are discussed on the right. Key spending facts for Tower Hamlets
+Sustainability targets in procurement List of recommended criteria for procurement1. Strengthen sustainable procurement policies
+Create specific policies that are targeted at embodied carbon, whole life 
+costing, recyclability and repairability
+2. Benchmark, monitor and improve*
+Identify high sustainability impact suppliers. 
+Set targets.
+Carry out regular sustainability audits.
+3. Supplier engagement
+Engage with key suppliers to help them improve their sustainability 
+performance. Suppliers will recognise they must continually improve their 
+sustainability performance to keep the business. 
+Include senior management involvement, map supply chains , run supply chain 
+improvement programmes and offer incentives. 
+4. Trial and innovation
+Encourage trial and innovation in order to find ways of doing things 
+differently.£340 million 
+spent in 
+2018-19
+3,500 
+suppliers
+*Tools for supporting Sustainable Procurement
+GHG Protocols - The GHG Protocol Corporate Value Chain helps companies 
+identify GHG reduction opportunities, track performance and engage suppliers at 
+a corporate level.  The GHG Protocol Product Standard helps a company meet the 
+same objectives at a product level.
+Government Buying Standards (GBS) – contain a set of mandatory and best 
+practice criteria across a variety of key sustainability issues.
+The Flexible Framework Tool - self-assessment package which allows 
+organisations to measure, monitor and improve how they procure.
+ISO 20400: Sustainable Procurement (2017) – An international standard for 
+sustainable procurement, designed for all types and sizes of organisation.
+20% of 
+suppliers 
+are localBuildings, works 
+& repairs1
+42
+5
+63Adult social 
+care
+Environmental 
+services
+Health  care
+Facilities 
+management
+Professional 
+servicesTop areas of spend, % of total
+100% zero carbon energy purchased
+Key suppliers demonstrate continual 
+improvement in sustainability
+All suppliers use low emission transport 
+for LBTH business and report emissions 
+to LBTH
+Buildings that host services run by 
+suppliers (e.g. adult social care 
+centres) to have low carbon retrofits. 
+Emissions reported to LBTH.Actions to support sustainable procurement
+32%
+7%9%
+7%9%19%
+Food procured by the Council is 
+high welfare, local and sourced 
+from environmentally responsible 
+farms.  
+Work with all suppliers to reduced 
+packaging and improve its 
+recyclability.
+Create policies that materials must 
+be assessed based on whole life 
+carbon, be responsibly sourced 
+(BES 6001, ISO 14001, FSC etc) Targets to work with suppliers towards33 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+Stepping up actions & Next 
+steps
+•Organisational changes
+•Key stakeholders 
+•A Zero Carbon plan blueprint
+Embed
+Monitor Action
+Feedback
+LearnReviewLeadership
+ValuesEmployee 
+engagement
+Act fast 
+learn fast
+Taskforce
+Citizens’ 
+assembly
+34 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan
+ Organisational change
+A new regenerative culture
+The goals of a Net Zero Council by 2025, and a Net Zero Carbon 
+borough by 2050 are ambitious.  The achievement of any ambitious 
+goal requires strong commitment. 
+We believe there are three essential cornerstones to achieving the 
+sustainability targets at Tower Hamlets.
+Embed– Goals  and targets should be embedded within the 
+organisation’s ethos and culture. Strong leadership buy-in and a high-
+level of employee engagement are crucial. 
+Action– Action towards the achievements of goals should be 
+committed and sustained. 
+Monitor – Monitoring of progress should be undertaken throughout. 
+The figure opposite illustrates how each of these elements are 
+required in order to achieve results that are meaningful, informed and 
+impactful. 
+Agility and flexibility
+We are responding to a global challenge as yet unprecedented.  We 
+are learning as local, national and global communities. The journey 
+towards our goal of climate stability and the restoration of balance to 
+the natural world is unchartered.  We can outline a path ahead but 
+we will need to be flexible and adaptable in order to be able to 
+change direction if it becomes apparent that is the best thing to do. 
+Tower Hamlets will need to create organisational agility in order to be 
+able to respond to the obstacles, challenges and failures encountered 
+on the way to success. 
+Sharing and learning
+We are all in this together. Seeking to learn from others and sharing 
+lessons learned in this process of change will be necessary and 
+extremely useful.  
+Setting up carbon reduction communities, bringing together other local 
+authorities in London, nationally and internationally for inspiration and 
+learning are all significant opportunities.Embed
+Monitor ActionThe will is there and 
+the intentions are 
+right.  But little 
+progress is made. Meaningful actions are 
+taken, but the lack of 
+feedback makes it 
+difficult to assess 
+effectiveness and 
+impact. 
+Actions and results may be off 
+the mark, or may contribute to 
+other issues elsewhere.
+Embed
+•Align Tower Hamlets mission and vision with climate and 
+sustainability goals.
+•How much status and importance is sustainability given within the 
+Council? What proportion of the budget it allocated? How many 
+people are actively working on it? Does this reflect the importance 
+of the issue?
+•Define clear, descriptive goals - What? How? Why?
+•Help foster a shift in values of each employee through enhanced 
+training on sustainability and environmental issues.  This will 
+automatically lead to higher employee engagement. 
+•Assign responsibility for goals.
+•Align role descriptions with goals. 
+Action
+•Create a taskforce
+•Assign budgets
+•Identify steps towards goals and take early action.
+•Implement early test-beds and trials.
+•Be open to failure, learn quickly and try again.
+•Organise a citizen’s assembly
+Monitor
+•Monitoring – data helps inform decisions, actions and design.  
+Prioritise early data collection on energy use and CO2emissions of 
+existing building stock and transport fleet.
+•Encourage setting up feedback loop. Learn from own lessons. Embed : Action : Monitor
+Each element is key to Tower Hamlet’s success in its climate change goals. 
+Actions are targeted and aligned with Tower Hamlets goals and values, achieving emission reduction and 
+other targets.  Actions are informed by a monitoring and feedback process, learning from past successes 
+and failures.
+Feedback
+LearnReviewLeadership
+ValuesEmployee 
+engagement
+Act fast 
+learn fast
+Taskforce
+Citizens’ 
+assembly
+35 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Engaging with key stakeholders
+Engagement is key
+Engaging with stakeholders will be crucial to build acceptance of the 
+Zero Carbon plan, and therefore help deliver it effectively. Solutions 
+and lessons learned can be shared with others and opportunities for 
+joint initiatives identified, with significant cost and time efficiencies. 
+Finally, key stakeholders should be encouraged to develop their own 
+plan, towards a Net Zero Carbon borough. 
+Mapping the stakeholders towards Net Zero Carbon 
+A stakeholder mapping exercise should be carried out. The adjacent 
+figure is just starting point of key parties, listed here due to their 
+expected share in the borough’s total emissions, their potential 
+influence, their existing commitments to tackle climate change, their 
+public visibility, how much they will be affected by the plan, and their 
+interest in co-benefits such as air quality and reducing fuel poverty.
+In particular, the Council should start engaging on Net Zero Carbon 
+with:
+•The public
+•Large energy users e.g. Housing associations; Queen Mary 
+University; NHS; Canary Wharf
+•Other London Boroughs targeting zero carbon 
+Engagement should include, at the very least, the Council’s usual 
+channels of consultation and communication. 
+In addition, we recommend creating a citizens’ assembly as a way to 
+examine solutions, build consensus and visibly demonstrate the 
+Council’s commitment to engage the whole Borough on the zero carbon 
+transformation. 
+Internal stakeholder engagement – putting carbon at 
+the core of Council decisions 
+The net zero carbon objective cuts across all areas of the Council’s 
+activities and objectives including air quality, asset management, 
+highways, planning, green spaces etc. Sharing information and 
+taking carbon impacts into account in all decisions, policies and 
+activities is therefore essential. We recommend mapping areas of 
+overlap and impacts, and a review of internal resources and decision-
+making processes. 
+The Council should engage with stakeholders such as Canary Wharf, who have significant 
+resources, buildings and land assets, are responsible for high carbon emissions, have the capacity 
+to reach and influence numerous other parties, and already have set themselves ambitious carbon 
+targetsHeritage assets in the Borough (2016 map): Engaging early with the heritage community is really 
+important to build their buy-in, benefit from their expertise and resources, minimise the 
+detrimental effects and maximise the benefits of carbon reduction measures,
+It is crucial to engage with the publicIllustration of key internal and external stakeholders: the net zero carbon target should be at the 
+centre of policy and decision making across the Council’s department, as it cuts across all areas. 
+The various Council departments will also provide useful links with external stakeholders Be open about the possible 
+visual effects of low-carbon 
+retrofit (e.g. air source heat 
+pump, PV panels, external 
+insulation, new / secondary 
+glazing)
+Develop context-specific 
+solutions
+Maximise co-benefits e.g. 
+better maintenance; fabric 
+repairs; future-proofing 
+against the effects of climate 
+change (e.g. strong winds and 
+rains)
+The benefits of minimising new 
+embodied carbon expenditure 
+by retaining and prolonging 
+the useful life of our existing 
+stock should be acknowledged
+36 |  LBTH Net Zero Carbon  |  March 20  |  Rev ALBTH Net Zero Carbon Plan Zero carbon plan  |  A blueprint
+Changing together
+The world will only meet this challenge if everyone acts. For the Tower 
+Hamlets to meet its part of the global ambition, local people and 
+businesses need to establish what they can do themselves and take 
+action, beginning immediately, to implement change.
+The 4 key pillars of every strategy should be to quantify current 
+emissions, to set headline objectives in line with regional and national 
+objectives, to translate the targets into clear, deliverable actions and 
+to consider how to influence others to act.
+Developing a common language
+The specific actions required will be widely varied depending on the 
+nature of the business or organisation. However there are some 
+common elements that everyone and every organisation should use as 
+a framework in order for priorities to be clear and ultimately so that 
+progress is measurable. Separating current emissions into the sectors 
+set out by the Committee for Climate Change makes it easier to fit the 
+specific plan for one organisation into the National action framework. 
+Understanding precisely for each sector the difference between direct 
+control emissions and influence is also very useful.
+Quantifying greenhouse gas emissions
+The first concern is to establish, with as much clarity and detail as 
+possible, what the starting point is. Priorities for action, where the 
+greatest improvement may be achieved most expeditiously, quickly 
+become clear by having a thorough audit of the current emissions. 
+Setting headline objectives and concrete actions
+Breaking the overall objective (Net Zero) down, both in time as a set 
+of milestones and within any organisation as a set of headline 
+objectives and deliverable actions is a vital exercise if ambitions are 
+to be turned into real progress. The strategy should also recognise that 
+change will happen over time but that steady progress is necessary.
+Influencing
+Most organisations have influence over emissions that are outside their 
+direct control, as Landlords to individuals or smaller  businesses, as 
+exemplars to peer businesses and staff members and as networkers, 
+interacting with partner organisations and especially with suppliers. A common language 1. Quantify emissions 2. Set headline objectives 3. Define concrete actions 4. Consider influence
+Start with an assessment of the current 
+baseline emissionsHeadline objectives should articulate the 
+2050 destinationActions should be clearly defined and 
+include a timescale or scheduleProcurement and engagement can 
+greatly increase the effect of the plan
+Power Example:
+Establish current renewable energy 
+generation capacityExample:
+Set renewable energy generation capacity 
+target for 2050Example:
+Install Xm2of PVs on the roof of building 
+A by the end of 2022Example:
+Favour suppliers with a commitment to 
+renewable energy
+Buildings Examples:
+Record current gas, electricity and other 
+fuel usage
+Categorise existing heating systems by 
+fuel type, location and energy use
+Analyse building stockExamples:
+Set carbon reduction (on-site) for all 
+buildings or a typical building
+Set year for phasing out of gas heatingExample:
+Switch gas boiler to heat pump in building 
+B by 2024Example:
+Liaise with landlord regarding energy 
+efficiency of rented properties
+Transport Example:
+Prepare schedule of current fleet with 
+fuel/mileage per year and expected 
+replacement/lease termination datesExample:
+No more petrol or diesel cars by 2030Example:
+Accelerate the replacement cycle and 
+replace 12 vans per year by electric 
+vehicles from 2020Example:
+Change private car allowance to incentive 
+use of electric cars by staff
+Waste Example:
+Quantify current waste production by 
+waste stream and recycling ratesExample:
+No more food waste by 2025Example:
+Start food waste collection in all offices in 
+2020Example:
+Explain to staff why food waste is being 
+collected separately
+Industry Example:
+Estimate current emissions by fuel and by 
+processExample:
+Achieve a 80% reduction in industrial 
+emissionsExample:
+Review energy supply to process Z with a 
+view of changing its energy source by 
+2025 
+Aviation Example:
+Audit of current 'air miles' for staff (and 
+goods if possible)Example:
+X% reduction in air miles travelled by 
+staff and goodsExample:
+Invest in good quality video conferencing 
+equipment for main meeting rooms in 
+2022Example:
+Favour airlines with a commitment to 
+reduce their carbon emissions
+Forestry & land use Example:
+Audit current land uses by categoryExample:
+Y number of trees to be plantedExample:
+Run a staff tree planting initiative in 2023Example:
+Liaise with Woodland Trust
+F-gases Example:
+Audit of current refrigeration equipment Example:
+No refrigerant with a Global Warming 
+Potential of more than X by 2025Example: 
+Set design standards for new buildings 
+and equipment.

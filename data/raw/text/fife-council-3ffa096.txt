@@ -1,0 +1,4940 @@
+ 
+1 
+ 
+Fife Resource Solutions  
+ 
+6th February 2020 
+ 
+Climate Fife: Sustainable Energy and 
+Climate Action Plan (2020-2030) 
+ 
+ 
+  
+  
+One of Fife Council’s 2 hydrogen hybrid RCVs top left. Image courtesy of Bright Green Hydrogen,  
+ 
+ 
+ 
+2 
+   
+Prepared by Fife Resource Solutions on behalf of Fife Council 
+Authors Catherine Payne, Hayley Williamson, Hugh Muschamp and 
+Janet Mackenzie. 
+Reviewers Keith Winter, Ken Gourlay, Ross Spalding, Robin Baird 
+Document status Final - approved by Committee for public release 
+Date of issue 06/02/20 
+In the view of Fife Council (please tick appropriate box): 
+ The policy, plan or strategy (PPS) falls under the scope of 
+Section 5(3) of the Act and requires a Strategic Environmental 
+Assessment (SEA) under the Environmental Assessment 
+(Scotland) Act 2005 or 
+The PPS falls under the scope of Section 5(4) of the Act and 
+requires an SEA under the Environmental Assessment 
+(Scotland) Act 2005 or 
+The PPS does not require an SEA under the Environmental 
+Assessment (Scotland) Act 2005. However, Fife Council wish to 
+carry out an SEA on a voluntary basis. They accept that, as this 
+SEA is voluntary, the statutory 5 week timescale for views from 
+the Consultation Authorities cannot be guaranteed. 
+ 
+Resource Efficient Solutions,   
+Bankhead Central (1st floor),  
+Bankhead Park, 
+Glenrothes     
+KY7 6GH 
+ 
+ 
+ 
+This report has been prepared by Resource Efficient Solutions with all reasonable skill and care, within the terms of the Contract with Fife 
+Council (“the Client”). No part of this document may be reproduced or altered without the prior written approval of Resource Efficient 
+Solutions. 
+  
+3 
+ Table of Contents 
+ 
+Table of Contents ...............................................................................................................3  
+Introduction ........................................................................................................................5  
+The Climate Emergency .............................................................................................5  
+Fife’s response to the climate emergency ...................................................................7  
+Get involved – your climate needs you .......................................................................8  
+Strategy ..............................................................................................................................9  
+Vision ..........................................................................................................................9  
+Climate friendly .............................................................................................9  
+Climate ready ...............................................................................................9  
+Climate just ................................................................................................. 10  
+Themes / Programmes of work ................................................................................. 11  
+Innovation and co-ordination ...................................................................... 12  
+Energy efficiency ........................................................................................ 12  
+Low carbon energy ..................................................................................... 13  
+Move, store and transform energy .............................................................. 13  
+Sustainable travel ....................................................................................... 14  
+Resource efficiency .................................................................................... 14  
+Carbon sequestration ................................................................................. 15  
+Adaptation .................................................................................................. 15  
+Co-benefits................................................................................................................ 16  
+Achieving local objectives ........................................................................... 16  
+Economic benefits ...................................................................................... 16  
+Social benefits ............................................................................................ 16  
+Other benefits ............................................................................................. 17  
+International, national and local climate change commitments ................................. 17  
+Local Commitment ...................................................................................... 17  
+National legislation...................................................................................... 18  
+The Covenant of Mayors for Climate and Energy ....................................... 20  
+Implementation ......................................................................................................... 21  
+Delivery model ............................................................................................ 21  
+Emergency action plan and actions for the first 100 days ........................... 21  
+Organisational structure .............................................................................. 22   
+4 
+ Partnership working .................................................................................... 22  
+Staff capacity allocated ............................................................................... 23  
+Delivering transformational change in a short timescale ............................. 23  
+Monitoring and evaluation ........................................................................... 25  
+Risk and Vulnerability Assessment (RVA) ....................................................................... 26  
+Baseline Emission Inventory (BEI) ................................................................................... 27  
+Baseline emissions inventory (BEI) 1990 ................................................... 27  
+Monitoring emissions inventory (MEI) 2017 ................................................ 28  
+Recent trends in greenhouse gas emissions in Fife ................................... 28  
+Emissions reduction target ......................................................................... 29  
+Meeting the target ....................................................................................... 29  
+External factors which may impact progress against targets ...................... 29  
+Action Plans ..................................................................................................................... 30  
+Appendix A Climate Fife Action Plan, 12 Months to March 2021 ..................................... 31  
+Appendix B Climate Fife mitigation and adaptation action plan (2021-2030) ................... 33  
+  
+5 
+ Introduction  
+The Climate Emergency 
+Over the last decade Fife Council has worked 
+proactively to reduce the emission of 
+greenhouse gases which contribute to climate 
+change, and Fife’s carbon footprint has fallen by 
+over 55% (compared to 1990 emission levels). 
+This activity has set a good foundation, but the 
+latest climate science1 suggests that emissions 
+need to be cut even deeper and faster than 
+previously thought to avoid catastrophic 
+impacts.  
+Globally, climate change was overshadowed by other issues since the financial crisis; 
+however, it was brought sharply back into focus in 2018 by the United Nations’ 
+Intergovernmental Panel on Climate Change (IPCC)2, which declared that climate change 
+had become an emergency because of a collective failure to act. The IPCC warned that 
+failing to limit global warming to a 1.5°C increase in global average temperatures over the 
+preindustrial period would trigger runaway climate change and have catastrophic impacts 
+on health, livelihoods, food security, water supply, human security and economic growth.  
+The impact of climate change has largely, until 
+this point, been masked by the fact that over 
+half of the greenhouse gas emissions released 
+by human activities have been absorbed by 
+natural systems such as the oceans, soils and 
+forests. The latest science3 suggests we are at 
+a tipping point and that the planet’s natural 
+abilities to absorb greenhouse gases appear to 
+be at, or beyond their natural capacity. Earth 
+has warmed to the point that natural sinks of 
+greenhouse gases are now becoming active 
+emitters of greenhouse gases and dangerous 
+‘feedbacks’ such as forest fires and melting 
+permafrost are now releasing vast natural 
+stores of carbon into the atmosphere. For 
+                                            
+1 IPCC, 2018: Summary for Policymakers. In: Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 
+1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global 
+response to the threat of climate change, sustainable development, and efforts to eradicate poverty [Masson-Delmotte, V., P. Zhai, H.-O. 
+Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. 
+Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, and T. Waterfield (eds.)]. World Meteorological Organization, Geneva, Switzerland, 
+32 pp. https://www.ipcc.ch/sr15/   
+ 
+3 WMO Greenhouse Gas Bulletin, 2018 https://public.wmo.int/en/media/press-release/greenhouse-gas-concentrations-atmosphere-
+reach-yet-another-high     
+ 
+ In 2018 total annual global 
+greenhouse gas emissions reached 
+55 gigatonnes of CO2 equivalent. The 
+world needs to cut emissions by 
+7.6% every year  for the next 10 years 
+and global annual emissions fall below 
+25 gigatonnes of CO2e by 2030, if we 
+are to have any chance of limiting 
+warming to below 1.5°C.  
+The UN’s assessment of the situation 
+is blunt: "Countries collectively failed 
+to stop the growth in global 
+greenhouse gas emissions, meaning 
+that deeper and faster cuts are now 
+required… We need quick wins to 
+reduce emissions as much as 
+possible in 2020… We need to catch 
+up on the years in which we 
+procrastinated. If we don't do this, the 
+1.5°C goal will be out of reach before 
+2030." 
+Inger Anderson, UNEP Executive 
+Director  
+6 
+ example, the 2019-20 mega-fires4 in Australia have so far released as much carbon dioxide 
+into the atmosphere as Australia’s entire carbon footprint (from human activities) from the 
+previous year.  
+If natural carbon sinks become emitters at a global scale, then these emissions would dwarf 
+human greenhouse gases and render us powerless to stop full climate breakdown, where 
+global temperatures spiral out of control - so called ‘runaway climate change’.  
+The technologies and policy knowledge needed 
+to avoid this catastrophe already exist, but 
+transformations must begin now. The IPCC 
+warns that we only have a limited period left to 
+take the decisive action required to avert this 
+crisis and avoid uncontrollable warming; and 
+that emissions need to at least halve, and 
+ideally fall as low as possible by 20305. 
+However, despite nearly three decades of 
+climate change negotiations, and international 
+commitments such as the Kyoto Protocol and 
+the Paris Agreement there is no sign of a 
+slowdown, let alone a decline, in the concentration of greenhouse gases in the atmosphere. 
+Global greenhouse gas emissions continue to increase at a rate of 1.5% per year. 
+It would be easy to see climate change as someone else’s problem given that the impacts 
+are likely to be most severe in the developing world. But this would be unjust given that 
+78% of global emissions come from the G20 and given that global emissions are driven by 
+the consumption of the wealthiest countries (such as the UK). Rich countries have 
+simultaneously failed to cut emissions quickly enough at home and have offshored many of 
+their own polluting industries to the developing world. Taking urgent and significant action to 
+cut greenhouse gas emissions is the responsibility of everyone, but most especially those 
+countries which have benefitted for the longest from fossil fuel use and whose consumption 
+is the primary driver of global emissions.  
+Internationally it is recognised that the current 
+level of ambition of climate change 
+commitments needs to be increased, and 
+rapidly translated into action for the sake of the 
+future welfare of humanity. Commitments to cut 
+emissions are meaningless without action. 
+Mass protests around the world in the last year 
+demonstrate the groundswell of desire for real 
+action. This, alongside overwhelming scientific 
+evidence and the increasingly extreme weather 
+being witnessed globally, have prompted local 
+and national governments to declare climate 
+emergencies. The Scottish Government’s 
+declaration of a climate emergency, followed by 
+                                            
+4 https://www.washingtonpost.com/weather/2020/01/24/australia-bush-fires-have-nearly-doubled-countrys-annual-greenhouse-gas-
+emissions/  
+5 https://www.technologyreview.com/s/614801/we-need-to-halve-emissions-by-2030-they-rose-iagain-i-in-2019/  Runaway warming can no longer be 
+considered just a worst-case scenario. 
+Continuing the current global emission 
+trajectory will deliver warming of an 
+estimated 3.2-6°C by the end of the 
+century which would lead to much of 
+the planet becoming uninhabitable. 
+Business as usual makes runaway 
+climate change the most likely 
+outcome.  
+Ten years ago, if countries had acted 
+on climate change science, 
+governments would have needed to 
+reduce emissions by 3.3% each year. 
+Today, we need to reduce emissions 
+by 7.6% each year to limit warming to 
+less than 1.5°C. By just 2025, if we fail 
+to act, the cut needed will steepen to 
+15.5% each year.  
+Every day we delay, the more 
+extreme, difficult and expensive the 
+cuts become  
+7 
+ Fife Council on 26th September 2019, shows just how timely this plan is. The 2020s must be 
+the decade of climate action.  
+Fife’s response to the climate emergency 
+It is recognised that Fife Council and the wider community have made considerable 
+progress at reducing emissions and increasing resilience, but that we now need to mobilise 
+to accelerate the pace and ambition of our response to the climate crisis. Climate Fife is 
+Fife’s response to the climate emergency. 
+This Sustainable Energy and Climate Action Plan: Climate Fife  sets out the next phase of a 
+Fife-wide approach to tackling the climate emergency and considers the actions that need 
+to be taken urgently to limit the its most harmful impacts. A sea-change is needed in terms 
+of innovation, finance and governance and how business as usual is conducted within Fife 
+Council and within Fife society more broadly. All aspects of day to day life will need to 
+change from: 
+ How we heat and power our homes; 
+ Where and how we build; 
+ Settlement patterns and how we move around; 
+ Investment decisions and budget-setting; 
+ The type of industry and businesses that will thrive; 
+ Jobs and skills;  
+ Consumption patterns and waste management; 
+ What we eat; and 
+ How we use land.  
+Fife Council is aware of how challenging it will be to achieve the actions and targets within 
+this plan; it would be an inadequate response to the climate emergency if they were not so. 
+Every action taken makes a difference, and every instance of inaction will take us closer to 
+a climate breakdown. Whilst the future may be radically different to the present and perhaps 
+very different to how Fifers envisage the future today, if we act decisively and proactively 
+now our actions could help to tackle not just climate change but many other social and 
+economic problems.  
+The plan sets out the strategy which underpins Climate Fife , presenting: 
+ a vision for where Fife Council wants to be , and the themes and programmes to 
+show where actions are needed and how this will be supported;  
+ where Fife is now , with a Baseline Emission Inventory for Greenhouse Gas 
+Emissions, and a Risk and Vulnerability Assessment to show the known and 
+expected risks from unavoidable climate change; and  
+ action plans showing how Fife will get to where we want to be,  working in 
+partnership to deliver a robust response to climate change and identifying the first 
+critical steps and plans to take.  
+Climate Fife is a Fife-wide plan; however, at this stage Climate Fife’s action plan largely 
+comprises actions being driven by Fife Council and key public sector partners. While the 
+Council’s direct footprint only represents 3% of Fife’s total carbon footprint, through our 
+policies, projects and service delivery it has an influence over upwards of 40% of Fife’s total 
+carbon footprint. As a Local Authority, Fife Council is termed a major player  under the 
+Climate Change (Scotland) Act; and as such Fife Council wants to offer leadership within 
+the wider region.   
+8 
+ Fife Council’s influence on Fife-wide emissions is multi-faceted, and both direct and indirect. 
+For example:  
+ Fife Council is a major employer in Fife. After the NHS, the Council is the largest 
+employer in the region.  
+ Fife Council is a large energy and fuel consumer and Council procurement could be 
+a considerable force for good in terms of developing the low carbon economy within 
+Fife if environmental considerations drive purchasing decisions.  
+ The Council operates a large property and land portfolio within Fife which comprises 
+thousands of properties from leisure centres, offices, commercial and industrial units, 
+schools, landfill sites, parks, woodlands, and care homes to social housing units.  
+ In conjunction with community planning partners, the Council also sets planning, 
+transport, waste and housing policy and makes strategic decisions about where and 
+how Fife should be developed in the future, and how environmental risks such as 
+flooding are managed. These decisions will shape Fife’s future resilience to the 
+projected impacts of climate change and Fife’s future emissions trajectory.  
+Get involved – your climate needs you 
+Climate change is not a problem that can be solved by government alone – everyone needs 
+to act to cut emissions and adapt to the physical impacts of the changing climate. Climate 
+Fife is for everyone in Fife. It is an evidence-based, living plan that will evolve as Fife 
+responds to climate change and as the full dimensions of climate change become clear.  
+It is recognised that more actions are needed in the action plan to make Fife as resilient as 
+possible to extreme weather events and to achieve full decarbonisation. The intention is 
+that the action plan will grow to include more projects as more partners become involved in 
+Climate Fife.  
+Suggestions for new actions are welcomed and should be submitted to: 
+https://climatechange.fife.scot/climate-fife/ 
+9 
+ Strategy  
+Vision 
+Climate Fife’s vision has been developed in partnership with local stakeholders and is 
+underpinned by three core principles: 
+ 
+Climate friendly  
+Climate-friendly refers to activities which cut carbon emissions i.e. climate change 
+mitigation. Scotland is decarbonising its society and economy so that our way of life does 
+not jeopardise the stability of the climate or compromise the life chances of future 
+generations or the living planet on which society depends. Becoming climate friendly will 
+mean aligning Fife with the net zero carbon future set out in the Scottish Government’s 
+targets for decarbonisation; which are world-leading in their ambition6.  
+Fife has already met existing Government targets for lowering its carbon emissions by 42% 
+by 2020. It is Fife Council’s ambition to work with local and national partners to achieve the 
+latest climate change targets, requiring Fife to achieve a net zero emissions target by 2045. 
+Meaning that Fife’s contribution to climate change will end within a generation. The 
+amendments also require Scotland to become effectively carbon neutral by 20457. Fife 
+Council recognises that the science in this area is advancing rapidly and that the window for 
+action to avoid catastrophic climate change is small and that the recommended dates for 
+achieving decarbonisation in Scotland may change. Climate Fife will be guided by national 
+policy in this area. 
+Climate ready 
+Climate ready refers to increasing resilience to the impacts of climate change – being 
+climate ready is also called climate change adaptation. Climate Fife  recognises that our 
+society and infrastructure is designed for a historic climate that no longer exists, and that 
+                                            
+6 https://www.gov.scot/policies/climate-change/  
+7 The terms carbon neutral and net-zero are often used interchangeably but there are differences. The term net-zero 
+includes a wider basket of greenhouse gases (not just CO2 and methane) but also nitrous oxide, which is emitted during 
+agricultural and industrial activities as well as from the combustion of fossil fuels. Simply being carbon neutral would not 
+stop global warming because these other gases are also harmful to the atmosphere. Perhaps an even better term would 
+be "climate neutral". Net-zero is the point where the same volume of all greenhouse gases is being emitted as is being 
+absorbed through offsetting techniques like forestry . 
+ By 2045 Fife will be:  
+climate friendly , having transformed the economy, infrastructure, land use 
+and energy system to decarbonise how we live;  
+climate ready , with plans and projects to increase the resilience of Fife 
+communities and the economy to help minimise the impacts from unavoidable 
+climate change; and  
+climate just , ensuring that all Fifers and the Fife environment can benefit 
+from this transition.  
+ 
+ 
+ 
+ 
+10 
+ considerable adaptation will be needed to ensure resilience in the future. In addition, even if 
+all greenhouse gas emissions stopped tomorrow, thermal inertia within the climate system 
+means it takes between 10-40 years for greenhouse gas emissions to affect the climate, 
+therefore considerable disruption is now inevitable from these past emissions. With over 
+half of the industrial greenhouse gas emissions ever emitted having been released since 
+19888; it is sobering to realise that the impact of over half of humanity’s emissions has yet 
+to be fully felt and will be considerable. The stable climate that society and the economy is 
+based on can no longer be assumed, so society must adapt infrastructure and our way of 
+life to cope with the changed climate. 
+Fife Council is committed to making its region as resilient as possible to the physical 
+impacts of climate change such as flooding and sea-level rise, so that its people, 
+environment, assets and livelihoods can thrive despite climate disruption. With a coastline 
+on three sides, climate change adaptation is a priority for Fife.  
+Community resilience is often thought of in terms of the ability to withstand and prepare for 
+short term shocks. However, resilience in communities isn’t just about ‘emergencies’, it’s 
+also about longer-term challenges or stresses. These longer-term challenges often have the 
+greatest impact on the ability of communities to be resilient, including their ability to respond 
+to emergency events. Therefore, Climate Fife  will focus on hard adaptation (i.e. how Fife 
+can adapt the built environment through technical solutions) and also build soft adaptation 
+skills amongst the community to build the social skills and networks that will increase 
+resilience and minimise structural barriers to adaptation.  
+Making Fife climate ready will be a considerable challenge because global progress at 
+cutting greenhouse gas emissions has been so slow. The longer it takes the world to 
+decarbonise, the worse the damage to the climate will be and the more difficult it will be for 
+society to adapt.  
+Climate just  
+Fife, like many parts of the world, suffers from social and economic inequalities. Some 
+areas are thriving but there are other areas of Fife where there are real challenges9. 
+Climate Fife  sets out actions that will positively impact upon the lives of everyone in Fife, 
+regardless of their background. The plan aims to transform Fife in the light of climate 
+change to make Fife a resilient, fair and prosperous place to live and work, and puts 
+fairness and social justice at the heart of achieving climate goals. To be successful all Fifers 
+need to benefit from the transition to a decarbonised economy and no sections of the 
+population can be left behind.  
+Fife Council acknowledge that responding to the climate emergency is not the most 
+common subject that residents raise with Council staff and politicians - however acting on 
+climate change is aligned with achieving the social and economic goals within Fife’s 
+Community Plan - Plan4Fife - and will be essential in reducing inequalities and achieving 
+social justice. The fact that climate change may not be foremost in the concerns of Fifers 
+does not alter its fundamental significance. Existing demographic and socioeconomic 
+challenges are likely to be exacerbated by a changing climate, and it is likely that those who 
+are least responsible for climate change will be most impacted. Furthermore, the most 
+                                            
+8 More than half of all industrial carbon dioxide emissions have been released since 1988, which is a hallmark year for 
+another reason: it was the year when the evidence and risks of human-caused warming first became widely known: 
+http://ucsusa.org/morethanhalf  
+9 A plan for Fife (2017-27), 2017  
+11 
+ vulnerable in society will be the least able to adapt to changing weather patterns or respond 
+to extreme events like flooding and will need greater assistance if they are to thrive despite 
+climate change. Many of those at the front line of climate risks have the least capacity to 
+respond whether that is because of economic disadvantage, health concerns or other 
+barriers. Fife Council recognises that it will not be possible to achieve any social and 
+economic objectives, as set out in the Plan4Fife, without addressing climate justice. 
+Climate justice is not only about preventing disproportionate impacts to historically 
+marginalized groups, but also about ensuring that everyone shares in the health, economic, 
+and social benefits of a clean energy economy. The projects within the action plan which 
+will underpin Climate Fife  have been designed in recognition of these inequalities to ensure 
+that responding to climate change does not widen existing social divisions, nor exclude any 
+segments of society. 
+Themes / Programmes of work 
+Underneath the climate friendly, climate ready and climate just vision, there are three core 
+areas of climate action, all of which must be undertaken if runaway warming is to be 
+avoided:  
+ Cutting emissions / decarbonisation – this is called climate change mitigation ; 
+ Adapting to the physical changes of climate change – climate change adaptation ; 
+and 
+ Actively removing greenhouse gas emissions from the atmosphere (such as by tree-
+planting or direct capture of flue gases) – carbon sequestration . 
+Fife recognises that to avoid catastrophic climate change greenhouse gas emissions must 
+fall as quickly as possible through a programme of mitigation to deliver net zero by 2045 or 
+earlier if possible, and that this programme of mitigation needs to be bolstered by significant 
+works to absorb greenhouse gases from the atmosphere (sequestration) as rapidly as 
+possible. In terms of the climate emergency the priority has to be on rapid decarbonisation 
+and sequestration because this is what is essential to avoid triggering runaway warming. 
+Fife also recognises that adaptation is needed to cope with today’s extremes and will need 
+to be carried out for centuries to come because of the impacts of historic emissions and the 
+time lags in how the atmosphere processes greenhouse gases which mean that climate 
+change will continue for many decades after emissions have stopped.  
+Climate Fife will be implemented through eight themes; each of which will have a dedicated 
+programme of work. These themes have been developed using the principles of the energy 
+hierarchy where the approach seeks to reduce the amount of energy used in the first place 
+and to move and store it in the most efficient manner, before employing technologies to 
+reduce the carbon emissions associated with that energy generation.  
+These eight strategic themes will combine to form a single integrated plan for Fife as 
+illustrated:  
+12 
+  
+More information on these themes is given below: 
+Innovation and co-ordination 
+Business as usual is one of the biggest barriers to robust action to tackle 
+climate change. Responding to the climate crisis will require a total 
+transformation of how people live their lives; business as usual solutions are not 
+going to be enough. To achieve massive innovation across all aspects of 
+society and infrastructure in the next decade will not be an easy task, and will 
+necessitate considerable financial innovation, hand-holding, partnership building, guidance 
+and coordination. Under the innovation and coordination programme, Climate Fife has 
+grouped together projects that will encourage innovative solutions and partnerships. This is 
+a cross-cutting theme and encompasses a wide variety of projects. To facilitate these 
+projects Fife Council will act in a coordinating role, bringing disparate stakeholders together  
+Energy efficiency 
+Energy efficiency is one of the most cost-effective ways of reducing costs and 
+carbon emissions simultaneously. Typical energy efficiency measures include 
+retrofitting properties with better insulation, installing more efficient space and 
+water heating systems, controls and energy management systems. Climate Fife 
+projects will increase the energy efficiency of Fife’s buildings, assets and 
+infrastructure to reduce energy consumption, associated carbon emissions and energy bills. 
+Projects will improve the performance of building fabric and reduce the energy used by 
+appliances and fittings. Building fabric projects will improve building energy performance by 
+increasing insulation levels and improving glazing standards. Projects targeting energy 
+using appliances and fittings will focus on super-efficient lighting technologies and other 
+energy efficient technologies.  
+ 
+13 
+ Whilst not glamorous or innovative like many low carbon technologies, or futuristic like a 
+hybrid vehicle, energy efficiency is likely to be the single most important workstream in 
+helping Fife to tackle climate change. The Scottish Government has designated energy 
+efficiency as a National Infrastructure Priority, the cornerstone of which is Energy Efficient 
+Scotland Programme (a 15 to 20-year programme to transform the energy efficiency and 
+heating of Scotland’s buildings so that, wherever technically feasible, and practical, 
+buildings are near zero carbon by 2035). Given that the replacement rate for Fife’s buildings 
+is less than 1% a year, and that older properties tend to be leaky, draughty, costly to heat 
+and inefficient – the challenge to decarbonise Fife’s existing building stock in the next 15 
+years is considerable.  
+Low carbon energy 
+Under the low carbon energy programme, Climate Fife projects seek to 
+decarbonise the heat and power generated and used in Fife. Generating 
+energy locally will create jobs and support the local economy. 
+Generating more electricity locally via biomass, wind, wave, hydro and solar 
+power, will reduce transmission and distribution losses compared to the current 
+generation and transmission system. Generating heat locally will allow Fife to make the best 
+use of local resources whether that be heat from biomass, (including wood, energy crops 
+and agricultural waste products); heat from air-source, water-source and ground-source 
+heat pumps or using waste heat from industrial processes.  
+Scotland has made considerable progress in decarbonising its electricity supply and is 
+aiming that by 2020 11% of Scotland’s heat demand and 100% of Scotland’s electricity 
+demand equivalent will be produced from low carbon sources. The Scottish Government is 
+aiming to decarbonise 100% of Scotland’s heat demand by 2050 under current targets, and 
+for a 14% share of transport fuels to be renewable by 2030 under current targets.  
+Move, store and transform energy 
+Decarbonisation is a massive challenge, and the Scottish Government is 
+advocating the use of a whole energy system approach to solving the challenge 
+of decarbonising Scotland’s economy. A whole energy system approach means 
+developing a portfolio of options for clean energy in all its various uses 
+(electricity, heating and transport), and crucially by fitting them together in the 
+best combinations to deliver energy security and value for business and consumers. Under 
+the move, store and transform energy programme, Climate Fife projects will support an 
+efficient ‘whole energy systems’ approach to moving, storing and transforming energy into 
+different forms. A whole energy systems approach looks at minimising distribution, 
+transmission and energy transformation losses by making smart choices about the most 
+appropriate energy sources for a given time and location, and by joining networks and 
+storage options together so that they work holistically.  
+This programme of work will support the increased deployment of district heating and other 
+heat networks, smart grids, energy storage systems (such as battery banks, heat stores, 
+seasonal heat stores) and methods for transferring energy into the most useful forms for 
+local needs. This could include using wind energy to convert seawater into hydrogen fuel 
+for vehicles or using networks of electric vehicles to store excess energy generated during 
+periods of peak generation (such as on windy days) that is surplus to current demand.  
+District heating is a key element of this work programme and is a means to distribute the 
+heat generated in a centralised energy centre, or heat generated as a by-product of 
+ 
+14 
+ industrial processes to a network of nearby residential or commercial users to meet their 
+space and water heating needs. Smart grids which are electricity supply networks that use 
+digital communications technology to detect and react to local changes in usage, will also 
+have an important role to play.  
+Sustainable travel  
+Transport emissions have continued to rise in Scotland despite massive cuts in 
+other sectors. Continuing with business as usual will not deliver the dramatic 
+reductions needed in travel-related emissions. The idea that all that is required 
+to decarbonise transport is to simply switch our existing petrol and diesel cars 
+into electric versions and carry on as before is unsustainable. The House of 
+Commons Science and Technology Committee says, “ the Government should not aim to 
+achieve emissions reductions simply by replacing existing vehicles with lower-emissions 
+versions …In the long-term, widespread personal vehicle ownership does not appear to be 
+compatible with significant decarbonisation. ”10 Whilst increasing electric and hydrogen 
+powered vehicles is a part of the solution, all ‘zero carbon’ strategies must acknowledge 
+ways to actively encourage walking, cycling and improved low carbon public transport 
+solutions. The rapid development of air transport and local airport strategies also need to be 
+reconsidered as part of a low carbon transport strategy, including tackling the concept of 
+‘frequent flying’, in an equitable manner.  
+The Scottish Government is proposing to end the sale of new internal combustion engine 
+cars from 2032. The Scottish Government is aiming for 14% of transport fuels to be 
+renewable by 2030 under current targets. Under its latest work programme the Scottish 
+Government has also committed to work to decarbonise public sector fleets by 2025 and to 
+make all city centres free of vehicle emissions by 203011.  
+Under the sustainable travel programme, Climate Fife projects will focus on decarbonising 
+the Council’s own fleet, reducing the need to travel by settlement and development 
+planning and smart technology; promoting active travel, increasing vehicle efficiencies, 
+making public transport more popular and increasing the uptake of ULEV (ultra-low 
+emission vehicles) such as hybrid-electric, full-electric and hydrogen fuel vehicles. 
+Resource efficiency  
+Under the resource efficiency programme, Climate Fife projects will help to 
+deliver the circular economy by encouraging the most sustainable ways of 
+managing, recovering and avoiding waste. Keeping materials in use and using 
+resources efficiently will underpin this programme of work. Attention will also be 
+paid to using water, food, land and other resources in the most efficient manner. 
+The Scottish Zero Waste Plan sets the strategic direction for waste policy in Scotland and 
+has a municipal recycling target of 70% by 2025. Fife’s own Zero Waste Fife – Resources 
+Strategy and Action Plan  will also direct action in this area. 
+ 
+ 
+                                            
+10 https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-
+committee/news-parliament-2017/clean-growth-report-published-17-19/   
+11 https://www.gov.scot/publications/protecting-scotlands-future-governments-programme-scotland-2019-
+20/pages/5/ 
+ 
+15 
+ Carbon sequestration 
+Under the carbon sequestration programme, Climate Fife projects will focus on 
+removing carbon dioxide from the atmosphere and storing it in long term carbon 
+sinks so that it will not contribute to global warming in the medium term. The 
+latest science suggests that it may not actually be possible to meet Fife 
+Council’s climate change targets without massive carbon sequestration efforts 
+because Fife has simply been too slow to cut emissions. This workstream will involve flue 
+gas capture, reforestation projects, biochar12 projects and efforts to improve the health of 
+delicate ecosystems such as peatlands which, if degraded, can become net emitters of 
+greenhouse gases. Currently, around 12 million tonnes of carbon dioxide are absorbed by 
+Scotland’s forests every year and increasing the size of the forests and woodlands will be 
+essential if catastrophic climate change is to be avoided. Afforestation projects, especially 
+those involving urban greening offer a wide range of benefits over and above carbon 
+sequestration: cleaning air, reducing flood risk, and reducing the impact of climate change 
+by providing shade and health benefits. The Scottish Government is committed to reversing 
+the deforestation of Scotland and is committed to planting 10,000 hectares of new 
+woodland every year to help absorb atmospheric carbon emissions.  
+Adaptation 
+Under the adaptation programme, Climate Fife projects will seek to increase 
+Fife’s resilience to the changing climate (including today’s extremes) and 
+adapting society, economy and infrastructure to cope with the new extremes 
+that are projected. Adaptation means anticipating the adverse effects of 
+climate change and taking appropriate action to prevent or minimise the 
+damage they can cause or taking advantage of opportunities that may arise. It has been 
+shown that well-planned, early adaptation action saves money and lives later13.  
+Adaptation to climate change can be planned nationally but is mostly delivered locally and 
+to be effective, actions must be tailored to local situations and local vulnerabilities. Local 
+government, as the level of governance that is closest to individual community needs and 
+geographic constraints, has a crucial role in delivering adaptation14. The Scottish 
+Government has a national climate change adaptation programme – the Scottish Climate 
+Change Adaptation Programme (SCCAP), and The Climate Change Scotland Act 
+established Public Bodies Climate Change Duties, which require Councils to exercise their 
+functions in a way best calculated to deliver any statutory adaptation programme15.  
+The initial agreed actions which have been identified under these themes of work for 
+the next decade are presented in the mitigation and (high level) adaptation plan in 
+Appendix B of this report.  However, Climate Fife is a living document and additional 
+actions and projects are welcomed. 
+ 
+                                            
+12 Biochar is a charcoal-like by-product of the wood processing industry which has significant carbon storage potential.  
+13 Bertoldi, P. (editor), Guidebook ‘How to develop a Sustainable Energy and Climate Action Plan (SECAP) – Part 1 – the SECAP 
+process, step by step towards low carbon and climate resilient cities by 2030, EUR 29412 EN, pp6  
+14 https://www.climatexchange.org.uk/media/2392/adaptation_decision_making_at_the_local_level_-
+_a_role_for_national_level_indicators.pdf   
+15 https://www.legislation.gov.uk/asp/2009/12/part/4/crossheading/duties-of-public-bodies  
+ 
+16 
+ Co-benefits 
+Achieving local objectives 
+Whilst decarbonisation and building resilience are key drivers within Climate Fife it won’t 
+just be the environment that benefits. Implementing Climate Fife will make it easier for Fife 
+Council to achieve a wide range of objectives including social and economic priorities that 
+will benefit everyone in Fife. Climate Fife has been designed with the four outcomes of 
+Fife’s Community Plan16 (the Plan4Fife) in mind, 
+which are:  
+1. Opportunities for all 
+2. Thriving places 
+3. Inclusive growth and jobs 
+4. Community led services 
+Economic benefits 
+Implementing Climate Fife will benefit Fife’s 
+economy  by: 
+ fostering market diversification to reduce 
+economic risks;  
+ the adoption of new technologies and the 
+development of dirty green and circular 
+economy businesses will lead to job creation that could reinvigorate communities 
+who have been struggling economically since the loss of primary industries in the 
+1970s and 1980s;  
+ encouraging local agriculture, market gardening, forestry, biofuels and renewable 
+energy supplies – as well as promoting the sharing economy means that in the future 
+Fifers will spend more of their money in the local economy; 
+ will provide the political commitment, leadership and long-term planning horizon 
+necessary for local businesses to commit to a low emission future; 
+ by increasing local food and energy security Fife businesses will be less vulnerable 
+to supply chain shocks arising from climate change; and  
+ by fostering resilience to a changing and uncertain future it is anticipated that 
+disruption to business; and recovery times after any interruption can be minimised, 
+and that, as a result Fife will be an attractive place to invest.  
+Social benefits 
+Implementing Climate Fife will benefit Fife’s society  by: 
+ reducing inequalities and improving access to opportunities; 
+ improving local amenities and quality of life; 
+                                            
+16 A Plan for Fife (2017-27) https://our.fife.scot/fife-plan/   Fife spends an estimated £445M* 
+annually on gas, electricity, petrol and 
+diesel. To date much of this 
+expenditure goes straight out of the 
+Fife economy to large multinational 
+companies and does not benefit Fife 
+business or communities. Climate Fife 
+will look at opportunities to internalise 
+some of this energy spend (by local 
+energy generation and storage) to 
+benefit the local economy and Fife 
+communities.  
+*Source: Burntisland Energy Masterplan (Fife Resource 
+Solutions and Ramboll, 2017)   
+17 
+  improving health and wellbeing by improved air quality, more active lifestyles, and a 
+healthier diet; 
+ reducing Fife’s dependence on finite resources and diversifying the available energy 
+mix will increase Fifers resilience to the global commodity price shocks that are 
+predicted to become commonplace because of climate change; 
+ promoting flexible working and strong ICT infrastructure to allow more people to work 
+from home, reducing commuting and giving more space for family life – this will 
+increase economic fairness by benefitting those who have, historically been 
+disadvantaged by their caring responsibilities;  
+ encouraging the rise of the sharing economy is another big social change that could 
+transform commerce and materials use across Fife in the 2020s. This will help to 
+reduce structural inequalities and social exclusion and will help make local 
+communities more tightly-knit (which is an important component of resilience);  
+ reducing reliance on private car ownership and the need to travel, will reduce the 
+social exclusion currently faced by car-less households.  
+Other benefits 
+Many of the solutions presented in Climate Fife  will have considerable benefits for metrics 
+such as quality of life, mental health, community cohesion and a sense of wellbeing. While 
+these are hard to quantify their value should not be overlooked.  
+ 
+International, national and local climate change commitments 
+Climate Fife is undertaken within a framework 
+of climate change legislation, policy and 
+commitments, including: 
+ The UN Sustainable Development 
+Goals; 
+ Scotland’s Climate Change 
+Declaration; 
+ National climate change legislation; 
+and  
+ The EU Covenant of Mayors for 
+Climate and Energy. 
+Local Commitment 
+On the 27th February 2018, Fife Council 
+Leaders re-signed the Scottish Climate 
+Change Declaration. Along with the other 31 
+Scottish Local Authorities, it commits Fife 
+Council to recognise the anthropogenic 
+origins of climate change, to deliver national 
+climate change programmes, to share and 
+promote best practice and to work with others 
+in Fife to act on climate change mitigation and 
+adaptation.  
+ 
+18 
+ On 26th September 2019, Fife Council acted further by declaring a Climate Emergency, 
+stating: 
+“Council agrees to declare a Climate Emergency for Fife and, as the only democratically 
+elected body representing Fife alone, to provide leadership in working with others to 
+address urgent challenges of climate change. Council recognises that what is needed are 
+results not rhetoric and by merely expressing wants does not make them happen. 
+Council further agrees to: 
+1. Acknowledge the latest target set by the Scottish Parliament and to seek to reduce 
+Fife’s carbon emissions by 75% compared with the baseline by 2030 reduce by 90% 
+by 2040 and be carbon neutral by 2045;  
+2. Continue to develop its Sustainable Energy and Climate Action Plan, which is 
+currently under preparation for consultation and due to be submitted for final 
+consideration by the Environment and Protective Services Committee in February 
+2020; 
+3. That the Plan should include a clear strategy and actions with realistic targets, to 
+address climate change and achieve the overall target for reduction in carbon 
+emissions, and should take account of the 12-point guidance on taking forward the 
+climate change emergency agenda locally produced by the Association of Public 
+Service Excellence;  
+4. Taking account of the capacity and resources, both required and available to it, that 
+the Council will incorporate the cost of climate change adaptation and mitigation 
+within its budgetary decisions;  
+5. To engage with its community planning partners to revise the Plan4Fife to include a 
+clearer commitment and actions to address climate change;  
+6. To assist communities to be more resilient to the impacts of global warming and 
+climate change and work with partners and communities across Fife in pursuit of 
+these targets.”  
+National legislation 
+Fife Council is committed to playing its part in achieving national climate change targets. 
+The Scottish Government has set world leading targets for tackling climate change 
+specifically for carbon emission reductions over the next 30 years and has just updated 
+these targets17 in line with the latest scientific advice from the IPPC on the importance18 of 
+keeping global average temperature rises below 1.5°C degrees above preindustrial levels19. 
+Scotland has some of the most ambitious climate change targets in the world and the newly 
+approved Climate Change (Emissions Reduction Targets) (Scotland) Act, 2019 which was 
+enacted at the end of October 201920 commits Scotland to a new target of net-zero carbon 
+emissions by 2045, and a 75% reduction in greenhouse gas emissions by 2030 (compared 
+to a 1990 baseline). In doing so, Scotland will become one of the first countries in the world 
+                                            
+17 https://www.gov.scot/news/climate-change-action-1/  
+18 https://www.ipcc.ch/sr15/   
+19 https://www.theccc.org.uk/2019/05/02/phase-out-greenhouse-gas-emissions-by-2050-to-end-uk-contribution-to-global-warming/  
+20 http://www.legislation.gov.uk/asp/2019/15/enacted    
+19 
+ to legislate to support the aims of the Paris Agreement which sets the standard for the 
+international response to climate change. 
+Progress is underpinned by the Scottish Climate Change Plan (2018), published in 2018 
+which is the Scottish Government’s third report on proposals and policies (RPP3) for 
+meeting its climate change targets. Alongside the Climate Change Plan, Scotland’s first 
+Energy Strategy was published in 2017 and sets out the long-term vision for the future 
+energy system in Scotland which has a strong focus on local energy systems and the 
+adoption of a system wide approach. These updated targets are illustrated in the table 
+below:  
+Scottish Government Climate Change and Energy targets Year  
+100% of Scotland’s electricity demand equivalent to be produced from renewables 2020 
+56% reduction in greenhouse gas emissions (compared to 1990 baseline) 2020 
+Delivery of national adaptation programme 202421  
+75% reduction in greenhouse gas emissions (compared to 1990 baseline) 2030 
+Phasing out of new petrol and diesel vehicle sales 2032 
+The equivalent of 50% of the energy for Scotland’s heat, transport and electricity consumption to 
+be supplied by renewable sources 2030 
+An increase by 30% of the productivity of energy use across the Scottish economy 2030 
+90% reduction in greenhouse gas emissions (compared to 1990 baseline) 2040 
+No more than 5% of Scottish households in fuel poverty 2040 
+Net carbon neutral 2040 
+Net zero greenhouse gas emissions 2045 
+As can be seen, Scotland’s national targets primarily relate to climate change mitigation. 
+Adaptation is more difficult to monitor and evaluate than mitigation given its uncertainties, 
+lack of a single clear metric, and the long-term horizons over which adaptation will need to 
+be undertaken22. In terms of adaptation targets Fife Council is committed to achieving the 
+outcomes and sub-outcomes of the Scottish Climate Change Adaptation Programme 
+(SCCAP). The SCCAP represents the closest thing that there are to formal adaptation 
+targets in Scotland.  
+The draft Scottish climate change adaptation outcomes for the forthcoming adaptation 
+programme period (2019-24), are illustrated below: 
+                                            
+21 And every five years thereafter  
+22 https://www.lgiuscotland.org.uk/briefing/monitoring-and-evaluation-of-local-climate-change-adaptation/   
+  
+20 
+ Scottish Government draft Adaptation Programme Outcomes23 
+Outcome 1 Our communities are inclusive, empowered, resilient and safe in response to the 
+changing climate 
+Outcome 2 The people in Scotland who are most vulnerable to climate change are able to adapt 
+and climate justice is embedded in climate change adaptation policy 
+Outcome 3 Our inclusive and sustainable economy is flexible, adaptable and responsive to the 
+changing climate 
+Outcome 4 Our society's supporting systems are resilient to climate change 
+Outcome 5 Our natural environment is valued, enjoyed, protected and enhanced and has 
+increased resilience to climate change 
+Outcome 6 Our coastal and marine environment is valued, enjoyed, protected and enhanced 
+and has increased resilience to climate change 
+Outcome 7 Our international networks are adaptable to climate change 
+The Covenant of Mayors for Climate and Energy 
+Recognising the significant challenge of mitigating and adapting to climate change, Fife 
+Council signed the Covenant of Mayors for Climate and Energy24on the 27th February 2018.  
+The new Covenant of Mayors for Climate & Energy tackles the issue by looking at 
+interconnected challenges: climate change mitigation, adaptation and access to secure, 
+sustainable and affordable energy for all. Signatories who signed up to the Covenant after 
+2016 (such as Fife Council) commit to being bound by the EU’s 2030 climate change 
+commitments which are: 
+ Accelerating the decarbonisation of Fife by cutting CO 2 emissions (and possibly 
+other greenhouse gases if desired) by at least 40% compared to a 1990 baseline by 
+2030, thus contributing to keeping average global warming below 2°C25; 
+ Strengthening Fife-wide capacity to adapt to unavoidable climate change impacts, 
+thus making the Kingdom more resilient; 
+ Increasing energy efficiency and the use of renewable energy sources within Fife, 
+thus ensuring universal access to secure, sustainable and affordable energy services 
+for all by 2030. 
+In developing its Sustainable Energy and Climate Action Plan, Fife Council is proud to join 
+over 9,000 local and regional authorities across 132 countries representing 800 million 
+people, who are responding to the climate emergency. 
+                                            
+23 https://www.gov.scot/publications/climate-ready-scotland-scottish-climate-change-adaptation-programme-2019-2024-consultation-
+draft/pages/9/   
+24 http://www.covenantofmayors.eu/en/   
+25 For Fife this target has already been achieved and has been superseded by the declaration (at a national and a local level) of a climate 
+emergency and the onus is now on trying to keep average temperature rises below 1.5°C to reduce the risk of run-away climate change 
+and to comply with requirements within the Climate Change (Emission Reduction Targets) (Scotland) Act to reduce emissions by 75% by 
+2030.   
+21 
+ Implementation 
+Delivery model 
+This is the first Sustainable Energy and Climate Action Plan for Fife. Although it is being 
+initiated by the Council, it will rely upon working in partnership with external organisations, 
+businesses and the people of Fife to work. In particular, the Fife Environmental Partnership 
+will play a key role in providing direction, co-ordination, advice and oversight of Climate Fife.  
+Climate Fife will become a central repository where existing climate change mitigation and 
+adaptation actions can be collated, and progress charted so that Fife’s advancement 
+towards the goals can be understood more clearly. It will assess the carbon and adaption 
+impacts of existing work and look to ensure links are made where gaps exist. This 
+document sets out the initial action plan to support the implementation of Climate Fife. 
+Emergency action plan and actions for the first 100 days 
+The delivery model takes a holistic approach and seeks to use existing policies, plans and 
+strategies through collaborative partnerships to ensure actions are delivered in the most 
+effective way. Having said this, it is recognised that business as usual will not, on its own, 
+deliver the urgent and decisive action that is needed to tackle the climate emergency. Time 
+is of the essence in tackling climate change and the science suggests that the quicker we 
+can make emissions reductions, the better – in terms of cost to implement measures and 
+avoided costs from climate risks.  
+Therefore, in addition to making best use of existing delivery routes a 12-month climate 
+emergency action plan supported by a concerted communications campaign is needed to 
+define the new paradigm, redefine business as usual and help deliver the dramatic 
+behaviour change needed in the next decade. Within this 12-month emergency action plan 
+(presented in Appendix A) actions have also been identified for the first 100 days, in line 
+with APSE best practice guidance for responding the climate emergency26.  
+The priority actions for the first 100 days of Climate Fife which will be launched by May 30th, 
+2020 are: 
+1. Establish a Climate Fife delivery group to support Council services to deliver robust 
+action against climate change as part of their new Business as Usual; 
+2. Fife Council will act as an exemplar for the rest of Fife and develop a Carbon 
+Management Plan to set out a programme of carbon reduction measures for its own 
+estate and activities. The draft Carbon Management plan will be revised to reflect the 
+Climate Emergency and will be resubmitted to Fife Council Committee in April 2020, 
+and actions within the plan to be progressed as a priority. 
+3. Launch a cross-partner, Climate Change communications and behavioural change 
+campaign within Fife: providing a single message usable by communities and 
+organisations emphasising the urgency of action to address the climate emergency 
+and increasing climate literacy so that everyone can play their part in reducing 
+emissions and increasing resilience.  
+ 
+                                            
+26 https://www.apse.org.uk/apse/index.cfm/local-authority-energy-collaboration/apse-energy-views/2019/apse-energye28099s-12-points-
+to-stimulate-thought-on-taking-the-climate-emergency-agenda-forward-locally/#   
+22 
+ Organisational structure 
+Clear governance, well defined organisational structures and clear roles for all partners, will 
+enable the success of Climate Fife. The organisational structure has been designed to best 
+translate ambitions into reality, and to consolidate the knowledge of different organisations 
+and individuals. Cross-cutting opportunities and partnerships will be undertaken at all levels 
+of Climate Fife with the aim of integrating innovation into partners everyday processes.  
+ 
+Partnership working 
+At this stage Climate Fife’s action plan is made up of actions largely being driven by Fife 
+Council and key public sector partners. The intention is that the action plan will grow as 
+more partners become involved in Climate Fife. It is intended that stakeholders and citizens 
+should be involved in all aspects of Climate Fife, and this is being fostered using: 
+ Partnership working; 
+ Engagement and consultation; and 
+ Steering groups. 
+Stakeholder engagement and statutory consultations have taken place at numerous points 
+within the development of Climate Fife. The views of elected members, Fife Council 
+officers, statutory consultees, community planning partners, business, the third sector, 
+community groups, academia and the wider public have shaped the plan from:  
+ the initial drawing board,  
+ action Plan development; 
+ conducting the RVA,  
+ informing the SEA; and  
+ 
+23 
+  will be an essential element of its ongoing development through the creation, 
+implementation and development of carbon emission reduction and climate change 
+adaptation projects at the local level.  
+A detailed communications plan is being developed to support Climate Fife and ensure that 
+consultation is robust, inclusive and equitable.  
+The Scottish Government has announced a nationwide programme of stakeholder 
+engagement and community consultation around climate change beginning in the summer 
+of 201927. Fife is committed to supporting and being a part of this Big Climate Conversation  
+and ensuring that Fifers opinions shape the development of the climate change action 
+plans. The communications plan which supports Climate Fife will ensure that strong links 
+are made to the Big Climate Conversation  and that Fifers are encouraged to keep talking 
+about climate change and their local priorities and concerns. While this document sets out 
+the initial principles of Climate Fife, it will be local projects developed in partnership with Fife 
+communities and other local stakeholders that will put flesh on the bones of Climate Fife 
+and ultimately be responsible for delivering carbon savings and managing climate risks.  
+Staff capacity allocated 
+Fife Council, as signatory of the Covenant of Mayors, will fulfil the core senior management, 
+programme manager and programme officer roles for Climate Fife. Fife Resource Solutions 
+will support the Council in delivering the action plan by a Climate Fife Delivery Group. As 
+Climate Fife develops, the partnership will expand and projects within the action plan will 
+progress; it is therefore envisaged that other project partners will provide an increasing 
+proportion of staff time in the future.  
+Delivering transformational change in a short timescale 
+If mankind is to avoid catastrophic runaway climate change our whole society and economy 
+must be transformed and the time for action is short (less than 25 years). This means 
+actions need to rapidly scale up and accelerate the process of decarbonisation that is 
+currently underway. The conventional wisdom has been that decarbonising assets and 
+infrastructure is easier to make the business case for if it is an iterative and incremental 
+process with gradual changes building upon each other, until zero carbon status is 
+achieved. However, the time remaining to make meaningful carbon emission reductions 
+and build climate resilience is now so short, that this delivery model needs to be rethought. 
+Numerous modest, incremental improvements to individual assets is unachievable within 
+the time constraints of avoiding catastrophic warming and society must now seek to 
+decarbonise and adapt in as few interventions as is possible.  
+Why? Put simply it is a numbers game. For example, looking at Fife’s housing stock; to 
+achieve zero greenhouse gas emissions by 2045, every existing dwelling in Fife would 
+need to undergo the following major refurbishments between now and 2045 to make them 
+climate-friendly and climate ready:  
+                                            
+27 https://www.gov.scot/news/the-big-climate-conversation/  
+  
+24 
+  Significantly improve the energy efficiency of building fabric through increased 
+insulation (including potentially over-cladding), and installing triple glazing and super 
+insulated doors; 
+ Significantly improve the energy efficiency of appliances and lighting within the home 
+and smart metering to monitor emissions, (which may require rewiring);  
+ Remove old fossil fuel heating systems and inefficient electric heating systems; 
+ Incorporate low carbon electricity or heat generation into the building;  
+ Connect to a low carbon energy network – like a local heat network for example and 
+retrofit the heating output devices in the home to accommodate this (might need to 
+resize radiators for example);  
+ Install electric vehicle charging points nearby, and storage for multiple bicycles;  
+ Increased capacity guttering, downpipes, water-butts and drainage to slow run-off;  
+ Some homes may need more active flood protection measures such as air brick 
+covers, non-return valves, flood resistant doors and windows etc; 
+ More robust detailing that will be less susceptible to wind damage and rain ingress;  
+ Install water efficient appliances and bathroom fittings to save water; 
+ Passive solar shading, green-walls and green roofs to reduce overheating and storm 
+damage and improve air quality; and 
+ Increased permeable surfacing, rainwater storage and SUDS28 to reduce flood risk.  
+Every home in Fife could be revisited multiple times to make these changes incrementally, 
+but practically it is likely to need to combine some or all these interventions to achieve the 
+2045 targets. In Fife there are already over 160,000 homes - the more stages it takes to 
+achieve this work, the higher the number of properties that will need to be retrofitted every 
+year, and Fife quickly enters the realms where this will not be physically possible to achieve 
+in time. So, how many homes a year would need to undergo all these improvements 
+to make every home in Fife climate friendly and climate ready by 2045?  
+ 
+                                            
+28 Sustainable Urban Drainage System  
+ 
+25 
+ Every year that targets for achieving climate friendly and climate ready refurbishments are 
+missed, will increase the number of homes to be retrofitted in subsequent years. And these 
+figures just consider Fife’s homes, there are thousands of other buildings and structures 
+which will need to be refurbished to make them climate friendly and climate ready during 
+the same period.  
+The greater the number of stages involved in retrofitting Fife’s housing stock, the higher the 
+overall cost will be and the greater complexity and potential wastefulness of resources if 
+measures are upgraded multiple times before the end of their useful life. Delivering 
+measures in combined packages of interventions will make savings in terms of staff time 
+and other costs (for example scaffolding) which could reduce overall expenditure. Some 
+measures might be tied to required expenditure as and when components of a house or flat 
+comes to the end of its useful life; i.e. when a roof is replaced it would be cost effective to 
+make use of the scaffolding to install a range of other measures at the same time (such as 
+PV panels, resized guttering, solar thermal water heating panels, loft insulation).  
+As well as working with national programmes, Climate Fife’s action plan has Scaling Up and 
+Acceleration phases and a cross-cutting innovation working group to target this challenge.  
+Monitoring and evaluation 
+Monitoring is a very important part of Climate Fife. Regular monitoring followed by adequate 
+adjustments of the plan allows the process to be one of continuous improvement and 
+Climate Fife to be a living document. This monitoring report will be used to communicate 
+with citizens and other stakeholders, keeping them informed on progress achieved, barriers 
+encountered, opportunities, and any possible need for corrective measures. 
+Formal reporting will be undertaken as follows: 
+ A full monitoring report will be compiled for Fife Council actions annually and every 2 
+years for the full action plan, in line with the Covenant of Mayors’ monitoring 
+requirements. 
+ An annual Climate Fife progress report will be presented to the Fife Partnership 
+Board. 
+ The Environment and Protective Services Committee of Fife Council will receive an 
+annual update as part of the Public Bodies Duties Reporting (PBDR) requirements of 
+the Climate Change (Scotland) Act  2009. Work with partners is reported in the wider 
+influence section of this report and Climate Fife actions will be monitored through 
+this. 
+ As well as this annual reporting, progress will be monitored and reported through the 
+Fife Environmental Partnership – a committee of community planning partners that 
+meets 4 times a year. To ensure frequent oversight and strategic guidance for 
+Climate Fife this committee will now have a standing item on Climate Fife progress.  
+Climate Fife will be updated annually in line with reporting against strategy, targets and 
+actions, of new available knowledge and expertise, of the latest technological or financial 
+opportunities for sustainable energy projects and/or for adaptation action; in a continuous 
+cycle of Plan, Do, Review, Action. Climate Fife will be comprehensively updated every 5 
+years in line with EU guidance.  
+Adaptation and mitigation involve very different approaches to monitoring and evaluation. 
+While the metric for assessing climate mitigation success is clear (CO2), there is no single 
+unit of measurement to understand the success of climate adaptation actions. True dynamic  
+26 
+ indicators of successful adaptation such as floods avoided, heat wave deaths prevented 
+etc. cannot be measures.  
+Mitigation monitoring requirements Adaptation monitoring requirements 
+A formal commitment to making changes in the 
+short term and in the long term Changes implemented immediately and in the long 
+term 
+Actions which may have an immediate effect on 
+greenhouse gas emissions and which have a formal 
+end goal (decarbonisation) A process that begins today but has gradual effects 
+and which may not have a formal end-point 
+One common indicator: measured levels of 
+greenhouse gas emissions Multiple indicators which are often specific to a 
+geographic area 
+Source: LGiU https://www.lgiuscotland.org.uk/briefing/monitoring-and-evaluation-of-local-climate-change-adaptation/   
+In line with the EU’s Sustainable Energy and Climate Action Plan guidance Climate Fife will 
+evaluate climate risk and adaptation using quantitative and qualitative indicators, process, 
+output and outcome indicators. The adaptation indicators used within Climate Fife have 
+been selected from those recommended within the EU’s Covenant of Mayors guidance and 
+the suite of over 100 national level indicators produced by ClimateXChange (CXC) which 
+are used to monitor adaptation progress and identify trends in climate risks and impacts in 
+Scotland.  
+Full details of the indicators used for adaptation are in the Risk and Vulnerability 
+Assessment. 
+Opportunities to make a local area more climate-resilient arise with every new development 
+project or policy change approved by local authorities. The impacts of missing such 
+opportunities can be significant and will last for a very long time therefore it is vital that a 
+robust method is used to assess which adaptation options are most appropriate, and when 
+and where they should be implemented29. Fife Councils approach to assessing which 
+adaptation options to include within the adaptation strategy and action plan is based on the 
+latest best practice guidance produced for the Committee on Climate Change and will 
+include a mixture of output indicators, outcome indicators and impact indicators30: 
+Risk and Vulnerability Assessment (RVA) 
+A Risk and Vulnerability Assessment of Fife’s climate-related risks is a prerequisite of a 
+Sustainable Energy and Climate Action Plan. Fife Council analysed potential hazards and 
+assessed the vulnerability that could pose a potential threat or harm to Fife. The outcome 
+was used to shape the Adaptation theme of the Plan and the high-level actions in the action 
+plan. A summary of the risk and vulnerability assessment will be available online at: 
+www.fife.gov.uk/climatechange   
+  
+                                            
+29 Ibid, pp13 
+30 Power, K., England, K., Toplis, C. & Hoermann, B. (2018) Adaptation actions in cities: what works? Report of research findings, 
+AECOM and Sniffer .https://www.theccc.org.uk/wp-content/uploads/2018/11/Adaptation-actions-in-cities-what-works-final.pdf  pp13  
+27 
+ Baseline Emission Inventory (BEI) 
+To set an emissions reduction target and to develop appropriate actions for the Climate Fife 
+action plan, Fife Council needed to collate the following information: 
+ An understanding of greenhouse gas emissions for Fife from a set starting point 
+(what the Covenant of Mayor’s calls the Baseline Emissions Inventory or BEI) over 
+which emission reduction trends can be measured; and 
+ An understanding of how greenhouse gas emissions have changed since the 
+baseline (the Monitoring Emissions Inventory or MEI); and 
+ What might happen to Fife’s greenhouse gas emissions in the future.  
+The BEI and MEI will allow the principal sources of Fife’s CO 2 emissions and their 
+respective reduction potential to be identified31.  
+Baseline emissions inventory (BEI) 1990 
+Internationally the year used for carbon reduction baselines is 1990, as defined by the 
+Intergovernmental Panel on Climate Change (IPCC. After seeking government advice, Fife 
+Council calculated its BEI to the international standard baseline of 1990 by extrapolating 
+Fife’s carbon footprint back from the BEIS (Business, Energy and Industrial Strategy 
+Department) dataset which beings in 2005, back to 1990 assuming Fife followed the 
+national Scottish trend for the interim period 1990-2005. Extrapolating the carbon footprint 
+back from known data to 1990 in line with the national trend, reveals: Fife’s 1990 carbon 
+emissions are estimated to have been 49272.85 ktCO 2 in 1990.  
+ 
+ 
+                                            
+31 https://www.covenantofmayors.eu/support/faq.html   Industry & 
+Commercial 
+60%Domestic 
+24%Transport 
+16%Fife's carbon emissions by end use sector (1990) 
+28 
+ Monitoring emissions inventory (MEI) 2017 
+The graph below shows Fife’s emission reductions since the 1990 baseline in kilotons of 
+carbon dioxide and percentage. Actual carbon emission reduction has occurred from 1990 
+to 2017, thereafter shows the linear carbon emission reduction required to meet targets.   
+ 
+Recent trends in greenhouse gas emissions in Fife 
+Key observations that can be drawn from these figures are that the greatest cuts to 
+greenhouse gas emissions have been associated with a reduction in heavy industry in Fife. 
+Despite an increase in population and the number of households, emissions from homes 
+have remained at a constant proportion of the footprint over the last 25 years. This reflects 
+wider societal trends i.e. as building standards and energy consuming equipment have 
+become more efficient, the number of homes in the area has increased and the average 
+Industry & 
+Commercial 
+56%
+Domestic 
+22%Transport 
+22%Fife's carbon emissions by end use sector (2017)2017 MEI 
+2045 net 
+zero 
+emissions 2040 90% 
+CoM 40% target  
+29 
+ number of energy consuming gadgets within a typical home has dramatically increased 
+since 1990. Furthermore, while emissions from land use / land use change and forestry 
+have remained relatively constant, the proportion of emissions arising from the transport 
+sector has risen significantly and continues to rise in line with emissions trends across 
+Scotland. While industry and commerce continue to be the largest source of greenhouse 
+gas emissions within Fife (primarily because of several large hydrocarbon industrial 
+installations located within the Kingdom), emissions from all sectors have fallen dramatically 
+except for emissions from transport, which have barely fallen since 1990.   
+Emissions reduction target 
+Climate Fife commits to surpass the Covenant of Mayor’s target of achieving a 40% 
+reduction in greenhouse gas emissions by 2030 (over a 1990 baseline) because Fife 
+Council has already achieved this target and the latest science suggests that more 
+significant and rapid cuts in emissions are needed. Fife seeks to achieve a science-based 
+target of a 75% reduction in greenhouse gas emissions by 2030, and to achieve net zero 
+greenhouse gas emissions by 2045 in line with Scottish Government targets (which are 
+based on recommendations from the Committee on Climate Change), as set out in the 
+recently approved targets of the Climate Change (Scotland) 2019 Act.  
+Meeting the target 
+Fife Council recognises that meeting the target will be challenging for Fife Council and its 
+partners. As far as is possible the actions within the Climate Fife action plans will attempt to 
+quantify their emissions reduction impact. For some initiatives it may be possible to develop 
+relatively detailed carbon emission reduction estimates once the business cases are 
+developed, however for others it may be that only best estimates may be available.  
+External factors which may impact progress against targets 
+There are several external factors which will impact on Fife Councils ability to achieve their 
+emission reduction goals including most notably, UK and Scottish government policies and 
+the financial support Fife Council receives from central government. 
+A key factor will be the decarbonisation of the electricity supply grid where generation from 
+fossil fuels is rapidly being replaced by electricity generated from renewable energy. This 
+will have a direct impact on the grid emission factor (a measurement of CO2 emissions 
+intensity per unit of electricity generation tCO2/MWh).  
+Demographic factors will also influence Fife’s emissions trajectory. According to the most 
+recent Council Plan, by 2035:  
+ Fife’s overall population is expected to increase to over 380,000; 
+ Fife households are projected to rise by over 35,000 and the average household 
+size is projected to fall further to 1.99; 
+ Single adult households are projected to increase from 35% in 2010 to 43% in 
+2035, with those aged over 75 showing the largest increase; 
+ Fife’s overall child age population is expected to have decreased by 2000; 
+ Fife’s working age population will see a steady decrease to 213,000 by 2035 (a 
+reduction of around 23,000 or 10%);  
+30 
+  Fife’s older population (65+ age group) is expected to increase to 105,000 by 
+2035 (an increase of nearly 41,000). 
+These changes will have a significant impact on Fife’s future greenhouse gas emissions 
+trajectory and the resilience of the population to future climate change. 
+Other external factors which will impact on Fife Councils ability to cut emissions include 
+BREXIT and the associated loss of access to European Union grant funding for climate 
+change projects; and the impacts of climate change itself which may affect the seasonality 
+of energy use and space heating demand in the winter and cooling demand in the summer. 
+Action Plans 
+It is recognised that in order to achieve the transformation needed over the next decade to 
+tackle the climate emergency, a step-change needs to occur in attitudes, processes and 
+business as usual priorities across Fife Council and other community planning partners, 
+therefore a detailed 12 month climate emergency action plan of priority actions which need 
+to be achieved before March 2021 is presented in Appendix A of this report. This 12-month 
+emergency action plan includes urgent actions for the first 100 days and subsequent 
+months and will lay the groundwork for delivering the full Climate Fife action plan for the first 
+phase between 2021 and 2030, and subsequent phases between 2030 and 2050.  
+The actions which should be carried out over the next decade under the 8 themes of work 
+are presented in the draft mitigation and (high level) adaptation plan which is presented in 
+Appendix B of this report.   
+It is vital that the 12-month emergency action plan is delivered to achieve medium- 
+and longer-term objectives.  
+Climate Fife is a living document, and other actions will need to be developed, in 
+conjunction with local stakeholders if Fife Council is to decarbonise Fife and achieve 
+maximum resilience to climate change impacts.  
+At this stage the Covenant of Mayors does not expect signatories to have developed 
+detailed adaptation action plans. Therefore, Fife Council’s adaptation action plan is high-
+level at present. Fife Council will work with community planning partners and local 
+stakeholders from spring 2020 onwards to develop a detailed adaptation action plan of 
+priority actions which should be taken between now and 2030 to increase Fife’s resilience 
+to the unavoidable impacts of climate change. These projects will be developed to respond 
+to the risks identified in the RVA. In addition, it is likely that new risks and hazards will 
+emerge over the coming years as the climate continues to change and that these will need 
+to be addressed in a timely fashion.  
+   
+31 
+ Appendix A Climate Fife Action Plan, 12 Months to 
+March 2021 
+Action Area Description Climate Fife 
+Actions 
+ 
+Priorities for the first 100 days to be delivered by 30th May 2020  
+Fife Council Climate 
+Fife Delivery Group Support Services through a Climate Fife delivery group. 
+Fife Council will implement a delivery group supported by 
+Fife Resource Solutions. The Climate Fife Delivery Group 
+will: 
+ support Services in delivering actions required to 
+meet the targets. 
+ review Service Change Plans to identify support 
+and action, including through the ‘Opportunity 
+Papers’ process.  
+ Deliver and co-ordinate projects for Services to 
+meet targets.  
+ Provide internal training and CPD and facilitate 
+expert support and guidance 
+ Report progress at appropriate management level 
+ IC03, IC04, IC06, 
+IC08, IC12, IC14, 
+IC16, IC16b, 
+IC23, , AD11 
+Launch and begin 
+implementing Fife 
+Council Carbon 
+Management Plan Deliver projects within the revised Carbon Management 
+Plan (2020) to reduce Fife Council’s carbon emissions, 
+including decarbonising fleet, energy efficiency, renewables 
+development and updating design approaches. Carbon 
+reduction in line with Scottish Government and Climate 
+Emergency targets of 75% by 2030 net zero emissions by 
+2045. (against 1990 levels).  EE01, EE04 (a-
+c), LC01 (a-c), 
+MST03, RE07, 
+RE08, ST10 
+ 
+Other priorities for the Emergency Action plan to be delivered by 30th March 2021  
+Communications and 
+behavioural change 
+campaign Launch a cross-partner, Climate Change communications 
+and behavioural change campaign within Fife. Providing a 
+single message usable by communities and organisations 
+emphasising the urgency of action to address the climate 
+emergency and increasing climate literacy so that everyone 
+can play their part in reducing emissions and increasing 
+resilience.  IC15, IC17,  
+Financial innovation Climate change actions do not always make sense using 
+traditional financial metrics and payback calculations yet 
+without them we know that the costs to society and to Fife 
+Council could be catastrophic. New financial models are 
+needed to support climate action. Fife will investigate and 
+deliver innovative options to financially support Climate Fife 
+actions IC04, IC07, IC08, 
+IC19, IC20, IC21, 
+EE09, EE13, 
+MST05, MST08, 
+ST11 
+Housing Deliver energy efficiency measures across housing within 
+Fife. Engage with housing sector to identify opportunities 
+and challenges to ensure the optimum technical solutions 
+are applied. Prepare for the tightening of Building 
+Standards, a future without gas heating systems and zero 
+carbon buildings. Ensure all housing staff are aware of 
+these policy developments.  EE01, EE02, 
+EE11, LC04  
+32 
+ Local Development 
+Plan Prepare for revision of the of the Local Development Plan 
+by reviewing existing policies, develop Fife’s climate risk 
+and vulnerability evidence base and undertake a Low 
+Carbon Place project.  AD09 
+Partnership Asset 
+Management Innovative partnerships will be needed to respond to the 
+climate emergency. Develop partnership approaches to 
+management of public asset including an asset sharing and 
+Land Management plan. Fife Council will develop a 
+coordinated land strategy to manage Fife Council land 
+assets in a way that will best respond to the climate 
+emergency; which recognises the many different and 
+sometimes conflicting demands for Fife’s limited land 
+resource. The latter should include a review of 
+sequestration, reforestation and rewilding options and an 
+urgent review to resolve barriers to tree planting IC16, IC20, IC21, 
+IC22, EE12, 
+LC05, CS07, 
+AD03, AD04 
+Food and diet Support delivery of local food initiatives including plant-
+based diets, food waste and food re-distribution projects. 
+Fife Council to support plant-based options within their own 
+facilities and to ensure that land management plan 
+considers local food production and food security . LC06, RE06, 
+RE09, AD04, 
+AD13 
+Support Sustainable 
+Transport Prepare for the revision of the Local Transport Strategy and 
+support sustainable transport projects through active travel, 
+Fife Council’s carbon management plan, Leven Rail Link 
+Blueprint and Levenmouth Connectivity project. ST01, ST02, 
+ST05, ST10,  
+Adaptation Develop an Adaptation Plan for Fife.  This will link to the 
+emerging Land Management Plan to manage Fife Council 
+land assets in a way that will best respond to the climate 
+emergency. This will include using Fife Council owned land 
+to adapt to climate change and to ensure food and energy 
+security. RE10, RE11, 
+CS06, AD02, 
+AD03, AD04, 
+AD05, AD17 
+Maximise benefit from 
+procurement and 
+Council expenditure Implement lifecycle assessment approaches to 
+procurement – requiring energy, food, and other 
+procurement options to consider carbon footprint could help 
+to keep money in the local economy and reduce supply 
+chain risks from climate change. Supporting staff choices 
+through salary sacrifice schemes for low carbon 
+technologies,  IC01, IC03, IC04, 
+IC08, IC15, IC19, 
+EE11, EE13, 
+LC04, LC08< 
+LC12, RE09, 
+RE12,  
+Waste Deliver the Zero Waste Fife  – Resources Strategy & Action 
+Plan, including supporting plastic free community projects. 
+Add waste to Fife Council’s carbon footprint.  RE01, RE07 
+RE13 
+Community Resilience  
+Building Provide community wealth building and resilience through 
+supporting community groups to deliver climate change 
+projects, supported by Fife Environmental Partnership and 
+facilitated by Fife Resource Solutions. LC05, AD02, 
+AD12, AD13, 
+AD14 
+Lobby Government Lobby government on a number of national policy areas to 
+support action within Fife, for example to tighten national 
+standards, fill evidence gaps or to provide additional 
+resources. IC13, IC16, IC19, 
+EE09, EE10, 
+LC07, MST08, 
+ST11, CS05, 
+AD08, AD10, 
+AD12,  
+  
+33 
+ Appendix B Climate Fife mitigation and adaptation action plan (2021-2030) 
+This appendix presents projects that will be undertaken during the first plan phase (2021-2030). Note that only high-level adaptation actions 
+are considered in this action plan. A detailed adaptation action plan will be developed in the first phase of Climate Fife (2020-22).  
+Actions within the action plan are defined in several ways. Firstly, we have assessed whether an action will contribute to the three overarching 
+principles: 
+= climate friendly = climate ready  = climate just 
+ 
+Climate Fife will be implemented in a phased approach of 5 phases of activity. Between now and 2050 there will be three plan periods, each 
+comprising a decade. Actions within the action plan are assigned to a discrete plan period and phase. Some actions will stretch across 
+multiple time phases, some will be undertaken across the whole life of Climate Fife. Diagram A1 illustrates how these plan periods and 
+phases will fit together and the type of activity we expect to undertake during each period and phase. Some actions may continue in one form 
+or other across plan periods and phases.  
+Actions have been allocated to the following activity phases: 
+ Ground work (2020-2022);  
+ Scaling up (2023-2025);  
+ Acceleration phase (2026-2040)  
+ Near net zero (2041-45); and  
+ Deliver SCCAP (2046-50).  
+These phases are illustrated in diagram B1, and described in more detail below: 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+ Diagram B1: Climate Fife plan phases 
+ 
+ 
+35 
+ Ground work (2020-2022):  this phase will focus on easy wins including projects that can be delivered quickly. In addition, essential 
+foundation activities will be implemented including: 
+ developing financial instruments and new ways to finance projects;  
+ consolidating political support;  
+ engagement with key sectors;  
+ building new partnerships and strengthening existing partnerships;  
+ changing planning laws and creating new planning policy and guidance;  
+ updating Fife Council policies in the light of new national climate change targets;  
+ undertaking engagement programmes to support the public;  
+ screening current developments at the planning stage for climate risk and emissions and working to adapt these to prevent potential 
+climate liabilities from being built;  
+ developing tools for impact evaluation and successful implementation;  
+ and deployment of small-scale test projects.  
+The importance of a sense of urgency, political consensus and appetite for action is consolidated during this period, and that any actions 
+which can be started now, begin in earnest.  
+Scaling up (2023-2025):  during this phase smaller projects will be completed as exemplars and activity will turn to how to use the lessons 
+learned for larger scale deployment. Integrating learning into new project proposals will be fast-paced and collaborative. This is the phase 
+where teething troubles will be most apparent as new technologies and ideas are tested in the real-world. It’s likely that some ideas and 
+technologies may not be progressed beyond this period if they do not work out, and that new exemplar projects will be conceived as 
+technology develops. Ground will be being broken for some large projects, and lots of planning will be underway for many more. Some 
+ground-work activities will still be ongoing such as developing planning guidance and financial instruments and public engagement. Long term 
+projects such as reforestation which will take time to deliver their benefits need to be being implemented during this period if not before. Large 
+scale developments are expected to mostly focus on known technologies and approaches that have low risk but high benefit to best assure 
+success. As new technologies emerge during the delivery of Climate Fife, these will be considered and tested using the same staged 
+approach. 
+Acceleration of mitigation and adaptation actions (2026-2040): In many ways this is the main phase of Climate Fife.  Small projects have 
+gained momentum and are being rolled out at neighbourhood or settlement-wide and in some cases, even Fife-wide scales. While many 
+teething problems will have arisen during the scaling up phase some challenges will only arise at larger scales of deployment or as new 
+technologies come on stream during the acceleration phase. These will have to be rapidly overcome. Legislation is prohibiting many fossil 
+fuel technologies and maladaptive practices. Low and zero carbon alternatives are becoming the norm. Activity during this period will be akin  
+36 
+ to a war effort as every aspect of Fife’s economy, infrastructure, land use and built environment is overhauled to reduce emissions and 
+increase resilience. Carbon sequestration activities become a major component of the Fife economy. Unfortunately, climate extremes are 
+also becoming the norm and the already challenging Climate Fife work programmes will have to accommodate this.  
+Near net zero GHG (2041-45): While the previous phase saw the bulk of carbon reduction; activity during this phase action turns toward 
+phasing out other greenhouse gases (most notably nitrous oxide and refrigerants with high global warming potential) and ensuring that 
+sequestration projects are sufficient to absorb any emissions which cannot be phased out. While we will be starting to see the benefits of 
+long-term projects it is also likely that some extreme impacts of climate change and associated socioeconomic impacts (large scale climate 
+migration for example) will be being experienced in earnest. 
+Deliver SCCAP (2046-50):  This phase sees a net zero Fife dealing with the more extreme impacts of climate change and adapting existing 
+actions in the light of the latest climate science and observed impacts. The benefits of large-scale adaptation projects are being felt but 
+adaptation will be a continuous process for the foreseeable long-term future as long-term changes such as sea level rise play out over the 
+coming decades and centuries.  
+ 
+Actions are also defined by which source of emissions they will reduce using BEI sectors from the Covenant of Mayors template:  
+     
+  
+  
+  
+  
+  
+     
+ 
+The action plan also defines actions by the type of activity that is needed from identified leads or partnerships. Actions are defined as: 
+ Direct – for actions where there is an identified lead or partnership to take forward measures directly; 
+ Enable – for actions where partners need to work together and enable each other to act; 
+ Support – for actions where an identified lead or partnership provides support for others to act; and  TRANSPORT  
+Municipal fleet  
+Public transport   
+Private and commercial 
+transport   BUILDINGS, EQUIPMENT/FACILITIES AND 
+INDUSTRIES  
+Municipal buildings, equipment/facilities  
+Tertiary (non-municipal) buildings, 
+equipment/facilities  
+Residential buildings  
+Public lighting OTHER   
+Agriculture, Forestry, Fisheries  
+OTHER NON-ENERGY RELATED  
+Waste management  
+Waste water management  
+Other non-energy related  ENERGY 
+Local electricity production  
+Local heat/cold production   
+37 
+  Policy – for actions where Fife Council needs to change Council policy (this may be procurement policy, planning policy etc) to remove 
+barriers to action for itself and others. 
+Finally, actions are defined by how they will enable Fife Council and partners to comply with national climate change policy and targets. 
+Compliance relates to which target below the action relates to and will enable compliance with. A summary of climate change targets for 
+Scotland is presented in Diagram B2 below, with a more detailed timeline in Diagram B3. 
+Diagram B2: Summary of Scottish Government climate change and energy targets 
+Scottish Government Climate Change and Energy targets Year  
+100% of Scotland’s electricity demand equivalent to be produced from renewables 2020 
+56% reduction in greenhouse gas emissions (compared to 1990 baseline) 2020 
+Delivery of national adaptation programme 202432  
+75% reduction in greenhouse gas emissions (compared to 1990 baseline) 2030 
+Phasing out of new petrol and diesel vehicle sales 2032 
+The equivalent of 50% of the energy for Scotland’s heat, transport and electricity consumption to be supplied by renewable sources 2030 
+An increase by 30% of the productivity of energy use across the Scottish economy 2030 
+90% reduction in greenhouse gas emissions (compared to 1990 baseline) 2040 
+No more than 5% of Scottish households in fuel poverty 2040 
+Net carbon neutral 2040 
+Net zero greenhouse gas emissions 2045 
+                                            
+32 And every five years thereafter 
+  
+38 
+ Diagram B3 
+Scottish climate 
+change target 
+timeline Climate and energy targets (UK & Scotland)
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+Climate Fife plan period:
+Climate Fife activity phase:
+Every home offered smart meter y
+30% total energy consumption from renewables y
+100% electricity consumption from renewables y
+11% heat demand from renewables y
+1GW community and locally owned renewable energy projects in Scotland y
+56% cut in GHG emissions y
+12% reduction in energy use y
+Social Housing EESSH 1, EPC C/D dependent on building type y
+9.75% share of renewable fuels in transport y
+Set up public not for profit Scottish energy company y
+Private rented homes to achieve EPC E y
+Private rented homes to achieve EPC D y
+No more that 15% households in fuel poverty y
+30% increase in productivity of energy use across Scottish economy y
+Private rented and households in fuel poverty to achieve EPC C y
+50% of total energy consumption from renewables y
+Social Housing EESSH 2, Checkpoint y
+2 GW community and locally owned renewable projects in Scotland y
+75% cut in GHG emissions (Scotland) y
+75% cut in GHG emissions (Fife Council target) y
+14% share of renewable fuels in transport y
+Only low carbon vehicles available for purchase (Scotland) y
+Aim for new homes to achieve near zero carbon (where feasible) y
+EPC band C for all homes (where feasible) y
+No more than 5% households in fuel poverty y
+90% cut in GHG emissions (Scotland) y
+Effectively carbon neutral (CO2e emissions) y
+Social Housing EESSH 2, min. EPC B/C dependent on building type y
+All owner occupied housing to achieve EPC C y
+Near zero GHG emissions y
+Fully decarbonised heat supply (Scotland) y
+All Scottish homes near zero carbon (where feasible) y
+* SCCAP: Scottish Climate Change Adaption ProgrammeFirst plan period Second plan period Third plan period
+Groundwork Scaling up Acceleration (main phase of action) Near net zero Deliver SCCAP* 
+39 
+  
+ID Action Description  Lead Partners BEI 
+sector 12-
+month 
+action? Activity 
+type Phase Alignment with 
+vision 
+  
+   
+IC01 Fife Council 
+Climate Fife 
+Delivery 
+Group Within the first 100 days Fife will support 
+Services through the establishment of a 
+Climate Fife Delivery Group, supported by 
+Fife Resource Solutions. This Climate Fife 
+Delivery Group will: 
+ Support services in delivering actions 
+required to meet the targets  
+ Review Service Change Plans to 
+identify support and action, including 
+through the ‘Opportunity Papers’ 
+process 
+ Deliver and coordinate projects for 
+Services to meet targets 
+ Provide internal training and CPD 
+and facilitate expert level support and 
+guidance 
+ Report progress at appropriate 
+management level 
+ Fife Council  Fife Resource 
+Solutions All Yes Direct, 
+support 
+and policy Ground 
+work 
+(2020-22)  Yes Yes Yes 
+IC02a Commit to a 
+carbon neutral Community planning partners work together 
+to ensure that all senior officers and elected 
+members within Fife Council (and Trusts) 
+have undertaken carbon literacy training, Fife Council  Fife Council 
+Trusts, 
+Community All  Direct, 
+support All Yes Yes Yes 
+ 
+40 
+ Fife by 2045 
+at the latest  climate risk training and have become 
+climate leaders themselves, with further 
+plans brought forward to disseminate these 
+issues through the thinking and decision 
+making of all directorates. Implement 
+Continued Professional Development to 
+increase science and engineering literacy for 
+decision makers to help them best 
+understand the potential solutions. Consider 
+engagement with the forthcoming COP in 
+Glasgow.  planning 
+partners 
+IC02b Fife Council to review the current staffing 
+resource distribution, and skillsets within the 
+Council. There may be business case for 
+spend to save investment in skills and new 
+posts.  Fife Council  Training 
+providers, third 
+sector 
+partners, 
+support 
+organisations  All Yes Direct Ground 
+work 
+(2020-22)  Yes Yes Yes 
+IC02c Fife Council induction and working practices 
+to include energy and resource efficiency, 
+reflecting the Fife climate emergency. Basic 
+resource efficiency actions to be included 
+within job competencies using the Integrated, 
+Social & Material Framework to ensure that 
+desired behaviours are supported.  Fife Council   All  Direct, 
+and policy  Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC03 Revise 
+existing 
+policies to 
+reflect the 
+climate 
+emergency  Fife Council will when reviewing and revising 
+policies and strategies, ensure that they are 
+compatible with delivering the Climate Fife 
+vision and reflect the Fife Climate Emergency 
+by use of the Fife Environmental Assessment 
+Tool (FEAT)  Fife Council  Community 
+planning 
+partners All  Policy, 
+Direct and 
+Support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes  Yes 
+IC04 Investigate 
+and deliver 
+innovative 
+options to 
+financially Fife Council will work partners to design, fund 
+and commission (or deliver in-house) detailed 
+advice on the timescales, actions and 
+budgets needed to deliver a carbon neutral 
+Fife by 2045. Fife Council will work with Fife Council  Academia, 
+community 
+planning 
+partners, third 
+sector, Fife All Yes Policy Ground 
+work 
+(2020-22)  Yes Yes Yes  
+41 
+ support 
+Climate Fife 
+actions partners to develop business cases for low 
+carbon and transport investments using 
+alternative financing models. This may 
+require financial innovation such as whole life 
+costing, municipal bonds, a climate fund, an 
+internal carbon cost, or the establishment of 
+an Energy Services Company to deliver 
+locally generated low carbon energy and 
+heat. 
+The Council will act as an exemplar by 
+introducing formal climate screening of all its 
+budgets; with the 2021-22 budget being used 
+to pilot budget setting against a backdrop of 
+climate risks. Focus on opportunities, shared 
+benefits approach, fostering innovation and 
+providing officer time to think outside of 
+business as usual.  
+Fife Council will explore options that increase 
+financial benefits through linked energy 
+systems / whole energy systems models. 
+This will develop a process to investigate 
+potential improved financial returns where 
+energy project business cases are linked. 
+Investigate “Agency” models where a third 
+party could aggregate supply and demand for 
+an industrial estate to maximise the 
+commercial benefits to the businesses. also 
+test them out so we can find out what works 
+in different situations, the margin for the 
+Council and how they can be used together.    citizens, the 
+business 
+community  
+IC05 Develop a 
+communicatio
+ns strategy 
+and engage in 
+climate 
+strategy to 
+raise Within the first 100 days Fife Council and 
+partners will develop a climate change 
+communications strategy that will emphasise 
+that climate change action is an urgent 
+priority. 
+Fife Environmental Partnership will work with 
+community organisations to develop this Fife 
+Council, 
+Fife 
+Environme
+ntal 
+Partnership  Community 
+groups, third 
+sector, 
+FCCAN, 
+Greener 
+Kirkcaldy, 
+CLEAR All Yes Direct and 
+support All Yes Yes Yes  
+42 
+ awareness, 
+identify risks 
+and 
+opportunities 
+and develop 
+shared 
+projects communication strategy, and maximise 
+resources to support and community action 
+and minimise bureaucratic barriers 
+The strategy will: 
+ Include climate literacy and deliver 
+training to local people in how to 
+reduce their carbon footprint and 
+increase their resilience to climate 
+change.  
+ support and celebrate the activities of 
+community groups 
+ regular climate conversations with 
+residents, the third sector and the 
+business community through 
+Community Planning structures 
+ promote local action e.g. Beach 
+clean-ups 
+ Link to national campaigns and 
+events e.g. Climate week.  Buckhaven & 
+Methil, 
+Sustainable 
+Cupar, St 
+Andrew’s 
+Environmental 
+Network, 
+Transition 
+network, 
+Extinction 
+Rebellion  
+IC06a Provide 
+regular 
+progress 
+reports  Fife Council will provide regular interim 
+progress reports on delivery against Climate 
+Fife to Full Council, Fife Environmental 
+Partnership, the Sustainable Growth and City 
+Deal Board and direct to the Chief Executive.  Fife Council  Fife 
+Environmental 
+Partnership  All Yes Direct All Yes Yes Yes 
+IC06b Fife Council will report back to the people of 
+Fife annually on what it (and community 
+planning partners) have done to address the 
+climate emergency and what we are planning 
+to do. Climate Fife progress reports will be 
+published with committee papers online and 
+via social media.  Fife Council  Community 
+groups, third 
+sector, Fife 
+Environmental 
+Partnership,  All Yes Direct All Yes Yes Yes 
+IC07 Innovative 
+financing for 
+public good  Council, community groups and the third 
+sector to work together on grant funded 
+projects for community energy schemes and 
+other climate change projects. The Council’s Fife Council  Private sector 
+developers, 
+Scottish 
+Futures Trust, All  Direct and 
+support All Yes Yes Yes  
+43 
+ business support and funding support 
+advisors will be made available to support 
+community investment in renewable energy 
+and grant applications for community climate 
+change projects.  Promote investment and 
+align public sector capital investment to 
+unlock developer funding for transport and 
+education infrastructure.  Improvement 
+Service 
+IC08 Assess the 
+impact of all 
+policy 
+decisions, 
+budgets and 
+investments 
+on climate 
+change 
+mitigation and 
+adaptation, 
+and other 
+externalities. Fife Council will use an environmental 
+screening tool to ensure that all policy and 
+investment decisions made by the Council 
+consider the climate emergency and other 
+environmental issues. All decisions made by 
+the Council and its partners in response to 
+the climate emergency will also be supported 
+by equality assessments as well as the Fairer 
+Scotland duty to maximise their positive 
+effects and reduce any negative impacts.  Fife Council  Fife Council 
+Trusts, 
+community 
+planning 
+partners All Yes Direct and 
+policy Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC09a Support future 
+generations in 
+responding to 
+the climate 
+emergency  Fife’s educational establishments will engage 
+openly with pupils on the climate emergency 
+and actions which are needed to respond to 
+it. Fife Council will work closely with schools, 
+local colleges and universities to build the 
+skills and capacity for a greener and more 
+resilient economy in Fife. Including a focus 
+on new technologies (battery storage, heat 
+pumps, ULEV, other renewables), forestry 
+and food production, and ensuring the 
+provision of apprenticeships and other 
+opportunities for inclusive growth. 
+Schools will use the EcoSchools programme 
+to support young people to engage in climate 
+change. Fife Environmental Partnership will 
+link to 2050 Climate Group and other young 
+people’s organisations / charities dealing with Fife 
+Council. 
+Fife 
+Environme
+ntal 
+Partnership  Fife College, 
+University of 
+St Andrews, 
+Community 
+groups, third 
+sector; 2050 
+Climate Group  All  Direct and 
+support All Yes Yes  Yes  
+44 
+ the interplay between climate change and 
+intergenerational equity  
+IC09b Review investment in the school and further / 
+higher education estate to ensure carbon 
+reduction, climate resilience and climate 
+education are core principles.  Fife Council  Fife College, 
+University of 
+St Andrews  All  Direct and 
+support All Yes Yes  Yes 
+IC10a Provide 
+support, 
+training, and 
+information to 
+help national 
+and local 
+partners to 
+deliver energy 
+reduction and 
+decarbonisatio
+n programmes 
+across Fife  Deliver energy reduction and decarbonisation 
+training programmes to reduce business 
+outgoings and reduce business failure rates.  Business 
+Improveme
+nt District  Fife Council  All  Support All Yes Yes Yes 
+IC10b Supply expert training, support and 
+information to SMEs and third sector with 
+regards to climate change obligations such 
+as LHEES. This could include greater 
+Council engagement with the forthcoming 
+COP in Glasgow.  Fife Council  Fife Council  All  Support All Yes Yes Yes 
+IC11a Update and 
+implement 
+Fife Council’s 
+Carbon 
+Management 
+Plan Within the first 100 days Fife Council will 
+update Council Carbon Management Plan in 
+line with new national and Climate Fife 
+targets.  Fife Council   Municipal 
+buildings, 
+residential 
+buildings, 
+municipal 
+fleet, 
+public 
+lighting  Direct  Ground 
+work 
+(2020-22)  Yes - Yes 
+IC11b Investigate and develop what additions are 
+required to Building Standards for Fife 
+Council assets to be net zero emissions by 
+2045 at the latest (and possibly as early as 
+2030 depending on the outcome of a national 
+policy review expected in Spring 2020) and 
+reduce running costs and Council revenue 
+spend.  Fife Council  Scottish 
+Government, 
+social housing 
+providers, 
+volume 
+housebuilders, 
+local building 
+industry All 
+buildings   Direct, 
+policy and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes  
+45 
+ IC12 Strengthen 
+low carbon 
+and climate 
+ready actions 
+within the City 
+Deal 
+workstreams Fife Council Climate Fife Delivery Group to 
+review and develop City Deal actions to 
+support delivery of the net zero carbon target 
+and increased climate adaptation actions.   Fife Council  City Deal 
+partners Buildings 
+and 
+infrastruct
+ure Yes Direct, 
+policy and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC13 Lobby the 
+Scottish 
+Government 
+to embed 
+climate 
+change action 
+into public 
+procurement 
+processes and 
+financial 
+practices  Fife Council will work with other Local 
+Authorities and the Scottish Government to 
+consider whether any legislative change is 
+needed to allow carbon reduction and climate 
+resilience to be mainstreamed into 
+procurement decisions, Scottish Government 
+funding (for example should the Scottish 
+Futures Trust only fund zero carbon 
+buildings) and financial processes (i.e. loan 
+pooling, ring fencing of climate grant funding 
+for example). In the light of the outcome of 
+this exercise, Fife Council will review and 
+update its procurement and financial 
+processes accordingly.  Fife Council  Scottish 
+Government, 
+other local 
+authorities  All Yes Direct, 
+policy and 
+support Ground 
+work 
+(2020-22)  Yes Yes Yes 
+IC14 Strengthen 
+climate 
+actions within 
+the Plan4Fife  Review and develop Plan4Fife actions to 
+support delivery of national net zero carbon 
+targets and adaptation programme.  Fife 
+Resource 
+Solutions, 
+Fife 
+Environme
+ntal 
+Partnership  Fife Council, 
+community 
+planning 
+partners All  Yes Direct, 
+policy and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC15 Adopt an 
+emissions 
+modelling tool  Fife Council will adopt an emissions 
+modelling tool to quantify the impact of 
+Climate Fife mitigation and sequestration 
+actions and to inform future target-setting.  Fife Council  Scottish 
+Government, 
+SSN, 
+academia  All  Direct Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes - Yes  
+46 
+ IC16a Collaborative 
+partner 
+development 
+and action 
+across all 
+Climate Fife 
+programme 
+areas 
+ Work with partners in The Leven Programme 
+to develop innovative renewable energy 
+opportunities in the Leven catchment area  The Leven 
+Partnership 
+Board Fife Council, 
+CLEAR 
+Buckhaven & 
+Methil Local 
+energy 
+productio
+n  Direct and 
+support All Yes - Yes 
+IC16b Carry out all the actions identified by the 
+Association for Public Services Excellence 
+(APSE) for dealing with the climate 
+emergency.  APSE Other local 
+authorities  All Yes Policy, 
+direct and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC16c Develop a sustainable joint campus for 
+Dunfermline high school and Fife College  Fife Council  Fife College, 
+Scottish 
+Government  Municipal 
+buildings, 
+tertiary 
+buildings   Direct and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC16d Support and develop a Local Heat and 
+Energy Efficiency Strategy (LHEES) with the 
+Scottish Government.  Fife Council  Scottish 
+Government  Municipal 
+buildings, 
+tertiary 
+buildings  Direct and 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC16e NHS Fife to develop Sustainable 
+Development Action Plan (SDAP) based on 
+National NHS benchmarking exercise  NHS Fife  Scottish 
+Government  Municipal 
+buildings, 
+tertiary 
+buildings  Support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC16f Work with Fife Community groups to engage 
+their members Fife 
+Environme
+ntal 
+Partnership Community 
+groups, third 
+sector,  All Yes Direct and 
+support Ground 
+work 
+(2020-22) 
+Scaling-Yes Yes Yes  
+47 
+ up (2023-
+25) 
+IC17 Support and 
+encourage 
+behaviour 
+change and to 
+tackle 
+resistance to 
+change 
+through the 
+development 
+of a bottom-up 
+behaviour 
+change 
+strategy for 
+Community 
+Planning 
+partners  Develop a communications and engagement 
+strategy to support people to change  
+highlighting what individuals can do and 
+presenting a positive vision of future Fife. 
+Having people understand and be motivated 
+to reduce energy consumption and to 
+decarbonise is essential to the success of 
+energy solutions. Fife Council and partners 
+will develop staff communications campaigns 
+via new and existing staff communications 
+channels, including suggestion of a daily tip 
+over a month; targeting skills sectors; CPD, 
+Masterclasses etc. Process for learning 
+lessons to embed these. Communications 
+campaign also linked to schools and 
+education staff and incorporation of the 
+climate emergency into the curriculum and 
+extra-curricular activities Fife 
+Environme
+ntal 
+Partnership
+, Fife 
+Resource 
+Solutions Third sector, 
+FCCAN, and 
+other 
+community 
+partners  All  Yes 
+ Direct and 
+support All Yes Yes Yes 
+IC18 Gather 
+evidence to 
+inform 
+lobbying Many of the actions within this action plan 
+advocate lobbying Scottish Government to 
+update legislation or technical standards. 
+However, before Government can be 
+effectively lobbied there is a need to gather 
+evidence and the views of other 
+stakeholders. Fife Council will contribute to 
+evidence gathering by government via 
+consultations and Parliament hearings and 
+also investigate the most appropriate 
+avenues for lobbying government out with 
+formal consultations i.e. SOLACE the 
+proposed, High ambition climate change 
+network etc.  Fife Council  Other local 
+authority 
+partners, Fife 
+Environmental 
+Partnership, 
+third sector, 
+professional 
+associations All Yes Direct and 
+support Ground 
+work 
+(2020-22) Yes Yes Yes  
+48 
+ IC19 Investigate 
+incentives to 
+cut emissions 
+and use 
+resources 
+efficiently Investigate options to develop incentives to 
+reward behaviour which helps to tackle the 
+climate emergency (such as cutting 
+emissions, reducing waste or increasing 
+resilience). Incentivisation should be 
+introduced where possible. Without negative 
+and positive incentives, the progress towards 
+targets will be considerably slower. Other 
+municipalities have offered reductions in 
+Council tax, free parking, public transport 
+vouchers or awards and prizes for individuals 
+and municipality staff who make significant 
+strides in cutting emissions. Fife Council will 
+consider similar ideas. Policies will be 
+designed carefully so that the impact of 
+change is fairly distributed. Price signals 
+should act on all Fifers, but in a proportionate 
+manner. Fife Council  Fife 
+Environmental 
+Partnership, 
+third sector, 
+community 
+groups, local 
+business, 
+other public 
+sector bodies All  Direct and 
+support Ground 
+work 
+(2020-22) Yes Yes Yes 
+IC20 Partnership 
+agreements Develop simplified partnership agreements 
+for Fife Council and others to speed up 
+coordinated working and accelerate the take 
+up of scalable projects. The climate 
+emergency requires a fast response and 
+partnership agreements are quicker to deliver 
+than formal strategy. Fife Council  Community 
+planning 
+partners, 
+private sector, 
+third sector, 
+community 
+groups All  Direct Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC21 New delivery 
+vehicles / 
+establishment 
+of joint 
+ventures Existing organisational structures may not be 
+able to deliver the rapid innovations needed 
+in the short window of opportunity that is 
+available. Fife Council to commission a 
+review of the best approaches to deliver 
+energy, carbon, sequestration outcomes this 
+should include the use of the ALEO and other 
+joint ventures able to act as aggregators and 
+delivery agents for delivering community 
+projects across Fife by providing technical Fife Council  Fife Resource 
+Solutions (Fife 
+Council’s 
+environmental 
+ALEO) 
+Community 
+planning 
+partners, 
+private sector, 
+third sector, All  Yes Direct, 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes  
+49 
+ and funding support and access to Council 
+assets and land if needed. community 
+groups 
+IC22 Custodian 
+register List of key organisations acting on climate 
+change in Fife, and a named contact for each 
+project to enable sharing and innovation. 
+Consider a tagging system to support this, 
+e.g. providing contact information for a Fife 
+Council lead with named officer, summary of 
+project, aspiration for next steps, links where 
+available to maximise the opportunities to 
+learn lessons and roll out innovation as 
+efficiently as possible.  Fife Council  All All Yes Policy, 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+IC23 Climate Fife 
+expert register Develop register of people with technical 
+expertise relevant to Climate Fife and willing 
+to share this knowledge with community 
+planning partners via CPD, masterclasses 
+and other means.  Fife 
+Environme
+ntal 
+Partnership All All Yes Policy, 
+support Ground 
+work 
+(2020-22) 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+50 
+  
+ID Action Description  Lead Partners BEI 
+sector 12-
+month 
+action?  Activity 
+type  Phase Alignment with vision  
+ 
+   
+EE01 Reduce 
+energy 
+demand from 
+street 
+infrastructure  Light Fife Green to replace all Fife street 
+lighting lamps with energy efficient 
+equipment, including LEDs  
+ Fife 
+Council  Public 
+Lighting Yes Direct Ground-
+work 
+(2020-22)  Yes No Yes 
+EE02a Improve 
+domestic 
+energy 
+efficiency in-
+line with 
+national 
+guidelines, 
+striving for 
+beyond the 
+legal 
+minimum 
+where 
+possible Install energy efficient measures in 
+Council owned domestic housing stock 
+(through EESSH [Energy Efficiency 
+Standard for Social Housing] & HEEPS: 
+ABS [Home Energy Efficiency 
+Programmes Scotland: Area Based 
+Scheme] and future energy efficiency 
+support programmes)  Fife 
+Council Scottish 
+Government  Resident
+ial 
+Buildings  Yes Direct Ground-
+work 
+(2020-22), 
+Scaling up 
+(2023-25),  Yes Yes Yes 
+EE02b Support the installation of energy efficient 
+measures in non-Council owned housing 
+stock (through EESH & HEEPS: ABS and 
+future energy efficiency support 
+programmes)  Housing 
+association
+s Fife Council  Resident
+ial 
+Buildings  Yes Direct Ground-
+work 
+(2020-22), 
+Scaling up 
+(2023-25),  Yes Yes Yes 
+ 
+51 
+ EE02c Support the installation of energy 
+efficiency improvements in off-gas and 
+rural areas and install measures into rural 
+Fife Council housing stock  Fife 
+Council  Resident
+ial 
+Buildings  Yes Direct and 
+support Scaling up 
+(2023-25)  Yes Yes Yes 
+EE03 Prepare for 
+Scottish 
+Government 
+new home 
+targets Review policy implications for new build 
+housing and non-residential buildings that 
+from 2024 these must use renewable or 
+low carbon heat. Consider in revisions of 
+plans, such as the Local Development 
+Plan and the Local Housing Strategy.  Fife 
+Council Scottish 
+Government  Resident
+ial 
+Buildings  Direct, 
+and 
+support Ground-
+work 
+(2020-22), 
+Scaling up 
+(2023-25), 
+Acceleratio
+n (2025-
+40) Yes Yes Yes 
+EE04a Implement 
+Fife Council’s 
+Carbon 
+Management 
+Plan (CMP)  Fife Council will act as an exemplar for 
+the rest of Fife and develop a programme 
+of carbon reduction measures for its own 
+estate and activities in response to the 
+targets set out by Climate Fife and 
+national climate change legislation. The 
+Carbon Management plan is being 
+revised to reflect the Climate Emergency 
+and will be resubmitted to Fife Council 
+Committee in April 2020.  Fife 
+Council Scottish 
+Government  Municipa
+l 
+Buildings  Yes Direct Ground-
+work 
+(2020-22),  Yes - Yes 
+EE04b Fife Council will implement a programme 
+of investment in its existing built assets to 
+improve their energy efficiency and help 
+deliver carbon neutrality by 2045, or 
+earlier if mandated by Government. The 
+ability to deliver this action is predicated 
+on appropriate funding being made 
+available by central government. This will 
+involve a large-scale energy efficiency 
+retrofit programme using an Energy 
+Management Revolving Fund, amongst 
+other funding measures. It will not be 
+possible to achieve national carbon Fife 
+Council Scottish 
+Government  Municipa
+l 
+Buildings  Yes Direct Ground-
+work 
+(2020-22), 
+Scaling up 
+(2023-25), 
+Acceleratio
+n (2025-
+40) Yes Yes Yes  
+52 
+ targets without a large scale retrofit 
+programme of existing buildings.  
+EE04c Monitor energy consumption within Fife 
+Council buildings and those that we lease 
+to ALEOs and Trusts. Close monitoring of 
+consumption will allow technical faults 
+and billing errors to be quickly identified 
+and rectified. Improve BEMS and smart 
+monitoring to make it easier to keep track 
+of energy consumption in real time. There 
+should be wider installation and central 
+control of Building Energy Management 
+Systems to reduce energy consumption 
+and avoid localised changing of controls 
+delivering more energy / heat than is 
+required.  Fife 
+Council Utility 
+companies, 
+FRS, Fife 
+Sports and 
+Leisure Trust, 
+Fife Cultural 
+Trust, Fife 
+Coast and 
+Countryside 
+Trust etc  Municipa
+l 
+Buildings  Yes Direct All Yes - Yes 
+EE05 Continue to 
+promote 
+energy 
+efficiency 
+advice 
+services for 
+Fife  Work to support and direct Fifers towards 
+energy efficiency advice programmes 
+such as Cosy Kingdom which deliver 
+energy efficiency assistance direct to Fife 
+households, helping to reduce fuel 
+poverty and greenhouse gas emissions. 
+Cosy Kingdom is a free and impartial 
+energy and debt advice service available 
+to all tenants and homeowners across 
+Fife. Greener 
+Kirkcaldy, 
+St 
+Andrew’s 
+Environme
+ntal 
+Network, 
+Citizens 
+Advice and 
+Rights Fife  Fife Council  Resident
+ial 
+buildings   Support, 
+direct All Yes Yes Yes 
+EE06 Support 
+social 
+housing 
+providers in 
+reducing the 
+energy 
+demand of 
+their 
+properties  Work with local social housing providers 
+to improve the energy efficiency of Fife’s 
+social housing; with the aim of scaling up 
+and accelerating existing work so that we 
+reduce emissions from heating homes 
+and buildings to near-zero by 2045, (in 
+line with advice from the Committee on 
+Climate Change and mandated under the 
+Climate Change Scotland Act, 2019). 
+Partners are already working to Ore Valley 
+Housing 
+Association
+, other 
+social 
+housing 
+providers  Fife Council, 
+Scottish 
+Government  Resident
+ial 
+Buildings   Support All Yes Yes Yes  
+53 
+ significantly improve the energy efficiency 
+of their housing stock. For example, the 
+energy efficiency renewal works being 
+done by Ore Valley Housing Association 
+on their 675 domestic properties.  
+EE07 Work with 
+local partners 
+to improve 
+the energy 
+efficiency of 
+their property 
+portfolios  University of St Andrews will implement a 
+suite of energy efficiency projects (funded 
+through a revolving fund) to reduce the 
+carbon intensity of their property assets. 
+The emissions from these buildings 
+should be reduced to near-zero by 2045, 
+(in line with advice from the Committee on 
+Climate Change and mandated under the 
+Climate Change Scotland Act, 2019).  University 
+of St 
+Andrews  Fife Council, 
+Scottish 
+Government,  Municipa
+l 
+Buildings  Yes Direct Ground-
+work 
+(2020-22), 
+Scaling up 
+(2023-25), 
+Acceleratio
+n (2025-
+2040) Yes Yes Yes 
+EE08 Work with 
+partners to 
+develop 
+ambitious 
+targets for 
+energy 
+efficiency for 
+existing 
+buildings  Work with Scottish Government and local 
+partners to develop new, ambitious 
+targets to address the low levels of 
+energy efficiency and carbon-intensive 
+heating that are a feature of Fife’s older 
+housing stock, and rural off-gas network 
+properties, most of which are in private-
+ownership, private-rented or mixed-tenure 
+ownership. Decarbonising these 
+properties will lead to considerable social, 
+health and wellbeing and economic co-
+benefits and help to deliver the goals of 
+the Plan for Fife. HEEPS: ABS needs to 
+be reconfigured to deliver net zero 
+buildings.  Fife 
+Council Scottish 
+Government, 
+Housing 
+Associations, 
+private sector 
+housing 
+providers 
+(landlords 
+and lettings 
+agencies),  Resident
+ial 
+Buildings
+, 
+Municipa
+l 
+Buildings
+, 
+Tertiary,  Direct, 
+policy, 
+support Scaling up 
+(2023-25), 
+Acceleratio
+n (2025-
+2040) Yes Yes Yes 
+EE09 Lobby 
+government 
+for additional 
+funding for 
+energy 
+efficiency 
+projects for Fife Council has already achieved nearly 
+all of the most obvious energy efficiency 
+improvements for its own building stock, 
+but we are far from net zero. The energy 
+efficiency works which still need to be 
+undertaken are more complex, costly and 
+have longer payback periods; additional Fife 
+Council  Scottish 
+Government, 
+Other local 
+authority 
+partners,  Resident
+ial 
+Buildings
+, 
+Municipa
+l 
+BuildingsYes Direct Ground-
+work 
+(2020-22), 
+Scaling-up 
+(2023-25)  Yes Yes Yes  
+54 
+ public and 
+private sector  revenue will be needed from Central 
+Government to ensure built assets can be 
+decarbonised in line with national targets.  
+There needs to be more support in 
+particular for the private rented sector and 
+owner occupiers to tackle those not 
+persuaded by the limited grants/ loans 
+currently available.  , 
+Tertiary, 
+EE10 Lobby 
+government 
+for stronger 
+national 
+policy on zero 
+carbon 
+buildings in 
+Building 
+Standards. Fife Council recognises that the 
+technologies with which to build zero 
+carbon buildings are already established 
+and in regular use in other parts of the 
+world (. Furthermore, with over 160,000 
+homes in Fife today all of which will need 
+retrofitting to achieve net zero standards 
+between now and 2040, every new 
+building built today that is not zero carbon 
+will add to the retrofit challenge. Given, it 
+is much more expensive to retrofit these 
+technologies to existing buildings; Fife 
+Council will work with other local 
+authorities to lobby Scottish Government 
+and SEPA to fast-track zero carbon 
+design into building standards as soon as 
+possible.  Fife 
+Council Scottish 
+Government, 
+Other local 
+authority 
+partners Resident
+ial 
+Buildings
+, 
+Municipa
+l 
+Buildings
+, 
+Tertiary, Yes Policy Ground-
+work 
+(2020-22), Yes Yes Yes 
+EE11 Optimise 
+technical 
+solutions and 
+share best 
+practice Affordable Housing Programme, and 
+Property Services to engage with 
+technical providers (including private 
+developers) to identify opportunities and 
+challenges, cost differentials vs savings, 
+process or management requirements to 
+ensure the optimum technical solutions 
+are applied to new builds, and that 
+expected benefits are realised. Fife 
+Council Private 
+developers, 
+housing 
+associations, 
+commercial 
+property 
+management 
+companies, 
+Scottish 
+Government, 
+other Local 
+Authority Resident
+ial 
+Buildings
+, 
+Municipa
+l 
+Buildings
+, 
+Tertiary, Yes  Support Ground-
+work 
+(2020-22), Yes Yes Yes  
+55 
+ partners, 
+other 
+Community 
+Planning 
+partners 
+EE12 Rationalisatio
+n and asset-
+sharing In partnership with the community, Fife 
+Council will develop an asset 
+rationalisation strategy which considers 
+duplicated provision in communities 
+balanced against need to minimise undue 
+travel burden for facilities users (which 
+also has carbon implications). Fife 
+Council Community 
+Councils, 
+Councillors, 
+Community 
+groups  Municipa
+l 
+buildings
+, 
+Tertiary, Yes Policy and 
+direct Ground-
+work 
+(2020-22), 
+Scaling-up 
+(2023-25) Yes Yes Yes 
+EE13 Salary 
+sacrifice / 
+inducements Fife Council is the largest employer in Fife 
+and encouraging Council employees to 
+reduce their carbon intensity could have a 
+major impact on Fife-wide emissions. 
+Review Fife Council salary sacrifice 
+scheme to assess if it can be used to 
+support the uptake of energy efficiency, 
+low emission vehicle or renewable energy 
+measures by staff. Linking to existing 
+loans for energy efficiency from the EST, 
+Scottish Government etc Fife 
+Council Energy 
+Saving Trust, 
+Scottish 
+Government Resident
+ial 
+buildings
+, private 
+transport Yes Support Ground-
+work 
+(2020-22), Yes  Yes 
+ 
+ 
+ 
+ 
+ 
+56 
+ ID Task Description  Lead Partners BEI 
+sector 12 
+month 
+action? Activity 
+type Phase Alignment with vision  
+  
+   
+LC01a Implement 
+Fife Council’s 
+Carbon 
+Management 
+Plan (CMP)  No new fossil fuel heating systems can be 
+installed in Fife Council new builds from 
+2024. Business cases for developments 
+before 2024 should consider whole life 
+costs including the replacement of fossil 
+fuel heating systems beyond 2024.  If 
+business cases demonstrate that it is 
+unavoidable to install a fossil fuel heating 
+system between 2020-24 then designs 
+must demonstrate ability to be retrofitted 
+with low carbon alternatives as soon as 
+practicably feasible, and the cost 
+implications.  Fife 
+Council  Municipal 
+Buildings  Yes Direct Ground-
+work 
+(2020-22)  Yes Yes Yes 
+LC01b Council new builds and renovations to 
+include low carbon heat or electricity 
+generation where practicably possible. 
+Business cases for developments before 
+2024 should consider whole life costs 
+including the replacement of fossil fuel 
+heating systems beyond 2024. If business 
+cases demonstrate that installing 
+renewable heat or electricity generation is 
+not possible between 2020-24 then 
+designs must demonstrate ability to be 
+retrofitted post 2024 and the cost 
+implications of delaying installation.  Fife 
+Council Scottish 
+Government  Municipal 
+Buildings  Yes Direct Ground-
+work 
+(2020-22)  Yes Yes Yes 
+LC01c Monitor low carbon technology prices and 
+look to incorporate low carbon generation Fife 
+Council  Municipal 
+Buildings,  Direct All Yes Yes Yes 
+ 
+57 
+ technologies (both heat and power) onto 
+Fife Council built assets as soon as 
+financially viable.  Residenti
+al 
+Buildings  
+LC02 Implement 
+the Climate 
+Change 
+(Scotland) 
+2019 Act  No new fossil fuel heating systems in any 
+newbuilds within Fife by 2024 in 
+compliance with the new Climate Change 
+Act and updates to Building Standards.  Fife 
+Council Scottish 
+Government, 
+local utilities, 
+housing 
+developers, 
+the building 
+industry All 
+buildings   Direct, 
+support, 
+policy Scaling-
+up (2023-
+25) Yes - Yes 
+LC03 Review 
+existing Fife 
+Council policy 
+and plans to 
+enable low 
+carbon 
+development  Prepare for the next revision of, and 
+periodically review and update the Local 
+Development Plan thereafter, to support 
+and enable low carbon development.  Fife 
+Council Scottish 
+Government  All Yes Policy  Ground-
+work 
+(2020-22)  Yes Yes Yes 
+LC04 Promote and 
+install low 
+carbon 
+technologies 
+across Fife’s 
+housing stock  Support partners seeking to develop local 
+low carbon energy and heat generation 
+for housing. For example, the Ore valley 
+500kw wind turbine & 12kW of Solar PV  Ore Valley 
+Housing 
+Association  Community 
+groups  Domestic  Yes Direct Ground-
+work 
+(2020-22)  Yes Yes Yes 
+LC05 Develop a 
+land strategy 
+to manage 
+Council land 
+assets as a 
+resource in 
+tackling 
+climate 
+change, to 
+produce low 
+carbon 
+energy and to Fife Council will develop a coordinated 
+land strategy to manage Fife Council land 
+assets in a way that will best respond to 
+the climate emergency; which recognises 
+the many different and sometimes 
+conflicting demands for Fife’s limited land 
+resource. This should consider a whole 
+system approach to land use; encourage 
+multiple simultaneous uses and the siting 
+of activities on the most appropriate land. 
+This will include using Fife Council owned 
+land to produce renewable energy, timber Fife 
+Council Various other 
+stakeholders 
+including 
+SNH, 
+Forestry 
+Commission 
+Scotland, 
+Scottish Land 
+Trust, 
+Community 
+groups  All Yes Policy Ground-
+work 
+(2020-22) Yes Yes Yes  
+58 
+ balance this 
+against other 
+land use 
+needs wood fuel, biomass fuel, reduce flood risk, 
+encourage active travel, reduce food 
+miles, absorb carbon by tree planting etc. 
+The land strategy should also consider 
+the renewable energy potential of water 
+bodies and coastline and investigate more 
+dynamic and pro-active use of vacant and 
+derelict land to deliver local, low carbon 
+energy.  
+LC06 Support 
+partners 
+seeking to 
+develop local 
+low carbon 
+energy and 
+heat 
+generation for 
+non-domestic 
+purposes.  Support other public bodies in 
+investigating the feasibility of low carbon 
+energy and heat generation and support 
+their installation where appropriate. 
+Explore collaboration opportunities i.e. 
+University of St Andrews extending solar 
+PV deployment on campus; Scottish 
+Water’s extensive deployment of solar PV 
+onto waste water and water treatment 
+facilities across Fife is leading the 
+development of public sector renewables. 
+Scottish Water are also investigating the 
+use of waste heat for heating purposes.  University 
+of St 
+Andrews,  
+Scottish 
+Water Fife Council Municipal   Direct Scaling 
+up (2023-
+25) Yes Yes Yes 
+LC07 Lobby 
+government 
+for additional 
+funding for 
+renewable 
+energy and 
+heat projects  Fife Council has already installed many 
+renewable energy and biomass heat 
+installations meaning that the most 
+economical opportunities have already 
+been exploited (by and large). The low 
+carbon energy and heat projects which 
+still need to be undertaken are more 
+complex, costly and have longer payback 
+periods; which means that the capital 
+funds available are often insufficient. 
+Additional revenue will be needed from 
+Central Government to ensure that we 
+can decarbonise our built assets in line 
+with national targets.  Fife 
+Council  Scottish 
+Government, 
+Other local 
+authority 
+partners,  Residenti
+al 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary,  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes  
+59 
+ LC08 Work with 
+local 
+communities 
+to develop 
+low carbon 
+energy and 
+heat 
+generation 
+projects 
+seeking to 
+install 
+renewables 
+on public 
+sector 
+buildings and 
+land and land 
+held in 
+common 
+good Work with communities to secure funding 
+for low carbon energy and heat 
+generation developments. Implement 
+projects to establish local, community-
+owned (or part-owned), renewables 
+including PV cooperatives, small scale 
+hydro etc. Work in cooperation with other 
+agencies. This should include exploring 
+options for low carbon technologies in 
+conservation areas and for how to use the 
+energy generated to reduce fuel poverty 
+and best respond to local economic and 
+social needs.  Fife 
+Environme
+ntal 
+Partnership  FCCAN and 
+other 
+Community 
+groups, third 
+sector, 
+housing 
+associations Residenti
+al 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary,  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+LC09 Partnership 
+working to 
+develop wider 
+and 
+innovative 
+renewable 
+energy and 
+heat schemes 
+with regional 
+partners Fife Council will seek partners to facilitate 
+larger scale low carbon generation in Fife 
+such as larger solar farms, low carbon 
+district heating and heat pump schemes 
+and other large-scale renewable energy 
+and heat generation opportunities that 
+may be too large for community groups to 
+want to run. Other opportunities which will 
+be investigated include working with the 
+University of St Andrew’s and other 
+partners to explore the geothermal 
+potential of the Scottish Midland Valley 
+Hot Saline Aquifer which lies beneath 
+parts of Fife and the Firth of Forth which 
+could provide a low carbon heat source, 
+and which could be tied into planned 
+regeneration initiatives such as 
+Levenmouth Reconnected. Fife Council 
+will liaise in initial steps with University of Fife 
+Council Other local 
+authorities, 
+private 
+developers, 
+other public 
+sector 
+bodies, large 
+landowners Residenti
+al 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary,  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes  
+60 
+ St Andrews on this opportunity. We will 
+also approach other local authorities to 
+explore a more regional approach to 
+sustainable energy and heat opportunities 
+(such via the Tayplan and SESPlan). This 
+should investigate joint developments and 
+revenue sharing.  
+LC10 Provide 
+education 
+and support 
+for using new 
+low carbon 
+technologies Fife Council will provide support (directly, 
+and via community and third sector 
+partners) to local people and businesses 
+in how to use low carbon technologies 
+such as heat pumps, EV, hybrid vehicles 
+etc to maximise the efficiency of these 
+technologies and to increase user 
+satisfaction. Education will be provided at 
+schools, tenant briefings, community 
+events, online etc.  Fife 
+Council Community 
+groups, third 
+sector, 
+housing 
+associations Residenti
+al 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary,  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+LC11 Map Fife to 
+identify low 
+carbon 
+generation 
+potential An audit and map of Fife is required to 
+show where the opportunities for low 
+carbon energy are to direct action. This 
+will build upon the existing heat map and 
+should include renewable heat and 
+electricity generation sources and 
+opportunities to capture waste heat from 
+existing operations and processes and 
+use this as a low carbon heat source. 
+Scottish Water Horizons heat from sewers 
+for example. This map should also include 
+geothermal potential. Fife 
+Environme
+ntal 
+Partnership  Residenti
+al 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary,  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+LC12 PV 
+generation 
+linked to 
+parking and 
+potentially, 
+EV charging. Review successful schemes in other 
+areas (Stirling / Falkirk) for PV linked to 
+car parking. Fife 
+Council Other local 
+authority 
+partners All 
+buildings, 
+Private 
+and 
+commerci
+al 
+transport,  Policy Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes  
+61 
+ LC13 Housing 
+Services to 
+plan for 
+transition to 
+low carbon 
+heating Use Housing Annual Plan to build in 
+transition to alternative heat source. 
+(SHIP) A strategic direction for alternative 
+low carbon heat required from Scottish 
+Government which can then be adopted 
+by the annual strategic housing Plan – 
+SHIP. Fife 
+Council Scottish 
+Government Municipal 
+Buildings, 
+Residenti
+al 
+Buildings  Direct Ground-
+work 
+(2020-
+22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID Action Description  Lead Partners BEI sector  12-
+month 
+action? Activity 
+type Phase Alignment with 
+vision 
+ 
+62 
+  
+  
+MST01 Review 
+existing Fife 
+Council policy 
+and plans to 
+support district 
+heating and 
+other local 
+energy 
+networks  Periodically review and update the Local 
+Development Plan to support and enable 
+innovative energy solutions which support a 
+whole energy systems approach, and which 
+encourage more efficient movement, storage 
+and transformation of energy.  Fife Council  Scottish 
+Government  All 
+buildings, 
+Industry, 
+Tertiary, 
+local heat 
+production, 
+local 
+energy 
+production   Policy Ground work 
+(2020-22), 
+Scaling up 
+(2023-25), 
+Acceleration 
+(2025-40)  Yes Yes Yes 
+MST02 Collaborative 
+working to 
+create local 
+energy 
+networks 
+through 
+projects. 
+Introduce 2 
+workstreams 
+for projects: 
+Available 
+Technology 
+and Innovation 
+to run in 
+parallel. Work with public sector, utility supply 
+companies and other businesses to drive the 
+energy transition and support the 
+development of projects that drive forward 
+the development of smart grids, hydrogen 
+fuel networks etc such as the WESLID 
+project. The aim is to deliver the biggest 
+emission reductions for the lowest cost; 
+which will require mostly utilising available 
+technology in the early years (i.e. 
+technologies which are market ready, 
+proven, etc will be quicker to roll out). Focus 
+on replicable approaches, ideally scaled up 
+from pilots, with consideration for how to 
+scale across all Fife or in partnership across 
+Scotland. 
+Develop a parallel programme of innovation 
+where this links to local opportunity in Fife. 
+Expectation that this will be smaller scale. 
+Look to scale-up mirroring the available 
+technology programme’s approach.  SGN, 
+SPEN etc,  Fife Council, 
+FCCAN, 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven & 
+Methil, St 
+Andrew’s 
+Environment
+al Network, 
+Sustainable 
+Cupar, All  Direct, 
+support 
+and 
+policy Ground work 
+(2020-22), 
+Scaling up 
+(2023-25), 
+Acceleration 
+(2025-40)  Yes Yes Yes 
+MST03 Implement 
+Carbon Investigate opportunities to grow and develop 
+existing energy networks, such as: 
+Glenrothes Energy Network; University of St Fife Council  University of 
+St Andrews  Domestic, 
+Tertiary Yes Direct, 
+support All Yes Yes Yes 
+ 
+63 
+ Management 
+Plan (CMP)  Andrews network within current and future 
+iterations of the CMP. This should include the 
+investigation of geothermal potential.  and 
+policy 
+MST04 Support 
+mandatory 
+inclusion of 
+district heating 
+into national 
+building 
+standards via 
+a phased 
+approach  Alongside other Scottish Local Authorities, 
+Fife Council will support calls for the 
+mandatory inclusion of district heating 
+systems, where feasible in all major new 
+housing developments and renewal projects 
+as part of national building standards. 
+Options which allow the distribution of cool in 
+the summer should be prioritised in the 
+forthcoming update of Building Standards to 
+address future climate change.  Fife Council  Other 
+Scottish 
+Local 
+Authorities, 
+Scottish 
+Government  Residential 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary, 
+local heat 
+production,   Support Scaling up 
+(2023-25), 
+Acceleration 
+(2025-2040)  Yes Yes Yes 
+MST05 Seek 
+measures to 
+amend non-
+domestic rates 
+assessments 
+for district 
+heating Fife Council and partners will seek measures 
+by the Scottish Government to amend non-
+domestic heating rates assessments for 
+domestic district heating installations to 
+encourage the use of district heating in place 
+of standalone heating in new build and 
+refurbished homes (where densities and 
+building envelopes allow).  Fife Council  Scottish 
+Government  Residential 
+Buildings, 
+local heat 
+production, 
+local 
+electricity 
+production,   Support Ground-work 
+(2020-22), 
+Scaling up 
+(2023-25),  Yes Yes Yes 
+MST06 Explore 
+options to 
+build more 
+district heating 
+networks and 
+local energy 
+networks 
+within Fife  Continue to explore opportunities for district 
+energy (heating and cooling provision) for 
+Fife Council complexes. Strive to implement 
+these where technically feasible, which may 
+require innovative approaches to project 
+finance and payback periods  Fife Council  Scottish 
+Government, 
+Scottish 
+Futures 
+Trust, grant 
+funders, 
+community 
+groups  Residential 
+Buildings, 
+local heat 
+production, 
+local 
+electricity 
+production,   Support All  Yes Yes Yes 
+MST07 Develop 
+LHEES (Local 
+Heat and 
+Energy Develop strategic approach to energy 
+efficiency and decarbonised heating, within 
+the wider work to enable a whole energy 
+system, in line with anticipated legislative Fife Council  Community 
+groups such 
+as Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven & Residential 
+Buildings, 
+local heat 
+production, 
+local  Support Ground-work 
+(2020-22), 
+Scaling up 
+(2023-25),  Yes Yes Yes  
+64 
+ Efficiency 
+Strategy)  requirement to develop a Fife Local Heat and 
+Energy Efficiency Strategy.  Methil, 
+Sustainable 
+Cupar, St 
+Andrew’s 
+Environment
+al Network, electricity 
+production,  
+MST08 Lobby 
+government 
+for additional 
+funding for 
+local energy 
+and heat 
+networks  District heating and local energy network 
+projects are more complex, costly and have 
+longer payback periods than present capital 
+funding allows for when designing new 
+assets. Additional revenue will be needed 
+from Central Government to ensure 
+decarbonisation of built assets in line with 
+national targets and to allow local heat 
+networks to become sufficiently mainstream 
+that associated prices fall due to economies 
+of scale. Fife Council  Scottish 
+Government, 
+Other local 
+authority 
+partners,  Residential 
+Buildings, 
+Municipal 
+Buildings, 
+Tertiary, Yes Direct Ground-work 
+(2020-22), 
+Scaling-up 
+(2023-25)  Yes Yes Yes 
+MST09 Develop a 
+local energy 
+network 
+solution for  
+industrial 
+estates Develop a portal energy centre model for 
+industrial/commercial units as a foundation 
+for a wider industrial energy system, drawing 
+on local generation, energy storage and 
+supply, for both new and retrofit of existing 
+business clusters in Fife. This will include the 
+role of business energy use as a system 
+anchor. Timeline proposal [years]: 1-2 
+development, 2-5 pilot, learning from lessons 
+and scaling up, 5-10 roll out. Explore 
+industrial options around M90 Junction 3 as 
+an early greenfield pilot in conjunction with 
+the Shared Education Campus, the Strategic 
+Development Area, the Park & Choose and 
+the Council’s depot. Explore options around 
+Levenmouth as a brownfield field pilot. The 
+pilot outputs will include a case study for 
+business to enable replication.   Fife Council  Other local 
+authority 
+partners, City 
+Deal 
+partners,  Tertiary 
+(non-
+municipal) 
+buildings, 
+equipment/ 
+facilities 
+local heat 
+production, 
+local 
+electricity 
+production,  Direct, 
+support, 
+policy Ground-work 
+(2020-22), 
+Scaling-up 
+(2023-25) Yes Yes Yes  
+65 
+ MST10 Develop a 
+programme of 
+local energy & 
+climate 
+masterplans Develop a programme of a local masterplans 
+across Fife covering mitigation (energy and 
+sequestration) and adaptation actions linked 
+to local need. Approach to consider utilities 
+such as energy, water & sewerage, for a 
+wide range of need such as buildings and 
+transport.  This will build on the existing work 
+in Fife and will integrate into: 
+ Local Community Plans 
+ proposed Local Area Plans,  
+ LHEES, and 
+ Proposed Land Use Plan 
+This will include sector specific approaches 
+where needed, such as for Industrial estate 
+action plans building on the portal energy 
+centre approach. Masterplans will prioritise 
+options which deliver more than one Climate 
+Fife theme, such as generation and energy 
+storage or sequestration. 10 settlement plans 
+will be undertaken in the first 5 years. 
+ Fife Council  Other local 
+authority 
+partners, 
+consultancy, 
+academia, 
+Scottish 
+Government, 
+community 
+groups, 
+Community 
+Councils, 
+FCCAN, 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven & 
+Methil, 
+Sustainable 
+Cupar, St 
+Andrew’s 
+Environment
+al Network, All  Direct Ground-work 
+(2020-22), 
+Scaling-up 
+(2023-25) Yes Yes Yes 
+ 
+ 
+ 
+ 
+ID  Description  Lead Partners BEI sector  12-
+month 
+action? Activity 
+type Phase Alignment with 
+vision 
+ 
+66 
+   
+  
+ST01a Update and 
+implement Fife 
+Council’s 
+Local 
+Transportation 
+Strategy  Revise previous transport strategy, policy 
+and plans, as required, to deliver evolving 
+climate change and energy targets. The new 
+strategy will enforce Transport Scotland’s 
+sustainable transport hierarchy and will 
+include ambitious targets for modal shift with 
+associated delivery plans. To meet these 
+targets the new strategy will prioritise 
+pedestrians and cycling strategies over road 
+building schemes whilst encouraging low 
+carbon transport use.  Fife Council Key stake 
+holders Public 
+transport, 
+Private and 
+commercial 
+transport, 
+Municipal 
+vehicles  Policy Ground-
+work (2020-
+22) Yes Yes Yes 
+ST01b As part of the new strategy, Fife Council will 
+consider how to reduce the dominance of the 
+private car and how to make Fife more 
+appealing for active travel e.g. looking at 
+increasing pedestrianisation, incentivising car 
+sharing, rolling-out car clubs, reducing speed 
+limits on residential roads, implementing 
+workplace parking taxes, developing car-free 
+zones near locations attended by large 
+numbers of potentially vulnerable pedestrians 
+and further improving the public realm to 
+encourage active travel.  Fife Council  Key 
+stakeholders 
+including 
+community 
+groups  Public 
+transport, 
+Private and 
+commercial 
+transport, 
+Municipal 
+vehicles  Policy Ground-
+work (2020-
+22) Yes Yes Yes 
+ST01c Make innovation a core principle of the Local 
+Transportation Strategy; improving freight 
+modal choice, working with public transport 
+operators to increase access and 
+affordability, improve accessibility for all, and 
+the development of hydrogen and other 
+ULEV networks should be investigated and 
+actioned where feasible. Climate change 
+should inform the whole strategy.    Fife Council  Key 
+stakeholders, 
+local 
+transport 
+operators, 
+community 
+groups Public 
+transport, 
+Private and 
+commercial 
+transport, 
+Municipal 
+vehicles  Policy Ground-
+work (2020-
+22) Yes Yes Yes 
+ 
+67 
+ ST01d As part of the new strategy look at options for 
+reducing the environmental impact of freight 
+movements in Fife.  Fife Council  Online 
+retailers, 
+Sustrans and 
+key 
+stakeholders  Private and 
+commercial 
+transport   Policy, 
+direct 
+and 
+support Scaling-up 
+(2023-25), 
+and 
+Acceleratio
+n (2025-40)  Yes Yes Yes 
+ST02 Develop active 
+travel network  Continue, and where possible accelerate the 
+implementation of a programme of active 
+travel and network development for walking 
+and cycling. Where possible this will deliver 
+safe, high quality, segregated cycling arterial 
+routes. Greenspace is a key resource for 
+active travel and for increasing wellbeing and 
+uptake of active travel. It is important that 
+new developments are well connected to 
+active travel routes. To ensure that the next 
+generation grow up embracing active travel 
+continue to implement School Travel Plans, 
+with supporting initiatives, Bikeability, WOW 
+(Walk Once a Week), Park & Stride, etc  Fife Council  Sustrans, 
+Paths4all, 
+Cycling 
+Scotland, 
+Sustrans, 
+School PTA 
+and pupils 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven & 
+Methil, 
+Sustainable 
+Cupar, Public 
+transport  Yes Support All Yes Yes Yes 
+ST03 Develop EV 
+infrastructure  Continue and where possible, accelerate, the 
+phased approach to planning and 
+implementing EV charging facilities across 
+Fife. Note that the expansion of EV charging 
+facilities will have a consequential increase in 
+electricity consumption and careful 
+submetering will be required to manage this 
+energy. New locations where chargers could 
+be installed could be developed in 
+partnership with other organisations (for 
+example super market car parks so that EV 
+can charge as people shop)  Fife Council  Scottish 
+Government 
+(including 
+Switched on 
+Fleets) Private and 
+commercial 
+transport, 
+Municipal 
+vehicles,   Direct 
+and 
+support All Yes - Yes 
+ST04 Update the 
+Council Fleet 
+Plan to 
+decarbonise 
+Fife Council’s The latest programme of work for the 
+Scottish Government requires public sector 
+bodies to decarbonise their vehicle fleets 
+rapidly. Therefore, Fife Council’s fleet 
+management and replacement plan (2019-Fife Council  Other public 
+sector 
+partners  Municipal 
+vehicles  Direct 
+and 
+support Scaling-up 
+(2023-25), 
+and Yes - Yes  
+68 
+ own vehicle 
+fleet in line 
+with Climate 
+Change 
+Scotland Act  29) will be revised to reflect the new 
+requirement for public bodies to phase out 
+the need for any new petrol and diesel light 
+commercial vehicles by 2025 and for all 
+vehicles by 2030. This will involve exploring 
+the potential for further integrating electric 
+and hydrogen fuelled vehicles into the 
+Council fleet.  Acceleratio
+n (2025-40)  
+ST05 Support the 
+reinstatement 
+of the 
+Levenmouth 
+rail line, and 
+other viable 
+rail links that 
+have been 
+closed.  Fife Council will support the reopening of the 
+Levenmouth rail line. Detailed designs are 
+currently being drawn up for the Levenmouth 
+link, which will connect Leven to the Fife 
+Circle. It is estimated the project, which also 
+includes improved bus services, cycle and 
+walking facilities will be operational within five 
+years and will include new railway stations at 
+Leven and Cameron Bridge. Reopening the 
+line will connect an estimated 35,000 people 
+to the Scottish railway network and reduce 
+car dependence in Levenmouth and East 
+Neuk. Other rail links which have been 
+closed which could be investigated for future 
+reinstatement include the reopening of 
+Newburgh station, and the Dunfermline to 
+Alloa line.  Scottish 
+Government  Levenmouth 
+rail 
+campaign, 
+Network rail, 
+Fife Council  Public 
+transport, 
+Private and 
+commercial 
+vehicles Yes Support Scaling-up 
+(2023-25),  Yes Yes Yes 
+ST06 Support 
+national plans 
+to de-
+carbonise 
+railway rolling 
+stock Fife Council will work with the Scottish 
+Government and other partners to 
+decarbonise Scotland's passenger rail 
+services by 2035. Fife’s railway lines 
+currently use diesel rolling stock. Where 
+trains cannot be electrified, the Scottish 
+Government has committed to invest in 
+battery-powered trains and work with 
+developers of hydrogen fuel cell trains to 
+accelerate deployment in Scotland. Detailed 
+national timescales and actions for Scottish 
+Government, 
+Transport 
+Scotland, 
+Network Rail  Fife Council  Public 
+transport   Support Acceleratio
+n (2025-40)  Yes - -  
+69 
+ decarbonising rail services will be released in 
+spring 2020.  
+ST07 Improve the 
+fuel and 
+carbon 
+efficiency of 
+local private 
+sector and 
+public 
+transport fleets Continue to promote Eco Stars Fleet & Taxi 
+Recognition Scheme which offers advice on 
+best practice to fleet operators of goods 
+vehicles, taxis, buses and coaches to 
+improve efficiency and reduce fuel 
+consumption and associated emissions. 
+Promote the reduced operating costs of EV 
+and hybrid vehicles to private fleet operators 
+at points of contact (i.e. taxi fleets at 
+licensing).  Fife Council  Local 
+haulage, bus 
+and taxi 
+companies  Municipal 
+fleet, Public 
+transport, 
+Private and 
+Commercia
+l transport   Support 
+and 
+deliver Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25)  Yes - Yes 
+ST08 Tackle 
+problematic air 
+quality Implement actions from Fife Council’s two 
+existing Air Quality Management Areas to 
+improve air quality and unlock climate 
+change, emissions and health and wellbeing 
+co-benefits.  Fife Council  SEPA Municipal 
+fleet, Public 
+transport, 
+Private and 
+Commercia
+l transport   Deliver All Yes Yes Yes 
+ST09 Support fleet 
+operators to 
+comply with 
+the 
+requirements 
+of new Low 
+Emission 
+Zones in 
+Dundee, 
+Edinburgh, 
+Glasgow and 
+Aberdeen.  ECOstars to work with public transport and 
+commercial fleet operators to assist them in 
+adjusting to the new LEZ (low emission 
+zones) being rolled out in major cities across 
+Scotland between 2018-2020. Most relevant 
+to Fife vehicle operators are the new LEZ 
+zones in Dundee and Edinburgh.  Other local 
+authorities 
+(City of 
+Edinburgh, 
+Glasgow City 
+Council, 
+Dundee City 
+Council, 
+Aberdeen 
+City Council)  Local 
+haulage, bus 
+and taxi 
+companies  Municipal 
+fleet, Public 
+transport, 
+Private and 
+Commercia
+l transport   Support Ground-
+work (2020-
+22) Yes Yes Yes 
+ST10a Implement Fife 
+Council’s 
+Carbon New fleet vehicles be Ultra Low Emission 
+vehicles from 2030, and public sector fleets 
+need to decarbonise by 2025. Fife Council 
+will cease specifying and procuring 
+conventional combustion engine vehicles and Fife Council  Scottish 
+Government  Municipal 
+fleet Yes Direct Scaling-up 
+(2023-25), 
+Acceleratio
+n (2025-40)  Yes - Yes  
+70 
+ Management 
+Plan upskill the vehicle maintenance teams 
+accordingly. Fife Council has already begun 
+replacing current vehicle inventory with EVs 
+and hydrogen powered vehicles and this will 
+continue at pace to meet the 2025 target in 
+the Scottish Government’s programme of 
+work.  
+ST10b Investigate opportunities to reduce the 
+Council’s grey fleet and to encourage the 
+decarbonisation of staff vehicles. This could 
+be via a reinstatement of a leasing scheme or 
+other kind of partnership approach to 
+encourage employees to switch from Petrol / 
+Diesel cars to Hybrid or fully electric cars.  Fife Council  Fife Council 
+staff and 
+contractors  Public 
+transport, 
+Private and 
+commercial 
+transport  Yes Direct Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25)  Yes Yes Yes 
+ST11 Lobby 
+government 
+for additional 
+funding to 
+maintain new 
+transport 
+assets Permeable paving and path surfaces, and a 
+large-scale expansion of the cycle network 
+will lead to significant increases in the 
+maintenance demands put upon Councils. 
+Additional revenue will be needed from 
+Central Government to ensure that these vital 
+new assets are maintained. Fife Council will 
+lobby government for this resource as a 
+priority to ensure that travel within Fife can be 
+decarbonised in a timely manner and ensure 
+that we can continue to expand the active 
+travel network.  Fife Council  Scottish 
+Government, 
+Sustrans  Private and 
+commercial 
+transport  Yes Direct Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25)  Yes Yes Yes 
+ST12 Promote and 
+support low 
+emission 
+vehicle fleet 
+expansion and 
+charging 
+network 
+across Fife  Support partners across Fife to develop 
+electric vehicle charging infrastructure. For 
+example, Ore Valley Housing Association 
+and the expansion of their electric fleet 
+expansion and installation of chargers at 2 
+sites. Supporting local partners will help all 
+Fifers adapt to changes in the law whereby 
+fossil fuel internal combustion engine 
+vehicles will no longer be sold in Scotland 
+from 2032.  Scottish 
+Government,  Transport 
+Scotland, 
+Fife Council, 
+Ore Valley 
+Housing 
+Associatio,  
+other public 
+sector 
+partners Public 
+transport, 
+Private and 
+commercial 
+transport   Support Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25)  Yes - Yes  
+71 
+ ST13 Promote and 
+support green 
+travel 
+initiatives 
+within Fife 
+Council and 
+other major 
+employers 
+within Fife  Increase the use of mobile ICT and remote 
+working within Fife Council teams (reducing 
+the need to travel to base) and car and lift 
+sharing to reduce commuting miles and 
+associated emissions. University of 
+St Andrews  Fife Council  Public 
+transport, 
+Private and 
+commercial 
+transport   Support All Yes Yes Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ID Action Description  Lead Partners BEI 
+sector 12-month 
+action? Activity 
+type Phase Alignment with vision  
+  
+   
+ 
+72 
+ RE01 Implement 
+“Zero Waste 
+Fife” Fife’s 
+Resources 
+strategy and 
+action plan  Promote Zero Waste Scotland’s waste 
+reduction campaigns such as Love Food 
+Hate Waste  Fife Council  Zero Waste 
+Scotland, 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven & 
+Methil, 
+Sustainable 
+Cupar, St 
+Andrew’s 
+Environmental 
+Network,  Other  Support Groundwork 
+(2020-22)  Yes - Yes 
+RE02 Promote and facilitate reuse, including 
+running a reuse pilot at recycling centres.  Fife Council   Other  Support 
+and 
+direct Scaling-up 
+(2023-25),  Yes - Yes 
+RE03 Fife Council will promote and facilitate 
+recycling (for example by improving waste 
+stream monitoring and collection efficiencies 
+by piloting new technology).  FRS, Fife 
+Council Zero Waste 
+Scotland  Other  Direct All Yes - Yes 
+RE04 Replace landfill of waste with energy 
+recovery for residual waste  Fife Council   Other  Direct Acceleration 
+(2025-40)  Yes Yes - 
+RE05 Fife Environmental Partnership will work to 
+reduce single use plastic waste and support 
+public sector organisations in Fife to end 
+single use plastic consumption.  The use of 
+plastics in textiles has a significant negative 
+impact on ocean health because of the 
+discharge of textile microplastics from 
+washing machines. Fife Council will consider 
+how our procurement specifications can be 
+used to champion natural fibre use in textiles 
+and furniture.  Fife 
+Environmental 
+Partnership  Fife Council, 
+other 
+community 
+planning 
+partners, Zero 
+Waste 
+Scotland  Other  Support 
+and 
+direct Scaling-up 
+(2023-25), 
+Acceleration 
+(2025-40)  Yes - Yes  
+73 
+ RE06 Publish a 
+food strategy 
+for Fife Fife Environmental Partnership will work with 
+local stakeholders to produce a local food 
+strategy for Fife which will look at improving 
+the quality, health benefits, affordability, 
+access to and reduce the environmental 
+impacts of food consumed within Fife. Policy 
+options which could be considered include 
+making space for food growing a requirement 
+of new housing developments in the future to 
+help improve food security.  Promotion of 
+plant-based diet (or at least a focus on less 
+meat consumption). Promoting the health, 
+social and environmental benefits and 
+impacts on cutting meat/dairy. Presenting the 
+environmental benefits of local, grass fed 
+meat should also be included. 
+Other options include looking to improve the 
+sustainability of school meals and meals on 
+wheels (and all other catering provided by the 
+Council) in line with national policy direction 
+to use public procurement to tackle the 
+climate emergency. Engaging school children 
+on food production / consumption will also be 
+included in the strategy. Ultimately the aim 
+should be to switch to locally grown sources 
+for food in Council institutions, and to 
+introduce more allotments.  Fife 
+Environmental 
+Partnership,  Fife Council, 
+third sector, 
+community 
+groups, 
+FCCAN, 
+Nourish 
+Scotland, 
+Permaculture 
+Scotland  Other  Support 
+and 
+direct Scaling-up 
+(2023-25),  Yes Yes Yes 
+RE07 Include 
+waste in Fife 
+Council’s 
+carbon 
+footprint Fife Council will update its carbon footprint 
+calculation methodology from 2020 to include 
+waste and waste management. This will bring 
+Fife in line with foot-printing best practice.  Fife Council   Other Yes Direct Ground-
+work (2020-
+22) Yes Yes Yes 
+RE08 Include 
+water 
+consumption 
+in Fife Fife Council will update its carbon footprint 
+calculation methodology from 2020 to note 
+water consumption (this will have to be 
+carefully presented to avoid double counting Fife Council   Other Yes Direct Ground-
+work (2020-
+22) Yes Yes Yes  
+74 
+ Council’s 
+carbon 
+footprint with Scottish Water’s national footprint). 
+Closer monitoring and reporting of water 
+consumption is anticipated to lead to better 
+management and will increase Fife’s 
+resilience to climate change risks such as 
+water scarcity and will reduce the carbon 
+emissions associated with water pumping 
+and processing.  
+RE09 Investigate 
+increasing 
+plant-based 
+options for 
+Fife Council 
+catering.  
+ Fife Council Facilities Management will trial 
+meat free days at its facilities to promote 
+wellbeing and raise awareness that reducing 
+meat consumption is part of the range of 
+available climate mitigation options. Fife 
+Council Facilities Management will trial a 
+meat free school catering day and use this to 
+inform and guide plans.  Fife Council Fife Council, 
+NFU, Soil 
+Association, 
+Community 
+Groups, 
+Nourish 
+Scotland, 
+Permaculture 
+Scotland, Other Yes Direct, 
+policy Ground-
+work (2020-
+22) Yes Yes Yes 
+RE10 Promote the 
+use of 
+natural flood 
+management 
+techniques 
+to maximise 
+efficient 
+resource use 
+in Flood Risk 
+Management The partner approach under the Flood Risk 
+Management (Scotland) Act 2009 promotes 
+the use of natural resources over man made 
+solutions. This means finite resources are 
+used more efficiently than they would have 
+been in the past. This approach extends to 
+multiple benefits, for example a pond would 
+be bounded by natural structures as opposed 
+to concrete solutions, and that is could bring 
+an amenity benefit to the community over the 
+flood attenuation function. Moreover, natural 
+solutions have lower embodied carbon and, 
+in some cases, can become carbon sinks.  Fife Council Scottish 
+Water, 
+developers, 
+SEPA Other  Direct Ground-
+work (2020-
+22) Yes Yes  
+RE11 Develop 
+innovative 
+water 
+resource 
+management 
+solutions and Water resources need to be protected 
+through the development of innovative water 
+management solutions. This encompasses 
+both water excess, in terms of flooding, and 
+stress, in terms of drought. With the effects of 
+climate change becoming more pronounced Fife Council Scottish 
+Water, SEPA, 
+Scottish 
+Government, 
+academia, Other  Policy Ground-
+work (2020-
+22) Yes Yes   
+75 
+ update 
+Planning 
+Guidance 
+accordingly any flood mitigation solutions need to be 
+considered for their effects on water stress, 
+this is particularly applicable to feeding of 
+water supply reservoirs and agricultural 
+needs. Within Planning, this can include the 
+development of better grey water systems 
+and the stronger promotion of SuDS, 
+installation of water meters and water 
+efficient appliances and equipment within 
+new buildings. Some of this work can be 
+improved with closer working with third 
+parties such as SEPA, Scottish Water, 
+academia, developers and consultancy firms. developers, 
+consultancy 
+RE12 Development 
+/ adoption of 
+a LCA (life 
+cycle 
+assessment) 
+carbon 
+calculator to 
+be used as 
+part of 
+procurement 
+processes Public sector bodies’ procurement could be a 
+considerable opportunity for decarbonising 
+and reducing environmental impacts. When 
+procuring assets which have the potential to 
+have considerable embodied carbon or emit 
+considerable carbon emission during 
+transportation or their operating life – Fife 
+Council will endeavour to estimate these 
+emissions and for these high carbon 
+procurement categories ensure that the 
+embodied, transport and operating carbon 
+emissions are considered in the procurement 
+process and that low carbon options are 
+prioritised. Fife Council Academia, 
+consultancy Other  Policy, 
+direct Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25), Yes  Yes 
+RE13 Monitor 
+plastic 
+pollution Fife Council will support community groups 
+and regulators to monitor plastic pollution on 
+Fife’s land and coastline; and will provide 
+encouragement, support and publicity for 
+community beach clean-ups. Community 
+groups, SEPA Fife Council, 
+community 
+groups Other  Support Ground-
+work (2020-
+22), 
+Scaling-up 
+(2023-25),  Yes  
+  
+76 
+  
+ID Action  Description  Lead Partners BEI 
+sector 12-
+month 
+action? Activity 
+type Phase Alignment with vision  
+  
+   
+CS01 Review of 
+sequestration, 
+reforestation 
+and rewilding 
+options Fife Council will undertake an urgent review to 
+address the existing barriers to tree planting to 
+significantly increase the number of trees 
+within Fife over the next decade. The review 
+should consider urban street trees as well as 
+rural sites, and also identify vacant and 
+derelict land that would be suitable for 
+reforestation or other rewilding for use as a 
+carbon sink, low carbon biomass growing, 
+public open space and as part of a green 
+infrastructure / climate adaptation plan. The 
+plan will identify sensitive habitats and land to 
+be protected from degradation to prevent it 
+becoming a net emitter of greenhouse gases 
+(i.e. peatland soils, saltmarsh).  Fife 
+Council SNH, 
+Forestry 
+Commission 
+Scotland, 
+Woodland 
+Trust, 
+SEPA, 
+Scottish 
+Water Other Yes Policy Ground-
+work 
+(2020-22)  Yes Yes Yes 
+CS02 Develop a 
+land strategy 
+to manage 
+Council land 
+assets In response to Action CS01 Fife Council will 
+develop a land strategy (and costed plan) 
+which will include how to best to use land 
+resources to harness natural processes for 
+absorbing emissions. This action forms part of 
+Action LC05 above.   
+ Fife 
+Council SNH, 
+Forestry 
+Commission 
+Scotland, 
+SEPA, 
+Scottish 
+Water, 
+Scottish Other Yes Policy Ground-
+work 
+(2020-22)  Yes Yes Yes 
+ 
+77 
+ Government
+, community 
+groups, 
+charities and 
+other large 
+landowners 
+within Fife.  
+CS03 Woodland 
+and habitat 
+management  Implement a plan to sustainably manage  Fife 
+woodlands held in public or common good 
+ownership, including significant new woodland 
+creation to absorb carbon emissions. Carry 
+out any improvements as required to maintain 
+the integrity of woodland, peatlands and 
+saltmarsh to ensure that they continue to act 
+as carbon stores, and do not become emitters 
+of carbon dioxide because of habitat 
+degradation.  Fife Coast 
+and 
+Countrysid
+e Trust, 
+Fife 
+Council Forestry 
+Commission 
+Scotland, 
+SNH, 
+Woodland 
+Trust, 
+Scottish 
+Government  Other  Direct, 
+support All Yes Yes Yes 
+CS04 Support and 
+co-ordinate 
+Fife wide 
+carbon 
+sequestration 
+opportunities  In addition to developing a strategy for carbon 
+sequestration on Fife Council land, Fife 
+Council will help other community planning 
+partners including the University of St 
+Andrews to investigate their own opportunities 
+for carbon sequestration (for example 
+assessing the feasibility for flue gas capture). 
+Fife Council will seek to engage other major 
+landowners within Fife to encourage them to 
+use their land in a way which maximises 
+carbon storage. This will need to consider the 
+best carbon storage planting options for Fife; 
+how to incentivise landowners to protect 
+sensitive habitats; to rewild and reforest 
+appropriately; and how to encourage 
+“greening” as a house building requirement 
+and given that established trees are much 
+more effective at storing carbon than saplings, 
+this should consider how to prohibit or at least Fife 
+Council SNH, 
+Forestry 
+Commission
+, University 
+of St 
+Andrews, 
+Scottish 
+Water, 
+Woodland 
+Trust, 
+landowners, 
+developers 
+Scottish 
+Government
+, FCCAN, 
+community 
+groups, Other  Support All Yes Yes Yes  
+78 
+ minimise, the removal of existing woodland 
+and established trees for new development.  
+CS05 Lobby 
+government 
+for additional 
+funding and 
+specialist 
+technical 
+support for 
+carbon 
+sequestration 
+projects Carbon sequestration projects are a marked 
+departure from traditional local authority areas 
+of expertise. Many carbon sequestration 
+projects will be innovative and will require 
+piloting at scale. Additional revenue will be 
+needed from Central Government to allow 
+this. Fife 
+Council  Scottish 
+Government
+, Other local 
+authority 
+partners,  Other Yes Direct Ground-
+work 
+(2020-22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+CS06 Fife wide 
+carbon 
+sequestration 
+/ reforestation 
+with Fife 
+Actions under 
+the Flood Risk 
+Management 
+(Scotland) Act 
+2009 Fife Council have obligations under the Flood 
+Risk Management (Scotland) Act 2009 to 
+mitigate the effects of climate change on 
+flooding, the impacts of which are felt across 
+society and the environment. Any 
+sequestration / reforestation / rewilding 
+projects will report their findings to Structural 
+Services for consideration of impacts on 
+flooding, so that lessons can be learned. Fife 
+Council Scottish 
+Water, 
+SEPA, 
+developers, 
+Forestry 
+Commission 
+Scotland, 
+SNH, 
+Woodland 
+Trust, Other  Direct Ground-
+work 
+(2020-22), 
+Scaling-
+up (2023-
+25) Yes Yes Yes 
+CS07 Develop a 
+carbon 
+sequestration 
+communicatio
+n strategy Develop a communication strategy to increase 
+understanding of carbon storage and rewilding 
+– and highlight the environmental, social, soil 
+health, biodiversity, health/wellbeing, 
+economic, air quality and flood risk mitigation 
+benefits. Use more accessible language when 
+describing sequestration so people 
+understand it and aren’t put off by it – perhaps 
+use alternative terms such as “greening” or 
+“carbon store”. This could be linked to a 
+greening fund to encourage reforestation / 
+rewilding projects and a register of community 
+projects. This could include rewilding / 
+sequestration roadshows to support Fife 
+Environme
+nt 
+Partnershi
+p (FEP) Fife Council, 
+Forestry 
+Commission 
+Scotland, 
+SNH, 
+Woodland 
+Trust, 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven 
+& Methil, 
+Sustainable 
+Cupar, St Other  Yes Direct, 
+support Ground-
+work 
+(2020-22),  Yes Yes Yes  
+79 
+ community tree planting and local growing 
+initiatives. This action forms part of action 
+IC05 above. Andrew’s 
+Environment
+al Network, 
+ 
+ 
+ID Action  Description  Lead Partners BEI sector  12-month 
+action? Activit
+y type Phase Alignment with vision  
+ 
+   
+AD01 Produce and 
+maintain a 
+climate risk 
+register The Council and its community planning 
+partners will produce a formal climate risk 
+register incorporating the findings of the Risk 
+and Vulnerability Assessment undertaken by 
+Climate Fife.  Fife 
+Council Community 
+planning 
+partners, 
+Local 
+Resilience 
+Partnership, 
+Adaptation 
+Scotland  Other  Policy, 
+Direct Ground-
+work 
+(2020-22)  - Yes Yes 
+AD02 Produce a 
+detailed 
+climate 
+change 
+adaptation 
+action plan  This adaptation action plan is high level only, 
+the next step is to work with local partners to 
+identify priorities for adaptation action (using 
+the results of the RVA), and to develop and 
+implement adaptation projects to address 
+these risks.  Fife 
+Council SNH, SEPA, 
+Community 
+planning 
+partners, 
+Local 
+Resilience 
+Partnership, 
+Adaptation 
+Scotland, 
+FCCAN, Other Yes Policy, 
+Direct Ground-
+work 
+(2020-22)  - Yes Yes 
+ 
+80 
+ community 
+groups 
+AD03 Review of 
+sequestration, 
+reforestation 
+and rewilding 
+options and 
+their role in 
+adaptation  Fife Council will undertake an urgent review to 
+address the existing barriers to tree planting to 
+significantly increase the number of trees 
+within Fife over the next decade as 
+reforestation in the appropriate location is a 
+vital tool in reducing flood risk. The review 
+should also identify vacant and derelict land 
+that would be suitable for us as part of a green 
+infrastructure / climate adaptation plan. This 
+action is tied to CS07 above.  Fife 
+Council SNH, 
+Forestry 
+Commission 
+Scotland, 
+SEPA, 
+Scottish 
+Water Other Yes Policy Ground-
+work 
+(2020-22)  Yes Yes Yes 
+AD04 Develop a 
+land strategy 
+to manage 
+Council land 
+assets In response to Action CS01 Fife Council will 
+develop a land strategy (and costed plan) to 
+address how to manage Fife Council land 
+assets in a way that will best respond to the 
+climate emergency. This will include using Fife 
+Council owned land to adapt to climate 
+change and to ensure food security in the 
+future. This action is tied to action LC05 
+above.    Fife 
+Council SNH, 
+Forestry 
+Commission 
+Scotland, 
+SEPA, 
+Scottish 
+Water, 
+Scottish 
+Government
+, NUF, Soil 
+Association, 
+Nourish 
+Scotland, 
+Permacultur
+e Scotland, 
+community 
+groups, 
+charities and 
+other large 
+landowners 
+within Fife.  Other  Policy Ground-
+work 
+(2020-22)  Yes Yes Yes 
+AD05 Use risk-
+based Use best-practice risk-based approaches (i.e. 
+for adaptation, vulnerability, etc) rather than Fife 
+Council Academia, 
+Adaptation 
+Scotland,  Yes       
+81 
+ approach to 
+target action just SIMD to prioritise where adaptation action 
+is needed first. Local 
+Resilience 
+Partnership 
+AD06 Support and 
+co-ordinate 
+Fife wide 
+adaptation 
+opportunities  A strong and healthy community is essential 
+for resilience. Assist communities and 
+community planning partners to build their 
+own resilience to climate risks by supporting 
+adaptation, local food, allotments, community 
+energy, active travel, health and wellbeing and 
+community cohesion projects.  Third 
+sector, 
+community 
+groups Fife Council, 
+Local 
+Resilience 
+Partnership  All  
+Yes Support All - Yes Yes 
+AD07 Produce and 
+maintain an 
+asset register 
+of structures 
+that Fife 
+Council are 
+responsible 
+for which 
+perform a 
+flood defence 
+function (both 
+natural and 
+manmade) Work with SEPA under Section 19 (SEPA to 
+prepare maps of artificial structures and 
+natural features) and Fife Council obligations 
+under Section 60 (Flood Protection Schemes) 
+and Section 62 / 63 (Registers of flood 
+protection schemes) of the Flood Risk 
+Management (Scotland) Act 2009. All of which 
+consider ‘structures’ that perform a flood risk 
+function at a point in time but should include 
+the potential to be adapted to reflect the needs 
+into the future. Fife 
+Council SEPA Other  Direct 
+and 
+support All Yes Yes  
+AD08 Push for a 
+stronger 
+national and 
+local planning 
+position with 
+regards to 
+development 
+adjacent to / 
+on the current 
+functional 
+floodplain. Fife Council will work with other local 
+authorities to lobby Scottish Government and 
+SEPA to produce a more precautionary 
+approach to coastal flooding and the 
+functional floodplain recognising that sea level 
+rise could be more severe than currently 
+mapped and that awareness / acceptance of 
+the abandonment principle needs to be set 
+now.  Fife 
+Council SEPA, 
+Adaptation 
+Scotland, 
+Scottish 
+Government
+, other local 
+authorities Other Yes Policy Ground-
+work 
+(2020-22)  Yes   
+82 
+ AD09 Tree 
+assessments Due to stormier conditions the health and 
+structural integrity of trees along roads and 
+near to houses will need to be assessed more 
+frequently. As part of Street Tree and 
+Woodland strategies, Fife Council will 
+consider the most appropriate approach to 
+tree assessment in the light of climate change 
+impacts. This strategy will consider adaptation 
+and sequestration. For example, if Fife 
+Council owned trees are found to be unsafe 
+and need to be felled then appropriate 
+replanting would be recommended to ensure 
+that biodiversity and carbon storage losses 
+are minimised.  Fife 
+Council SNH, 
+Forestry 
+Commission 
+Scotland, 
+Woodland 
+Trust, 
+landowners Other  Direct Scaling-up 
+(2023-25)  Yes  
+AD10 Lobby 
+government to 
+update 
+Building 
+Standards to 
+increase 
+resilience Fife Council recognises that the review cycle 
+for Building Standards means that the current 
+regulations are based on assumptions about 
+weather and climate parameters that are now 
+out of date. Building Standards must be 
+updated to reflect the most recent science on 
+the likely impacts of climate change in terms 
+of wind loading, temperature and rainfall 
+extremes. They should be updated to 
+encourage the mainstreaming of adaptive 
+measures such as urban greening (green 
+roofs and walls), superinsulation, heavyweight 
+construction, passive design, grey and 
+rainwater recycling and considerable 
+increases in drainage capacity and ability to 
+withstand cloudburst events.  Fife 
+Council Other local 
+authorities, 
+Scottish 
+Government
+, 
+professional 
+bodies Other Yes Support Ground-
+work 
+(2020-22) Yes Yes Yes 
+AD11 Training and 
+development 
+sessions for 
+decision 
+makers on 
+local climate 
+risks and There is better understanding of climate 
+change mitigation (i.e. cutting emissions) than 
+climate change adaptation. It is vital that 
+decision makers increase their understanding 
+of climate risks and resilience building 
+solutions. Workshops should be held to upskill 
+decision makers and detailing the key risks by Fife 
+Council Community 
+Councils, 
+Adaptation 
+Scotland, 
+Transition Other Yes Support Ground-
+work 
+(2020-22) Yes Yes Yes  
+83 
+ appropriate 
+adaptation 
+options area committee, and by Council service (with 
+heads of service) with agreement on 
+appropriate solutions to reduce risks and 
+maximise opportunities.  network, 
+FCCAN 
+AD12 Community 
+resilience 
+building Fife communities will need to become more 
+resilient to the physical impacts of climate 
+change, but also potentially to food and 
+energy supply disruption in the future. Working 
+with partners Fife Council wants to understand 
+what are the key factors that impact on 
+vulnerability, and what factors are most 
+important in increasing resilience. Fife Council 
+will work with partners to consider existing 
+examples from Transition Towns etc.  Fife 
+Council will use tools from the Levenmouth 
+Adapts project, which were developed in 
+partnership with Adaptation Scotland, to 
+inform the Local Community Planning 
+process, ensuring adaptation is a 
+consideration in the plans. Fife 
+Council Community 
+Councils, 
+Adaptation 
+Scotland, 
+Transition 
+network, 
+FCCAN, 
+community 
+groups  Other Yes Support Ground-
+work 
+(2020-22) Yes Yes Yes 
+AD13 Food security 
+programme Fife Council will support local partners to 
+develop a food-related programme of local 
+projects to reduce Fife’s vulnerability to the 
+international food supply chain disruption 
+which is predicted to become more 
+commonplace because of climate change. 
+Projects within this theme of work should look 
+at local low carbon food supply options and 
+addressing food poverty vulnerability. We 
+need to make more land available for food 
+growing and more support for local 
+organisations and residents to make this 
+happen. 
+Projects under this programme should include 
+expanding allotment provision, community 
+gardens, food cooperatives, food banks, 
+community kitchens, reforestation using edible Community 
+groups 
+such as 
+FCCAN, 
+Greener 
+Kirkcaldy, 
+CLEAR 
+Buckhaven 
+& Methil, 
+St 
+Andrew’s 
+Environme
+ntal 
+Network, 
+Sustainabl
+e Cupar, Fife Council, 
+Community 
+Councils, 
+Adaptation 
+Scotland, 
+Transition 
+network, 
+Zero Waste 
+Scotland, 
+Soil 
+Association, 
+Permacultur
+e bodies, 
+Nourish 
+Scotland, 
+Permacultur
+e Scotland Other Yes Support 
+and 
+direct All Yes Yes Yes  
+84 
+ tree species, food-growing education projects 
+for all ages and should link to food waste 
+minimisation efforts being carried out as part 
+of the Zero Waste Fife and Love Food, Hate 
+Waste campaigns.  
+AD14 Displacement 
+programme Review climate change displacement risks 
+from long-term sea-level rise and other threats 
+to Fife’s available land, to review these risks, 
+and to actively manage land use with a view to 
+reducing the need for future displacement of 
+activity and population.  Fife 
+Council Community 
+Councils, 
+Adaptation 
+Scotland, 
+Transition 
+network, 
+FCCAN, 
+community 
+groups, Fife 
+Migrants 
+Forum Other  Direct All Yes Yes Yes 
+AD15 Use Fife’s 
+coast and 
+countryside 
+assets to 
+tackle climate 
+change Fife Coast and Countryside Trust will continue 
+to manage the Fife Coastal Path, Pilgrims 
+Way and other coast and countryside assets 
+for the benefit of Fifers and visitors in a way 
+which will help respond to the climate crisis 
+i.e. such as by including climate change 
+adaptation, sequestration and mitigation. This 
+action is tied to LC05 Fife Coast 
+and 
+Countrysid
+e Trust Fife Council, 
+SNH, SEPA, 
+FCCAN, 
+community 
+groups Other  Direct  All Yes Yes Yes 
+ 

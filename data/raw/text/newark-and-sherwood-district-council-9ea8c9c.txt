@@ -1,0 +1,662 @@
+Newark and Sherwood District Council 
+Climate Emergency Strategy
+September 2020Foreword 2
+Climate Emergency Declaration 3
+Purpose of Climate Emergency Strategy 4
+Newark & Sherwood District Council Carbon Footprint 6
+NSDC Climate Emergency Target 7
+Other carbon reduction opportunities 13
+Emissions from Council owned housing 16
+Emission Reduction Action Plan 18
+Link to broader Council policies & strategies 19
+Governance, Monitoring and Reporting 20
+Engagement 21
+Appendices 22ContentsForeword
+Introduction from Cllr David Lloyd, Leader of Newark and Sherwood District Council
+To be completedIntroduction from David Reilly, Director of Cities and Regions 
+at the Carbon Trust
+In June 2019, the UK Government committed to reducing the UK’s net 
+emissions of greenhouse gases by 100% relative to 1990 levels by 2050. 
+The public sector is key to delivering this ambition.
+There is a global movement of local authorities declaring climate emergencies. Declarations 
+have been made in over 20 countries, by local authorities representing around 290 million 
+people. By declaring a climate emergency, local authorities are acknowledging the need to 
+act on the causes and impacts of climate change. However, delivering on these declarations 
+requires robust and measurable change with support of a viable action plan to promote 
+transparency and accountability.
+The Carbon Trust is pleased to have partnered with Newark and Sherwood District Council on 
+its Climate Emergency Strategy and Emissions Reduction Action Plan. The Strategy will help 
+Newark and Sherwood Council become a carbon neutral organisation by 2035, delivering the 
+most efficient savings and driving a positive contribution to the environment, whilst working 
+with stakeholders and businesses to positively influence change in the District.  
+Newark and Sherwood District Council understands how important climate change is for our community.
+In the 2018 Resident Survey, 90% of respondents said it was important or very important to be able to live in a sustainable w ay.
+The Council has made significant progress in reducing its direct organisational emissions since first working with the Carbon Trust in 2011. The 
+Council's declaration of a climate emergency in 2019 has brought renewed focus to this work.
+The United Nations Intergovernmental Panel on Climate Change has warned that we have 10 years to make the necessary changes to limit a rise in 
+global temperatures to 1.5 °C. Failure to act will see a marked increase in sea levels and flooding, extreme and abrupt changes to weather patterns, crop
+failures, extinctions of plant and animal species and global economic disruption and crisis [1]. The increased frequency and intensity of weather events that 
+we have experienced locally highlight why this is such an important issue for Newark and Sherwood District Council to respond to. 
+At the 2018 Global Climate Talks in Poland, the UK along with over 200 nations agreed that action on climate change, with a m uch greater role strongly 
+implied for Local and Regional Authorities like Newark and Sherwood District Council, is necessary in assisting Governments t o achieve their carbon 
+reduction ambitions. In June 2019 the UK Government set a national target of achieving net zero emissions of greenhouse gases by2050.
+At Full Council in July 2019, Newark and Sherwood District Council declared a climate emergency. The following actions were recommended: 
+•Audit existing environmental practice within the Council
+•Establish data to determine the carbon footprint of Newark and Sherwood District Council
+•Consider the Council’s contribution to the district carbon footprint more widely
+•Engage with stakeholders
+All of the above actions have been brought together in this Climate Emergency Strategy to provide a robust and measurable way for the Council to take 
+action to reduce its operational carbon emissions, whilst driving change in the broader District. Climate Emergency Declaration
+[1]Intergovernmental Panel on Climate Change, Special Report –Global Warming of 1.5 °C, October 2018
+Purpose of the Climate Emergency Strategy
+Newark and Sherwood District Council provides a range of essential services across the 
+District. This Climate Emergency Strategy sets out the framework and roadmap for reducing 
+carbon emissions across the Council’s own operations in providing these services. The strategy 
+will include: 
+•The target that the Council is aiming to achieve
+•A shortlist of the carbon reduction projects that will be undertaken to reach this target
+•Additional actions the Council will take to reduce, eliminate or offset its own carbon 
+emissions
+•How progress will be monitored and reported on
+•How the Council will continue to engage and support others; individuals, businesses and 
+community organisations to drive broader action in the District.
+This strategy will be reviewed annually to enable new issues, challenges, opportunities and 
+solutions to be considered.
+This strategy uses a baseline year of 2018/19 to set targets and measure emissions reduction 
+from going forward. 2018/19 is the most recent available dataset, with the Council’s carbon 
+emissions measured at 2,165 tCO2e and. District emissions of 987,800 tCO2e
+During the  2018 -19 data collection period Newark and Sherwood Homes, a separate 
+company, provided housing management services on behalf of the Council. From 1 February 
+2020, housing has been reintegrated into the Council. Data collection and subsequent analysis 
+recognises the differences at the time of collection but looks forward to full integration.
+One tonne of CO2e (tCO2e) is the equivalent to the average emissions of one passenger on a 
+return -flight from Paris to New York or driving 6000 km in a diesel car.The Greenhouse Gas Protocol 
+The World Resources Institute Greenhouse Gas (GHG) protocol is the globally 
+accepted carbon accounting standard. The Council will take into account both  
+direct and indirect organisational emissions for its own operational estate:
+•Direct GHG emissions are emissions from sources that are owned or controlled 
+by the reporting entity.
+•Indirect GHG emissions are emissions that are a consequence of the activities of 
+the reporting entity, but occur at sources owned or controlled by another entity.
+•The GHG Protocol further categorises these direct and indirect organisational 
+emissions into three broad scope categories:
+•Scope 1: All direct GHG emissions.
+•Scope 2: Indirect GHG emissions from consumption of purchased electricity, 
+heat or steam.
+•Scope 3: Other indirect emissions, such as the extraction and production of 
+purchased materials and fuels, transport -related activities in vehicles not owned 
+or controlled by the reporting entity, electricity -related activities (e.g. 
+Transmission & Distribution losses) not covered in Scope 2, outsourced 
+activities, waste disposal, etc.
+GHG Protocol –Scope 1, 2 and 3 emissions (source GHG Protocol )
+Newark and Sherwood District Council Carbon Footprint
+Image source: https://www.wm -saunders.co.uk/castle -house -shortlisted -for-major -award/NSDC emissions broken down by source FY 18/19
+Newark and Sherwood District Council has set a target of becoming a carbon neutral 
+organisation by 2035.
+The target incorporates emissions sources that have good data availability, to allow for 
+consistent and accurate monitoring and reporting, and are within the Council’s sphere of 
+influence, allowing the Council to achieve reductions through actionable changes. This 
+includes1:
+•Energy consumption in the Council -operated buildings;
+•Fuel consumption in the Council’s fleet;
+•Disposal and treatment of waste generated by the Council (including water)
+The Carbon Trust measured the Council’s footprint from these emission sources, and for the 
+financial year 2018/19 was 2,165 tCO2e. It is the Council’s intention to reduce these emissions 
+as much as feasibly possible by 2035, and offset any residual emissions with good quality 
+offsets. Appendices A -C detail the methodology for calculating the footprint and the footprint 
+breakdown.
+To act as a comparator, the sources of carbon emissions from Newark and Sherwood District 
+has been calculated using data from the UK’s Greenhouse Gas Inventory. The Inventory 
+estimates the carbon dioxide emissions at local authority level across the UK. In 2018/19 the 
+total carbon footprint of the District was 987,800 tCO2e, comprised of petroleum products 
+(43%), gas (26%), electricity (16%), coal (8%) and manufactured fuels (7%).987,8002,165
+0 200,000 400,000 600,000 800,000 1,000,000 1,200,000Total District EmissionsNSDC EmissionsComparison of Newark District Emissions to NSDC Emissions for the 
+FY 18/19 (tCO2e)2,165
+tCO2e
+1Emission sources are often categorised by scopes, as defined by the World Resources Institute (WRI). The Council’s 
+target is entirely inclusive of scope 1 and 2, and includes some elements of scope 3 (disposal and treatment of waste)30%
+40%29%1%
+Electricity
+Fleet
+Gas
+Waste & WaterPriority project identification
+In order to understand the emissions reductions that could be achievable by 2035, ‘hotspot’ areas 
+have been identified. These are areas that offer the most potential for emissions reductions. The two 
+key hotspot areas for Newark and Sherwood District Council are:
+•Energy consumption in council -operated buildings
+•Fuel consumption in the Council’s fleet
+Through interviews with NSDC officers and independent analysis, the Carbon Trust has developed a 
+shortlist of priority projects that could be feasibly implemented in these areas. Implementation cost, 
+energy savings and carbon savings from these projects have been calculated, although more detailed 
+feasibility studies will be required before any project is taken forward. The following slides detail some 
+of these projects and the cumulative impact of how these projects will help the Council achieve carbon 
+neutrality by 2035.
+Although the focus has been on larger projects in the Council's hotspot areas, this is not a definite list 
+of all that is possible. The Council will continue to seek out project opportunities that achieve 
+emissions reductions alongside their primary benefits. Importantly, the Council will assess all projects 
+for their emission reduction potential, to ensure that at least they won't have an adverse impact on 
+the Council emissions.NSDC Climate Emergency Target
+‘A carbon neutral organisation 
+will measure its carbon 
+footprint, and develop and 
+implement a Carbon 
+Management Plan (including a 
+reduction target). Residual 
+emissions will then be offset by 
+high quality, certified carbon 
+credits.’    
+Carbon Trust definitionHotspot: Energy consumption from Council operated buildings
+Newark and Sherwood District Council own a range of buildings across the District. 
+Active4Today Ltd is the preferred operator of Newark and Sherwood District 
+Council leisure centres and sports development, including Newark Sports and 
+Fitness Centre, Dukeries Leisure Centre and Blidworth Leisure Centre.
+The Carbon Trust identified the top 10 buildings by their carbon emissions in the 
+Council’s 2018/19 carbon footprint (graph to the right) and considered a range of 
+emission reduction opportunities that could be applied to achieve the Council’s 
+2035 target.
+Electricity and gas consumption are the dominant emissions sources for all 
+buildings. Numerous measures can be put in place to reduce these emissions. 
+As the national grid decarbonises it is recommended that heat sources are 
+generally electrified where possible (through the installation of heat pumps). This 
+will help reduce gas consumption significantly and the emissions associated with 
+heating Council operated buildings.
+0 100 200 300 400 500 600 700 800 900LeisureCouncil buildingsPotential emissions from Council operated buildings in 2035
+Electricity [tCO2e] Gas [tCO2e]0 100 200 300 400 500 600 700
+Newark Sports and Fitness Centre
+Dukeries Leisure Centre
+Castle House
+Palace Theatre
+Brunel Drive Depot
+Newark Beacon
+National Civil War Centre
+Blidworth Leisure Centre
+Lorry Park Lighting
+Vicar Water Visitor Centre
+Lincoln Road Sports Pavillion
+Newark Lorry Drivers' Toilets and Service Area
+Sconce and Devon Park Management Building
+Car Park Lighting (London Road)
+Bridge Lighting PillarElectricity and gas consumption across NSDC operated buildings (tCO2e)  
+Electricity emissions [tCO2e] Gas emissions [tCO2e]
+Hotspot: Energy consumption from Council operated buildings
+Leisure Centres
+Emission reduction project opportunities were identified at Newark Sports & 
+Fitness Centre, Blidworth and Dukeries Leisure Centres. Measures included:
+Electrification of Heating
+•Installation of Ground Source Heat Pump at Newark, Air Source 
+Heat Pump at Lincoln Road Sports Pavilion 
+•Reduce reliance on gas
+•kWh savings: 1.3 million kWh
+•Lifetime CO2 savings: 3,100 tCO2e 
+Lighting Upgrades
+•Upgrade all old light fittings to new LED luminaires
+•Fully upgrade all buildings in the short term
+•kWh savings: 72,000
+•Lifetime CO2 saving: 72 tCO2e
+Solar PV
+•Install solar PV arrays across all viable roof spaces
+•Solar will offset increased electrical loads form electric 
+heating
+•kWh savings: 133,000 kWh
+•Potential CO2 reduction: 195 tCO2eCouncil Buildings
+Emission reduction project opportunities were identified across Castle House, 
+Palace Theatre, National Civil War Centre, Vicar Water Visitor House, Newark 
+Beacon, Lorry Park service area and Brunel Drive Depot. Measures included:
+Electrification of Heating
+•Installation of Air Source Heat Pumps at all sites
+•Reduce reliance on gas
+•kWh savings: 581,000 kWh
+•Lifetime CO2 savings: 2,005 tCO2e
+Lighting Upgrades
+•Upgrade all old light fittings to new LED luminaires
+•Fully upgrade all buildings in the short term
+•kWh savings: 59,000 kWh
+•Lifetime CO2 savings: 69 tCO2e
+Solar PV
+•Install solar PV arrays across all viable roof spaces
+•Solar will offset increased electrical loads form electric heating
+•kWh savings: 137,000 kWh
+•Lifetime CO2 savings: 187 tCO2e
+• Improvements to data monitoring. Implement a defined process for energy management and utility data collection moving forward. In order for the Council to ach ieve its 
+Carbon Neutral target it is vital that the year -on-year energy consumption of all assets is recorded appropriately. A digital Au tomatic Monitoring and Targeting ( aM&T ) 
+system should be employed, along with a dedicated job role to centrally manage this process.
+Hotspot: Fuel consumption in the Council’s fleet
+Emission Reduction project opportunities
+Using telematics systems
+•The Council has already introduced telematics systems across 
+all vehicles that are capable of providing information. The 
+Council should continue to use these systems to monitor the 
+efficiency of the fleet driving and introduce training if 
+improvements can be made.
+Detailed review of EV transition and installation of EV charging 
+infrastructure
+•The Council is actively carrying out fleet and depot reviews to 
+quantify carbon reduction and transitions to EVs across their 
+fleet of vehicles. This will allow the Council make the most 
+effective transition to a fully electric fleet.
+*The fleet operated by Newark and Sherwood District Council during the baseline FY 18/19 consisted of 64 
+vehicles. Updated information regarding the Council’s fleet of vehicles has been provided for the FY 19/20, 
+covering 131 vehicles. Information relating to vehicles for the FY 19/20 has subsequently been used to 
+quantify this opportunity. Fleet electrification
+•Full electrification of Council fleet vehicles is the most 
+effective way for the Council to decarbonise fleet vehicles and 
+should be implemented where possible. Alternative fuels may 
+be determined more suitable for some vehicles, but this will 
+reduce the carbon reductions achieved.
+•Annual carbon reduction of 554.37 tCO2*
+714
+77
+26
+12
+16
+5
+4
+30 100 200 300 400 500 600 700 800
+Refuse trucks or road sweepers (rigid size)
+Diesel van Average (up to 3.5 tonnes)
+Diesel HGV Rigid (>3.5 - 7.5 tonnes)
+Diesel van Class I (up to 1.305 tonnes)
+Gardening and Grounds Maintenance - diesel
+Average diesel car
+Industrial mobile machinery - gas oil
+Medium diesel car, from 1.7 to 2.0 litreEmissions ( tCO2e)Total Emissions from Council owned fleet vehicles FY18/19 (tCO2e
+0 100 200 300 400 500 600 700 800 900DieselElectricityModelled change in fleet emissions with full electrification by 2035
+2018 2035Analysis shows that the identified projects could reduce the Council’s emissions by 1,613 tCO2e by 2035.
+The pathway includes the expected decarbonisation of the national grid. (The carbon intensity of grid electricity is decreasi ng as the proportion of electricity generated from renewables 
+increases and conventional fossil -fuel power generation is phased out.) From an emissions perspective this increases the attract iveness of electricity as a fuel source and is a significant 
+contributor to the Council’s expected emissions reduction. Pathway to target 
+Key points in the pathway include:
+2020 / 2021 –LED rollout and Solar panel installation 
+2022 to 2029 –Transition fleet to electric vehicles, waste
+management improvements
+2029 / 2030 –Heat pump installation
+The two highest impact projects –fleet electrification and installation of a 
+GSHP at Newark Sports and Fitness Centre –both involve the displacement 
+of fossil fuel with electricity. Electrification will be critical for the Council to 
+achieve their decarbonisation target. 
+However, the electrification of the conventional technologies (e.g. vehicles, 
+gas boilers) often requires supplementary measures and infrastructure, and 
+should not be viewed as a like -for-like replacement. The Council will ensure 
+it’s aware of the requirements associated with electrification and plan a 
+strategy for its’ successful implementation across transport & heat. 05001,0001,5002,0002,500
+Leisure and recreation Fleet Council buildings BAU Waste & WaterPathway to 2035 carbon neutral target
+1613 
+tCO2e
+552 
+tCO2eThe scenario shows that NSDC will have approximately 552 tCO2e of residual emissions in 2035. This is a significant reduction on the baseline but 
+still represents a gap to the Council’s target. To close the gap further, the Council will:
+Implement best practice across the estate
+The scenario presented does not account for incremental progress in energy efficiency, building controls, and behavioural shi fts. NSDC will consider 
+a review of building management systems (BMS), end -of-life procurement guidelines, and employee engagement to optimise the use o f assets 
+under the Council’s control.  NSDC will ensure their climate emergency target is imbedded into broader Council policy and pro cesses, so that no 
+other activity is inadvertently having a detrimental effect on reaching the target.
+Additions to the estate
+Additions and/or changes to the estate will be captured in the Council’s reporting. If the Council is involved in any new bui ld projects, the energy 
+performance of the building will be a core component throughout the design, procurement, and construction phases of the proje ct.
+Offsetting
+Even under an extreme decarbonisation pathway, it is likely that NSDC will still have some residual emissions in 2035. It To address this the Council 
+will consider the formation of a robust offsetting strategy with high quality credits, to match these residual emissions. The exact level of offsetting 
+required by NSDC is still not clear and guidance is expected to progress between now and 2030. (The World Resource Institute and the Carbon Trust 
+are developing a new accounting standard for GHG removal, which is due for public comment in 2021). Therefore at this stage, theCouncil commits 
+to developing an offsetting strategy as the sector develops, including the principles of: 
+a. Reductions before offsetting. Offsetting should only be explored after efforts to achieve reductions within an organisation’s emission 
+boundary have been explored.
+b. Additionality. The reductions achieved should be additional to what would have happened in the absence of the project.Gap to targetEmission sources in the Scope 3 footprint: 
+•Council procured goods (e.g. paper) and services (e.g. construction contracts)
+•The energy consumption in leased buildings owned by the Council but operated 
+by a third party
+•Companies that the Council holds an equity investment in 
+•Employee commuting to work
+•The extraction, production, and transportation of fuel and energy consumed by 
+the Council
+•Disposal and treatment of waste generated by the Council (including water)
+•Emissions associated from business travelBusiness Travel
+6%
+Contracts
+32%
+Leased 
+Buildings
+47%Waste
+1%Water
+1%Commuting
+13%Other carbon reduction opportunities
+Newark and Sherwood District Council’s Indirect Emissions
+The Carbon Trust has identified other emissions that occur within the Council’s value chain, but are 
+outside of the Council’s direct control (called Scope 3). These emissions were a total of 866 tCO2 in 
+2018/19. 
+For many organisations the majority of their greenhouse gas (GHG) emissions lie outside their own 
+operations in their Scope 3. 
+Measuring Scope 3 emissions can allow organisations to: 
+•Assess where the emission hotspots are in their supply chain;
+•Engage suppliers and assist them to implement sustainability initiatives;
+•Improve the energy efficiency of the products they use;
+•Positively engage with employees to reduce emissions from business travel and 
+commuting.
+The indirect nature of Scope 3 emissions make primary data harder to obtain . Where actual data 
+is not available, benchmarks and/or proxies are often used to approximate emissions. Additionally, 
+as emission reductions are ultimately reliant on a third party, there are fewer direct actions that a 
+reporting organisation can take to reduce their indirect emissions.
+Due to the above factors, emissions have only been included in the Council’s target where the data 
+is robust and therefore an emission reduction can be demonstrated (waste and water). For other 
+emission sources in the Council’s Scope 3 actions have been identified to improve data collection 
+and measurement. These actions will be included in the Emissions Reduction Action Plan.866 
+tCO2eNewark and Sherwood District Council Scope 3 breakdownOther carbon reduction opportunities
+Leased buildings
+Leased buildings are buildings that are owned by Newark and Sherwood 
+District Council, but leased to and operated by a third party. Therefore NSDC 
+has less control over the emissions of these buildings.
+The total emissions from leased buildings contribute 408 tCO2e to the 
+Council’s carbon footprint. This calculation has been based on floor area, with 
+a proxy applied for the type of building to calculate emissions. Actual data 
+from leaseholders will give a much more accurate picture of the emissions 
+associated with these buildings.
+Data collection programme
+It is recommended that Newark and Sherwood District Council work with their 
+leaseholders to establish a data collection programme that will improve the 
+understanding of consumption on these sites. Through a programme of 
+engagement, they can then work with leaseholders to implement carbon 
+reduction measures. Primary measures should be:
+Building Fabric Upgrades LED Lighting Solar PV      
+Electrification of Heat                    Encourage uptake of green tariffs
+Contracts
+The emissions associated with all contracts totals 598 tCO2e, accounting 
+for 18% of total NSDC emissions.
+For the 2018/19 carbon footprint, all figures were calculated based on 
+the monetary value of the contract and an economic sector proxy.  
+Data collection programme
+It is recommended that Newark and Sherwood District Council work 
+with their suppliers to establish a data collection programme that will 
+improve the understanding of the emissions associated with the 
+different contract activities. If suppliers are required to disclose their 
+emissions to the Council, this will help propagate GHG emissions 
+throughout the supply chain.
+Collaboration with other Local Authorities and Agencies
+Newark and Sherwood District Council will also work with other local 
+authorities and agencies to identify policy areas where reductions may 
+be possible. For example, with planning.
+Other carbon reduction opportunities
+Business travel and Commuting
+Total business mileage and commuting emissions were estimated to be 
+156.6 tCO2e, approximately 4% of the Council’s total footprint.
+Opportunities to reduce the emissions associated with both these activities 
+largely evolves around reducing the total journeys and mileage being 
+completed by Council employees. The Covid -19 pandemic has started to 
+change working patterns and reduce commuting, through increased 
+remote working. Employee travel can be reduced through:Waste Management
+The waste generated by the Council’s buildings was 499 tonnes in 2018/19, 
+producing 10.6 tCO2e . Waste and water is included in the Council’s carbon 
+neutral target as the data available for these emissions is good. Progress 
+towards reducing emissions in waste and water will be tracked as part of 
+the progress against this target.
+Currently 76% of the Council’s waste by mass is incinerated. To reduce 
+emissions as a result of waste disposal, a waste management protocol 
+following the simple waste hierarchy of ‘Reduce, Reuse, Recycle’ should 
+continue to be implemented and a new target set beyond the Council’s 
+current strategy (2006 -2020). 
+Indicative reductions from improved waste management
+Current waste practice
+Total waste to incineration –499 tonnes
+Emissions produced –10.6 tCO2e
+If a 20% reduction was applied to landfill waste
+Total waste to incineration –399 tonnes (saving of 100 tonnes)
+Emissions produced –8.5 tCO2e (saving of 2.1 tCO2e)
+Remote 
+working
+Encouraging 
+public 
+transport
+Video 
+conferencingCar share 
+incentives
+Employee 
+engagement•Newark and Sherwood Homes (N&SH) was brought back into Council control in early 2020 –the same time at which work on this strat egy and data collection was being 
+undertaken. Whilst the emissions from Council owned housing were not included in the carbon neutral target, it is important t hatthese emissions are addressed as part of the 
+decarbonisation of the District.
+•The carbon emissions from the Council owned housing stock was a total of 17,130 tCO2e for 2018/19. This includes the emissions associated with gas and electricity consumption 
+across 5467 properties, alongside emissions associated with 67 vehicles, previously owned by Newark and Sherwood Homes.
+•81% of emissions from N&SH activities are associated with gas consumption across the housing stock. Over 5000 of the properties are currently connected to the gas grid .
+•As the Council seeks to reduce the emissions associated with the housing stock, it will be vital that sources of heat are electrified through the use of technologies such as 
+Ground/Air Source Heat Pumps, alongside other measures. The electrification of heat sources therefore plays a crucial role in the proposed decarbonisation strategy for housing. 
+2,207
+1,469
+1,440
+825
+638
+625
+566
+535
+530
+5200 500 1000 1500 2000 2500
+xiii) Bungalow (Trad + Non-Trad) On Gas A-C
+v) 1945-64 Large Terr House/Semi (>70m2) (Trad) On Gas A-C
+x) Post-1945 Low Rise <3 Storey (Trad + Non-Trad) On Gas A-C
+v) 1945-64 Large Terr House/Semi (>70m2) (Trad) On Gas D-G
+xi) Medium Rise 3-5 Storey (Trad + Non-Trad) On Gas A-C
+iii) All other Pre-1945 House (Trad) On Gas A-C
+x) Post-1945 Low Rise <3 Storey (Trad + Non-Trad) On Gas D-G
+viii) All House (Non-Trad) On Gas A-C
+iii) All other Pre-1945 House (Trad) On Gas D-G
+On Gas A-CTop 10 highest emitting Archetypes across Newark and Sherwood Homes 
+Gas emissions (tCO2e) Electricity emissions (tCO2e)
+Emissions from Council -owned housingPhasing of carbon reduction project opportunities*The Carbon Trust undertook analysis to show an 
+indicative pathway of how emissions from the 
+Council’s housing could be reduced if a range of 
+decarbonisation measures were rolled out to 2040. 
+Some dwellings are already fully powered by 
+renewables. Other measures included the installation 
+of Solar PV, installation of Heat Pumps, roll out of LED 
+lighting and double glazing and insulation.
+This indicative pathway shows how the current 
+housing could improve its energy efficiency and 
+heating.  A full feasibility study is required to assess 
+the financial implications. Actions to decarbonise the 
+housing stock will be included in the Emissions 
+Reduction Action Plan. 02,0004,0006,0008,00010,00012,00014,00016,00018,000
+2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040Indicative pathway for decarbonisation of NSDC housing stock, showing emissions by 
+asset type to 2040 [tCO2e]
+Leisure and recreation Fleet Council buildings Newark and Sherwood Homes BAUR14
+* Carbon reduction measures have been tailored to the current Archetypes present across N&SH. R1: Ambient Ground Loop Heat Pumps & EE measures
+R2: Ambient Ground Loop Heat Pumps & EE measures 
+R3: Individual ASHPs average size 5kW
+R4: Individual ASHPs average size 6kWR5: Individual ASHPs 8kW
+R6: Individual ASHPs average size 8kW
+R7: Package of insulation and glazing measures
+R8: Whole house deep retrofit to zero energy 
+standard
+R9:Package of insulation and glazing measuresR10: Shared ambient loop heat pumps
+R11: Individual ASHPs 6kW and EE measures
+R12: Individual ASHPs and EE measures
+R13: Whole house retrofit, ASHP, Solar PV and 
+Battery StorageR14: Shared ambient loop GSHP and EE 
+measuresR1,R2,R3,R4R5,R6,R7,R8,R9
+R10,R11,R12,R13
+2025 Implementation Year 2030 Implementation Year 2035 Implementation Year 2040 Implementation Year
+Emissions from Council -owned housingLinks to broader Council policies & strategies
+Strategy How this links to the Climate Emergency Strategy Recommendations to enhance action in the District & 
+ensuring alignment with this Strategy
+Newark & 
+Sherwood 
+Community Plan 
+2019 –2023The plan sets out what the Council intends to achieve over the 
+next four years to improve residents’ quality of life and enable 
+those who live, work and invest in Newark and Sherwood to 
+prosper and fulfil their potential. Includes actions for accelerating 
+the supply of new homes, improving transport infrastructure and 
+enhancing the District’s natural environment.A carbon emissions assessment of the activities set out 
+in the Community Plan would be helpful to understand 
+whether the activities are contributing to an increase of 
+carbon emissions in the District and drive low carbon 
+options to be considered for infrastructure and housing 
+construction. 
+Asset 
+Management 
+Strategy 
+2016 –2026The Asset Management Strategy highlights that the Council's 
+assets must be continually maintained to meet wider community 
+and environmental agendas. The plan aims to improve the 
+energy efficiency of homes, this includes where possible the 
+identification of opportunities to utilise renewable energy 
+sources and associated technology to reduce carbon emissions. The Asset Management Strategy should be aligned with 
+the emissions reductions required by the Council’s 
+target, in particular for Newark and Sherwood Homes. 
+More detailed work will be required to understand the 
+most cost effective carbon reduction opportunities for 
+N&SH housing stock.
+Newark & 
+Sherwood’s Local 
+Development 
+Framework 2019Sets the Local Development Framework for the District, including 
+the Core Strategy DPD, Site Allocations DPD and Wind Energy 
+SPD. Includes Core Policy 10 in relation to the District’s 
+commitment to tackling climate change.In line with the LDF review timescales, ensure policies 
+that drive the highest possible climate mitigation and 
+resilience for development across the District. 
+D2N2 Energy 
+Strategy 
+2019 –2030Sets a 2030 vision for the D2N2 LEP to be a national pioneer in 
+clean growth and test -bed for work class energy systems 
+innovation. The Council could work with the D2N2 LEP to identify 
+local businesses that could drive clean growth and pilot 
+local energy projects that would be well suited to the 
+Newark and Sherwood District.The Climate Emergency links to a range of other policies, strategies and initiatives that the Council has already implemented . 
+Some key links, and recommendations on how the strategies can be aligned are set out below: 
+http://www.d2n2lep.org/write/D2N2_Energy_Strategy.pdf
+Monitoring and Reporting
+•All of the actions detailed in this Strategy have been included in an Emissions Reduction Action Plan , with an assigned timeline and ownership. This includes 
+actions to meet the target, to progress the decarbonisation of Council owned housing and improvements required to data collec tion for indirect emissions.
+•The Council’s Carbon Footprint will be updated on an annual basis. Progress against the Emissions Reduction Action Plan monit ored regularly and reported to 
+the Policy and Finance Committee on an annual basis.
+•In addition to monitoring progress towards the target, officers will continually monitor how local plans and policies can sup port the ability of the Council to 
+reach their target.
+Governance
+•The Council’s Climate Emergency Working Group was established in July 2019 with elected member representatives (Chairs and Vice Chairs) from the Leisure 
+& Environment, Homes & Communities, Economic Development, and Policy & Finance committees to oversee the production of this S trategy.
+•The Council recognises the importance of having the correct oversight and organisational procedures in place to maintain a fo cuson carbon reduction over 
+time and manage the implementation of this Strategy. In order to embed this Strategy in Council activities, instead of mainta ining the separate CEWG, going 
+forward overall responsibility for the Climate Emergency Strategy and Emissions Reduction Action Plan will sit with the Polic y and Finance Committee, with 
+reporting to other Committees as required. 
+•Knowledge sharing and integration across internal council -led teams will be crucial to success , as will initiatives that can be driven forward by the residents, 
+organisations and businesses across the borough. 
+•To this end, the Council has created a new role of Environmental Policy and Project Officer to develop and implement environm ental working, with oversight 
+from the Director of Communities. This new role will also seek to engage with stakeholders.  A project team of officers has b een created to support the 
+creation of this strategy. The project team will be refocused to support the delivery of relevant actions. Governance, Monitoring and Reporting
+Newark and Sherwood District Council recognises that effective engagement with a range of different stakeholders from across the
+Council and District will be a key facilitator towards successful climate emergency strategy.
+Engagement to date
+Next steps
+In line with the Newark and Sherwood Community Plan objectives, the Council will: 
+Build on previous engagement undertaken across the Council, such as the “ Greener, Safer, Cleaner” and “ Greening Newark and 
+Sherwood” agendas, to develop an initial list of stakeholders to continually engage with.
+Complete internal in -depth stakeholder mapping exercise to identify, map and prioritise key stakeholders from across the Council . 
+This will ensure that key stakeholder needs are identified and understood with the relevant resources being targeted effectiv ely. 
+Develop the appropriate tools to accurately plan and track all stakeholder interaction and store stakeholder information.Engagement
+Selected 
+stakeholder 
+conversations 
+(Jan 2020)2019 Parish 
+Council 
+Conference 
+(Nov 2019)Creation of 
+project team, 
+CEWG and 
+green@work
+(c. Nov 2019)Plan agreed 
+to create 
+Strategy 
+(Sept 2019)Climate 
+Emergency 
+declared
+(Jul 2019)Resident 
+Survey 
+(Dec 2018)• In order to calculate a carbon footprint there are two primary inputs, the ‘activity’ 
+or volumetric data and the associated emission factor. Activity data is the 
+quantification of the action of the emission source, whether that be kWh of 
+electricity consumed or kilometres driven by a vehicle. The emission factor is the 
+metric of kg of CO2e produced by one unit of the associated activity. Emission 
+factors are provided for a range of activities by the department for business, 
+energy and industrial strategy (BEIS); these factors are updated annually where 
+required.
+• Numerous other activities are more abstract and require a proxy to either 
+transform the activity data in to a value that can be used with a BEIS emission 
+factor, or a proxy emission factor to use with the available activity data. An 
+example of the former would be using the floor area of a building as activity data, 
+then benchmark data of electricity consumed per m2 as a proxy and finally 
+combine this with the BEIS emission factors. Another example is to use contract 
+values (£) as activity data and a proxy economic based emission factor (in this 
+case EEIO)Appendix A –Calculating the carbon footprint
+Environmentally Extended Input Output
+•Environmentally Extended Input -Output (EEIO) factors use expenditure mapped to broad economic sectors to provide a proxy for car bon emissions. The methodology developed 
+by the World Resources Institute and Carbon Trust, allows for the calculation of emissions produced for over 19,000 specific goods and/or services, which are linked to 430 broad 
+economic sectors for which emission factors per pound (£) of expenditure are available.
+•It should be noted that EEIO values provide emissions for sector specific goods/services within broad economic sectors but no t for the exact individual goods/services. This means 
+that although being able to provide a broad, first iteration emission value; it is not exact –further analysis of the operation s of an individual goods/services are needed to 
+determine a more precise footprint. EEIO factors should only be used where first hand activity data is unavailable / difficul t to obtain. These factors have therefore only been used 
+for the councils procured goods and services . Figure X: Graphic detailing the general calculation methodology to arrive at 
+carbon emissionsScope Included Elements Excluded elements
+1
+Organisation vehicles
+2 Purchased electricity
+3 Business Travel Capital goods
+Waste & water 
+generated/supplied and disposed 
+of operationsUpstream transportation 
+and distribution
+Purchased goods and services Upstream leased assets
+Employee Commuting Franchises (downstream)
+Investments (downstream)Appendix B –Scope breakdown of NSDC carbon footprint
+Greenhouse Gas Protocol emissions included in carbon neutral target NSDC emissions footprint for 2018/19
+Source % of total Emissions [tCO2e]
+Electricity 30.4% 658.8
+Fleet 39.6% 856.7
+Gas 29.0% 628.0
+Waste 0.4% 10.7
+Water 0.4% 10.2
+Total 2164.5Appendix C –Scope breakdown of Newark and Sherwood District
+050100150200
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018Emissions (ktCO2)Domestic
+Emissions type Sum of Emissions (ktCO2)
+Bioenergy & Wastes 0
+Coal 78.2158
+Electricity 160.747
+Gas 257.9206
+Manufactured Fuels 69.4656
+Petroleum Products 421.4506
+Grand Total 987.7996Bioenergy & 
+Wastes
+0%Coal
+8%
+Electricity
+16%
+Gas
+26%Manufactured 
+Fuels
+7%Petroleum 
+Products
+43%Bioenergy & Wastes
+Coal
+Electricity
+Gas
+Manufactured Fuels
+Petroleum Products
+Change in District emissions from 2005 to 2018District emissions breakdown in 2018/19
+This analysis calculates the sources of carbon 
+emissions from residential and business across the 
+Newark and Sherwood District, using data from 
+the UK’s Greenhouse Gas Inventory. The 
+Inventory estimates the carbon dioxide emissions 
+at local authority level across the UK. 
+In 2018/19 the total carbon footprint of the 
+District was 987,800 tCO2e, comprised of 
+petroleum products (43%), gas (26%), electricity 
+(16%), coal (8%) and manufactured fuels (7%).Appendix D –Emissions Reduction Action Plan
+Please see the accompanying document. Whilst reasonable steps have been taken to ensure that the information contained within this publication is correct, 
+the authors, the Carbon Trust, its agents, contractors and sub -contractors give no warranty and make no 
+representation as to its accuracy and accept no liability for any errors or omissions. All trademarks, service marks and 
+logos in this publication, and copyright in it, are the property of the Carbon Trust (or its licensors). Nothing in this 
+publication shall be construed as granting any licence or right to use or reproduce any of the trademarks, services 
+marks, logos, copyright or any proprietary information in any way without the Carbon Trust’s prior written permission. 
+The Carbon Trust enforces infringements of its intellectual property rights to the full extent permitted by law.
+The Carbon Trust is a company limited by guarantee and registered in England and Wales under company number 
+4190230 with its registered office at 4th Floor Dorset House, Stamford Street, London SE1 9NT.
+Published in the UK: 2019.
+© The Carbon Trust 2019. All rights reserved. 
