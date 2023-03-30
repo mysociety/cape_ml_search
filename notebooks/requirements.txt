@@ -1,7 +1,0 @@
-###### Requirements without Version Specifiers ######
-
-mysoc_dataset
-spacy
-nltk
-sentence-transformers
-pytextrank
