@@ -1,0 +1,25 @@
+###### Requirements without Version Specifiers ######
+
+mysoc_dataset
+spacy
+nltk
+transformers
+sentence_transformers
+pytextrank
+tqdm
+textblob
+keybert
+keyphrase_vectorizers
+
+# clustering
+seaborn
+umap_learn
+hdbscan
+plotly
+bertopic
+
+# cleaning
+pyspellchecker
+
+# deployment
+pytest
